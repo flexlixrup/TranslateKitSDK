@@ -1,24 +1,31 @@
 // swift-tools-version: 6.0
-// The swift-tools-version declares the minimum version of Swift required to build this package.
-
 import PackageDescription
+import CompilerPluginSupport
 
 let package = Package(
-    name: "TranslateKit",
-    products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
-        .library(
-            name: "TranslateKit",
-            targets: ["TranslateKit"]),
-    ],
-    targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "TranslateKit"),
-        .testTarget(
-            name: "TranslateKitTests",
-            dependencies: ["TranslateKit"]
-        ),
-    ]
+   name: "TranslateKit",
+   platforms: [.macOS(.v13), .iOS(.v16), .tvOS(.v16), .watchOS(.v9), .macCatalyst(.v16)],
+   products: [.library(name: "TranslateKit", targets: ["TranslateKit"])],
+   dependencies: [
+      // being a good citizen: https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax
+      .package(url: "https://github.com/apple/swift-syntax.git", "600.0.0"..<"699.99.99"),
+      .package(url: "https://github.com/pointfreeco/swift-macro-testing.git", from: "0.5.2"),
+   ],
+   targets: [
+      .target(name: "TranslateKit", dependencies: ["TranslateKitMacros"]),
+      .macro(
+         name: "TranslateKitMacros",
+         dependencies: [
+            .product(name: "SwiftSyntaxMacros", package: "swift-syntax"),
+            .product(name: "SwiftCompilerPlugin", package: "swift-syntax"),
+         ]
+      ),
+      .testTarget(
+         name: "TranslateKitTests",
+         dependencies: [
+            "TranslateKit",
+            .product(name: "MacroTesting", package: "swift-macro-testing"),
+         ]
+      ),
+   ]
 )
