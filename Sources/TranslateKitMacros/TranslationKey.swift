@@ -7,7 +7,7 @@ import SwiftDiagnostics
 // TODO: implement semanticKey function & write more tests to always get a sensible key
 // TODO: test if String Catalog extractions still works with this approach
 
-public struct LocalizationMacro: ExpressionMacro {
+public struct TranslationKey: ExpressionMacro {
    /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")`
    public static func expansion(
       of node: some FreestandingMacroExpansionSyntax,
@@ -51,7 +51,7 @@ public struct LocalizationMacro: ExpressionMacro {
    /// ```swift
    /// struct MyView: View {
    ///    var body: some View {
-   ///       Button(#loc("Save Changes")) {
+   ///       Button(#tk("Save Changes")) {
    ///          self.handleSave()
    ///       }
    ///    }
@@ -65,8 +65,8 @@ public struct LocalizationMacro: ExpressionMacro {
    ///
    ///    var displayName: String {
    ///       switch self {
-   ///       case .movie: #loc("Movie")
-   ///       case .series: #loc("TV Show")
+   ///       case .movie: #tk("Movie")
+   ///       case .series: #tk("TV Show")
    ///       }
    ///    }
    /// }
@@ -93,5 +93,5 @@ enum MacroError: Error, CustomStringConvertible {
 
 @main
 struct TranslateKitPlugin: CompilerPlugin {
-   let providingMacros: [Macro.Type] = [LocalizationMacro.self]
+   let providingMacros: [Macro.Type] = [TranslationKey.self]
 }

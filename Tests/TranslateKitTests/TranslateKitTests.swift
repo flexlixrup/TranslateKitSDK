@@ -6,13 +6,13 @@ import TranslateKitMacros
 
 @Test
 func simpleViewButtonExpansion() {
-   assertMacro(["L": LocalizationMacro.self]) {
+   assertMacro(["tk": TranslationKey.self]) {
       """
       import SwiftUI
       
       struct MyView: View {
          var body: some View {
-            Button(#L("Save Changes")) { 
+            Button(#tk("Save Changes")) { 
                self.handleSave()
             }
          }
@@ -35,7 +35,7 @@ func simpleViewButtonExpansion() {
 
 @Test
 func simpleEnumPropertyExpansion() {
-   assertMacro(["L": LocalizationMacro.self]) {
+   assertMacro(["tk": TranslationKey.self]) {
       """
       enum MyModel: String, CaseIterable, Codable {
          case movie
@@ -43,8 +43,8 @@ func simpleEnumPropertyExpansion() {
 
          var displayName: String {
             switch self {
-            case .movie: #L("Movie")
-            case .series: #L("TV Show")
+            case .movie: #tk("Movie")
+            case .series: #tk("TV Show")
             }
          }
       }

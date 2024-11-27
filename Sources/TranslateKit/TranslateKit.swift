@@ -1,22 +1,21 @@
-import Foundation
-
-/// A localization macro that dynamically generates semantic keys based on the code context.
+/// A localization macro that dynamically generates translation keys based on the code context.
 ///
-/// The `loc(_:)` macro automatically constructs a meaningful localization key derived from the surrounding context, such as the type, property,
-/// or method in which it's used. This allows for precise and intuitive keys without manually specifying them, enhancing translation quality.
+/// The `#tk(_:)` macro automatically constructs a meaningful translation key derived from the surrounding context,
+/// such as the type, property, or method in which the text is used. This allows for precise and intuitive keys
+/// without manually specifying them, improving translation quality and consistency.
 ///
 /// ### Example Usage:
 /// #### View Example
 /// ```swift
 /// struct MyView: View {
 ///    var body: some View {
-///       Button(#loc("Save Changes")) {
+///       Button(#tk("Save Changes")) {
 ///          self.handleSave()
 ///       }
 ///    }
 /// }
 /// ```
-/// In this example, `#loc("Save Changes")` generates the key:
+/// In this example, `#tk("Save Changes")` generates the translation key:
 /// `MyView.body.Button.SaveChanges`.
 ///
 /// #### Model Example
@@ -27,8 +26,8 @@ import Foundation
 ///
 ///    var displayName: String {
 ///       switch self {
-///       case .movie: #loc("Movie")
-///       case .series: #loc("TV Show")
+///       case .movie: #tk("Movie")
+///       case .series: #tk("TV Show")
 ///       }
 ///    }
 /// }
@@ -38,11 +37,11 @@ import Foundation
 /// - `MyModel.displayName.series.TVShow`
 ///
 /// ### Benefits:
-/// - Automatically generated semantic keys provide better context for translators.
-/// - Eliminates the need for additional comments in localization files.
-/// - Ensures consistent key naming based on structural context.
+/// - Automatically generated translation keys provide better context for translators.
+/// - Eliminates the need for additional comments or context in localization files.
+/// - Ensures consistent key naming based on the structural context of the code.
 ///
-/// - Parameter value: The text to be localized provided in the source language.
-/// - Returns: A localized string key dynamically constructed based on its context.
+/// - Parameter defaultValue: The text to be localized provided in the source language.
+/// - Returns: A translation key dynamically constructed based on its context.
 @freestanding(expression)
-public macro loc(_ value: String) -> String = #externalMacro(module: "TranslateKitMacros", type: "LocalizationMacro")
+public macro tk(_ defaultValue: String) -> String = #externalMacro(module: "TranslateKitMacros", type: "TranslationKey")
