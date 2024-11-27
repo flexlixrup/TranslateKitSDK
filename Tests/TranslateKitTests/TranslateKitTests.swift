@@ -57,8 +57,8 @@ func simpleEnumPropertyExpansion() {
 
          var displayName: String {
             switch self {
-            case .movie: String(localized: "MyModel.displayName.movie", defaultValue: "Movie")
-            case .series: String(localized: "MyModel.displayName.series", defaultValue: "TV Show")
+            case .movie: String(localized: "MyModel.DisplayName.Movie.movie", defaultValue: "Movie")
+            case .series: String(localized: "MyModel.DisplayName.Series.tvShow", defaultValue: "TV Show")
             }
          }
       }

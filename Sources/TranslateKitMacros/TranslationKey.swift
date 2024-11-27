@@ -1,4 +1,3 @@
-import SwiftCompilerPlugin
 import SwiftSyntaxMacros
 import SwiftSyntax
 import SwiftDiagnostics
@@ -57,7 +56,7 @@ public struct TranslationKey: ExpressionMacro {
    ///    }
    /// }
    /// ```
-   /// Or `MyModel.displayName.movie.Movie` and `MyModel.displayName.series.TVShow` for the following model:
+   /// Or `MyModel.DisplayName.Movie.movie` and `MyModel.DisplayName.Series.tvShow` for the following model:
    /// ```swift
    /// enum MyModel: String, CaseIterable, Codable {
    ///    case movie
@@ -78,20 +77,4 @@ public struct TranslationKey: ExpressionMacro {
    ) -> String? {
       fatalError("not yet implemented")
    }
-}
-
-enum MacroError: Error, CustomStringConvertible {
-   case invalidSyntax
-
-   var description: String {
-      switch self {
-      case .invalidSyntax:
-         return "Invalid syntax: Expected a string literal."
-      }
-   }
-}
-
-@main
-struct TranslateKitPlugin: CompilerPlugin {
-   let providingMacros: [Macro.Type] = [TranslationKey.self]
 }
