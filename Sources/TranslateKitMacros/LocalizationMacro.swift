@@ -5,6 +5,7 @@ import SwiftDiagnostics
 
 // TODO: fix whitespace getting added before closing string quote token
 // TODO: implement semanticKey function & write more tests to always get a sensible key
+// TODO: test if String Catalog extractions still works with this approach
 
 public struct LocalizationMacro: ExpressionMacro {
    /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")`
@@ -46,17 +47,17 @@ public struct LocalizationMacro: ExpressionMacro {
       return ExprSyntax(functionCall)
    }
 
-   /// Returns `MyView.body.Button.saveChanges` for the following view:
+   /// Returns `MyView.body.Button.SaveChanges` for the following view:
    /// ```swift
    /// struct MyView: View {
    ///    var body: some View {
-   ///       Button(#L("Save Changes")) {
+   ///       Button(#loc("Save Changes")) {
    ///          self.handleSave()
    ///       }
    ///    }
    /// }
    /// ```
-   /// Or `MyModel.displayName.movie` for the following model:
+   /// Or `MyModel.displayName.movie.Movie` and `MyModel.displayName.series.TVShow` for the following model:
    /// ```swift
    /// enum MyModel: String, CaseIterable, Codable {
    ///    case movie
@@ -64,8 +65,8 @@ public struct LocalizationMacro: ExpressionMacro {
    ///
    ///    var displayName: String {
    ///       switch self {
-   ///       case .movie: #L("Movie")
-   ///       case .series: #L("TV Show")
+   ///       case .movie: #loc("Movie")
+   ///       case .series: #loc("TV Show")
    ///       }
    ///    }
    /// }
