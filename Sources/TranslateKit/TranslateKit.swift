@@ -16,7 +16,7 @@
 /// }
 /// ```
 /// In this example, `#tk("Save Changes")` generates the translation key:
-/// `MyView.Body.Button.SaveChanges`.
+/// `MyView.Body.Button.saveChanges`.
 ///
 /// #### Model Example
 /// ```swift
@@ -38,7 +38,7 @@
 ///
 /// ### Benefits:
 /// - Automatically generated translation keys provide better context for translators.
-/// - Eliminates the need for additional comments or context in localization files.
+/// - Eliminates the need for additional comments or context in localization files in many cases.
 /// - Ensures consistent key naming based on the structural context of the code.
 ///
 /// - Parameter defaultValue: The text to be localized provided in the source language.
