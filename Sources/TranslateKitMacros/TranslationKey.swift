@@ -2,9 +2,7 @@ import SwiftSyntaxMacros
 import SwiftSyntax
 import SwiftDiagnostics
 
-// TODO: fix whitespace getting added before closing string quote token
-// TODO: implement semanticKey function & write more tests to always get a sensible key
-// TODO: test if String Catalog extractions still works with this approach
+// TODO: fix whitespace getting added before closing string quote token (reported in https://github.com/swiftlang/swift-syntax/issues/2906)
 
 public struct TranslationKey: ExpressionMacro {
    /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")`
@@ -22,7 +20,7 @@ public struct TranslationKey: ExpressionMacro {
       // constructing: `"SomeView.Body.Button.saveChanges"`
       let localizedLiteral = StringLiteralExprSyntax(
          openingQuote: .stringQuoteToken(),
-         segments: StringLiteralSegmentListSyntax([.stringSegment(.init(content: "MyView.Body.Button.saveChanges"))]),
+         segments: StringLiteralSegmentListSyntax([.stringSegment(.init(content: TokenSyntax(stringLiteral: self.semanticKey(of: node, in: context))))]),
          closingQuote: .stringQuoteToken()
       )
 
@@ -74,7 +72,7 @@ public struct TranslationKey: ExpressionMacro {
    private static func semanticKey(
       of node: some FreestandingMacroExpansionSyntax,
       in context: some MacroExpansionContext
-   ) -> String? {
-      fatalError("not yet implemented")
+   ) -> String {
+      return context.lexicalContext.description  // always returns `"[]"` – reported in https://github.com/swiftlang/swift-syntax/issues/2907
    }
 }

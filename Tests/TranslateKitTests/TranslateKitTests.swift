@@ -21,7 +21,7 @@ func simpleViewButtonExpansion() {
    } expansion: {
       """
       import SwiftUI
-      
+
       struct MyView: View {
          var body: some View {
             Button(String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")) { 
