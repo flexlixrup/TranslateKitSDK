@@ -9,7 +9,7 @@ let package = Package(
    dependencies: [
       // being a good citizen: https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax
       .package(url: "https://github.com/apple/swift-syntax.git", "600.0.0"..<"699.99.99"),
-      .package(url: "https://github.com/pointfreeco/swift-macro-testing.git", from: "0.5.2"),
+      .package(url: "https://github.com/pointfreeco/swift-macro-testing.git", branch: "main"),
    ],
    targets: [
       .target(name: "TranslateKit", dependencies: ["TranslateKitMacros"]),

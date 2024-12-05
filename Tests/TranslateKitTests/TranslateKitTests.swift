@@ -10,10 +10,12 @@ func simpleViewButtonExpansion() {
       """
       import SwiftUI
       
-      struct MyView: View {
-         var body: some View {
-            Button(#tk("Save Changes")) { 
-               self.handleSave()
+      extension MyNamespace {
+         struct MyView: View {
+            var body: some View {
+               Button(#tk("Save Changes")) { 
+                  self.handleSave()
+               }
             }
          }
       }
@@ -22,10 +24,12 @@ func simpleViewButtonExpansion() {
       """
       import SwiftUI
 
-      struct MyView: View {
-         var body: some View {
-            Button(String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")) { 
-               self.handleSave()
+      extension MyNamespace {
+         struct MyView: View {
+            var body: some View {
+               Button(String(localized: "MyNamespace.MyView.Body.saveChanges", defaultValue: "Save Changes")) { 
+                  self.handleSave()
+               }
             }
          }
       }
@@ -57,8 +61,8 @@ func simpleEnumPropertyExpansion() {
 
          var displayName: String {
             switch self {
-            case .movie: String(localized: "MyModel.DisplayName.Movie.movie", defaultValue: "Movie")
-            case .series: String(localized: "MyModel.DisplayName.Series.tvShow", defaultValue: "TV Show")
+            case .movie: String(localized: "MyModel.DisplayName.movie", defaultValue: "Movie")
+            case .series: String(localized: "MyModel.DisplayName.tvShow", defaultValue: "TV Show")
             }
          }
       }
