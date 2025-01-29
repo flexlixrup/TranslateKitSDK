@@ -49,7 +49,7 @@ public struct TranslationKey: ExpressionMacro {
       return ExprSyntax(functionCall)
    }
 
-   /// Returns `MyView.body.Button.SaveChanges` for the following view:
+   /// Returns `MyView.Body.saveChanges` for the following view:
    /// ```swift
    /// struct MyView: View {
    ///    var body: some View {
@@ -59,7 +59,7 @@ public struct TranslationKey: ExpressionMacro {
    ///    }
    /// }
    /// ```
-   /// Or `MyModel.DisplayName.Movie.movie` and `MyModel.DisplayName.Series.tvShow` for the following model:
+   /// Or `MyModel.DisplayName.movie` and `MyModel.DisplayName.tvShow` for the following model:
    /// ```swift
    /// enum MyModel: String, CaseIterable, Codable {
    ///    case movie

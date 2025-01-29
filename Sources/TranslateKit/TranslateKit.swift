@@ -16,7 +16,7 @@
 /// }
 /// ```
 /// In this example, `#tk("Save Changes")` generates the translation key:
-/// `MyView.Body.Button.saveChanges`.
+/// `MyView.Body.saveChanges`.
 ///
 /// #### Model Example
 /// ```swift
@@ -33,8 +33,8 @@
 /// }
 /// ```
 /// In this case, the generated keys would be:
-/// - `MyModel.DisplayName.Movie.movie`
-/// - `MyModel.DisplayName.Series.tvShow`
+/// - `MyModel.DisplayName.movie`
+/// - `MyModel.DisplayName.tvShow`
 ///
 /// ### Benefits:
 /// - Automatically generated translation keys provide better context for translators.

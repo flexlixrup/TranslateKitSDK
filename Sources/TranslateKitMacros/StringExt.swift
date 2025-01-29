@@ -113,14 +113,6 @@ extension String {
          }
       }
 
-      print("words: \(words)")
-
-//      if words.count > 1, words[0].allSatisfy({ $0.isUppercase }) {
-//         // above logic doesn't properly detect `RESTClient` as ['REST', 'Client'] but as ['RESTC', 'lient'], fix here
-//         words[1] = String(words[0].last!) + words[1]
-//         words[0] = String(words[0].dropLast())
-//      }
-
       // lowercase first word
       words[0] = words[0].lowercased()
 
