@@ -69,3 +69,24 @@ func simpleEnumPropertyExpansion() {
       """
    }
 }
+
+@Test
+func expansionWithComment() {
+   assertMacro(["tk": TranslationKey.self]) {
+      """
+      struct ContentView {
+         var subtitle: String {
+            #tk("Start your journey", c: "Main onboarding screen subtitle")
+         }
+      }
+      """
+   } expansion: {
+      """
+      struct ContentView {
+         var subtitle: String {
+            String(localized: "ContentView.Subtitle.startYourJourney", defaultValue: "Start your journey", comment: "Main onboarding screen subtitle")
+         }
+      }
+      """
+   }
+}

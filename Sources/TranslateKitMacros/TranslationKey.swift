@@ -3,15 +3,27 @@ import SwiftSyntax
 import SwiftDiagnostics
 import Foundation
 
-// TODO: fix whitespace getting added before closing string quote token (reported in https://github.com/swiftlang/swift-syntax/issues/2906)
-
 public struct TranslationKey: ExpressionMacro {
-   /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes")`
+   /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes", bundle: .module, comment: "Save button in settings view")`
    public static func expansion(
       of node: some FreestandingMacroExpansionSyntax,
       in context: some MacroExpansionContext
    ) throws -> ExprSyntax {
+      guard let argumentList = node.as(MacroExpansionExprSyntax.self)?.arguments else {
+         fatalError("Expected arguments in macro expansion")
+      }
+
       let defaultValue = self.defaultValue(node: node)
+      var comment: ExprSyntax?
+
+      // Extract optional comment argument
+      for argument in argumentList {
+         if let label = argument.label?.text {
+            if label == "c" {
+               comment = argument.expression
+            }
+         }
+      }
 
       // constructing: `"Save Changes"`
       let defaultValueLiteral = StringLiteralExprSyntax(
@@ -29,18 +41,27 @@ public struct TranslationKey: ExpressionMacro {
          closingQuote: .stringQuoteToken()
       )
 
-      // constructing: `localized: "SomeView.Body.Button.saveChanges", defaultValue: "Save Changes"`
-      let arguments = LabeledExprListSyntax {
+      // constructing: `localized: "SomeView.Body.Button.saveChanges", defaultValue: "Save Changes"` (plus optional comment)
+      var arguments = LabeledExprListSyntax {
          LabeledExprSyntax(label: .identifier("localized"), colon: .colonToken(), expression: localizedLiteral)
-         LabeledExprSyntax(label: .identifier("defaultValue"), colon: .colonToken(), expression: defaultValueLiteral)
+         LabeledExprSyntax(
+            label: .identifier("defaultValue"),
+            colon: .colonToken(),
+            expression: defaultValueLiteral,
+            trailingComma: comment != nil ? .commaToken() : nil
+         )
       }
 
-      // constructing: `String`
-      let declarationReference = DeclReferenceExprSyntax(baseName: "String")
+      // Add comment argument if provided
+      if let comment {
+         arguments.append(
+            LabeledExprSyntax(label: .identifier("comment"), colon: .colonToken(), expression: comment)
+         )
+      }
 
-      // constructing: `String(localized: "SomeView.Body.Button.saveChanges", defaultValue: "Save Changes")`
+      // constructing: `String(localized: "SomeView.Body.Button.saveChanges", defaultValue: "Save Changes", comment: comment)`
       let functionCall = FunctionCallExprSyntax(
-         calledExpression: ExprSyntax(declarationReference),
+         calledExpression: ExprSyntax(DeclReferenceExprSyntax(baseName: "String")),
          leftParen: .leftParenToken(),
          arguments: arguments,
          rightParen: .rightParenToken()
@@ -74,7 +95,7 @@ public struct TranslationKey: ExpressionMacro {
    /// }
    /// ```
    /// - NOTE: Use https://swift-ast-explorer.com for development.
-   private static func semanticKey(context: some MacroExpansionContext, defaultValue: String) -> String {
+   static func semanticKey(context: some MacroExpansionContext, defaultValue: String) -> String {
       var result: [String] = []
 
       // Traverse each element in the lexical context
@@ -122,12 +143,19 @@ public struct TranslationKey: ExpressionMacro {
          }
       }
 
-      result.append(defaultValue.toLowerCamelCase())
+      let key = if defaultValue.hasSuffix("…") {
+         String(defaultValue.dropLast()).toLowerCamelCase() + "Dots"
+      } else if defaultValue.count > 3 && defaultValue.uppercased() == defaultValue {
+         defaultValue  // Keep it uppercase as is
+      } else {
+         defaultValue.toLowerCamelCase()
+      }
+      result.append(key)
 
       return result.joined(separator: ".")
    }
 
-   private static func defaultValue(node: some FreestandingMacroExpansionSyntax) -> String {
+   static func defaultValue(node: some FreestandingMacroExpansionSyntax) -> String {
       // Extract string literal from macro expansion
       if let argumentList = node.as(MacroExpansionExprSyntax.self)?.arguments {
          for argument in argumentList {

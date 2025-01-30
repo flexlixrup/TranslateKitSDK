@@ -4,6 +4,7 @@ import CompilerPluginSupport
 
 let package = Package(
    name: "TranslateKit",
+   defaultLocalization: "en",
    platforms: [.macOS(.v13), .iOS(.v16), .tvOS(.v16), .watchOS(.v9), .macCatalyst(.v16)],
    products: [.library(name: "TranslateKit", targets: ["TranslateKit"])],
    dependencies: [
@@ -12,7 +13,11 @@ let package = Package(
       .package(url: "https://github.com/pointfreeco/swift-macro-testing.git", branch: "main"),
    ],
    targets: [
-      .target(name: "TranslateKit", dependencies: ["TranslateKitMacros"]),
+      .target(
+         name: "TranslateKit",
+         dependencies: ["TranslateKitMacros"],
+         resources: [.process("Localizable.xcstrings")]
+      ),
       .macro(
          name: "TranslateKitMacros",
          dependencies: [
