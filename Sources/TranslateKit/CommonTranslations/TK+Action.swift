@@ -423,6 +423,9 @@ extension TK {
       /// "Notify Me" – Use for setting up alerts or reminders
       public static var notifyMe: String { #tkm("Notify Me") }
 
+      /// "Not Now" - Use for declining a request or postponing an action
+      public static var notNow: String { #tkm("Not Now") }
+
       /// "OK" – Use for confirming or acknowledging a message
       public static var ok: String { #tkm("OK") }
 

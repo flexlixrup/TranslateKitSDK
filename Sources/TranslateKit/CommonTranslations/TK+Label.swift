@@ -894,6 +894,9 @@ extension TK {
       /// "Undo" – Use for reversing previous actions
       public static var undo: String { #tkm("Undo") }
 
+      /// "Unknown" - Use when the state or identity is not clear or available
+      public static var unknown: String { #tkm("Unknown") }
+
       /// "User" – Use for identifying individual accounts or profiles
       public static var user: String { #tkm("User") }
 

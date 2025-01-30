@@ -4,6 +4,8 @@ import SwiftSyntaxMacrosTestSupport
 import TranslateKitMacros
 @testable import TranslateKit
 
+// TODO: report inconsistency between unit test results & actual behavior in CommonTranslations / in apps
+
 @Test
 func simpleViewButtonExpansion() {
    assertMacro(["tk": TranslationKey.self]) {
