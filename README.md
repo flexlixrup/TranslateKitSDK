@@ -2,122 +2,75 @@
 
 # TranslateKit SDK
 
-The TranslateKit SDK is a Swift package that streamlines the localization workflow in Xcode by providing:
+What SF Symbols is for Icons, TranslateKit is for Text!
 
-1. **Common Platform-Consistent Translations**: An enum with a rich set of consistently localized texts covering a large variety of typical app content - no need to localize everything yourself!
-2. **Semantic Key Generation**: A Swift macro that automatically generates meaningful translation keys based on code context, while leveraging Xcode's String Catalogs.
+Eliminate localization overhead in your Swift apps with 1000+ pre-localized strings and semantic key generation. Make app localization simple, accurate, and delightful.
 
-## Features
+## Key Features
 
-### Common Translations
-
-TranslateKit provides over 1,000 strings in four categories, already localized to all ~40 languages supported by Apple platforms:
-
-- **Actions** (`TK.Action`): Interactive UI elements (e.g. "Done", "Add", "Cancel")
-- **Labels** (`TK.Label`): Non-interactive text that describes UI elements like (e.g. "Settings", "Yes", "Link")
-- **Placeholders** (`TK.Placeholder`): Temporary text while loading or waiting for user input (e.g. "Enter email…", "Loading…", "e.g. jane@example.com")
-- **Messages** (`TK.Message`): Full sentences for user communication (e.g. "Are you sure?", "Please try again.")
-
-Since these strings are pre-localized, using them won't add any entries to your String Catalog. Just use them directly:
+### 1. Pre-localized Common Strings
+Access 1,000+ ready-to-use strings in ~40 Apple platform languages across four categories. Since these are pre-localized, they won't add entries to your String Catalog – just use them directly:
 
 ```swift
-Button(TK.Action.save) {  // "Save" in English, "Sichern" in German, etc.
-    saveData()
-}
+// Actions: Interactive UI elements
+Button(TK.Action.save) { saveData() }  // "Save" → "Sichern" (German)
 
-if error {
-    Text(TK.Message.anErrorOccurred)  // "An Error Occurred" / "Ein Fehler ist aufgetreten"
-}
+// Labels: Non-interactive text
+Label(TK.Label.notifications, systemImage: "bell")  // "Notifications" → "Benachrichtigungen"
 
-Label(TK.Label.notifications, systemImage: "bell")  // "Notifications" / "Benachrichtigungen"
+// Placeholders: Temporary text
+TextField(TK.Label.firstName, text: $firstName,  // "First Name" → "Vorname"
+         prompt: TK.Placeholder.firstNameExample)  // "e.g. Jane" → "z.B. Erika"
 
-TextField(
-    TK.Label.firstName,  // "First Name" / "Vorname" 
-    text: $firstName,
-    prompt: TK.Placeholder.firstNameExample  // "e.g. Jane" / "z.B. Erika"  
-)
+// Messages: Full sentences
+Text(TK.Message.anErrorOccurred)  // "An Error Occurred" → "Ein Fehler ist aufgetreten"
 ```
 
-Discovering the right translations during programming is easy thanks to autocompletion:
-1. Just type `TK.` to get the list of the 4 supported categories and select one, e.g. `Action` or `Label`
-2. Now enter what you're looking for, for example type `acc` to get fuzzy-matched results like `accept`, `grantAccess`, and `addAccount`
-3. Note that before you select an entry, you can see both the English translation and a usage hint in the documentation popover
+Discovering the right translations is effortless with autocompletion – type `TK.` to explore categories and fuzzy-match strings, with English previews and usage hints in the documentation popover:
 
 ![Showcasing Autocompletion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/Autocomplete.jpeg?raw=true)
 
-Super convenient, right?
-
-### Smart Key Generation with `#tk` Macro
-
-For your own translations, the TranslateKit SDK provides the `#tk` macro that automatically generates semantic keys based on the context:
+### 2. Smart Key Generation
+The `#tk` macro eliminates the tedious work of manual key management by automatically generating semantic keys based on code context:
 
 ```swift
 struct SettingsView: View {
-    let documentName: String
-
-    var body: some View {
-        Button(#tk("Save Changes")) {  // Key: SettingsView.Body.saveChanges
-            handleSave()
-        }
-        
-        // Short 'c' parameter for a comment providing additional context (when needed)
-        Text(#tk("Save changes to \(documentName)?", c: "e.g. 'Save changes to MyNumbers.csv'"))  
-    }
-}
-```
-
-The macro expands the above two `#tk` macros to proper auto-extractable String Catalog code:
-
-```swift
-struct SettingsView: View {
-    let documentName: String
+  let documentName: String
     
-    var body: some View {
-        Button(
-            String(
-                localized: "SettingsView.Body.saveChanges", 
-                defaultValue: "Save Changes"
-            )
-        ) {
-            handleSave()
-        }
+  var body: some View {
+    // Generates key: SettingsView.Body.saveChanges
+    Button(#tk("Save Changes")) { handleSave() }
         
-        Text(
-            String(
-                localized: "SettingsView.Body.saveChangesTo",
-                defaultValue: "Save changes to \(documentName)?",
-                comment: "e.g. 'Save changes to Talk.keynote'"
-            )
-        )
-    }
+    // Add context with 'c' parameter to help translators
+    Text(#tk("Save changes to \(documentName)?", 
+             c: "e.g. 'Save changes to MyNumbers.csv'"))
+  }
 }
 ```
 
-Note that String Catalogs support a separate "key" AND separate "source" translation, just like Strings files did back in the day. But due to how extraction is happening from baked-in SwiftUI views, nowadays most developers end up having the key and source translation to be equal. To do this, you'd have to write the verbose `String(localized:defaultValue:comment:)` function you see in the expanded code above. And every single time, you'd need to type the key manually, adding a lot of extra thinking time and work load on the developer.
+String Catalogs made it challenging to maintain best practices from the Strings-file era, where using semantic keys helped group related translations. The macro brings back this advantage while keeping String Catalogs' benefits - you get semantic keys without writing verbose `String(localized:defaultValue:comment:)` calls:
 
 ![Macro Expansion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/MacroExpansion.jpeg?raw=true)
 
-That's what the `#tk` macro solves, as all you need to do is to wrap your source translation String literal in `#tk("...")` and the macro takes care of giving your translation key a proper semantic name like `SettingsView.Body.saveChanges`. This added context can be helpful for both human translators and AI translation tools (like the [TranslateKit Mac app](https://translatekit.app)) to understan the context better and provide more accurate contextual translations.
+These semantic keys help group related translations and provide crucial context to translators and translation tools (like the [TranslateKit Mac app](https://translatekit.app)), leading to more accurate translations while making your localization files easier to maintain.
 
-## Using in Swift Packages
+## Swift Package Usage
 
-If you want to use TranslateKit in a Swift package or modularized app, use `#tkm` instead of `#tk`. It works exactly the same but uses `Bundle.module` to reference the correct String Catalog file in the expanded code. Full instructions to localize a Swift package:
+For Swift packages, use `#tkm` instead of `#tk` to reference the correct String Catalog file:
 
-1. Add `defaultLocalization` to your package manifest:
+1. Add defaultLocalization to your manifest:
 ```swift
 .target(
-    name: "MyModule",
-    defaultLocalization: "en",
-    // ...
+  name: "MyModule",
+  defaultLocalization: "en"
 )
 ```
 
-2. Add a String Catalog (`Localizable.xcstrings`) to your module
+2. Add `Localizable.xcstrings` to your module
 
-3. Use the `#tkm` macro instead of `#tk`:
+3. Use the `#tkm` macro:
 ```swift
 Text(#tkm("Last seen %@", c: "Time when user was last active"))
-// Expands to use 'bundle: .module' rather than the main bundle
 ```
 
 ## Contributing
@@ -149,11 +102,11 @@ I created this library for my own Indie apps (download & rate them to thank me!)
         <strong>TranslateKit: App Localizer</strong>
       </a>
       <br />
-      Indie-focused app localization with unmatched accuracy. Fast & easy: AI & proofreading, 125+ languages, market insights. Budget-friendly, free to try.
+      AI-powered app localization with unmatched accuracy. Fast & easy: AI & proofreading, 125+ languages, market insights. Budget-friendly, free to try.
     </td>
     <td>Mac</td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
         <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FreemiumKit.webp" width="64" />
@@ -164,7 +117,7 @@ I created this library for my own Indie apps (download & rate them to thank me!)
         <strong>FreemiumKit: In-App Purchases</strong>
       </a>
       <br />
-      Simple In-App Purchases and Subscriptions for Apple Platforms: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
+      Simple In-App Purchases and Subscriptions: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
     </td>
     <td>iPhone, iPad, Mac, Vision</td>
   </tr>
@@ -194,7 +147,7 @@ I created this library for my own Indie apps (download & rate them to thank me!)
         <strong>FreelanceKit: Time Tracking</strong>
       </a>
       <br />
-      Simple & affordable time tracking with a native experience for all  devices. iCloud sync & CSV export included.
+      Simple & affordable time tracking with a native experience for all devices. iCloud sync & CSV export included.
     </td>
     <td>iPhone, iPad, Mac, Vision</td>
   </tr>
