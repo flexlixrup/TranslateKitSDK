@@ -1,4 +1,6 @@
-# TranslateKit
+![TranslateKit SDK Logo](https://github.com/FlineDev/TranslateKit/blob/main/Logo.png?raw=true)
+
+# TranslateKit SDK
 
 TranslateKit is a Swift package that streamlines the localization workflow in Xcode by providing:
 
