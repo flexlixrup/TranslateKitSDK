@@ -854,11 +854,6 @@ extension TK {
          #tkm("Resource unavailable", c: "Allocation error")
       }
 
-      /// "Resume from %@" - Playback position
-      public static var resumeFrom: String {
-         #tkm("Resume from %@", c: "Playback position")
-      }
-
       /// "Review recommended" - Study suggestion
       public static var reviewRecommended: String {
          #tkm("Review recommended", c: "Study suggestion")
@@ -977,11 +972,6 @@ extension TK {
       /// "Sync in Progress" - Data synchronization status
       public static var syncInProgress: String {
          #tkm("Sync in Progress", c: "Data synchronization status")
-      }
-
-      /// "Task assigned to %@" - Assignment confirmation
-      public static var taskAssignedTo: String {
-         #tkm("Task assigned to %@", c: "Assignment confirmation")
       }
 
       /// "Your task has been successfully created." - Confirmation message when a task is added
