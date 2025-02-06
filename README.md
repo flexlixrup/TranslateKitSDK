@@ -58,7 +58,7 @@ These semantic keys help group related translations and provide crucial context 
 
 For Swift packages, use `#tkm` instead of `#tk` to reference the correct String Catalog file:
 
-1. Add defaultLocalization to your manifest:
+1. Add `defaultLocalization` to your manifest:
 ```swift
 .target(
   name: "MyModule",
@@ -77,7 +77,7 @@ Text(#tkm("Last seen %@", c: "Time when user was last active"))
 
 Contributions – especially additions and corrections – are welcome!
 
-Please feel free to submit a Pull Request. You don't need to localize added entries to all languages yourself, just provide the one(s) you speak, we'll take care of the other languages using the [TranslateKit Mac app](https://translatekit.app). But please keep the entries sorted alphabetically when adding new ones!
+Please feel free to submit a Pull Request. You don't need to localize added entries to all languages yourself, just provide the one(s) you speak, we'll take care of the other languages using [TranslateKit](https://translatekit.app). But please keep the entries sorted alphabetically when adding new ones!
 
 For bigger changes, please open an issue first to discuss what you would like to change.
 
@@ -99,7 +99,7 @@ I created this library for my own Indie apps (download & rate them to thank me!)
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
-        <strong>TranslateKit: App Localizer</strong>
+        <strong>TranslateKit: App Localization</strong>
       </a>
       <br />
       AI-powered app localization with unmatched accuracy. Fast & easy: AI & proofreading, 125+ languages, market insights. Budget-friendly, free to try.
@@ -114,7 +114,7 @@ I created this library for my own Indie apps (download & rate them to thank me!)
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
-        <strong>FreemiumKit: In-App Purchases</strong>
+        <strong>FreemiumKit: In-App Purchases for Indies</strong>
       </a>
       <br />
       Simple In-App Purchases and Subscriptions: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
@@ -144,7 +144,7 @@ I created this library for my own Indie apps (download & rate them to thank me!)
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6480134993?pt=549314&ct=github.com&mt=8">
-        <strong>FreelanceKit: Time Tracking</strong>
+        <strong>FreelanceKit: Project Time Tracking</strong>
       </a>
       <br />
       Simple & affordable time tracking with a native experience for all devices. iCloud sync & CSV export included.
