@@ -3,64 +3,64 @@ import Foundation
 extension TK {
    /// Placeholder text shown as hints, temporary states, or examples
    public enum Placeholder {
-      /// "Add a caption..." - Image caption input hint
+      /// "Add a caption…" - Image caption input hint
       public static var addCaptionDots: String {
-         #tkm("Add a caption...", c: "Image caption input hint")
+         #tkm("Add a caption…", c: "Image caption input hint")
       }
 
-      /// "Add chapter summary..." - Content summary
+      /// "Add chapter summary…" - Content summary
       public static var addChapterSummaryDots: String {
-         #tkm("Add chapter summary...", c: "Content summary")
+         #tkm("Add chapter summary…", c: "Content summary")
       }
 
-      /// "Add a comment..." - Placeholder for adding a response to a post
+      /// "Add a comment…" - Placeholder for adding a response to a post
       public static var addCommentDots: String {
-         #tkm("Add a comment...", c: "Placeholder for adding a response to a post")
+         #tkm("Add a comment…", c: "Placeholder for adding a response to a post")
       }
 
-      /// "Add content rating..." - User feedback
+      /// "Add content rating…" - User feedback
       public static var addContentRatingDots: String {
-         #tkm("Add content rating...", c: "User feedback")
+         #tkm("Add content rating…", c: "User feedback")
       }
 
-      /// "Add a delivery note..." - Placeholder for entering special shipping instructions
+      /// "Add a delivery note…" - Placeholder for entering special shipping instructions
       public static var addDeliveryNoteDots: String {
-         #tkm("Add a delivery note...", c: "Placeholder for entering special shipping instructions")
+         #tkm("Add a delivery note…", c: "Placeholder for entering special shipping instructions")
       }
 
-      /// "Add a description..." - Description input hint
+      /// "Add a description…" - Description input hint
       public static var addDescriptionDots: String {
-         #tkm("Add a description...", c: "Description input hint")
+         #tkm("Add a description…", c: "Description input hint")
       }
 
-      /// "Add expense details..." - Financial tracking
+      /// "Add expense details…" - Financial tracking
       public static var addExpenseDetailsDots: String {
-         #tkm("Add expense details...", c: "Financial tracking")
+         #tkm("Add expense details…", c: "Financial tracking")
       }
 
-      /// "Add meeting agenda..." - Meeting preparation
+      /// "Add meeting agenda…" - Meeting preparation
       public static var addMeetingAgendaDots: String {
-         #tkm("Add meeting agenda...", c: "Meeting preparation")
+         #tkm("Add meeting agenda…", c: "Meeting preparation")
       }
 
-      /// "Add milestone description..." - Project planning
+      /// "Add milestone description…" - Project planning
       public static var addMilestoneDescriptionDots: String {
-         #tkm("Add milestone description...", c: "Project planning")
+         #tkm("Add milestone description…", c: "Project planning")
       }
 
-      /// "Add note..." - Documentation input
+      /// "Add note…" - Documentation input
       public static var addNoteDots: String {
-         #tkm("Add note...", c: "Documentation input")
+         #tkm("Add note…", c: "Documentation input")
       }
 
-      /// "Add a payment note..." - Placeholder for transaction descriptions
+      /// "Add a payment note…" - Placeholder for transaction descriptions
       public static var addPaymentNoteDots: String {
-         #tkm("Add a payment note...", c: "Placeholder for transaction descriptions")
+         #tkm("Add a payment note…", c: "Placeholder for transaction descriptions")
       }
 
-      /// "Add project details..." - Project creation
+      /// "Add project details…" - Project creation
       public static var addProjectDetailsDots: String {
-         #tkm("Add project details...", c: "Project creation")
+         #tkm("Add project details…", c: "Project creation")
       }
 
       /// "e.g. 123 Main Street" - Address input example
@@ -68,34 +68,34 @@ extension TK {
          #tkm("e.g. 123 Main Street", c: "Address input example")
       }
 
-      /// "Add study notes..." - Personal documentation
+      /// "Add study notes…" - Personal documentation
       public static var addStudyNotesDots: String {
-         #tkm("Add study notes...", c: "Personal documentation")
+         #tkm("Add study notes…", c: "Personal documentation")
       }
 
-      /// "Add study reminder..." - Schedule management
+      /// "Add study reminder…" - Schedule management
       public static var addStudyReminderDots: String {
-         #tkm("Add study reminder...", c: "Schedule management")
+         #tkm("Add study reminder…", c: "Schedule management")
       }
 
-      /// "Add tags..." - Tag input field hint
+      /// "Add tags…" - Tag input field hint
       public static var addTagsDots: String {
-         #tkm("Add tags...", c: "Tag input field hint")
+         #tkm("Add tags…", c: "Tag input field hint")
       }
 
-      /// "Add task description..." - Task details
+      /// "Add task description…" - Task details
       public static var addTaskDescriptionDots: String {
-         #tkm("Add task description...", c: "Task details")
+         #tkm("Add task description…", c: "Task details")
       }
 
-      /// "Add a title..." - Title input hint
+      /// "Add a title…" - Title input hint
       public static var addTitleDots: String {
-         #tkm("Add a title...", c: "Title input hint")
+         #tkm("Add a title…", c: "Title input hint")
       }
 
-      /// "Adjust brightness..." - Placeholder for editing brightness settings
+      /// "Adjust brightness…" - Placeholder for editing brightness settings
       public static var adjustBrightnessDots: String {
-         #tkm("Adjust brightness...", c: "Placeholder for editing brightness settings")
+         #tkm("Adjust brightness…", c: "Placeholder for editing brightness settings")
       }
 
       /// "e.g. 18-65" - Age range input example
@@ -113,9 +113,9 @@ extension TK {
          #tkm("e.g. Bay Area", c: "Area/region input example")
       }
 
-      /// "Ask question..." - Help request
+      /// "Ask question…" - Help request
       public static var askQuestionDots: String {
-         #tkm("Ask question...", c: "Help request")
+         #tkm("Ask question…", c: "Help request")
       }
 
       /// "Authenticating…" - Shown during login
@@ -133,34 +133,34 @@ extension TK {
          #tkm("Calculating…", c: "Shown during calculations")
       }
 
-      /// "Check traffic conditions..." - Placeholder for real-time traffic searches
+      /// "Check traffic conditions…" - Placeholder for real-time traffic searches
       public static var checkTrafficConditionsDots: String {
-         #tkm("Check traffic conditions...", c: "Placeholder for real-time traffic searches")
+         #tkm("Check traffic conditions…", c: "Placeholder for real-time traffic searches")
       }
 
-      /// "Choose a category..." - Input hint for selecting a category
+      /// "Choose a category…" - Input hint for selecting a category
       public static var chooseCategoryDots: String {
-         #tkm("Choose a category...", c: "Input hint for selecting a category")
+         #tkm("Choose a category…", c: "Input hint for selecting a category")
       }
 
-      /// "Choose a date..." - Date selection hint
+      /// "Choose a date…" - Date selection hint
       public static var chooseDateDots: String {
-         #tkm("Choose a date...", c: "Date selection hint")
+         #tkm("Choose a date…", c: "Date selection hint")
       }
 
-      /// "Choose a file..." - Input hint for file selection
+      /// "Choose a file…" - Input hint for file selection
       public static var chooseFileDots: String {
-         #tkm("Choose a file...", c: "Input hint for file selection")
+         #tkm("Choose a file…", c: "Input hint for file selection")
       }
 
-      /// "Choose a language..." - Language selection hint
+      /// "Choose a language…" - Language selection hint
       public static var chooseLanguageDots: String {
-         #tkm("Choose a language...", c: "Language selection hint")
+         #tkm("Choose a language…", c: "Language selection hint")
       }
 
-      /// "Choose an option..." - Generic selection hint
+      /// "Choose an option…" - Generic selection hint
       public static var chooseOptionDots: String {
-         #tkm("Choose an option...", c: "Generic selection hint")
+         #tkm("Choose an option…", c: "Generic selection hint")
       }
 
       /// "e.g. San Francisco" - City input example
@@ -173,14 +173,14 @@ extension TK {
          #tkm("e.g. #FFFFFF", c: "Color hex code example")
       }
 
-      /// "Compose message..." - Message composition hint
+      /// "Compose message…" - Message composition hint
       public static var composeMessageDots: String {
-         #tkm("Compose message...", c: "Message composition hint")
+         #tkm("Compose message…", c: "Message composition hint")
       }
 
-      /// "Confirm password..." - Password confirmation hint
+      /// "Confirm password…" - Password confirmation hint
       public static var confirmPasswordDots: String {
-         #tkm("Confirm password...", c: "Password confirmation hint")
+         #tkm("Confirm password…", c: "Password confirmation hint")
       }
 
       /// "Connecting…" - Shown during connection attempts
@@ -208,9 +208,9 @@ extension TK {
          #tkm("Deleting…", c: "Shown when removing content")
       }
 
-      /// "Describe your task..." - Input hint for adding task details
+      /// "Describe your task…" - Input hint for adding task details
       public static var describeYourTaskDots: String {
-         #tkm("Describe your task...", c: "Input hint for adding task details")
+         #tkm("Describe your task…", c: "Input hint for adding task details")
       }
 
       /// "e.g. MyAppleWatch" - Device name example
@@ -233,64 +233,64 @@ extension TK {
          #tkm("Enabling iCloud Sync…", c: "Cloud sync status")
       }
 
-      /// "Enter address..." - Input hint for searching a specific location
+      /// "Enter address…" - Input hint for searching a specific location
       public static var enterAddressDots: String {
-         #tkm("Enter address...", c: "Input hint for searching a specific location")
+         #tkm("Enter address…", c: "Input hint for searching a specific location")
       }
 
-      /// "Enter album name..." - Input hint for creating or renaming albums
+      /// "Enter album name…" - Input hint for creating or renaming albums
       public static var enterAlbumNameDots: String {
-         #tkm("Enter album name...", c: "Input hint for creating or renaming albums")
+         #tkm("Enter album name…", c: "Input hint for creating or renaming albums")
       }
 
-      /// "Enter amount..." - Input hint for entering money values
+      /// "Enter amount…" - Input hint for entering money values
       public static var enterAmountDots: String {
-         #tkm("Enter amount...", c: "Input hint for entering money values")
+         #tkm("Enter amount…", c: "Input hint for entering money values")
       }
 
-      /// "Enter answer..." - Quiz response input
+      /// "Enter answer…" - Quiz response input
       public static var enterAnswerDots: String {
-         #tkm("Enter answer...", c: "Quiz response input")
+         #tkm("Enter answer…", c: "Quiz response input")
       }
 
-      /// "Enter backup name..." - Input hint for naming a backup file
+      /// "Enter backup name…" - Input hint for naming a backup file
       public static var enterBackupNameDots: String {
-         #tkm("Enter backup name...", c: "Input hint for naming a backup file")
+         #tkm("Enter backup name…", c: "Input hint for naming a backup file")
       }
 
-      /// "Enter bank account number..." - Placeholder for adding a bank account
+      /// "Enter bank account number…" - Placeholder for adding a bank account
       public static var enterBankAccountNumberDots: String {
-         #tkm("Enter bank account number...", c: "Placeholder for adding a bank account")
+         #tkm("Enter bank account number…", c: "Placeholder for adding a bank account")
       }
 
-      /// "Enter budget amount..." - Financial planning
+      /// "Enter budget amount…" - Financial planning
       public static var enterBudgetAmountDots: String {
-         #tkm("Enter budget amount...", c: "Financial planning")
+         #tkm("Enter budget amount…", c: "Financial planning")
       }
 
-      /// "Enter caption..." - Input hint for adding text to an image or video post
+      /// "Enter caption…" - Input hint for adding text to an image or video post
       public static var enterCaptionDots: String {
-         #tkm("Enter caption...", c: "Input hint for adding text to an image or video post")
+         #tkm("Enter caption…", c: "Input hint for adding text to an image or video post")
       }
 
-      /// "Enter card number..." - Input hint for payment card entry
+      /// "Enter card number…" - Input hint for payment card entry
       public static var enterCardNumberDots: String {
-         #tkm("Enter card number...", c: "Input hint for payment card entry")
+         #tkm("Enter card number…", c: "Input hint for payment card entry")
       }
 
-      /// "Enter city name..." - Placeholder for searching a city's weather
+      /// "Enter city name…" - Placeholder for searching a city's weather
       public static var enterCityNameDots: String {
-         #tkm("Enter city name...", c: "Placeholder for searching a city's weather")
+         #tkm("Enter city name…", c: "Placeholder for searching a city's weather")
       }
 
-      /// "Enter city or neighborhood..." - Input hint for location-based searches
+      /// "Enter city or neighborhood…" - Input hint for location-based searches
       public static var enterCityOrNeighborhoodDots: String {
-         #tkm("Enter city or neighborhood...", c: "Input hint for location-based searches")
+         #tkm("Enter city or neighborhood…", c: "Input hint for location-based searches")
       }
 
-      /// "Enter client name..." - Customer management
+      /// "Enter client name…" - Customer management
       public static var enterClientNameDots: String {
-         #tkm("Enter client name...", c: "Customer management")
+         #tkm("Enter client name…", c: "Customer management")
       }
 
       /// "Enter verification code" - 2FA code input instruction
@@ -303,19 +303,19 @@ extension TK {
          #tkm("Enter company name", c: "Company input instruction")
       }
 
-      /// "Enter a coupon code..." - Placeholder for promo and discount entry
+      /// "Enter a coupon code…" - Placeholder for promo and discount entry
       public static var enterCouponCodeDots: String {
-         #tkm("Enter a coupon code...", c: "Placeholder for promo and discount entry")
+         #tkm("Enter a coupon code…", c: "Placeholder for promo and discount entry")
       }
 
-      /// "Enter destination..." - Input hint for selecting a navigation endpoint
+      /// "Enter destination…" - Input hint for selecting a navigation endpoint
       public static var enterDestinationDots: String {
-         #tkm("Enter destination...", c: "Input hint for selecting a navigation endpoint")
+         #tkm("Enter destination…", c: "Input hint for selecting a navigation endpoint")
       }
 
-      /// "Enter discount code..." - Input hint for entering a promotional coupon
+      /// "Enter discount code…" - Input hint for entering a promotional coupon
       public static var enterDiscountCodeDots: String {
-         #tkm("Enter discount code...", c: "Input hint for entering a promotional coupon")
+         #tkm("Enter discount code…", c: "Input hint for entering a promotional coupon")
       }
 
       /// "Enter your email" - Input hint for email field
@@ -323,24 +323,24 @@ extension TK {
          #tkm("Enter your email", c: "Input hint for email field")
       }
 
-      /// "Enter your email..." - Input hint for email address fields
+      /// "Enter your email…" - Input hint for email address fields
       public static var enterEmailDots: String {
-         #tkm("Enter your email...", c: "Input hint for email address fields")
+         #tkm("Enter your email…", c: "Input hint for email address fields")
       }
 
-      /// "Enter email for newsletter..." - Placeholder for subscribing to a newsletter
+      /// "Enter email for newsletter…" - Placeholder for subscribing to a newsletter
       public static var enterEmailForNewsletterDots: String {
-         #tkm("Enter email for newsletter...", c: "Placeholder for subscribing to a newsletter")
+         #tkm("Enter email for newsletter…", c: "Placeholder for subscribing to a newsletter")
       }
 
-      /// "Enter encryption key..." - Input hint for decrypting an encrypted file
+      /// "Enter encryption key…" - Input hint for decrypting an encrypted file
       public static var enterEncryptionKeyDots: String {
-         #tkm("Enter encryption key...", c: "Input hint for decrypting an encrypted file")
+         #tkm("Enter encryption key…", c: "Input hint for decrypting an encrypted file")
       }
 
-      /// "Enter feedback..." - Course review
+      /// "Enter feedback…" - Course review
       public static var enterFeedbackDots: String {
-         #tkm("Enter feedback...", c: "Course review")
+         #tkm("Enter feedback…", c: "Course review")
       }
 
       /// "Enter first name" - First name input instruction
@@ -348,39 +348,39 @@ extension TK {
          #tkm("Enter first name", c: "First name input instruction")
       }
 
-      /// "Enter flight number..." - Input hint for tracking a flight
+      /// "Enter flight number…" - Input hint for tracking a flight
       public static var enterFlightNumberDots: String {
-         #tkm("Enter flight number...", c: "Input hint for tracking a flight")
+         #tkm("Enter flight number…", c: "Input hint for tracking a flight")
       }
 
-      /// "Enter your gamer tag..." - Input hint for entering a username
+      /// "Enter your gamer tag…" - Input hint for entering a username
       public static var enterGamerTagDots: String {
-         #tkm("Enter your gamer tag...", c: "Input hint for entering a username")
+         #tkm("Enter your gamer tag…", c: "Input hint for entering a username")
       }
 
-      /// "Enter email for GDPR request..." - Input hint for requesting data access or deletion
+      /// "Enter email for GDPR request…" - Input hint for requesting data access or deletion
       public static var enterGDPRRequestEmailDots: String {
-         #tkm("Enter email for GDPR request...", c: "Input hint for requesting data access or deletion")
+         #tkm("Enter email for GDPR request…", c: "Input hint for requesting data access or deletion")
       }
 
-      /// "Enter a group name..." - Input hint for naming a group
+      /// "Enter a group name…" - Input hint for naming a group
       public static var enterGroupNameDots: String {
-         #tkm("Enter a group name...", c: "Input hint for naming a group")
+         #tkm("Enter a group name…", c: "Input hint for naming a group")
       }
 
-      /// "Enter a hashtag..." - Placeholder for hashtag searches
+      /// "Enter a hashtag…" - Placeholder for hashtag searches
       public static var enterHashtagDots: String {
-         #tkm("Enter a hashtag...", c: "Placeholder for hashtag searches")
+         #tkm("Enter a hashtag…", c: "Placeholder for hashtag searches")
       }
 
-      /// "Enter invoice number..." - Billing reference
+      /// "Enter invoice number…" - Billing reference
       public static var enterInvoiceNumberDots: String {
-         #tkm("Enter invoice number...", c: "Billing reference")
+         #tkm("Enter invoice number…", c: "Billing reference")
       }
 
-      /// "Enter IP address..." - Input hint for configuring network settings
+      /// "Enter IP address…" - Input hint for configuring network settings
       public static var enterIPAddressDots: String {
-         #tkm("Enter IP address...", c: "Input hint for configuring network settings")
+         #tkm("Enter IP address…", c: "Input hint for configuring network settings")
       }
 
       /// "Enter last name" - Last name input instruction
@@ -388,14 +388,14 @@ extension TK {
          #tkm("Enter last name", c: "Last name input instruction")
       }
 
-      /// "Enter lobby code..." - Input hint for private multiplayer lobbies
+      /// "Enter lobby code…" - Input hint for private multiplayer lobbies
       public static var enterLobbyCodeDots: String {
-         #tkm("Enter lobby code...", c: "Input hint for private multiplayer lobbies")
+         #tkm("Enter lobby code…", c: "Input hint for private multiplayer lobbies")
       }
 
-      /// "Enter meditation duration..." - Input hint for meditation session length
+      /// "Enter meditation duration…" - Input hint for meditation session length
       public static var enterMeditationDurationDots: String {
-         #tkm("Enter meditation duration...", c: "Input hint for meditation session length")
+         #tkm("Enter meditation duration…", c: "Input hint for meditation session length")
       }
 
       /// "Enter your message" - Message input instruction
@@ -403,9 +403,9 @@ extension TK {
          #tkm("Enter your message", c: "Message input instruction")
       }
 
-      /// "Enter new password..." - Password input hint
+      /// "Enter new password…" - Password input hint
       public static var enterNewPasswordDots: String {
-         #tkm("Enter new password...", c: "Password input hint")
+         #tkm("Enter new password…", c: "Password input hint")
       }
 
       /// "Enter password" - Input hint for password field
@@ -413,9 +413,9 @@ extension TK {
          #tkm("Enter password", c: "Input hint for password field")
       }
 
-      /// "Enter password..." - Input hint for password fields
+      /// "Enter password…" - Input hint for password fields
       public static var enterPasswordDots: String {
-         #tkm("Enter password...", c: "Input hint for password fields")
+         #tkm("Enter password…", c: "Input hint for password fields")
       }
 
       /// "Enter phone number" - Input hint for phone number entry
@@ -428,54 +428,54 @@ extension TK {
          #tkm("Enter promo code", c: "Promotional code input instruction")
       }
 
-      /// "Enter recipient’s name..." - Input hint for sending money
+      /// "Enter recipient’s name…" - Input hint for sending money
       public static var enterRecipientNameDots: String {
-         #tkm("Enter recipient’s name...", c: "Input hint for sending money")
+         #tkm("Enter recipient’s name…", c: "Input hint for sending money")
       }
 
-      /// "Enter shipping address..." - Input hint for entering an address during checkout
+      /// "Enter shipping address…" - Input hint for entering an address during checkout
       public static var enterShippingAddressDots: String {
-         #tkm("Enter shipping address...", c: "Input hint for entering an address during checkout")
+         #tkm("Enter shipping address…", c: "Input hint for entering an address during checkout")
       }
 
-      /// "Enter solution..." - Exercise completion
+      /// "Enter solution…" - Exercise completion
       public static var enterSolutionDots: String {
-         #tkm("Enter solution...", c: "Exercise completion")
+         #tkm("Enter solution…", c: "Exercise completion")
       }
 
-      /// "Enter streaming quality..." - Quality selection
+      /// "Enter streaming quality…" - Quality selection
       public static var enterStreamingQualityDots: String {
-         #tkm("Enter streaming quality...", c: "Quality selection")
+         #tkm("Enter streaming quality…", c: "Quality selection")
       }
 
-      /// "Enter task name..." - Input hint for adding a new task
+      /// "Enter task name…" - Input hint for adding a new task
       public static var enterTaskNameDots: String {
-         #tkm("Enter task name...", c: "Input hint for adding a new task")
+         #tkm("Enter task name…", c: "Input hint for adding a new task")
       }
 
-      /// "Enter task title..." - Task creation input
+      /// "Enter task title…" - Task creation input
       public static var enterTaskTitleDots: String {
-         #tkm("Enter task title...", c: "Task creation input")
+         #tkm("Enter task title…", c: "Task creation input")
       }
 
-      /// "Enter text..." - Generic placeholder for text input fields
+      /// "Enter text…" - Generic placeholder for text input fields
       public static var enterTextDots: String {
-         #tkm("Enter text...", c: "Generic placeholder for text input fields")
+         #tkm("Enter text…", c: "Generic placeholder for text input fields")
       }
 
-      /// "Enter time spent..." - Time tracking
+      /// "Enter time spent…" - Time tracking
       public static var enterTimeSpentDots: String {
-         #tkm("Enter time spent...", c: "Time tracking")
+         #tkm("Enter time spent…", c: "Time tracking")
       }
 
-      /// "Enter title..." - Title input field hint
+      /// "Enter title…" - Title input field hint
       public static var enterTitleDots: String {
-         #tkm("Enter title...", c: "Title input field hint")
+         #tkm("Enter title…", c: "Title input field hint")
       }
 
-      /// "Enter topic or keyword..." - Input hint for searching news topics
+      /// "Enter topic or keyword…" - Input hint for searching news topics
       public static var enterTopicOrKeywordDots: String {
-         #tkm("Enter topic or keyword...", c: "Input hint for searching news topics")
+         #tkm("Enter topic or keyword…", c: "Input hint for searching news topics")
       }
 
       /// "Enter username" - Username input instruction
@@ -483,39 +483,39 @@ extension TK {
          #tkm("Enter username", c: "Username input instruction")
       }
 
-      /// "Enter username..." - Placeholder for user profile creation
+      /// "Enter username…" - Placeholder for user profile creation
       public static var enterUsernameDots: String {
-         #tkm("Enter username...", c: "Placeholder for user profile creation")
+         #tkm("Enter username…", c: "Placeholder for user profile creation")
       }
 
-      /// "Enter watchlist name..." - List creation
+      /// "Enter watchlist name…" - List creation
       public static var enterWatchlistNameDots: String {
-         #tkm("Enter watchlist name...", c: "List creation")
+         #tkm("Enter watchlist name…", c: "List creation")
       }
 
-      /// "Enter weight..." - Input hint for tracking body weight
+      /// "Enter weight…" - Input hint for tracking body weight
       public static var enterWeightDots: String {
-         #tkm("Enter weight...", c: "Input hint for tracking body weight")
+         #tkm("Enter weight…", c: "Input hint for tracking body weight")
       }
 
-      /// "Enter Wi-Fi password..." - Input hint for entering Wi-Fi credentials
+      /// "Enter Wi-Fi password…" - Input hint for entering Wi-Fi credentials
       public static var enterWifiPasswordDots: String {
-         #tkm("Enter Wi-Fi password...", c: "Input hint for entering Wi-Fi credentials")
+         #tkm("Enter Wi-Fi password…", c: "Input hint for entering Wi-Fi credentials")
       }
 
-      /// "Enter workout duration..." - Input hint for tracking exercise length
+      /// "Enter workout duration…" - Input hint for tracking exercise length
       public static var enterWorkoutDurationDots: String {
-         #tkm("Enter workout duration...", c: "Input hint for tracking exercise length")
+         #tkm("Enter workout duration…", c: "Input hint for tracking exercise length")
       }
 
-      /// "Enter workspace name..." - Input hint for naming a workspace
+      /// "Enter workspace name…" - Input hint for naming a workspace
       public static var enterWorkspaceNameDots: String {
-         #tkm("Enter workspace name...", c: "Input hint for naming a workspace")
+         #tkm("Enter workspace name…", c: "Input hint for naming a workspace")
       }
 
-      /// "Enter ZIP code..." - Input hint for weather searches based on postal codes
+      /// "Enter ZIP code…" - Input hint for weather searches based on postal codes
       public static var enterZipCodeDots: String {
-         #tkm("Enter ZIP code...", c: "Input hint for weather searches based on postal codes")
+         #tkm("Enter ZIP code…", c: "Input hint for weather searches based on postal codes")
       }
 
       /// "e.g. 12/25" - Expiry date example
@@ -528,34 +528,34 @@ extension TK {
          #tkm("Exporting…", c: "Shown during exports")
       }
 
-      /// "Filter by year..." - Time filter
+      /// "Filter by year…" - Time filter
       public static var filterByYearDots: String {
-         #tkm("Filter by year...", c: "Time filter")
+         #tkm("Filter by year…", c: "Time filter")
       }
 
-      /// "Filter results..." - Filter input hint
+      /// "Filter results…" - Filter input hint
       public static var filterResultsDots: String {
-         #tkm("Filter results...", c: "Filter input hint")
+         #tkm("Filter results…", c: "Filter input hint")
       }
 
-      /// "Find a file..." - Placeholder for document search
+      /// "Find a file…" - Placeholder for document search
       public static var findFileDots: String {
-         #tkm("Find a file...", c: "Placeholder for document search")
+         #tkm("Find a file…", c: "Placeholder for document search")
       }
 
-      /// "Find nearby restaurants..." - Input hint for location-based searches
+      /// "Find nearby restaurants…" - Input hint for location-based searches
       public static var findNearbyRestaurantsDots: String {
-         #tkm("Find nearby restaurants...", c: "Input hint for location-based searches")
+         #tkm("Find nearby restaurants…", c: "Input hint for location-based searches")
       }
 
-      /// "Find your dream job..." - Placeholder for job search applications
+      /// "Find your dream job…" - Placeholder for job search applications
       public static var findYourDreamJobDots: String {
-         #tkm("Find your dream job...", c: "Placeholder for job search applications")
+         #tkm("Find your dream job…", c: "Placeholder for job search applications")
       }
 
-      /// "Find your friends..." - Placeholder for social discovery features
+      /// "Find your friends…" - Placeholder for social discovery features
       public static var findYourFriendsDots: String {
-         #tkm("Find your friends...", c: "Placeholder for social discovery features")
+         #tkm("Find your friends…", c: "Placeholder for social discovery features")
       }
 
       /// "e.g. Jane" - First name input example
@@ -568,9 +568,9 @@ extension TK {
          #tkm("Generating…", c: "Shown when generating content")
       }
 
-      /// "Generating preview..." - Preview creation state
+      /// "Generating preview…" - Preview creation state
       public static var generatingPreviewDots: String {
-         #tkm("Generating preview...", c: "Preview creation state")
+         #tkm("Generating preview…", c: "Preview creation state")
       }
 
       /// "Importing…" - Shown during imports
@@ -588,9 +588,9 @@ extension TK {
          #tkm("e.g. Doe", c: "Last name input example")
       }
 
-      /// "Loading..." - Placeholder when content is being fetched
+      /// "Loading…" - Placeholder when content is being fetched
       public static var loadingDots: String {
-         #tkm("Loading...", c: "Placeholder when content is being fetched")
+         #tkm("Loading…", c: "Placeholder when content is being fetched")
       }
 
       /// "Locating…" - Shown when determining location
@@ -598,74 +598,74 @@ extension TK {
          #tkm("Locating…", c: "Shown when determining location")
       }
 
-      /// "Log your meal..." - Placeholder for meal tracking input
+      /// "Log your meal…" - Placeholder for meal tracking input
       public static var logYourMealDots: String {
-         #tkm("Log your meal...", c: "Placeholder for meal tracking input")
+         #tkm("Log your meal…", c: "Placeholder for meal tracking input")
       }
 
-      /// "No articles available..." - Placeholder when there are no articles to display
+      /// "No articles available…" - Placeholder when there are no articles to display
       public static var noArticlesAvailableDots: String {
-         #tkm("No articles available...", c: "Placeholder when there are no articles to display")
+         #tkm("No articles available…", c: "Placeholder when there are no articles to display")
       }
 
-      /// "No available deals..." - Placeholder when no promotions are active
+      /// "No available deals…" - Placeholder when no promotions are active
       public static var noAvailableDealsDots: String {
-         #tkm("No available deals...", c: "Placeholder when no promotions are active")
+         #tkm("No available deals…", c: "Placeholder when no promotions are active")
       }
 
-      /// "No filters applied..." - Placeholder when no visual effects have been added
+      /// "No filters applied…" - Placeholder when no visual effects have been added
       public static var noFiltersAppliedDots: String {
-         #tkm("No filters applied...", c: "Placeholder when no visual effects have been added")
+         #tkm("No filters applied…", c: "Placeholder when no visual effects have been added")
       }
 
-      /// "No internet connection..." - Placeholder for offline news access
+      /// "No internet connection…" - Placeholder for offline news access
       public static var noInternetConnectionDots: String {
-         #tkm("No internet connection...", c: "Placeholder for offline news access")
+         #tkm("No internet connection…", c: "Placeholder for offline news access")
       }
 
-      /// "No items yet..." - Empty list placeholder message
+      /// "No items yet…" - Empty list placeholder message
       public static var noItemsYetDots: String {
-         #tkm("No items yet...", c: "Empty list placeholder message")
+         #tkm("No items yet…", c: "Empty list placeholder message")
       }
 
-      /// "No media available..." - Placeholder when there are no photos or videos in a gallery
+      /// "No media available…" - Placeholder when there are no photos or videos in a gallery
       public static var noMediaAvailableDots: String {
-         #tkm("No media available...", c: "Placeholder when there are no photos or videos in a gallery")
+         #tkm("No media available…", c: "Placeholder when there are no photos or videos in a gallery")
       }
 
-      /// "No messages..." - Empty inbox hint
+      /// "No messages…" - Empty inbox hint
       public static var noMessagesDots: String {
-         #tkm("No messages...", c: "Empty inbox hint")
+         #tkm("No messages…", c: "Empty inbox hint")
       }
 
-      /// "No orders yet..." - Placeholder when the user has not placed any orders
+      /// "No orders yet…" - Placeholder when the user has not placed any orders
       public static var noOrdersYetDots: String {
-         #tkm("No orders yet...", c: "Placeholder when the user has not placed any orders")
+         #tkm("No orders yet…", c: "Placeholder when the user has not placed any orders")
       }
 
-      /// "No results found..." - Empty search result hint
+      /// "No results found…" - Empty search result hint
       public static var noResultsDots: String {
-         #tkm("No results found...", c: "Empty search result hint")
+         #tkm("No results found…", c: "Empty search result hint")
       }
 
-      /// "No results found..." - Placeholder when searches return no matches
+      /// "No results found…" - Placeholder when searches return no matches
       public static var noResultsFoundDots: String {
-         #tkm("No results found...", c: "Placeholder when searches return no matches")
+         #tkm("No results found…", c: "Placeholder when searches return no matches")
       }
 
-      /// "Nothing here yet..." - Generic empty state hint
+      /// "Nothing here yet…" - Generic empty state hint
       public static var nothingHereYetDots: String {
-         #tkm("Nothing here yet...", c: "Generic empty state hint")
+         #tkm("Nothing here yet…", c: "Generic empty state hint")
       }
 
-      /// "No alerts at this time..." - Placeholder when there are no severe weather warnings
+      /// "No alerts at this time…" - Placeholder when there are no severe weather warnings
       public static var noWeatherAlertsDots: String {
-         #tkm("No alerts at this time...", c: "Placeholder when there are no severe weather warnings")
+         #tkm("No alerts at this time…", c: "Placeholder when there are no severe weather warnings")
       }
 
-      /// "No weather data available..." - Placeholder when forecast data is missing
+      /// "No weather data available…" - Placeholder when forecast data is missing
       public static var noWeatherDataAvailableDots: String {
-         #tkm("No weather data available...", c: "Placeholder when forecast data is missing")
+         #tkm("No weather data available…", c: "Placeholder when forecast data is missing")
       }
 
       /// "e.g. +1 (555) 123-4567" - Phone number input example
@@ -683,7 +683,7 @@ extension TK {
          #tkm("Preparing…", c: "Shown when preparing content")
       }
 
-      /// "Processing..." - Shown during ongoing operations
+      /// "Processing…" - Shown during ongoing operations
       public static var processing: String {
          #tkm("Processing", c: "Shown during ongoing operations")
       }
@@ -693,9 +693,9 @@ extension TK {
          #tkm("Processing…", c: "Shown during background operations")
       }
 
-      /// "Processing request..." - Request processing state
+      /// "Processing request…" - Request processing state
       public static var processingRequestDots: String {
-         #tkm("Processing request...", c: "Request processing state")
+         #tkm("Processing request…", c: "Request processing state")
       }
 
       /// "Recording…" - Shown during audio/video recording
@@ -718,89 +718,89 @@ extension TK {
          #tkm("Scanning…", c: "Shown during scan operations")
       }
 
-      /// "Scan QR code..." - Placeholder for scanning QR codes
+      /// "Scan QR code…" - Placeholder for scanning QR codes
       public static var scanQRCodeDots: String {
-         #tkm("Scan QR code...", c: "Placeholder for scanning QR codes")
+         #tkm("Scan QR code…", c: "Placeholder for scanning QR codes")
       }
 
-      /// "Search artists..." - Creator search
+      /// "Search artists…" - Creator search
       public static var searchArtistsDots: String {
-         #tkm("Search artists...", c: "Creator search")
+         #tkm("Search artists…", c: "Creator search")
       }
 
-      /// "Search by name..." - Input hint for name search
+      /// "Search by name…" - Input hint for name search
       public static var searchByNameDots: String {
-         #tkm("Search by name...", c: "Input hint for name search")
+         #tkm("Search by name…", c: "Input hint for name search")
       }
 
-      /// "Search cast..." - People search
+      /// "Search cast…" - People search
       public static var searchCastDots: String {
-         #tkm("Search cast...", c: "People search")
+         #tkm("Search cast…", c: "People search")
       }
 
-      /// "Search contacts..." - Contact search hint
+      /// "Search contacts…" - Contact search hint
       public static var searchContactsDots: String {
-         #tkm("Search contacts...", c: "Contact search hint")
+         #tkm("Search contacts…", c: "Contact search hint")
       }
 
-      /// "Search courses..." - Content discovery
+      /// "Search courses…" - Content discovery
       public static var searchCoursesDots: String {
-         #tkm("Search courses...", c: "Content discovery")
+         #tkm("Search courses…", c: "Content discovery")
       }
 
-      /// "Search documents..." - File search
+      /// "Search documents…" - File search
       public static var searchDocumentsDots: String {
-         #tkm("Search documents...", c: "File search")
+         #tkm("Search documents…", c: "File search")
       }
 
-      /// "Search..." - Generic placeholder for search fields
+      /// "Search…" - Generic placeholder for search fields
       public static var searchDots: String {
-         #tkm("Search...", c: "Generic placeholder for search fields")
+         #tkm("Search…", c: "Generic placeholder for search fields")
       }
 
-      /// "Search downloads..." - Offline content
+      /// "Search downloads…" - Offline content
       public static var searchDownloadsDots: String {
-         #tkm("Search downloads...", c: "Offline content")
+         #tkm("Search downloads…", c: "Offline content")
       }
 
-      /// "Search effects..." - Placeholder for browsing available visual effects
+      /// "Search effects…" - Placeholder for browsing available visual effects
       public static var searchEffectsDots: String {
-         #tkm("Search effects...", c: "Placeholder for browsing available visual effects")
+         #tkm("Search effects…", c: "Placeholder for browsing available visual effects")
       }
 
-      /// "Search episodes..." - Content navigation
+      /// "Search episodes…" - Content navigation
       public static var searchEpisodesDots: String {
-         #tkm("Search episodes...", c: "Content navigation")
+         #tkm("Search episodes…", c: "Content navigation")
       }
 
-      /// "Search files..." - Placeholder for searching files within a file manager
+      /// "Search files…" - Placeholder for searching files within a file manager
       public static var searchFilesDots: String {
-         #tkm("Search files...", c: "Placeholder for searching files within a file manager")
+         #tkm("Search files…", c: "Placeholder for searching files within a file manager")
       }
 
-      /// "Search for an exercise..." - Placeholder for finding workouts in a database
+      /// "Search for an exercise…" - Placeholder for finding workouts in a database
       public static var searchForExerciseDots: String {
-         #tkm("Search for an exercise...", c: "Placeholder for finding workouts in a database")
+         #tkm("Search for an exercise…", c: "Placeholder for finding workouts in a database")
       }
 
-      /// "Search for experiences..." - Placeholder for activity-related lifestyle apps
+      /// "Search for experiences…" - Placeholder for activity-related lifestyle apps
       public static var searchForExperiencesDots: String {
-         #tkm("Search for experiences...", c: "Placeholder for activity-related lifestyle apps")
+         #tkm("Search for experiences…", c: "Placeholder for activity-related lifestyle apps")
       }
 
-      /// "Search for a home..." - Input hint for real estate browsing
+      /// "Search for a home…" - Input hint for real estate browsing
       public static var searchForHomeDots: String {
-         #tkm("Search for a home...", c: "Input hint for real estate browsing")
+         #tkm("Search for a home…", c: "Input hint for real estate browsing")
       }
 
-      /// "Search for a player..." - Placeholder for searching friends or opponents
+      /// "Search for a player…" - Placeholder for searching friends or opponents
       public static var searchForPlayerDots: String {
-         #tkm("Search for a player...", c: "Placeholder for searching friends or opponents")
+         #tkm("Search for a player…", c: "Placeholder for searching friends or opponents")
       }
 
-      /// "Search hotels..." - Placeholder for finding available accommodations
+      /// "Search hotels…" - Placeholder for finding available accommodations
       public static var searchHotelsDots: String {
-         #tkm("Search hotels...", c: "Placeholder for finding available accommodations")
+         #tkm("Search hotels…", c: "Placeholder for finding available accommodations")
       }
 
       /// "Searching…" - Search in progress state
@@ -808,129 +808,129 @@ extension TK {
          #tkm("Searching…", c: "Search in progress state")
       }
 
-      /// "Search legal documents..." - Placeholder for browsing terms, privacy policies, or agreements
+      /// "Search legal documents…" - Placeholder for browsing terms, privacy policies, or agreements
       public static var searchLegalDocumentsDots: String {
-         #tkm("Search legal documents...", c: "Placeholder for browsing terms, privacy policies, or agreements")
+         #tkm("Search legal documents…", c: "Placeholder for browsing terms, privacy policies, or agreements")
       }
 
-      /// "Search locations..." - Location search hint
+      /// "Search locations…" - Location search hint
       public static var searchLocationsDots: String {
-         #tkm("Search locations...", c: "Location search hint")
+         #tkm("Search locations…", c: "Location search hint")
       }
 
-      /// "Search logs..." - Placeholder for searching system or app logs
+      /// "Search logs…" - Placeholder for searching system or app logs
       public static var searchLogsDots: String {
-         #tkm("Search logs...", c: "Placeholder for searching system or app logs")
+         #tkm("Search logs…", c: "Placeholder for searching system or app logs")
       }
 
-      /// "Search messages..." - Message search hint
+      /// "Search messages…" - Message search hint
       public static var searchMessagesDots: String {
-         #tkm("Search messages...", c: "Message search hint")
+         #tkm("Search messages…", c: "Message search hint")
       }
 
-      /// "Search movies and shows..." - Content search
+      /// "Search movies and shows…" - Content search
       public static var searchMoviesAndShowsDots: String {
-         #tkm("Search movies and shows...", c: "Content search")
+         #tkm("Search movies and shows…", c: "Content search")
       }
 
-      /// "Search news..." - Placeholder for news search bar
+      /// "Search news…" - Placeholder for news search bar
       public static var searchNewsDots: String {
-         #tkm("Search news...", c: "Placeholder for news search bar")
+         #tkm("Search news…", c: "Placeholder for news search bar")
       }
 
-      /// "Search photos..." - Placeholder for searching in a gallery
+      /// "Search photos…" - Placeholder for searching in a gallery
       public static var searchPhotosDots: String {
-         #tkm("Search photos...", c: "Placeholder for searching in a gallery")
+         #tkm("Search photos…", c: "Placeholder for searching in a gallery")
       }
 
-      /// "Search places..." - Placeholder for searching locations
+      /// "Search places…" - Placeholder for searching locations
       public static var searchPlacesDots: String {
-         #tkm("Search places...", c: "Placeholder for searching locations")
+         #tkm("Search places…", c: "Placeholder for searching locations")
       }
 
-      /// "Search playlists..." - Collection search
+      /// "Search playlists…" - Collection search
       public static var searchPlaylistsDots: String {
-         #tkm("Search playlists...", c: "Collection search")
+         #tkm("Search playlists…", c: "Collection search")
       }
 
-      /// "Search practice exercises..." - Training search
+      /// "Search practice exercises…" - Training search
       public static var searchPracticeExercisesDots: String {
-         #tkm("Search practice exercises...", c: "Training search")
+         #tkm("Search practice exercises…", c: "Training search")
       }
 
-      /// "Search products..." - Placeholder for searching an online store
+      /// "Search products…" - Placeholder for searching an online store
       public static var searchProductsDots: String {
-         #tkm("Search products...", c: "Placeholder for searching an online store")
+         #tkm("Search products…", c: "Placeholder for searching an online store")
       }
 
-      /// "Search projects..." - Placeholder for finding specific projects
+      /// "Search projects…" - Placeholder for finding specific projects
       public static var searchProjectsDots: String {
-         #tkm("Search projects...", c: "Placeholder for finding specific projects")
+         #tkm("Search projects…", c: "Placeholder for finding specific projects")
       }
 
-      /// "Search reminders..." - Placeholder for looking up scheduled reminders
+      /// "Search reminders…" - Placeholder for looking up scheduled reminders
       public static var searchRemindersDots: String {
-         #tkm("Search reminders...", c: "Placeholder for looking up scheduled reminders")
+         #tkm("Search reminders…", c: "Placeholder for looking up scheduled reminders")
       }
 
-      /// "Search resources..." - Asset management
+      /// "Search resources…" - Asset management
       public static var searchResourcesDots: String {
-         #tkm("Search resources...", c: "Asset management")
+         #tkm("Search resources…", c: "Asset management")
       }
 
-      /// "Search restaurants..." - Input hint for food discovery apps
+      /// "Search restaurants…" - Input hint for food discovery apps
       public static var searchRestaurantsDots: String {
-         #tkm("Search restaurants...", c: "Input hint for food discovery apps")
+         #tkm("Search restaurants…", c: "Input hint for food discovery apps")
       }
 
-      /// "Search study materials..." - Resource search
+      /// "Search study materials…" - Resource search
       public static var searchStudyMaterialsDots: String {
-         #tkm("Search study materials...", c: "Resource search")
+         #tkm("Search study materials…", c: "Resource search")
       }
 
-      /// "Search team members..." - Collaborator search
+      /// "Search team members…" - Collaborator search
       public static var searchTeamMembersDots: String {
-         #tkm("Search team members...", c: "Collaborator search")
+         #tkm("Search team members…", c: "Collaborator search")
       }
 
-      /// "Search transactions..." - Placeholder for transaction search
+      /// "Search transactions…" - Placeholder for transaction search
       public static var searchTransactionsDots: String {
-         #tkm("Search transactions...", c: "Placeholder for transaction search")
+         #tkm("Search transactions…", c: "Placeholder for transaction search")
       }
 
-      /// "Search trending topics..." - Placeholder for discovering popular discussions
+      /// "Search trending topics…" - Placeholder for discovering popular discussions
       public static var searchTrendingTopicsDots: String {
-         #tkm("Search trending topics...", c: "Placeholder for discovering popular discussions")
+         #tkm("Search trending topics…", c: "Placeholder for discovering popular discussions")
       }
 
-      /// "Search tutors..." - Help search
+      /// "Search tutors…" - Help search
       public static var searchTutorsDots: String {
-         #tkm("Search tutors...", c: "Help search")
+         #tkm("Search tutors…", c: "Help search")
       }
 
-      /// "Search users..." - Placeholder for finding accounts
+      /// "Search users…" - Placeholder for finding accounts
       public static var searchUsersDots: String {
-         #tkm("Search users...", c: "Placeholder for finding accounts")
+         #tkm("Search users…", c: "Placeholder for finding accounts")
       }
 
-      /// "Search weather by location..." - Input hint for location-based weather search
+      /// "Search weather by location…" - Input hint for location-based weather search
       public static var searchWeatherByLocationDots: String {
-         #tkm("Search weather by location...", c: "Input hint for location-based weather search")
+         #tkm("Search weather by location…", c: "Input hint for location-based weather search")
       }
 
-      /// "Select a frame..." - Input hint for choosing a specific video frame
+      /// "Select a frame…" - Input hint for choosing a specific video frame
       public static var selectFrameDots: String {
-         #tkm("Select a frame...", c: "Input hint for choosing a specific video frame")
+         #tkm("Select a frame…", c: "Input hint for choosing a specific video frame")
       }
 
-      /// "Select temperature unit..." - Placeholder for choosing Fahrenheit or Celsius
+      /// "Select temperature unit…" - Placeholder for choosing Fahrenheit or Celsius
       public static var selectTemperatureUnitDots: String {
-         #tkm("Select temperature unit...", c: "Placeholder for choosing Fahrenheit or Celsius")
+         #tkm("Select temperature unit…", c: "Placeholder for choosing Fahrenheit or Celsius")
       }
 
-      /// "Select time..." - Time selection hint
+      /// "Select time…" - Time selection hint
       public static var selectTimeDots: String {
-         #tkm("Select time...", c: "Time selection hint")
+         #tkm("Select time…", c: "Time selection hint")
       }
 
       /// "Sending…" - Shown when sending data
@@ -938,39 +938,39 @@ extension TK {
          #tkm("Sending…", c: "Shown when sending data")
       }
 
-      /// "Send a message..." - Placeholder for direct messaging input
+      /// "Send a message…" - Placeholder for direct messaging input
       public static var sendMessageDots: String {
-         #tkm("Send a message...", c: "Placeholder for direct messaging input")
+         #tkm("Send a message…", c: "Placeholder for direct messaging input")
       }
 
-      /// "Set due date..." - Placeholder for selecting task deadlines
+      /// "Set due date…" - Placeholder for selecting task deadlines
       public static var setDueDateDots: String {
-         #tkm("Set due date...", c: "Placeholder for selecting task deadlines")
+         #tkm("Set due date…", c: "Placeholder for selecting task deadlines")
       }
 
-      /// "Set a fitness goal..." - Placeholder for user-defined targets
+      /// "Set a fitness goal…" - Placeholder for user-defined targets
       public static var setFitnessGoalDots: String {
-         #tkm("Set a fitness goal...", c: "Placeholder for user-defined targets")
+         #tkm("Set a fitness goal…", c: "Placeholder for user-defined targets")
       }
 
-      /// "Set preferred weather location..." - Placeholder for selecting a default city
+      /// "Set preferred weather location…" - Placeholder for selecting a default city
       public static var setPreferredWeatherLocationDots: String {
-         #tkm("Set preferred weather location...", c: "Placeholder for selecting a default city")
+         #tkm("Set preferred weather location…", c: "Placeholder for selecting a default city")
       }
 
-      /// "Set reminder..." - Task reminder
+      /// "Set reminder…" - Task reminder
       public static var setReminderDots: String {
-         #tkm("Set reminder...", c: "Task reminder")
+         #tkm("Set reminder…", c: "Task reminder")
       }
 
-      /// "Set reminder time..." - Study schedule
+      /// "Set reminder time…" - Study schedule
       public static var setReminderTimeDots: String {
-         #tkm("Set reminder time...", c: "Study schedule")
+         #tkm("Set reminder time…", c: "Study schedule")
       }
 
-      /// "Set study goal..." - Target setting
+      /// "Set study goal…" - Target setting
       public static var setStudyGoalDots: String {
-         #tkm("Set study goal...", c: "Target setting")
+         #tkm("Set study goal…", c: "Target setting")
       }
 
       /// "e.g. CA" - State/province input example
@@ -983,9 +983,9 @@ extension TK {
          #tkm("Syncing…", c: "Shown during synchronization")
       }
 
-      /// "Syncing with iCloud..." - Shown during cloud data synchronization
+      /// "Syncing with iCloud…" - Shown during cloud data synchronization
       public static var syncingWithICloudDots: String {
-         #tkm("Syncing with iCloud...", c: "Shown during cloud data synchronization")
+         #tkm("Syncing with iCloud…", c: "Shown during cloud data synchronization")
       }
 
       /// "e.g. Software Engineer" - Title/role input example
@@ -993,14 +993,14 @@ extension TK {
          #tkm("e.g. Software Engineer", c: "Title/role input example")
       }
 
-      /// "Type a comment..." - Input hint for adding a comment to an article
+      /// "Type a comment…" - Input hint for adding a comment to an article
       public static var typeACommentDots: String {
-         #tkm("Type a comment...", c: "Input hint for adding a comment to an article")
+         #tkm("Type a comment…", c: "Input hint for adding a comment to an article")
       }
 
-      /// "Type a message..." - Input hint for messaging apps or chat boxes
+      /// "Type a message…" - Input hint for messaging apps or chat boxes
       public static var typeMessageDots: String {
-         #tkm("Type a message...", c: "Input hint for messaging apps or chat boxes")
+         #tkm("Type a message…", c: "Input hint for messaging apps or chat boxes")
       }
 
       /// "Updating…" - Shown during updates
@@ -1028,9 +1028,9 @@ extension TK {
          #tkm("Waiting…", c: "Generic waiting state")
       }
 
-      /// "Waiting for players..." - Placeholder when matchmaking is in progress
+      /// "Waiting for players…" - Placeholder when matchmaking is in progress
       public static var waitingForPlayersDots: String {
-         #tkm("Waiting for players...", c: "Placeholder when matchmaking is in progress")
+         #tkm("Waiting for players…", c: "Placeholder when matchmaking is in progress")
       }
 
       /// "e.g. www.example.com" - Website input example
@@ -1038,39 +1038,39 @@ extension TK {
          #tkm("e.g. www.example.com", c: "Website input example")
       }
 
-      /// "Write your comment..." - Input hint for text feedback
+      /// "Write your comment…" - Input hint for text feedback
       public static var writeCommentDots: String {
-         #tkm("Write your comment...", c: "Input hint for text feedback")
+         #tkm("Write your comment…", c: "Input hint for text feedback")
       }
 
-      /// "Write meeting notes..." - Input hint for adding meeting details
+      /// "Write meeting notes…" - Input hint for adding meeting details
       public static var writeMeetingNotesDots: String {
-         #tkm("Write meeting notes...", c: "Input hint for adding meeting details")
+         #tkm("Write meeting notes…", c: "Input hint for adding meeting details")
       }
 
-      /// "Write a post..." - Placeholder for status updates
+      /// "Write a post…" - Placeholder for status updates
       public static var writePostDots: String {
-         #tkm("Write a post...", c: "Placeholder for status updates")
+         #tkm("Write a post…", c: "Placeholder for status updates")
       }
 
-      /// "Write reflection..." - Learning journal
+      /// "Write reflection…" - Learning journal
       public static var writeReflectionDots: String {
-         #tkm("Write reflection...", c: "Learning journal")
+         #tkm("Write reflection…", c: "Learning journal")
       }
 
-      /// "Write a reply..." - Reply input hint
+      /// "Write a reply…" - Reply input hint
       public static var writeReplyDots: String {
-         #tkm("Write a reply...", c: "Reply input hint")
+         #tkm("Write a reply…", c: "Reply input hint")
       }
 
-      /// "Write a review..." - Placeholder for user-generated product reviews
+      /// "Write a review…" - Placeholder for user-generated product reviews
       public static var writeReviewDots: String {
-         #tkm("Write a review...", c: "Placeholder for user-generated product reviews")
+         #tkm("Write a review…", c: "Placeholder for user-generated product reviews")
       }
 
-      /// "Write your opinion..." - Placeholder for user-generated opinion pieces
+      /// "Write your opinion…" - Placeholder for user-generated opinion pieces
       public static var writeYourOpinionDots: String {
-         #tkm("Write your opinion...", c: "Placeholder for user-generated opinion pieces")
+         #tkm("Write your opinion…", c: "Placeholder for user-generated opinion pieces")
       }
    }
 }

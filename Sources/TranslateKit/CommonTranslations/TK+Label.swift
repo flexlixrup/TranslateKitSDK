@@ -1313,16 +1313,6 @@ extension TK {
          #tkm("Location", c: "Use for GPS or user-specified place tracking")
       }
 
-      /// "Lock" - Use for security-related options or status
-      public static var lock: String {
-         #tkm("Lock", c: "Use for security-related options or status")
-      }
-
-      /// "Log Out" - Use for user account session termination options
-      public static var logOut: String {
-         #tkm("Log Out", c: "Use for user account session termination options")
-      }
-
       /// "Longitude" - Use for geolocation data representation
       public static var longitude: String {
          #tkm("Longitude", c: "Use for geolocation data representation")
@@ -1478,11 +1468,6 @@ extension TK {
          #tkm("New Releases", c: "Latest content")
       }
 
-      /// "Next" - Use for advancing to the next step or screen
-      public static var next: String {
-         #tkm("Next", c: "Use for advancing to the next step or screen")
-      }
-
       /// "Night Mode" - Use for dark theme settings
       public static var nightMode: String {
          #tkm("Night Mode", c: "Use for dark theme settings")
@@ -1526,11 +1511,6 @@ extension TK {
       /// "Online" - Use for status indicators showing internet connectivity
       public static var online: String {
          #tkm("Online", c: "Use for status indicators showing internet connectivity")
-      }
-
-      /// "Open" - Use for actions that expand content or launch apps
-      public static var open: String {
-         #tkm("Open", c: "Use for actions that expand content or launch apps")
       }
 
       /// "Opinion" - Use when categorizing opinion pieces
@@ -1668,11 +1648,6 @@ extension TK {
          #tkm("Privacy Policy", c: "Use when referring to the data privacy document")
       }
 
-      /// "Processing" - Use to indicate an ongoing operation or calculation
-      public static var processing: String {
-         #tkm("Processing", c: "Use to indicate an ongoing operation or calculation")
-      }
-
       /// "Profile" - Use when referring to a user's personal page
       public static var profile: String {
          #tkm("Profile", c: "Use when referring to a user's personal page")
@@ -1743,11 +1718,6 @@ extension TK {
          #tkm("Recent Photos", c: "Use when displaying the latest captured or saved images")
       }
 
-      /// "Record" - Use for starting or managing recordings
-      public static var record: String {
-         #tkm("Record", c: "Use for starting or managing recordings")
-      }
-
       /// "Recurring" - Use for events or actions that repeat over time
       public static var recurring: String {
          #tkm("Recurring", c: "Use for events or actions that repeat over time")
@@ -1756,11 +1726,6 @@ extension TK {
       /// "Recurring Payments" - Use for scheduled payments that repeat
       public static var recurringPayments: String {
          #tkm("Recurring Payments", c: "Use for scheduled payments that repeat")
-      }
-
-      /// "Refresh" - Use for manually updating content or data
-      public static var refresh: String {
-         #tkm("Refresh", c: "Use for manually updating content or data")
       }
 
       /// "Registration" - Use for sign-up or account creation processes
@@ -1783,39 +1748,9 @@ extension TK {
          #tkm("Remote", c: "Use for features involving remote control or connections")
       }
 
-      /// "Remove" - Use for deleting or eliminating items from a list
-      public static var remove: String {
-         #tkm("Remove", c: "Use for deleting or eliminating items from a list")
-      }
-
-      /// "Rename" - Use for modifying the name of an item
-      public static var rename: String {
-         #tkm("Rename", c: "Use for modifying the name of an item")
-      }
-
-      /// "Repeat" - Use for actions that occur multiple times or cyclically
-      public static var repeatAction: String {
-         #tkm("Repeat", c: "Use for actions that occur multiple times or cyclically")
-      }
-
-      /// "Replace" - Use for substituting one item with another
-      public static var replace: String {
-         #tkm("Replace", c: "Use for substituting one item with another")
-      }
-
-      /// "Report" - Use for flagging content or submitting feedback
-      public static var report: String {
-         #tkm("Report", c: "Use for flagging content or submitting feedback")
-      }
-
       /// "Required" - Use for fields or inputs that must be completed
       public static var required: String {
          #tkm("Required", c: "Use for fields or inputs that must be completed")
-      }
-
-      /// "Reset" - Use for restoring default settings or clearing data
-      public static var reset: String {
-         #tkm("Reset", c: "Use for restoring default settings or clearing data")
       }
 
       /// "Resolution" - Use when showing the quality of a photo or video
@@ -1833,16 +1768,6 @@ extension TK {
          #tkm("Resources", c: "Use for educational or informational material sections")
       }
 
-      /// "Restart" - Use for rebooting a system or restarting an application
-      public static var restart: String {
-         #tkm("Restart", c: "Use for rebooting a system or restarting an application")
-      }
-
-      /// "Restore" - Use for recovering previously saved data or settings
-      public static var restore: String {
-         #tkm("Restore", c: "Use for recovering previously saved data or settings")
-      }
-
       /// "Restricted" - Use for content with limited access permissions
       public static var restricted: String {
          #tkm("Restricted", c: "Use for content with limited access permissions")
@@ -1858,11 +1783,6 @@ extension TK {
          #tkm("Reviews", c: "Use when displaying user feedback for services or products")
       }
 
-      /// "Rewind" - Use for media playback controls to go back
-      public static var rewind: String {
-         #tkm("Rewind", c: "Use for media playback controls to go back")
-      }
-
       /// "Role" - Use for user roles or access level settings
       public static var role: String {
          #tkm("Role", c: "Use for user roles or access level settings")
@@ -1871,16 +1791,6 @@ extension TK {
       /// "Row Count" - Use for displaying number of items in a list
       public static var rowCount: String {
          #tkm("Row Count", c: "Use for displaying number of items in a list")
-      }
-
-      /// "Save" - Use for actions that store changes or data
-      public static var save: String {
-         #tkm("Save", c: "Use for actions that store changes or data")
-      }
-
-      /// "Scan" - Use for QR code scanning or document scanning features
-      public static var scan: String {
-         #tkm("Scan", c: "Use for QR code scanning or document scanning features")
       }
 
       /// "Schedule" - Use for calendar events or time-based tasks
@@ -1923,16 +1833,6 @@ extension TK {
          #tkm("Security Settings", c: "Use when referring to privacy and security configurations")
       }
 
-      /// "Select" - Use for choosing from multiple options
-      public static var select: String {
-         #tkm("Select", c: "Use for choosing from multiple options")
-      }
-
-      /// "Send" - Use for transmitting messages, emails, or requests
-      public static var send: String {
-         #tkm("Send", c: "Use for transmitting messages, emails, or requests")
-      }
-
       /// "Server" - Use for backend or cloud service settings
       public static var server: String {
          #tkm("Server", c: "Use for backend or cloud service settings")
@@ -1941,11 +1841,6 @@ extension TK {
       /// "Settings" - Use when referring to configuration or app preferences
       public static var settings: String {
          #tkm("Settings", c: "Use when referring to configuration or app preferences")
-      }
-
-      /// "Share" - Use for content-sharing actions
-      public static var share: String {
-         #tkm("Share", c: "Use for content-sharing actions")
       }
 
       /// "Shared With Me" - Use when referring to files or tasks assigned by others
@@ -1968,11 +1863,6 @@ extension TK {
          #tkm("Shortcut", c: "Use for quick access buttons or key combinations")
       }
 
-      /// "Show" - Use for revealing hidden content
-      public static var show: String {
-         #tkm("Show", c: "Use for revealing hidden content")
-      }
-
       /// "Shutdown" - Use for powering down a device or application
       public static var shutdown: String {
          #tkm("Shutdown", c: "Use for powering down a device or application")
@@ -1993,11 +1883,6 @@ extension TK {
          #tkm("Size", c: "Use for dimensions or file size indicators")
       }
 
-      /// "Skip" - Use for bypassing content or steps
-      public static var skip: String {
-         #tkm("Skip", c: "Use for bypassing content or steps")
-      }
-
       /// "Sleep" - Use for power-saving or sleep mode settings
       public static var sleep: String {
          #tkm("Sleep", c: "Use for power-saving or sleep mode settings")
@@ -2008,11 +1893,6 @@ extension TK {
          #tkm("Sleep Duration", c: "Use when showing how long the user has slept")
       }
 
-      /// "Sort" - Use for ordering lists or content
-      public static var sort: String {
-         #tkm("Sort", c: "Use for ordering lists or content")
-      }
-
       /// "Source" - Use for content origin or data input sources
       public static var source: String {
          #tkm("Source", c: "Use for content origin or data input sources")
@@ -2021,11 +1901,6 @@ extension TK {
       /// "Speed" - Use for network or performance speed indicators
       public static var speed: String {
          #tkm("Speed", c: "Use for network or performance speed indicators")
-      }
-
-      /// "Start" - Use for initiating processes or actions
-      public static var start: String {
-         #tkm("Start", c: "Use for initiating processes or actions")
       }
 
       /// "Statistics" - Data analysis section
@@ -2106,11 +1981,6 @@ extension TK {
       /// "Support" - Use for help desk or customer service sections
       public static var support: String {
          #tkm("Support", c: "Use for help desk or customer service sections")
-      }
-
-      /// "Sync" - Use for data synchronization processes
-      public static var sync: String {
-         #tkm("Sync", c: "Use for data synchronization processes")
       }
 
       /// "Sync Status" - Data synchronization state
@@ -2293,16 +2163,6 @@ extension TK {
          #tkm("Tutorial", c: "Use for instructional content and guides")
       }
 
-      /// "Undo" - Use for reversing previous actions
-      public static var undo: String {
-         #tkm("Undo", c: "Use for reversing previous actions")
-      }
-
-      /// "Uninstall" - Use for app removal actions
-      public static var uninstall: String {
-         #tkm("Uninstall", c: "Use for app removal actions")
-      }
-
       /// "Unknown" - Use when the state or identity is not clear or available
       public static var unknown: String {
          #tkm("Unknown", c: "Use when the state or identity is not clear or available")
@@ -2311,16 +2171,6 @@ extension TK {
       /// "Unread" - Use for marking content that hasn't been viewed
       public static var unread: String {
          #tkm("Unread", c: "Use for marking content that hasn't been viewed")
-      }
-
-      /// "Update" - Use for software and system updates
-      public static var update: String {
-         #tkm("Update", c: "Use for software and system updates")
-      }
-
-      /// "Upload" - Use for data and media transfer
-      public static var upload: String {
-         #tkm("Upload", c: "Use for data and media transfer")
       }
 
       /// "Usage" - Use for monitoring resource consumption
@@ -2481,11 +2331,6 @@ extension TK {
       /// "Zip Code" - Use for postal code input fields
       public static var zipCode: String {
          #tkm("Zip Code", c: "Use for postal code input fields")
-      }
-
-      /// "Zoom" - Use for magnification and scaling actions
-      public static var zoom: String {
-         #tkm("Zoom", c: "Use for magnification and scaling actions")
       }
    }
 }

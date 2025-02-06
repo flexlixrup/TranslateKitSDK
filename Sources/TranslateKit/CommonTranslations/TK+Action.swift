@@ -253,6 +253,11 @@ extension TK {
          #tkm("Back", c: "Use when navigating to a previous screen")
       }
 
+      /// "Backup" - Use for settings related to data backup and storage
+      public static var backup: String {
+         #tkm("Backup", c: "Use for settings related to data backup and storage")
+      }
+
       /// "Backup Data" - Use when manually backing up files or settings
       public static var backupData: String {
          #tkm("Backup Data", c: "Use when manually backing up files or settings")
@@ -528,6 +533,11 @@ extension TK {
          #tkm("Create Task", c: "Use when adding a new to-do or task")
       }
 
+      /// "Crop" - Use when resizing an image
+      public static var crop: String {
+         #tkm("Crop", c: "Use when resizing an image")
+      }
+
       /// "Crop Image" - Use when resizing an image
       public static var cropImage: String {
          #tkm("Crop Image", c: "Use when resizing an image")
@@ -738,9 +748,19 @@ extension TK {
          #tkm("Enable Weather Alerts", c: "Use when turning on notifications for severe weather")
       }
 
+      /// "Encrypt" - Use when securing a file with encryption
+      public static var encrypt: String {
+         #tkm("Encrypt", c: "Use when securing a file with encryption")
+      }
+
       /// "Encrypt File" - Use when securing a file with encryption
       public static var encryptFile: String {
          #tkm("Encrypt File", c: "Use when securing a file with encryption")
+      }
+
+      /// "End" - Use when indicating the end of something
+      public static var end: String {
+         #tkm("End", c: "Use when indicating the end of something")
       }
 
       /// "End Call" - Use for terminating an ongoing call
@@ -766,6 +786,11 @@ extension TK {
       /// "Equip Item" - Use when selecting gear or weapons for use
       public static var equipItem: String {
          #tkm("Equip Item", c: "Use when selecting gear or weapons for use")
+      }
+
+      /// "Erase" - Use when permanently removing stored information
+      public static var erase: String {
+         #tkm("Erase", c: "Use when permanently removing stored information")
       }
 
       /// "Erase Data" - Use when permanently removing stored information
@@ -943,14 +968,14 @@ extension TK {
          #tkm("Highlight", c: "Use for marking important content")
       }
 
-      /// "Ignore" - Use when dismissing a notification or suggestion
-      public static var ignore: String {
-         #tkm("Ignore", c: "Use when dismissing a notification or suggestion")
-      }
-
       /// "Import" - File import action
       public static var `import`: String {
          #tkm("Import", c: "File import action")
+      }
+
+      /// "Ignore" - Use when dismissing a notification or suggestion
+      public static var ignore: String {
+         #tkm("Ignore", c: "Use when dismissing a notification or suggestion")
       }
 
       /// "Increase" - Use when raising a numerical value
@@ -1298,6 +1323,11 @@ extension TK {
          #tkm("Read Article", c: "Use when opening an article for reading")
       }
 
+      /// "Record" - Use for starting or managing recordings
+      public static var record: String {
+         #tkm("Record", c: "Use for starting or managing recordings")
+      }
+
       /// "Record Video" - Use when starting a video recording
       public static var recordVideo: String {
          #tkm("Record Video", c: "Use when starting a video recording")
@@ -1341,6 +1371,11 @@ extension TK {
       /// "Rent Now" - Use when renting an item, property, or vehicle
       public static var rentNow: String {
          #tkm("Rent Now", c: "Use when renting an item, property, or vehicle")
+      }
+
+      /// "Repeat" - Use for recurring actions or media playback
+      public static var `repeat`: String {
+         #tkm("Repeat", c: "Use for recurring actions or media playback")
       }
 
       /// "Repeat" - Use for recurring actions or media playback
@@ -1438,6 +1473,11 @@ extension TK {
          #tkm("Reset Progress", c: "Start over")
       }
 
+      /// "Resize" - Use for adjusting dimensions
+      public static var resize: String {
+         #tkm("Resize", c: "Use for adjusting dimensions")
+      }
+
       /// "Respawn" - Use when bringing a player back into the game after being eliminated
       public static var respawn: String {
          #tkm("Respawn", c: "Use when bringing a player back into the game after being eliminated")
@@ -1496,6 +1536,11 @@ extension TK {
       /// "Review Mistakes" - Learning from errors
       public static var reviewMistakes: String {
          #tkm("Review Mistakes", c: "Learning from errors")
+      }
+
+      /// "Rewind" - Use for media playback controls to go back
+      public static var rewind: String {
+         #tkm("Rewind", c: "Use for media playback controls to go back")
       }
 
       /// "Save" - Use for storing current content or state
@@ -1938,6 +1983,11 @@ extension TK {
          #tkm("Unfollow", c: "Use when unsubscribing from another user's content")
       }
 
+      /// "Uninstall" - Use for app removal actions
+      public static var uninstall: String {
+         #tkm("Uninstall", c: "Use for app removal actions")
+      }
+
       /// "Unlock" - Use for removing access restrictions
       public static var unlock: String {
          #tkm("Unlock", c: "Use for removing access restrictions")
@@ -2066,6 +2116,11 @@ extension TK {
       /// "Yes" - Use for positive responses or confirmations
       public static var yes: String {
          #tkm("Yes", c: "Use for positive responses or confirmations")
+      }
+
+      /// "Zoom" - Use for magnification and scaling actions
+      public static var zoom: String {
+         #tkm("Zoom", c: "Use for magnification and scaling actions")
       }
 
       /// "Zoom In" - Use for increasing visual magnification
