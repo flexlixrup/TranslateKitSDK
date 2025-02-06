@@ -4,7 +4,7 @@
 
 The TranslateKit SDK is a Swift package that streamlines the localization workflow in Xcode by providing:
 
-1. **Common Platform-Consistent Translations**: An enum with a rich set of consistently localized texts covering a large variety of typical app content - no need to reinvent the wheel and localize everything by yourself!
+1. **Common Platform-Consistent Translations**: An enum with a rich set of consistently localized texts covering a large variety of typical app content - no need to localize everything yourself!
 2. **Semantic Key Generation**: A Swift macro that automatically generates meaningful translation keys based on code context, while leveraging Xcode's String Catalogs.
 
 ## Features
@@ -41,11 +41,13 @@ TextField(
 Discovering the right translations during programming is easy thanks to autocompletion:
 1. Just type `TK.` to get the list of the 4 supported categories and select one, e.g. `Action` or `Label`
 2. Now enter what you're looking for, for example type `acc` to get fuzzy-matched results like `accept`, `grantAccess`, and `addAccount`
-3. Note that before you select an entry, you can see both the English translation and a comment when to use for confidence
+3. Note that before you select an entry, you can see both the English translation and a usage hint in the documentation popover
+
+![Showcasing Autocompletion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/Autocomplete.jpeg?raw=true)
 
 Super convenient, right?
 
-### Smart Key Generation with #tk
+### Smart Key Generation with `#tk` Macro
 
 For your own translations, the TranslateKit SDK provides the `#tk` macro that automatically generates semantic keys based on the context:
 
@@ -93,6 +95,8 @@ struct SettingsView: View {
 
 Note that String Catalogs support a separate "key" AND separate "source" translation, just like Strings files did back in the day. But due to how extraction is happening from baked-in SwiftUI views, nowadays most developers end up having the key and source translation to be equal. To do this, you'd have to write the verbose `String(localized:defaultValue:comment:)` function you see in the expanded code above. And every single time, you'd need to type the key manually, adding a lot of extra thinking time and work load on the developer.
 
+![Macro Expansion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/MacroExpansion.jpeg?raw=true)
+
 That's what the `#tk` macro solves, as all you need to do is to wrap your source translation String literal in `#tk("...")` and the macro takes care of giving your translation key a proper semantic name like `SettingsView.Body.saveChanges`. This added context can be helpful for both human translators and AI translation tools (like the [TranslateKit Mac app](https://translatekit.app)) to understan the context better and provide more accurate contextual translations.
 
 ## Using in Swift Packages
@@ -124,6 +128,119 @@ Please feel free to submit a Pull Request. You don't need to localize added entr
 
 For bigger changes, please open an issue first to discuss what you would like to change.
 
-## License
+## Showcase
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+I created this library for my own Indie apps (download & rate them to thank me!):
+
+<table>
+  <tr>
+    <th>App Icon</th>
+    <th>App Name & Description</th>
+    <th>Supported Platforms</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/TranslateKit.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
+        <strong>TranslateKit: App Localizer</strong>
+      </a>
+      <br />
+      Indie-focused app localization with unmatched accuracy. Fast & easy: AI & proofreading, 125+ languages, market insights. Budget-friendly, free to try.
+    </td>
+    <td>Mac</td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FreemiumKit.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
+        <strong>FreemiumKit: In-App Purchases</strong>
+      </a>
+      <br />
+      Simple In-App Purchases and Subscriptions for Apple Platforms: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6587583340?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/PleydiaOrganizer.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6587583340?pt=549314&ct=github.com&mt=8">
+        <strong>Pleydia Organizer: Movie & Series Renamer</strong>
+      </a>
+      <br />
+      Simple, fast, and smart media management for your Movie, TV Show and Anime collection.
+    </td>
+    <td>Mac</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6480134993?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FreelanceKit.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6480134993?pt=549314&ct=github.com&mt=8">
+        <strong>FreelanceKit: Time Tracking</strong>
+      </a>
+      <br />
+      Simple & affordable time tracking with a native experience for all  devices. iCloud sync & CSV export included.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6472669260?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/CrossCraft.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6472669260?pt=549314&ct=github.com&mt=8">
+        <strong>CrossCraft: Custom Crosswords</strong>
+      </a>
+      <br />
+      Create themed & personalized crosswords. Solve them yourself or share them to challenge others.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6477829138?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FocusBeats.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6477829138?pt=549314&ct=github.com&mt=8">
+        <strong>FocusBeats: Pomodoro + Music</strong>
+      </a>
+      <br />
+      Deep Focus with proven Pomodoro method & select Apple Music playlists & themes. Automatically pauses music during breaks.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6478062053?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/Posters.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6478062053?pt=549314&ct=github.com&mt=8">
+        <strong>Posters: Discover Movies at Home</strong>
+      </a>
+      <br />
+      Auto-updating & interactive posters for your home with trailers, showtimes, and links to streaming services.
+    </td>
+    <td>Vision</td>
+  </tr>
+</table>
