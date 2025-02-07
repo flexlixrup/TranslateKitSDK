@@ -63,7 +63,7 @@ For Swift packages, use `#tkm` instead of `#tk` to reference the correct String 
 1. Add `defaultLocalization` to your manifest:
 ```swift
 let package = Package(
-   name: "MyModule",
+   name: "FormKit",
    defaultLocalization: "en",
    // ...
 )
@@ -73,7 +73,14 @@ let package = Package(
 
 3. Use the `#tkm` macro with optional comment:
 ```swift
-Text(#tkm("Last seen %@", c: "Time when user was last active"))
+struct FormValidator {
+   static func validatePassword(_ password: String) -> String? {
+       guard password.count >= 8 else {
+           return #tkm("Password must be at least 8 characters")
+       }
+       return nil
+   }
+}
 ```
 
 Common reasons to localize Swift packages are that they may contain UI elements (e.g. modularized apps) or that they might provide error descriptions, which should be localized in most cases.
