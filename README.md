@@ -62,18 +62,21 @@ For Swift packages, use `#tkm` instead of `#tk` to reference the correct String 
 
 1. Add `defaultLocalization` to your manifest:
 ```swift
-.target(
-  name: "MyModule",
-  defaultLocalization: "en"
+let package = Package(
+   name: "MyModule",
+   defaultLocalization: "en",
+   // ...
 )
 ```
 
-2. Add `Localizable.xcstrings` to your module
+2. Add `Localizable.xcstrings` to your module (right-click folder > "New File from Template…" > String Catalog)
 
-3. Use the `#tkm` macro:
+3. Use the `#tkm` macro with optional comment:
 ```swift
 Text(#tkm("Last seen %@", c: "Time when user was last active"))
 ```
+
+Common reasons to localize Swift packages are that they may contain UI elements (e.g. modularized apps) or that they might provide error descriptions, which should be localized in most cases.
 
 ## Contributing
 
@@ -85,7 +88,7 @@ For bigger changes, please open an issue first to discuss what you would like to
 
 ## Showcase
 
-I created this library for my own Indie apps (download & rate them to thank me!):
+I created this library for my own Indie apps (download & rate them to show your appreciation):
 
 <table>
   <tr>
