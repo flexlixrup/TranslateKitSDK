@@ -54,7 +54,7 @@ String Catalogs made it challenging to maintain best practices from the Strings-
 
 ![Macro Expansion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/MacroExpansion.jpeg?raw=true)
 
-These semantic keys help group related translations and provide crucial context to translators and translation tools (like the [TranslateKit Mac app](https://translatekit.app)), leading to more accurate translations while making your localization files easier to maintain.
+You can see in the image what the simple `#tk` macro call expands to, adding an auto-derived key. These semantic keys help group related translations and provide crucial context to translators and translation tools (like the [TranslateKit Mac app](https://translatekit.app)), leading to more accurate translations while making your localization files easier to maintain.
 
 ## Swift Package Usage
 
