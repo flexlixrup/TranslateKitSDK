@@ -94,3 +94,26 @@ func tkmLoadingVariantsExpansion() {
       """
    }
 }
+
+@Test
+func tkmExtensionExpansion() {
+   assertMacro(["tkm": TranslationKeyModule.self]) {
+      """
+      extension TK.Action {
+         /// "Scan" - Use for scanning documents, files, or devices
+         public static var scan: String {
+            #tkm("Scan", c: "Use for scanning documents, files, or devices")
+         }
+      }
+      """
+   } expansion: {
+      """
+      extension TK.Action {
+         /// "Scan" - Use for scanning documents, files, or devices
+         public static var scan: String {
+            String(localized: "TK.Action.Scan.scan", defaultValue: "Scan", bundle: Bundle.module, comment: "Use for scanning documents, files, or devices")
+         }
+      }
+      """
+   }
+}

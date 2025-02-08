@@ -250,8 +250,7 @@
             "value" : "接受"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.add" : {
       "comment" : "Use for adding new items or initiating creation processes",
@@ -502,8 +501,7 @@
             "value" : "加入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.agree" : {
       "comment" : "Use when accepting terms, policies, or conditions",
@@ -754,8 +752,7 @@
             "value" : "同意"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.allow" : {
       "comment" : "Use when granting permission for an action",
@@ -1006,8 +1003,7 @@
             "value" : "允許"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.apply" : {
       "comment" : "Confirm settings action",
@@ -1258,8 +1254,7 @@
             "value" : "應用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.back" : {
       "comment" : "Use when navigating to a previous screen",
@@ -1510,8 +1505,7 @@
             "value" : "返回"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cancel" : {
       "comment" : "Use when stopping or aborting an action",
@@ -1762,8 +1756,7 @@
             "value" : "取消"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.change" : {
       "comment" : "Use when modifying a setting or selection",
@@ -2014,8 +2007,7 @@
             "value" : "更改"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clear" : {
       "comment" : "Use when removing content or selections",
@@ -2266,8 +2258,7 @@
             "value" : "清除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clearAll" : {
       "comment" : "Use when removing all items from a list",
@@ -2518,8 +2509,7 @@
             "value" : "全部清除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.close" : {
       "comment" : "Use for closing a window, dialog, or interface",
@@ -2770,8 +2760,7 @@
             "value" : "關閉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.collapse" : {
       "comment" : "Use when reducing expanded content",
@@ -3022,8 +3011,7 @@
             "value" : "收合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.confirm" : {
       "comment" : "Use when verifying or approving an action",
@@ -3274,8 +3262,7 @@
             "value" : "確認"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.continue" : {
       "comment" : "Use when progressing to the next step in a process",
@@ -3526,8 +3513,7 @@
             "value" : "繼續"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copy" : {
       "comment" : "Use when duplicating content to clipboard",
@@ -3778,8 +3764,7 @@
             "value" : "複製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.create" : {
       "comment" : "Use when generating new content or items",
@@ -4030,8 +4015,7 @@
             "value" : "創建"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.customize" : {
       "comment" : "Use when modifying settings or preferences",
@@ -4282,8 +4266,7 @@
             "value" : "自訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.decline" : {
       "comment" : "Use when rejecting terms, conditions, invites, or permissions",
@@ -4534,8 +4517,7 @@
             "value" : "拒絕"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.delete" : {
       "comment" : "Use when permanently removing content",
@@ -4786,8 +4768,7 @@
             "value" : "刪除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deleteAll" : {
       "comment" : "Use when removing all items in a list",
@@ -5038,8 +5019,7 @@
             "value" : "全部刪除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.details" : {
       "comment" : "Use for showing additional information",
@@ -5290,8 +5270,7 @@
             "value" : "詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.detailsDots" : {
       "comment" : "Shown when more details are available",
@@ -5542,8 +5521,7 @@
             "value" : "詳細資料⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.disable" : {
       "comment" : "Use when turning off a feature or setting",
@@ -5794,8 +5772,7 @@
             "value" : "停用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.dismiss" : {
       "comment" : "Use when closing a notification or dialog",
@@ -6046,8 +6023,7 @@
             "value" : "關閉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.done" : {
       "comment" : "Use when completing a task or process",
@@ -6298,8 +6274,7 @@
             "value" : "完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.download" : {
       "comment" : "Use when saving media to a local device",
@@ -6550,8 +6525,7 @@
             "value" : "下載"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.edit" : {
       "comment" : "Use when modifying existing content",
@@ -6802,8 +6776,7 @@
             "value" : "編輯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enable" : {
       "comment" : "Use when turning on a feature or setting",
@@ -7054,8 +7027,7 @@
             "value" : "啟用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.expand" : {
       "comment" : "Use when making content larger or more visible",
@@ -7306,8 +7278,7 @@
             "value" : "展開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.export" : {
       "comment" : "Use when transferring content to another format",
@@ -7558,8 +7529,7 @@
             "value" : "輸出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.filter" : {
       "comment" : "Use for refining search or display results",
@@ -7810,8 +7780,7 @@
             "value" : "過濾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.find" : {
       "comment" : "Use for searching within content",
@@ -8062,8 +8031,7 @@
             "value" : "尋找"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.forward" : {
       "comment" : "Use for advancing or sending content",
@@ -8314,8 +8282,7 @@
             "value" : "往前"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.help" : {
       "comment" : "Use for accessing support or guidance",
@@ -8566,8 +8533,7 @@
             "value" : "輔助説明"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.hide" : {
       "comment" : "Use for concealing content or interface elements",
@@ -8818,8 +8784,7 @@
             "value" : "隱藏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.import" : {
       "comment" : "File import action",
@@ -9070,8 +9035,7 @@
             "value" : "導入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.info" : {
       "comment" : "Use for displaying additional information",
@@ -9322,8 +9286,7 @@
             "value" : "資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.keep" : {
       "comment" : "Use when preserving content or settings",
@@ -9574,8 +9537,7 @@
             "value" : "保留"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.learnMore" : {
       "comment" : "Use for accessing additional information",
@@ -9826,12 +9788,10 @@
             "value" : "進一步了解"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.learnMoreDots" : {
       "comment" : "Use for accessing additional information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10079,8 +10039,7 @@
             "value" : "進一步了解⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.loadMore" : {
       "comment" : "Use when fetching additional content",
@@ -10331,8 +10290,7 @@
             "value" : "加載更多"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.manage" : {
       "comment" : "Use for configuring or controlling settings",
@@ -10583,8 +10541,7 @@
             "value" : "管理"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.more" : {
       "comment" : "Use for accessing additional options",
@@ -10835,8 +10792,7 @@
             "value" : "更多"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.moreDots" : {
       "comment" : "Shown when more content is available",
@@ -11087,8 +11043,7 @@
             "value" : "更多⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mute" : {
       "comment" : "Use for silencing audio or notifications",
@@ -11339,8 +11294,7 @@
             "value" : "靜音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.new" : {
       "comment" : "Use for creating or indicating recent content",
@@ -11591,8 +11545,7 @@
             "value" : "新增"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.next" : {
       "comment" : "Use for advancing to subsequent content or step",
@@ -11843,8 +11796,7 @@
             "value" : "下一步"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.no" : {
       "comment" : "Use for negative responses or confirmations",
@@ -12095,8 +12047,7 @@
             "value" : "否"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.notNow" : {
       "comment" : "Use for declining a request or postponing an action",
@@ -12347,8 +12298,7 @@
             "value" : "稍後決定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.ok" : {
       "comment" : "Use for confirming or acknowledging a message",
@@ -12599,8 +12549,7 @@
             "value" : "好"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.open" : {
       "comment" : "Use for launching or expanding content",
@@ -12851,8 +12800,7 @@
             "value" : "開啟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pause" : {
       "comment" : "Use for temporarily stopping media or processes",
@@ -13103,8 +13051,7 @@
             "value" : "暫停"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.play" : {
       "comment" : "Use for starting media playback",
@@ -13355,8 +13302,7 @@
             "value" : "播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.previous" : {
       "comment" : "Use for navigating to prior content",
@@ -13607,8 +13553,7 @@
             "value" : "上一個"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.refresh" : {
       "comment" : "Use for updating content or reloading data",
@@ -13859,8 +13804,7 @@
             "value" : "重新整理"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reload" : {
       "comment" : "Use for refreshing content or data",
@@ -14111,8 +14055,7 @@
             "value" : "重新載入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.remove" : {
       "comment" : "Use for deleting or eliminating items",
@@ -14363,8 +14306,7 @@
             "value" : "移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeAll" : {
       "comment" : "Use for clearing entire lists or collections",
@@ -14615,8 +14557,7 @@
             "value" : "全部移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rename" : {
       "comment" : "Use for modifying item names",
@@ -14867,8 +14808,7 @@
             "value" : "重新命名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeat" : {
       "comment" : "Use for recurring actions or media playback",
@@ -15119,8 +15059,7 @@
             "value" : "重複"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reset" : {
       "comment" : "Use for restoring default settings",
@@ -15371,8 +15310,7 @@
             "value" : "重設"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.restore" : {
       "comment" : "Use for recovering previous states or data",
@@ -15623,8 +15561,7 @@
             "value" : "恢復"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.retry" : {
       "comment" : "Use when attempting a failed action again",
@@ -15875,8 +15812,7 @@
             "value" : "再試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.return" : {
       "comment" : "Use for confirming or submitting inputs",
@@ -16127,8 +16063,7 @@
             "value" : "返回"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.save" : {
       "comment" : "Use for storing current content or state",
@@ -16379,8 +16314,7 @@
             "value" : "儲存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveChanges" : {
       "comment" : "Save modifications action",
@@ -16631,8 +16565,7 @@
             "value" : "保存更改"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.search" : {
       "comment" : "Use for finding specific content",
@@ -16883,8 +16816,7 @@
             "value" : "搜尋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.select" : {
       "comment" : "Use for choosing items or options",
@@ -17135,8 +17067,7 @@
             "value" : "選擇"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.selectAll" : {
       "comment" : "Use for choosing all available items",
@@ -17387,8 +17318,7 @@
             "value" : "全選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.send" : {
       "comment" : "Use for transmitting messages or content",
@@ -17639,8 +17569,7 @@
             "value" : "傳送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.share" : {
       "comment" : "Use when distributing content to others",
@@ -17891,8 +17820,7 @@
             "value" : "分享"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDots" : {
       "comment" : "Shown for share actions",
@@ -18143,8 +18071,7 @@
             "value" : "分享⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.show" : {
       "comment" : "Use for revealing hidden content",
@@ -18395,8 +18322,7 @@
             "value" : "顯示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showAll" : {
       "comment" : "Use for displaying complete content list",
@@ -18647,8 +18573,7 @@
             "value" : "顯示全部"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showDetails" : {
       "comment" : "Use for expanding content information",
@@ -18899,8 +18824,7 @@
             "value" : "顯示詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showLess" : {
       "comment" : "Use for reducing expanded content",
@@ -19151,8 +19075,7 @@
             "value" : "顯示較少"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showMore" : {
       "comment" : "Use for expanding content view",
@@ -19403,8 +19326,7 @@
             "value" : "顯示更多"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.signIn" : {
       "comment" : "Use for accessing user accounts",
@@ -19655,8 +19577,7 @@
             "value" : "登入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.signOut" : {
       "comment" : "Use for exiting user accounts",
@@ -19907,8 +19828,7 @@
             "value" : "登出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skip" : {
       "comment" : "Use for bypassing steps or content",
@@ -20159,8 +20079,7 @@
             "value" : "略過"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sort" : {
       "comment" : "Use for organizing content in specific orders",
@@ -20411,8 +20330,7 @@
             "value" : "排序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sortBy" : {
       "comment" : "List ordering action",
@@ -20663,8 +20581,7 @@
             "value" : "排序依據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.start" : {
       "comment" : "Use for initiating processes or activities",
@@ -20915,8 +20832,7 @@
             "value" : "開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stop" : {
       "comment" : "Use for halting ongoing processes",
@@ -21167,8 +21083,7 @@
             "value" : "停止"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submit" : {
       "comment" : "Use for confirming form or input submissions",
@@ -21419,8 +21334,7 @@
             "value" : "送出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sync" : {
       "comment" : "Use for synchronizing data across devices",
@@ -21671,8 +21585,7 @@
             "value" : "同步"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tryAgain" : {
       "comment" : "Use for retrying failed actions",
@@ -21923,8 +21836,7 @@
             "value" : "再試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.turnOff" : {
       "comment" : "Use for disabling features or settings",
@@ -22175,8 +22087,7 @@
             "value" : "關閉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.turnOn" : {
       "comment" : "Use for enabling features or settings",
@@ -22427,8 +22338,7 @@
             "value" : "開啟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.undo" : {
       "comment" : "Use for reversing previous actions",
@@ -22679,8 +22589,7 @@
             "value" : "還原"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.update" : {
       "comment" : "Use for applying latest versions or changes",
@@ -22931,8 +22840,7 @@
             "value" : "更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.verify" : {
       "comment" : "Use for confirming identity or information",
@@ -23183,8 +23091,7 @@
             "value" : "驗證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.view" : {
       "comment" : "Use for examining content in detail",
@@ -23435,8 +23342,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.yes" : {
       "comment" : "Use for positive responses or confirmations",
@@ -23687,8 +23593,7 @@
             "value" : "是"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.account" : {
       "comment" : "Use to label sections related to user accounts",
@@ -23939,8 +23844,7 @@
             "value" : "帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accounts" : {
       "comment" : "Use when referring to multiple user accounts",
@@ -24191,8 +24095,7 @@
             "value" : "帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accountSettings" : {
       "comment" : "Use for sections that manage account preferences",
@@ -24443,8 +24346,7 @@
             "value" : "帳戶設定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.active" : {
       "comment" : "Use for status indicators showing an active state",
@@ -24695,8 +24597,7 @@
             "value" : "已啟用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activities" : {
       "comment" : "Use for sections related to recent or ongoing actions",
@@ -24947,8 +24848,7 @@
             "value" : "活動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activity" : {
       "comment" : "Use to describe a single event or logged action",
@@ -25199,8 +25099,7 @@
             "value" : "健身記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alert" : {
       "comment" : "Use for warning messages or critical notifications",
@@ -25451,8 +25350,7 @@
             "value" : "提示聲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.all" : {
       "comment" : "Use when displaying everything in a given category",
@@ -25703,8 +25601,7 @@
             "value" : "全部"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.amount" : {
       "comment" : "Use when displaying numerical values, such as prices or balances",
@@ -25955,8 +25852,7 @@
             "value" : "金額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.app" : {
       "comment" : "Use when referring to an application generically",
@@ -26207,8 +26103,7 @@
             "value" : "App"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.automatic" : {
       "comment" : "Use to label features that function without manual input",
@@ -26459,8 +26354,7 @@
             "value" : "自動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.available" : {
       "comment" : "Use when indicating availability of items or users",
@@ -26711,8 +26605,7 @@
             "value" : "可用空間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.background" : {
       "comment" : "Use for display or app activity settings related to background processes",
@@ -26963,8 +26856,7 @@
             "value" : "背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.category" : {
       "comment" : "Use for a single classification of content",
@@ -27215,8 +27107,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.color" : {
       "comment" : "Use for settings that modify colors",
@@ -27467,8 +27358,7 @@
             "value" : "顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.configuration" : {
       "comment" : "Use for system or app settings options",
@@ -27719,8 +27609,7 @@
             "value" : "配置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.content" : {
       "comment" : "Use when referring to general media or textual elements",
@@ -27971,8 +27860,7 @@
             "value" : "內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.current" : {
       "comment" : "Use for indicating present state or selection",
@@ -28223,8 +28111,7 @@
             "value" : "目前"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.custom" : {
       "comment" : "Use for user-defined settings or preferences",
@@ -28475,8 +28362,7 @@
             "value" : "自訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.data" : {
       "comment" : "Use for information storage and management",
@@ -28727,8 +28613,7 @@
             "value" : "資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.default" : {
       "comment" : "Use when resetting to original settings",
@@ -28979,8 +28864,7 @@
             "value" : "預設值"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.description" : {
       "comment" : "Use for brief explanations or details about an item",
@@ -29231,8 +29115,7 @@
             "value" : "描述"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.details" : {
       "comment" : "Item information section title",
@@ -29483,12 +29366,10 @@
             "value" : "詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.disabled" : {
       "comment" : "Use to indicate when a feature is turned off",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -29736,8 +29617,7 @@
             "value" : "已停用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.email" : {
       "comment" : "Use for email address fields or contact sections",
@@ -29988,8 +29868,7 @@
             "value" : "電郵"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.enabled" : {
       "comment" : "Use to indicate when a feature is turned on",
@@ -30240,8 +30119,7 @@
             "value" : "已啟用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.end" : {
       "comment" : "Noun – Use to label the end of something",
@@ -30492,8 +30370,7 @@
             "value" : "結束"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.error" : {
       "comment" : "Use for error messages or alerts",
@@ -30744,8 +30621,7 @@
             "value" : "錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.feedback" : {
       "comment" : "Use for sections where users can provide comments or reviews",
@@ -30996,8 +30872,7 @@
             "value" : "反饋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.file" : {
       "comment" : "Use for document or media file references",
@@ -31248,8 +31123,7 @@
             "value" : "檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.general" : {
       "comment" : "Use for broad or miscellaneous settings",
@@ -31500,8 +31374,7 @@
             "value" : "一般"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.help" : {
       "comment" : "Use for customer support or instructional sections",
@@ -31752,8 +31625,7 @@
             "value" : "幫助"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to past actions, transactions, or records",
@@ -32004,8 +31876,7 @@
             "value" : "瀏覽記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.home" : {
       "comment" : "Use for navigation to the main dashboard or landing screen",
@@ -32256,8 +32127,7 @@
             "value" : "家居"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.id" : {
       "comment" : "Use for unique user or object identification labels",
@@ -32508,8 +32378,7 @@
             "value" : "識別碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.image" : {
       "comment" : "Use for sections containing pictures or graphics",
@@ -32760,8 +32629,7 @@
             "value" : "影像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.info" : {
       "comment" : "Use for additional information or details",
@@ -33012,8 +32880,7 @@
             "value" : "資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.input" : {
       "comment" : "Use for form fields where users can enter data",
@@ -33264,8 +33131,7 @@
             "value" : "輸入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.language" : {
       "comment" : "Use for localization or translation preferences",
@@ -33516,8 +33382,7 @@
             "value" : "語言"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.location" : {
       "comment" : "Use for GPS or user-specified place tracking",
@@ -33768,8 +33633,7 @@
             "value" : "位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.menu" : {
       "comment" : "Use for navigation or option lists",
@@ -34020,8 +33884,7 @@
             "value" : "選單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mode" : {
       "comment" : "Use for selecting different configurations or presets",
@@ -34272,8 +34135,7 @@
             "value" : "模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.name" : {
       "comment" : "Use for input fields where users provide personal identification",
@@ -34524,8 +34386,7 @@
             "value" : "名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.new" : {
       "comment" : "Use to label recently added items",
@@ -34776,8 +34637,7 @@
             "value" : "新增"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.none" : {
       "comment" : "Use for empty or null states",
@@ -35028,8 +34888,7 @@
             "value" : "無"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notifications" : {
       "comment" : "Use when referring to system or app alerts",
@@ -35280,8 +35139,7 @@
             "value" : "通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.options" : {
       "comment" : "Use for configurable settings or preferences",
@@ -35532,8 +35390,7 @@
             "value" : "選項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.password" : {
       "comment" : "Use for authentication or security fields",
@@ -35784,8 +35641,7 @@
             "value" : "密碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paused" : {
       "comment" : "Use for indicating that an action or process is on hold",
@@ -36036,8 +35892,7 @@
             "value" : "已暫停"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pending" : {
       "comment" : "Use for items awaiting action or approval",
@@ -36288,8 +36143,7 @@
             "value" : "待處理"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.permissions" : {
       "comment" : "Use when managing access rights for features or data",
@@ -36540,8 +36394,7 @@
             "value" : "權限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.preview" : {
       "comment" : "Use for viewing content before finalizing",
@@ -36792,8 +36645,7 @@
             "value" : "預覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.privacy" : {
       "comment" : "Use when referring to data protection or access controls",
@@ -37044,12 +36896,10 @@
             "value" : "私隱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.privacyPolicy" : {
       "comment" : "Use when referring to the data privacy document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -37297,8 +37147,7 @@
             "value" : "私隱政策"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.profile" : {
       "comment" : "Use when referring to a user's personal page",
@@ -37549,8 +37398,7 @@
             "value" : "描述檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use for status updates or completion indicators",
@@ -37801,8 +37649,7 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recent" : {
       "comment" : "Use for items or activities that were accessed recently",
@@ -38053,8 +37900,7 @@
             "value" : "最近"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.required" : {
       "comment" : "Use for fields or inputs that must be completed",
@@ -38305,8 +38151,7 @@
             "value" : "必填"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.search" : {
       "comment" : "Noun – Use for input fields related to finding content",
@@ -38557,8 +38402,7 @@
             "value" : "搜尋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.security" : {
       "comment" : "Use when displaying security settings or warnings",
@@ -38809,8 +38653,7 @@
             "value" : "保安"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.selected" : {
       "comment" : "Use for indicating chosen items",
@@ -39061,8 +38904,7 @@
             "value" : "已選擇"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.settings" : {
       "comment" : "Use when referring to configuration or app preferences",
@@ -39313,8 +39155,7 @@
             "value" : "設定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.size" : {
       "comment" : "Use for dimensions or file size indicators",
@@ -39565,8 +39406,7 @@
             "value" : "大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.source" : {
       "comment" : "Use for content origin or data input sources",
@@ -39817,8 +39657,7 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.start" : {
       "comment" : "Noun – Use to label the beginning of processes or activities",
@@ -40069,8 +39908,7 @@
             "value" : "開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.status" : {
       "comment" : "Use when indicating the current state of an item or process",
@@ -40321,8 +40159,7 @@
             "value" : "狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.success" : {
       "comment" : "Use for indicating a successful action",
@@ -40573,8 +40410,251 @@
             "value" : "成功"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.terms" : {
+      "comment" : "Use when referring to general conditions, agreements, or policies",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms"
+          }
+        }
+      }
+    },
+    "TK.Label.termsAndConditions" : {
+      "comment" : "Use for legal agreements that users must accept",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الشروط والأحكام"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Правила и условия за употреба"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termes i condicions"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podmínky a ujednání"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vilkår og betingelser"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutzungsbedingungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όροι και προϋποθέσεις"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms and Conditions"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms and Conditions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y condiciones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käyttöehdot"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conditions générales"
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modalités"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תקנון"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नियम व शर्तें"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odredbe i uvjeti"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Használati feltételek"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syarat dan Ketentuan"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termini e condizioni"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用規約"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шарттар мен талаптар"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이용 약관"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terma dan Syarat"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voorwaarden"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warunki i zasady"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos e Condições"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos e Condições"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termene și condiții"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Положения и условия"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmluvné podmienky"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Användarvillkor"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อกำหนดและเงื่อนไข"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hüküm ve Koşullar"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Умови та положення"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều khoản và điều kiện"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "条款与条件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "條款與約定"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "條款及細則"
+          }
+        }
+      }
     },
     "TK.Label.time" : {
       "comment" : "Use for time display and selection",
@@ -40825,8 +40905,7 @@
             "value" : "時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.title" : {
       "comment" : "Use for headlines and label elements",
@@ -41077,8 +41156,7 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.total" : {
       "comment" : "Use for displaying sum or overall values",
@@ -41329,8 +41407,7 @@
             "value" : "總計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.type" : {
       "comment" : "Use for categorizing or classifying items",
@@ -41581,8 +41658,7 @@
             "value" : "類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.unknown" : {
       "comment" : "Use when the state or identity is not clear or available",
@@ -41833,8 +41909,7 @@
             "value" : "未知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.user" : {
       "comment" : "Use for identifying individual accounts or profiles",
@@ -42085,8 +42160,7 @@
             "value" : "用户"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.username" : {
       "comment" : "Use for user account identification fields",
@@ -42337,8 +42411,7 @@
             "value" : "用户名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.version" : {
       "comment" : "Use for software version details",
@@ -42589,8 +42662,7 @@
             "value" : "版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.warning" : {
       "comment" : "Use for alerts and caution messages",
@@ -42841,8 +42913,7 @@
             "value" : "警告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accessDenied" : {
       "comment" : "User does not have permission",
@@ -43093,8 +43164,7 @@
             "value" : "訪問被拒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.anErrorOccurred" : {
       "comment" : "Generic error message header",
@@ -43345,8 +43415,7 @@
             "value" : "發生錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.anUnknownErrorOccurred" : {
       "comment" : "Generic error message",
@@ -43597,8 +43666,7 @@
             "value" : "發生未知的錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.areYouSure" : {
       "comment" : "Generic confirmation dialog header",
@@ -43849,8 +43917,7 @@
             "value" : "你確定嗎？"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.areYouSureYouWantToDeleteThis" : {
       "comment" : "Delete confirmation prompt",
@@ -44101,8 +44168,7 @@
             "value" : "你確定要刪除這個嗎？"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.areYouSureYouWantToDiscardYourChanges" : {
       "comment" : "Used when closing editor with unsaved changes",
@@ -44353,8 +44419,7 @@
             "value" : "確定要捨棄你所作的變更嗎？"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.cantOpenDocument" : {
       "comment" : "Used when a document fails to open",
@@ -44605,8 +44670,7 @@
             "value" : "無法打開文檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesCouldNotBeSaved" : {
       "comment" : "Error while saving data",
@@ -44857,8 +44921,7 @@
             "value" : "無法保存更改"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesHaveBeenSaved" : {
       "comment" : "Confirmation message after saving settings or edits",
@@ -45109,8 +45172,7 @@
             "value" : "更改已保存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesWillBeLost" : {
       "comment" : "Unsaved changes warning",
@@ -45361,8 +45423,7 @@
             "value" : "更改將會丟失"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.checkYourInternetConnectionThenTryAgain" : {
       "comment" : "Network troubleshooting prompt",
@@ -45613,12 +45674,10 @@
             "value" : "請檢查互聯網連線，然後再試。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionFailed" : {
       "comment" : "Generic connection error",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -45866,8 +45925,7 @@
             "value" : "連接失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionTimeout" : {
       "comment" : "Network connection error message",
@@ -46118,8 +46176,7 @@
             "value" : "連接超時"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.deviceNotSupported" : {
       "comment" : "Hardware compatibility message",
@@ -46370,8 +46427,7 @@
             "value" : "設備不受支持"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.exportFailed" : {
       "comment" : "File export error message",
@@ -46622,8 +46678,7 @@
             "value" : "導出失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.featureNotAvailableOffline" : {
       "comment" : "Offline limitation notice",
@@ -46874,8 +46929,7 @@
             "value" : "該功能在離線狀態下不可用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fileFormatNotSupported" : {
       "comment" : "File compatibility error",
@@ -47126,8 +47180,7 @@
             "value" : "不支持的文件格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fileNotFound" : {
       "comment" : "Missing file error",
@@ -47378,8 +47431,7 @@
             "value" : "未找到文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.importFailed" : {
       "comment" : "File import error message",
@@ -47630,8 +47682,7 @@
             "value" : "导入失败"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.internetConnectionRequired" : {
       "comment" : "Shown when offline but network needed",
@@ -47882,8 +47933,7 @@
             "value" : "需要連接互聯網"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invalidCredentials" : {
       "comment" : "Authentication error",
@@ -48134,8 +48184,7 @@
             "value" : "凭证无效"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invalidInputFormat" : {
       "comment" : "Data validation error",
@@ -48386,8 +48435,7 @@
             "value" : "输入格式无效"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noNetworkConnection" : {
       "comment" : "Alternate network status message",
@@ -48638,8 +48686,7 @@
             "value" : "沒有網絡連線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.operationFailed" : {
       "comment" : "Generic error for failed operations",
@@ -48890,8 +48937,7 @@
             "value" : "操作失败"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.pleaseCheckYourInternetConnection" : {
       "comment" : "Connection issue prompt",
@@ -49142,8 +49188,7 @@
             "value" : "请检查您的互联网连接"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.pleaseTryAgainLater" : {
       "comment" : "Retry suggestion for temporary issue",
@@ -49394,8 +49439,7 @@
             "value" : "請稍後再試。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.requiredFieldIsEmpty" : {
       "comment" : "Form validation error",
@@ -49646,12 +49690,10 @@
             "value" : "必填字段為空"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.sessionExpired" : {
       "comment" : "Authentication timeout message",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -49899,8 +49941,7 @@
             "value" : "會話已過期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.somethingWentWrongPleaseTryAgainLater" : {
       "comment" : "Generic fallback error message",
@@ -50151,8 +50192,7 @@
             "value" : "出了些問題。請稍後再試。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.thisActionCannotBeUndone" : {
       "comment" : "Warning before irreversible actions",
@@ -50403,8 +50443,7 @@
             "value" : "此操作無法撤銷。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.tryAgainLater" : {
       "comment" : "Generic temporary failure message",
@@ -50655,8 +50694,7 @@
             "value" : "請稍後再試。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.verificationFailed" : {
       "comment" : "Authentication error message",
@@ -50907,8 +50945,7 @@
             "value" : "驗證失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.verificationRequired" : {
       "comment" : "Authentication prompt",
@@ -51159,8 +51196,7 @@
             "value" : "需要驗證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.youDoNotHavePermissionToPerformThisAction" : {
       "comment" : "Message for restricted access",
@@ -51411,8 +51447,7 @@
             "value" : "你沒有權限執行此操作。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.youHaveBeenLoggedOut" : {
       "comment" : "Notification when a session ends",
@@ -51663,8 +51698,7 @@
             "value" : "你已登出。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.youreOffline" : {
       "comment" : "Network status message",
@@ -51915,8 +51949,7 @@
             "value" : "你已離線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourSessionHasExpiredPleaseSignInAgain" : {
       "comment" : "Authentication timeout message",
@@ -52167,8 +52200,7 @@
             "value" : "你的會話已過期。請再次登入。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourUploadWasSuccessful" : {
       "comment" : "Confirmation message when media is uploaded",
@@ -52419,8 +52451,7 @@
             "value" : "你的上傳成功！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.analyzingDots" : {
       "comment" : "Shown during analysis",
@@ -52671,8 +52702,7 @@
             "value" : "正在分析…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.authenticatingDots" : {
       "comment" : "Shown during login",
@@ -52923,8 +52953,7 @@
             "value" : "正在驗證…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.bufferingDots" : {
       "comment" : "Shown while pre-loading video content for uninterrupted playback",
@@ -53175,8 +53204,7 @@
             "value" : "正在緩衝…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingDots" : {
       "comment" : "Shown during calculations",
@@ -53427,8 +53455,7 @@
             "value" : "正在計算…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseADateDots" : {
       "comment" : "Date selection hint",
@@ -53679,8 +53706,7 @@
             "value" : "選擇日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseAFileDots" : {
       "comment" : "Input hint for file selection",
@@ -53931,8 +53957,7 @@
             "value" : "選擇文件…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseALanguageDots" : {
       "comment" : "Language selection hint",
@@ -54183,8 +54208,7 @@
             "value" : "選擇語言…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseAnOptionDots" : {
       "comment" : "Generic selection hint",
@@ -54435,8 +54459,7 @@
             "value" : "選擇選項…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.confirmPasswordDots" : {
       "comment" : "Password confirmation hint",
@@ -54687,8 +54710,7 @@
             "value" : "確認密碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.connectingDots" : {
       "comment" : "Shown during connection attempts",
@@ -54939,8 +54961,7 @@
             "value" : "正在連線⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.creatingDots" : {
       "comment" : "Shown when creating content",
@@ -55191,8 +55212,7 @@
             "value" : "正在創建…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.deletingDots" : {
       "comment" : "Shown when removing content",
@@ -55443,8 +55463,7 @@
             "value" : "正在刪除…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.downloadingDots" : {
       "comment" : "Shown during downloads",
@@ -55695,8 +55714,7 @@
             "value" : "正在下載⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.eG15551234567" : {
       "comment" : "Phone number input example, using +1 for English, adjusts per region",
@@ -55947,8 +55965,7 @@
             "value" : "例如 +1 (555) 123-4567"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.egDoe" : {
       "comment" : "Last name input example, using 'Jane Doe' for English, adjusts per language",
@@ -56199,8 +56216,7 @@
             "value" : "例如 杜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.egJane" : {
       "comment" : "First name input example, using 'Jane Doe' for English, adjusts per language",
@@ -56451,12 +56467,10 @@
             "value" : "例如 简"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.egJaneDoe" : {
       "comment" : "Username input example, using 'Jane Doe' for English, adjusts per language",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -56704,8 +56718,7 @@
             "value" : "例如：陳大文"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.egJaneExampleCom" : {
       "comment" : "Email input example, using 'Jane Doe' for English, adjusts per language",
@@ -56956,8 +56969,7 @@
             "value" : "例如 jane@example.com"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAmountDots" : {
       "comment" : "Input hint for entering money values",
@@ -57208,12 +57220,10 @@
             "value" : "輸入金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterFirstNameDots" : {
       "comment" : "First name input hint",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57461,12 +57471,10 @@
             "value" : "輸入名字…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLastNameDots" : {
       "comment" : "Last name input hint",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57714,8 +57722,7 @@
             "value" : "輸入姓氏…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterNewPasswordDots" : {
       "comment" : "Password input hint",
@@ -57966,8 +57973,7 @@
             "value" : "輸入新密碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPasswordDots" : {
       "comment" : "Input hint for password fields",
@@ -58218,12 +58224,10 @@
             "value" : "輸入密碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPhoneNumberDots" : {
       "comment" : "Input hint for phone number entry",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -58471,8 +58475,7 @@
             "value" : "輸入電話號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTextDots" : {
       "comment" : "Generic placeholder for text input fields",
@@ -58723,8 +58726,7 @@
             "value" : "輸入文本…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterUsernameDots" : {
       "comment" : "Placeholder for user profile creation",
@@ -58975,8 +58977,7 @@
             "value" : "輸入用戶名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterYourEmailDots" : {
       "comment" : "Input hint for email address fields",
@@ -59227,8 +59228,7 @@
             "value" : "輸入你的電子郵件…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.exportingDots" : {
       "comment" : "Shown during exports",
@@ -59479,8 +59479,7 @@
             "value" : "導出中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.generatingDots" : {
       "comment" : "Shown when generating content",
@@ -59731,8 +59730,7 @@
             "value" : "生成中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.importingDots" : {
       "comment" : "Shown during imports",
@@ -59983,8 +59981,7 @@
             "value" : "導入中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.initializingDots" : {
       "comment" : "Shown during startup",
@@ -60235,8 +60232,7 @@
             "value" : "初始化中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingDots" : {
       "comment" : "Placeholder when content is being fetched",
@@ -60487,8 +60483,7 @@
             "value" : "正在載入⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when searches return no matches",
@@ -60739,8 +60734,7 @@
             "value" : "未找到結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.nothingHereYetDots" : {
       "comment" : "Generic empty state hint",
@@ -60991,8 +60985,7 @@
             "value" : "目前這裡什麼都沒有…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.preparingDots" : {
       "comment" : "Shown when preparing content",
@@ -61243,8 +61236,7 @@
             "value" : "正在準備⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.processing" : {
       "comment" : "Shown during ongoing operations",
@@ -61495,8 +61487,7 @@
             "value" : "處理中"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.processingDots" : {
       "comment" : "Shown during background operations",
@@ -61747,8 +61738,7 @@
             "value" : "處理中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.processingRequestDots" : {
       "comment" : "Request processing state",
@@ -61999,8 +61989,7 @@
             "value" : "處理請求中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.refreshingDots" : {
       "comment" : "Shown when updating content",
@@ -62251,8 +62240,7 @@
             "value" : "正在刷新…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.savingDots" : {
       "comment" : "Shown when saving content",
@@ -62503,8 +62491,7 @@
             "value" : "正在儲存⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByNameDots" : {
       "comment" : "Input hint for name search",
@@ -62755,8 +62742,7 @@
             "value" : "按名稱搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchDots" : {
       "comment" : "Generic placeholder for search fields",
@@ -63007,8 +62993,7 @@
             "value" : "搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchingDots" : {
       "comment" : "Search in progress state",
@@ -63259,8 +63244,7 @@
             "value" : "搜尋中⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectTimeDots" : {
       "comment" : "Time selection hint",
@@ -63511,8 +63495,7 @@
             "value" : "選擇時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.sendingDots" : {
       "comment" : "Shown when sending data",
@@ -63763,8 +63746,7 @@
             "value" : "設好發信中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.syncingDots" : {
       "comment" : "Shown during synchronization",
@@ -64015,8 +63997,7 @@
             "value" : "設好同步…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingDots" : {
       "comment" : "Shown during updates",
@@ -64267,8 +64248,7 @@
             "value" : "正在更新⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.uploadingDots" : {
       "comment" : "Shown during uploads",
@@ -64519,8 +64499,7 @@
             "value" : "上傳中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.verifyingDots" : {
       "comment" : "Shown during verification",
@@ -64771,8 +64750,7 @@
             "value" : "驗證中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.waitingDots" : {
       "comment" : "Generic waiting state",
@@ -65023,8 +65001,7 @@
             "value" : "等待中⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAReplyDots" : {
       "comment" : "Reply input hint",
@@ -65275,8 +65252,7 @@
             "value" : "撰写回复…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

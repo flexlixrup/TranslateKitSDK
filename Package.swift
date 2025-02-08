@@ -19,7 +19,7 @@ let package = Package(
       .library(name: "TranslateKitGraphicsAndDesign", targets: ["TranslateKitGraphicsAndDesign"]),
       .library(name: "TranslateKitHealthAndFitness", targets: ["TranslateKitHealthAndFitness"]),
       .library(name: "TranslateKitLifestyle", targets: ["TranslateKitLifestyle"]),
-      .library(name: "TranslateKitMagazines", targets: ["TranslateKitMagazines"]),
+      .library(name: "TranslateKitMagazinesAndNewspapers", targets: ["TranslateKitMagazinesAndNewspapers"]),
       .library(name: "TranslateKitMedical", targets: ["TranslateKitMedical"]),
       .library(name: "TranslateKitMusic", targets: ["TranslateKitMusic"]),
       .library(name: "TranslateKitNavigation", targets: ["TranslateKitNavigation"]),
@@ -105,7 +105,7 @@ let package = Package(
          resources: [.process("Localizable.xcstrings")]
       ),
       .target(
-         name: "TranslateKitMagazines",
+         name: "TranslateKitMagazinesAndNewspapers",
          dependencies: ["TranslateKit"],
          resources: [.process("Localizable.xcstrings")]
       ),

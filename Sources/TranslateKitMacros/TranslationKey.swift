@@ -114,10 +114,23 @@ public struct TranslationKey: ExpressionMacro {
          }
          // Handle extension declarations
          else if let extensionDecl = syntaxNode.as(ExtensionDeclSyntax.self) {
-            if let extendedType = extensionDecl.extendedType.as(IdentifierTypeSyntax.self) {
-               result.append(extendedType.name.text.toUpperCamelCase())
+            var typeNames: [String] = []
+            var currentType: TypeSyntaxProtocol? = extensionDecl.extendedType
+
+            while let memberType = currentType?.as(MemberTypeSyntax.self) {
+               typeNames.append(memberType.name.text.toUpperCamelCase())
+               currentType = memberType.baseType
             }
+
+            // If the base type is an IdentifierTypeSyntax (single-word type like `TK`), add it
+            if let baseIdentifier = currentType?.as(IdentifierTypeSyntax.self) {
+               typeNames.append(baseIdentifier.name.text.toUpperCamelCase())
+            }
+
+            // Append these to the result
+            result.append(contentsOf: typeNames.reversed()) // Ensure correct order
          }
+
          // Handle function declarations
          else if let funcDecl = syntaxNode.as(FunctionDeclSyntax.self) {
             result.append(funcDecl.name.text.toUpperCamelCase())

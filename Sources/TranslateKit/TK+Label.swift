@@ -338,6 +338,16 @@ extension TK {
          #tkm("Success", c: "Use for indicating a successful action")
       }
 
+      /// "Terms" - Use when referring to general conditions, agreements, or policies
+      public static var terms: String {
+         #tkm("Terms", c: "Use when referring to general conditions, agreements, or policies")
+      }
+
+      /// "Terms and Conditions" - Use for legal agreements that users must accept
+      public static var termsAndConditions: String {
+         #tkm("Terms and Conditions", c: "Use for legal agreements that users must accept")
+      }
+
       /// "Time" - Use for time display and selection
       public static var time: String {
          #tkm("Time", c: "Use for time display and selection")
