@@ -79,7 +79,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arkisto"
+            "value" : "Arkistoi"
           }
         },
         "fr" : {
@@ -109,7 +109,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arhiva"
+            "value" : "Arhiviraj"
           }
         },
         "hu" : {
@@ -250,7 +250,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving content for easy access later",
@@ -258,7 +259,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة إلى سجل القراءة"
+            "value" : "إضافة إلى العلامات المرجعية"
           }
         },
         "bg" : {
@@ -360,7 +361,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oznaka"
+            "value" : "Postavi oznaku"
           }
         },
         "hu" : {
@@ -426,7 +427,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvar"
+            "value" : "Favoritar"
           }
         },
         "pt-PT" : {
@@ -501,7 +502,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.follow" : {
       "comment" : "Use when subscribing to content or a user for updates",
@@ -752,7 +754,8 @@
             "value" : "關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.listen" : {
       "comment" : "Use when playing audio content",
@@ -1004,7 +1007,8 @@
             "value" : "收听"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.listenToArticle" : {
       "comment" : "Use when listening to an article in audio format",
@@ -1084,7 +1088,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kuuntele artikkeli"
+            "value" : "Kuuntele artikkelia"
           }
         },
         "fr" : {
@@ -1255,7 +1259,8 @@
             "value" : "收聽文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a link or page in a web browser",
@@ -1506,7 +1511,8 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.post" : {
       "comment" : "Use when sharing content to a platform or service",
@@ -1757,7 +1763,8 @@
             "value" : "發佈"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use when printing content to paper",
@@ -2008,7 +2015,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when opening an article to read",
@@ -2259,7 +2267,8 @@
             "value" : "閱讀文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readLater" : {
       "comment" : "Use when saving an article or content for later reading",
@@ -2511,7 +2520,8 @@
             "value" : "稍後閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readNow" : {
       "comment" : "Use when immediately opening content to read",
@@ -2763,7 +2773,8 @@
             "value" : "立即閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportContent" : {
       "comment" : "Use when reporting inappropriate or harmful content",
@@ -2897,7 +2908,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンテンツを報告"
+            "value" : "コンテンツを報告する"
           }
         },
         "kk" : {
@@ -3014,7 +3025,8 @@
             "value" : "舉報內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when submitting a bug or technical issue report",
@@ -3148,7 +3160,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "問題を報告"
+            "value" : "問題を報告する"
           }
         },
         "kk" : {
@@ -3265,7 +3277,8 @@
             "value" : "舉報問題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveArticle" : {
       "comment" : "Use when saving an article for later reference",
@@ -3517,7 +3530,8 @@
             "value" : "保存文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving content for future access",
@@ -3663,7 +3677,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "나중에 저장"
+            "value" : "나중에 저장하기"
           }
         },
         "ms" : {
@@ -3768,7 +3782,8 @@
             "value" : "稍後保存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document with others",
@@ -3998,7 +4013,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chia Sẻ Tài Liệu"
+            "value" : "Chia sẻ Tài Liệu"
           }
         },
         "zh-Hans" : {
@@ -4019,7 +4034,8 @@
             "value" : "分享文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareStory" : {
       "comment" : "Use when sharing a story or news item with others",
@@ -4270,7 +4286,8 @@
             "value" : "分享故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a service, publication, or content",
@@ -4314,7 +4331,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συνδρομή"
+            "value" : "Εγγραφή"
           }
         },
         "en" : {
@@ -4518,10 +4535,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閲"
+            "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.summarize" : {
       "comment" : "Use when providing a summary of content",
@@ -4602,7 +4620,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yhteenveto"
+            "value" : "Tee yhteenveto"
           }
         },
         "fr" : {
@@ -4773,7 +4791,8 @@
             "value" : "總結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating content from one language to another",
@@ -4782,7 +4801,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الترجمة"
+            "value" : "ترجمة"
           }
         },
         "bg" : {
@@ -4878,19 +4897,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अनुवाद करें"
+            "value" : "स्थानांतरण"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prijevod"
+            "value" : "Prevedi"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fordító"
+            "value" : "Fordítás"
           }
         },
         "id" : {
@@ -4962,7 +4981,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traducere"
+            "value" : "Tradu"
           }
         },
         "ru" : {
@@ -4974,7 +4993,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tlmočník"
+            "value" : "Preložiť"
           }
         },
         "sv" : {
@@ -4992,13 +5011,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çeviri"
+            "value" : "Çevir"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Переклад"
+            "value" : "Перекладати"
           }
         },
         "vi" : {
@@ -5025,7 +5044,8 @@
             "value" : "翻譯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unsubscribing from updates or content",
@@ -5081,7 +5101,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfollow"
+            "value" : "Unfavourite"
           }
         },
         "en-GB" : {
@@ -5225,7 +5245,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odhlásiť sa"
+            "value" : "Odstrániť sledovanie"
           }
         },
         "sv" : {
@@ -5276,7 +5296,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unsubscribe" : {
       "comment" : "Use when canceling a subscription to a service or publication",
@@ -5528,7 +5549,8 @@
             "value" : "取消訂閲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewBreakingNews" : {
       "comment" : "Use when viewing the latest breaking news updates",
@@ -5734,7 +5756,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visa breaking news"
+            "value" : "Visa toppnyheter"
           }
         },
         "th" : {
@@ -5779,7 +5801,8 @@
             "value" : "查看突發新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.archives" : {
       "comment" : "Use for sections containing past issues or content",
@@ -6031,7 +6054,8 @@
             "value" : "档案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.article" : {
       "comment" : "Use when referring to a single piece of content or news",
@@ -6283,7 +6307,8 @@
             "value" : "文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.author" : {
       "comment" : "Use when indicating the creator or writer of content",
@@ -6534,7 +6559,8 @@
             "value" : "作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use for top-selling books, magazines, or products",
@@ -6785,7 +6811,8 @@
             "value" : "暢銷商品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to saved or favorite items",
@@ -6907,7 +6934,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda"
+            "value" : "Penanda (jamak)"
           }
         },
         "it" : {
@@ -6937,7 +6964,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda Buku"
+            "value" : "Penanda Buku-buku"
           }
         },
         "nb" : {
@@ -7036,7 +7063,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for urgent or important news updates",
@@ -7287,7 +7315,8 @@
             "value" : "突發新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.businessEconomy" : {
       "comment" : "Use for content related to business and financial topics",
@@ -7427,7 +7456,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Іскерлік & Экономика"
+            "value" : "Кәсіпкерлік және экономика"
           }
         },
         "ko" : {
@@ -7538,7 +7567,8 @@
             "value" : "商業與經濟"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.categories" : {
       "comment" : "Use when organizing content into different types or themes",
@@ -7789,7 +7819,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.comments" : {
       "comment" : "Use for sections where users can post feedback or thoughts",
@@ -8040,7 +8071,8 @@
             "value" : "評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyBriefing" : {
       "comment" : "Use for a summary of important news or updates",
@@ -8156,7 +8188,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napi Tájékoztató"
+            "value" : "Napi tájékoztató"
           }
         },
         "id" : {
@@ -8291,7 +8323,8 @@
             "value" : "每日簡報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyDigest" : {
       "comment" : "Use for a daily collection or summary of content",
@@ -8492,7 +8525,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denný prehľad"
+            "value" : "Denný súhrn"
           }
         },
         "sv" : {
@@ -8543,7 +8576,8 @@
             "value" : "每日摘要"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.editorsPicks" : {
       "comment" : "Use for curated content selected by editors",
@@ -8794,7 +8828,8 @@
             "value" : "編輯特選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use for saved or preferred content",
@@ -9045,7 +9080,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.featured" : {
       "comment" : "Use for content highlighted as important or interesting",
@@ -9297,7 +9333,8 @@
             "value" : "精選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.headlines" : {
       "comment" : "Use for the most important or prominent news stories",
@@ -9549,7 +9586,8 @@
             "value" : "標題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.issue" : {
       "comment" : "Use for a specific edition of a publication or magazine",
@@ -9570,7 +9608,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edat"
+            "value" : "Número de la revista"
           }
         },
         "cs" : {
@@ -9624,7 +9662,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número"
+            "value" : "Problema"
           }
         },
         "fi" : {
@@ -9648,7 +9686,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בעיה"
+            "value" : "גושפנקא"
           }
         },
         "hi" : {
@@ -9660,19 +9698,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izdanja"
+            "value" : "Izdanje"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kérdés"
+            "value" : "Szám"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edisi"
+            "value" : "Masalah"
           }
         },
         "it" : {
@@ -9714,7 +9752,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Probleem"
+            "value" : "Nummer"
           }
         },
         "pl" : {
@@ -9726,7 +9764,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edição"
+            "value" : "Problema"
           }
         },
         "pt-PT" : {
@@ -9792,7 +9830,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "問題"
+            "value" : "期"
           }
         },
         "zh-HK" : {
@@ -9801,7 +9839,8 @@
             "value" : "問題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.latest" : {
       "comment" : "Use for the most recent content or updates",
@@ -10053,7 +10092,8 @@
             "value" : "最新"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.latestHeadlines" : {
       "comment" : "Use for the most recent important news stories",
@@ -10304,7 +10344,8 @@
             "value" : "最新頭條"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.magazine" : {
       "comment" : "Use when referring to a publication, typically in print or digital format",
@@ -10505,7 +10546,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magmazín"
+            "value" : "Magazín"
           }
         },
         "sv" : {
@@ -10556,7 +10597,8 @@
             "value" : "雜誌"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.myLibrary" : {
       "comment" : "Use for a personal collection of saved or owned content",
@@ -10808,7 +10850,8 @@
             "value" : "我的藏書"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.newsletter" : {
       "comment" : "Use for a regular email or publication sent to subscribers",
@@ -11060,7 +11103,8 @@
             "value" : "通訊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.opinion" : {
       "comment" : "Use when referring to editorial or opinion-based content",
@@ -11311,7 +11355,8 @@
             "value" : "意見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.page" : {
       "comment" : "Use for individual pages of a publication or content item",
@@ -11562,7 +11607,8 @@
             "value" : "頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.politics" : {
       "comment" : "Use for content related to government, elections, and political affairs",
@@ -11813,7 +11859,8 @@
             "value" : "政治"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.popular" : {
       "comment" : "Use for content that is widely viewed or discussed",
@@ -12065,7 +12112,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.published" : {
       "comment" : "Use when indicating when content was made available to the public",
@@ -12317,7 +12365,8 @@
             "value" : "已發布"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.readingList" : {
       "comment" : "Use for a list of articles or books to read",
@@ -12569,7 +12618,8 @@
             "value" : "閱讀清單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.savedArticles" : {
       "comment" : "Use for content that has been saved for future reading",
@@ -12821,7 +12871,8 @@
             "value" : "已保存文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.scienceTechnology" : {
       "comment" : "Use for content related to scientific advancements and tech",
@@ -12889,7 +12940,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ciencia y tecnología"
+            "value" : "Ciencia y Tecnología"
           }
         },
         "es-419" : {
@@ -13072,7 +13123,8 @@
             "value" : "科學與技術"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.section" : {
       "comment" : "Use for different categories or parts within a publication",
@@ -13324,7 +13376,8 @@
             "value" : "部分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.subscriptions" : {
       "comment" : "Use for managing or subscribing to content or services",
@@ -13477,13 +13530,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langganan"
+            "value" : "Langganan-Langganan"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonnements"
+            "value" : "Abonnementer"
           }
         },
         "nl" : {
@@ -13576,7 +13629,8 @@
             "value" : "訂閲項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tableOfContents" : {
       "comment" : "Use for the list of sections or articles in a publication",
@@ -13645,7 +13699,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tabla de contenido"
+            "value" : "Tabla de Contenidos"
           }
         },
         "es-419" : {
@@ -13828,7 +13882,8 @@
             "value" : "內容表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.topStories" : {
       "comment" : "Use for the most important news or content",
@@ -13861,7 +13916,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Top historien"
+            "value" : "Tophistorier"
           }
         },
         "de" : {
@@ -13897,7 +13952,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Principales historias"
+            "value" : "Noticias principales"
           }
         },
         "es-419" : {
@@ -14005,7 +14060,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Principais Histórias"
+            "value" : "Histórias"
           }
         },
         "pt-PT" : {
@@ -14080,7 +14135,8 @@
             "value" : "熱門故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trending" : {
       "comment" : "Use for popular or widely discussed topics",
@@ -14190,7 +14246,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trendovi"
+            "value" : "Trend"
           }
         },
         "hu" : {
@@ -14226,7 +14282,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "트렌디"
+            "value" : "유행"
           }
         },
         "ms" : {
@@ -14331,7 +14387,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.worldNews" : {
       "comment" : "Use for international or global news updates",
@@ -14582,7 +14639,8 @@
             "value" : "全球新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.articleAddedToYourBookmarks" : {
       "comment" : "Confirmation when saving an article to bookmarks",
@@ -14686,7 +14744,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेख आपकी बुकमार्क में जोड़ा गया।"
+            "value" : "लेख आपकी बुकमार्क में जोड़ा गया है।"
           }
         },
         "hr" : {
@@ -14764,7 +14822,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo adicionado aos seus favoritos."
+            "value" : "Artigo adicionado aos teus favoritos."
           }
         },
         "ro" : {
@@ -14833,7 +14891,8 @@
             "value" : "文章已添加到你的書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.articleHasBeenArchived" : {
       "comment" : "Confirmation when moving an article to archive",
@@ -14854,7 +14913,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Article arxivada."
+            "value" : "L'article ha estat arxivat."
           }
         },
         "cs" : {
@@ -15010,7 +15069,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo foi arquivado."
+            "value" : "O artigo foi arquivado."
           }
         },
         "pt-PT" : {
@@ -15085,7 +15144,8 @@
             "value" : "文章已被存檔。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.articleHasBeenBookmarked" : {
       "comment" : "Confirmation when bookmarking an article",
@@ -15238,7 +15298,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel telah ditandakan buku."
+            "value" : "Artikel telah ditanda buku."
           }
         },
         "nb" : {
@@ -15250,7 +15310,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel is bladwijzer toegevoegd."
+            "value" : "Artikel is aan bladwijzers toegevoegd."
           }
         },
         "pl" : {
@@ -15268,7 +15328,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo guardado nos favoritos."
+            "value" : "Artigo guardado nos teus favoritos."
           }
         },
         "ro" : {
@@ -15292,7 +15352,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikeln har bokmärkt."
+            "value" : "Artikeln har bokmärkts."
           }
         },
         "th" : {
@@ -15316,7 +15376,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bài viết đã được đánh dấu đánh dấu."
+            "value" : "Bài viết đã được đánh dấu trang."
           }
         },
         "zh-Hans" : {
@@ -15337,7 +15397,8 @@
             "value" : "文章已被書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.articleSavedForOfflineReading" : {
       "comment" : "Confirmation when saving an article for offline use",
@@ -15436,7 +15497,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המאמר נשמר לנגישות לא מקוונת."
+            "value" : "המאמר נשמר לקריאה לא מקוונת."
           }
         },
         "hi" : {
@@ -15508,7 +15569,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artykuł zapisany do trybu offline."
+            "value" : "Artykuł zapisany do odczytu offline."
           }
         },
         "pt-BR" : {
@@ -15562,7 +15623,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статтю збережено для офлайн-прослуховування."
+            "value" : "Статтю збережено для офлайн-читання."
           }
         },
         "vi" : {
@@ -15589,7 +15650,8 @@
             "value" : "已保存文章供離線閱讀。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Notification when content is restricted by region",
@@ -15735,7 +15797,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서 사용할 수 없는 콘텐츠"
+            "value" : "해당 지역에서 사용할 수 없는 콘텐츠."
           }
         },
         "ms" : {
@@ -15819,7 +15881,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung không có sẵn trong khu vực của bạn"
+            "value" : "Nội dung không có sẵn ở khu vực của bạn."
           }
         },
         "zh-Hans" : {
@@ -15840,7 +15902,8 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.contentRemovedFromLibrary" : {
       "comment" : "Confirmation when content is removed from the library",
@@ -15872,7 +15935,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indhold fjernet fra bibliotek"
+            "value" : "Indhold fjernet fra biblioteket"
           }
         },
         "de" : {
@@ -15902,7 +15965,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content has been removed from the library"
+            "value" : "Content removed from the library"
           }
         },
         "es" : {
@@ -16004,7 +16067,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inhoud verwijderd uit bibliotheek"
+            "value" : "Inhoud verwijderd uit de bibliotheek"
           }
         },
         "pl" : {
@@ -16091,7 +16154,8 @@
             "value" : "內容已從庫中移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyBriefingIsReady" : {
       "comment" : "Notification when the daily briefing is available",
@@ -16124,7 +16188,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Den daglige opdatering er klar."
+            "value" : "Dagens briefing er klar."
           }
         },
         "de" : {
@@ -16190,7 +16254,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הדו&quot;ח היומי מוכן."
+            "value" : "הדו״ח היומי מוכן."
           }
         },
         "hi" : {
@@ -16232,7 +16296,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті шолудың дайын екендігі туралы."
+            "value" : "Күнделікті шолу дайын."
           }
         },
         "ko" : {
@@ -16274,7 +16338,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Relatório diário pronto."
+            "value" : "O briefing diário está pronto."
           }
         },
         "ro" : {
@@ -16343,7 +16407,8 @@
             "value" : "每日簡報已準備好。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.downloadCompleteReadyForOfflineReading" : {
       "comment" : "Notification when a download is finished",
@@ -16595,7 +16660,8 @@
             "value" : "下載完成 - 可離線閱讀。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.magazineIssueDownloadedSuccessfully" : {
       "comment" : "Confirmation when a magazine issue is downloaded",
@@ -16754,7 +16820,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magasinutgave lastet ned."
+            "value" : "Magasinutgave lastet ned med suksess."
           }
         },
         "nl" : {
@@ -16847,7 +16913,8 @@
             "value" : "雜誌期刊下載成功。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newBreakingNewsAlertsAvailable" : {
       "comment" : "Notification when new breaking news is available",
@@ -17098,7 +17165,8 @@
             "value" : "有新的突发新闻提醒可用！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noAvailableArticlesAtThisTime" : {
       "comment" : "Message when no articles are available",
@@ -17350,7 +17418,8 @@
             "value" : "目前沒有可用的文章。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noSavedArticlesYet" : {
       "comment" : "Message when there are no saved articles",
@@ -17377,7 +17446,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádné uložené články zatím."
+            "value" : "Žádné uložené články zatím nejsou."
           }
         },
         "da" : {
@@ -17602,7 +17671,8 @@
             "value" : "尚無已保存的文章。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.subscriptionExpired" : {
       "comment" : "Notification when a subscription has ended",
@@ -17658,7 +17728,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subscription expired"
+            "value" : "Subscription expired."
           }
         },
         "en-GB" : {
@@ -17676,7 +17746,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suscripción caducada"
+            "value" : "La suscripción caducada"
           }
         },
         "fi" : {
@@ -17724,7 +17794,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langganan telah kedaluwarsa"
+            "value" : "Langganan kedaluwarsa"
           }
         },
         "it" : {
@@ -17778,7 +17848,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscrição expirada"
+            "value" : "Assinatura expirada"
           }
         },
         "pt-PT" : {
@@ -17853,7 +17923,8 @@
             "value" : "訂閱已過期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.subscriptionRequiredToContinueReading" : {
       "comment" : "Message when a subscription is needed to access content",
@@ -17868,7 +17939,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Необходима е абонаментна услуга, за да продължите с четенето."
+            "value" : "Необходим е абонамент, за да продължиш."
           }
         },
         "ca" : {
@@ -17880,7 +17951,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "K odběru je nutné pokračovat ve čtení."
+            "value" : "Pokračování ve čtení vyžaduje předplatné."
           }
         },
         "da" : {
@@ -17952,7 +18023,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נדרשת מנוי כדי להמשיך לקרוא."
+            "value" : "נדרש מנוי כדי להמשיך לקרוא."
           }
         },
         "hi" : {
@@ -17982,19 +18053,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "È richiesta l'abbonamento per continuare a leggere."
+            "value" : "È richiesto l'abbonamento per continuare a leggere."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "購読が必要です。続きを読むためには購読が必要です。"
+            "value" : "続きを読むにはサブスクリプションが必要です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жазылымды жалғастыру үшін қажет."
+            "value" : "Жалғастыру үшін жазылым қажет."
           }
         },
         "ko" : {
@@ -18036,7 +18107,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "É necessária uma assinatura para continuar a ler."
+            "value" : "É necessária uma subscrição para continuar a ler"
           }
         },
         "ro" : {
@@ -18054,7 +18125,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Na pokračovanie čítania je potrebný predplatný poplatok."
+            "value" : "Vyžaduje sa predplatné na pokračovanie v čítaní."
           }
         },
         "sv" : {
@@ -18105,7 +18176,8 @@
             "value" : "需要訂閱才能繼續閱讀。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.youHaveReachedYourFreeArticleLimit" : {
       "comment" : "Notification when a user exceeds their free article limit",
@@ -18357,7 +18429,8 @@
             "value" : "你已達到免費文章限額。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addACaptionDots" : {
       "comment" : "Placeholder for entering a caption for an image or media",
@@ -18608,7 +18681,8 @@
             "value" : "新增說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addChapterSummaryDots" : {
       "comment" : "Placeholder for entering a summary of a chapter or article",
@@ -18694,7 +18768,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter un résumé de chapitre..."
+            "value" : "Ajouter un résumé de chapitre…"
           }
         },
         "fr-CA" : {
@@ -18766,13 +18840,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til kapitteloppsummering…"
+            "value" : "Legg til et kapitteloppsummering…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg hoofdstuksamenvatting toe…"
+            "value" : "Voeg hoofdstukoverzicht toe…"
           }
         },
         "pl" : {
@@ -18814,7 +18888,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg till kapitel sammanfattning…"
+            "value" : "Lägg till kapitelöversikt…"
           }
         },
         "th" : {
@@ -18859,7 +18933,8 @@
             "value" : "新增章節摘要…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterArticleTitleDots" : {
       "comment" : "Placeholder for entering the title of an article",
@@ -18892,7 +18967,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast artikelens titel…"
+            "value" : "Indtast artikeltitel…"
           }
         },
         "de" : {
@@ -18958,7 +19033,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס כותרת מאמר…"
+            "value" : "הזן כותרת מאמר…"
           }
         },
         "hi" : {
@@ -19024,7 +19099,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer titel van het artikel in…"
+            "value" : "Voer titel van het artikel in …"
           }
         },
         "pl" : {
@@ -19060,7 +19135,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov článku…"
+            "value" : "Zadaj názov článku…"
           }
         },
         "sv" : {
@@ -19111,7 +19186,8 @@
             "value" : "輸入文章標題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAuthorNameDots" : {
       "comment" : "Placeholder for entering the name of an article's author",
@@ -19276,7 +19352,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer naam van de auteur in…"
+            "value" : "Voer naam van de auteur in …"
           }
         },
         "pl" : {
@@ -19312,7 +19388,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte meno autora…"
+            "value" : "Zadaj meno autora…"
           }
         },
         "sv" : {
@@ -19363,7 +19439,8 @@
             "value" : "輸入作者名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterArticlesDots" : {
       "comment" : "Placeholder for filtering articles based on criteria",
@@ -19372,7 +19449,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "قم بتصفية المقالات…"
+            "value" : "جارٍ تصفية المقالات…"
           }
         },
         "bg" : {
@@ -19432,7 +19509,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtra artículos…"
+            "value" : "Filtrando artículos…"
           }
         },
         "es-419" : {
@@ -19615,7 +19692,8 @@
             "value" : "篩選文章…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterByYearDots" : {
       "comment" : "Placeholder for filtering content by publication year",
@@ -19827,7 +19905,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาเลือกปี…"
+            "value" : "กรองตามปี…"
           }
         },
         "tr" : {
@@ -19839,7 +19917,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Фільтруйте за роком…"
+            "value" : "Фільтрування за роком…"
           }
         },
         "vi" : {
@@ -19866,7 +19944,8 @@
             "value" : "按年過濾…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within the content of an article",
@@ -19935,13 +20014,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encuentra en el artículo…"
+            "value" : "Buscando en el artículo…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encontrar en el artículo…"
+            "value" : "Buscar en el artículo…"
           }
         },
         "fi" : {
@@ -19995,7 +20074,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trova nell'articolo…"
+            "value" : "Trova nell’articolo…"
           }
         },
         "ja" : {
@@ -20118,7 +20197,8 @@
             "value" : "在文章中查找…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchArchivesDots" : {
       "comment" : "Placeholder for searching through archived content",
@@ -20127,7 +20207,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث في الأرشيفات…"
+            "value" : "ابحث في الأرشيفات…"
           }
         },
         "bg" : {
@@ -20295,7 +20375,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando arquivos…"
+            "value" : "Buscar arquivos…"
           }
         },
         "pt-PT" : {
@@ -20313,7 +20393,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем архивы…"
+            "value" : "Поиск архивов…"
           }
         },
         "sk" : {
@@ -20370,7 +20450,8 @@
             "value" : "搜尋檔案…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchArticlesDots" : {
       "comment" : "Placeholder for searching articles based on keywords",
@@ -20379,7 +20460,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث عن المقالات…"
+            "value" : "ابحث عن المقالات…"
           }
         },
         "bg" : {
@@ -20487,7 +20568,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cikkek keresése…"
+            "value" : "Művészek keresése…"
           }
         },
         "id" : {
@@ -20511,7 +20592,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақалаларды кілт сөздер бойынша іздеу…"
+            "value" : "Мақалаларды іздеу…"
           }
         },
         "ko" : {
@@ -20547,7 +20628,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando artigos…"
+            "value" : "Buscar artigos…"
           }
         },
         "pt-PT" : {
@@ -20565,7 +20646,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем статьи…"
+            "value" : "Ищем исполнителей…"
           }
         },
         "sk" : {
@@ -20622,7 +20703,8 @@
             "value" : "搜尋文章…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchAuthorDots" : {
       "comment" : "Placeholder for searching by author name",
@@ -20631,7 +20713,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث عن المؤلف…"
+            "value" : "ابحث عن المؤلف…"
           }
         },
         "bg" : {
@@ -20643,7 +20725,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant autor…"
+            "value" : "Cerca autor…"
           }
         },
         "cs" : {
@@ -20691,7 +20773,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando autor…"
+            "value" : "Buscar autor…"
           }
         },
         "es-419" : {
@@ -20757,7 +20839,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "著者を検索中…"
+            "value" : "著者を検索…"
           }
         },
         "kk" : {
@@ -20799,7 +20881,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando autor…"
+            "value" : "Buscar autor…"
           }
         },
         "pt-PT" : {
@@ -20874,7 +20956,8 @@
             "value" : "搜尋作者…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchHeadlinesDots" : {
       "comment" : "Placeholder for searching news headlines",
@@ -20895,7 +20978,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant titulars…"
+            "value" : "Cercar titulars…"
           }
         },
         "cs" : {
@@ -20943,7 +21026,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando titulares…"
+            "value" : "Buscar titulares…"
           }
         },
         "es-419" : {
@@ -20961,7 +21044,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche de titres…"
+            "value" : "Rechercher des titres…"
           }
         },
         "fr-CA" : {
@@ -20973,7 +21056,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש כותרות…"
+            "value" : "חפש כותרות…"
           }
         },
         "hi" : {
@@ -21021,7 +21104,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "헤드라인 검색 중…"
+            "value" : "헤드라인 검색…"
           }
         },
         "ms" : {
@@ -21057,13 +21140,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar manchetes..."
+            "value" : "Pesquisar manchetes…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut titluri…"
+            "value" : "Caută titluri…"
           }
         },
         "ru" : {
@@ -21117,7 +21200,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋新聞標題中…"
+            "value" : "搜尋新聞標題…"
           }
         },
         "zh-HK" : {
@@ -21126,7 +21209,8 @@
             "value" : "搜尋頭條…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchNewsDots" : {
       "comment" : "Placeholder for searching general news content",
@@ -21242,7 +21326,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keresés hírek között…"
+            "value" : "Hírek keresése…"
           }
         },
         "id" : {
@@ -21377,7 +21461,8 @@
             "value" : "搜索新聞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchPublicationsDots" : {
       "comment" : "Placeholder for searching through different publications",
@@ -21392,7 +21477,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търсене на публикации..."
+            "value" : "Търси публикации…"
           }
         },
         "ca" : {
@@ -21518,7 +21603,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Басылымдарды іздеңіз..."
+            "value" : "Басылымдарды іздеу…"
           }
         },
         "ko" : {
@@ -21530,7 +21615,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian penerbitan…"
+            "value" : "Cari penerbitan…"
           }
         },
         "nb" : {
@@ -21554,7 +21639,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesquisar publicações…"
+            "value" : "Buscar publicações…"
           }
         },
         "pt-PT" : {
@@ -21602,7 +21687,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук публікацій…"
+            "value" : "Шукати публікації…"
           }
         },
         "vi" : {
@@ -21629,7 +21714,8 @@
             "value" : "搜尋出版物…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTrendingTopicsDots" : {
       "comment" : "Placeholder for searching popular or trending topics",
@@ -21847,7 +21933,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trend olan konuları Ara…"
+            "value" : "Trend olan konuları ara…"
           }
         },
         "uk" : {
@@ -21880,7 +21966,8 @@
             "value" : "搜索热门话题…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeToAddTagsDots" : {
       "comment" : "Placeholder for typing tags to categorize content",
@@ -22063,7 +22150,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir para adicionar etiquetas…"
+            "value" : "Escreve para adicionar etiquetas…"
           }
         },
         "ro" : {
@@ -22132,7 +22219,8 @@
             "value" : "輸入以添加標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeAPostDots" : {
       "comment" : "Placeholder for composing a new post or article",
@@ -22176,7 +22264,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψτε μία ανάρτηση…"
+            "value" : "Γράψε μία ανάρτηση…"
           }
         },
         "en" : {
@@ -22383,7 +22471,8 @@
             "value" : "撰写帖子…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeYourOpinionDots" : {
       "comment" : "Placeholder for entering a personal opinion or comment",
@@ -22427,7 +22516,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψτε τη γνώμη σας…"
+            "value" : "Γράψε τη γνώμη σου…"
           }
         },
         "en" : {
@@ -22451,7 +22540,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir tu opinión…"
+            "value" : "Escribe tu opinión…"
           }
         },
         "es-419" : {
@@ -22475,7 +22564,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Écrire votre opinion…"
+            "value" : "Écris ton opinion…"
           }
         },
         "he" : {
@@ -22529,7 +22618,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "의견 작성…"
+            "value" : "의견 작성하기…"
           }
         },
         "ms" : {
@@ -22634,7 +22723,8 @@
             "value" : "設好你的意見…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

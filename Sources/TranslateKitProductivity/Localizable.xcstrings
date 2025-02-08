@@ -79,7 +79,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arkisto"
+            "value" : "Arkistoi"
           }
         },
         "fr" : {
@@ -109,7 +109,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arhiva"
+            "value" : "Arhiviraj"
           }
         },
         "hu" : {
@@ -139,7 +139,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мұрағат"
+            "value" : "Мұрағаттау"
           }
         },
         "ko" : {
@@ -250,7 +250,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.assignTask" : {
       "comment" : "Use for assigning a task to someone",
@@ -501,7 +502,8 @@
             "value" : "指派任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a task or message",
@@ -752,7 +754,8 @@
             "value" : "附加檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.continueEditing" : {
       "comment" : "Use for resuming editing a document or item",
@@ -1004,7 +1007,8 @@
             "value" : "繼續編輯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.convert" : {
       "comment" : "Use for converting file formats or data types",
@@ -1256,7 +1260,8 @@
             "value" : "轉換"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createGroup" : {
       "comment" : "Use for creating a new group or collection",
@@ -1507,7 +1512,8 @@
             "value" : "創建群組"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createNew" : {
       "comment" : "Use for creating a new item, file, or task",
@@ -1599,7 +1605,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer Nouveau"
+            "value" : "Créer nouveau"
           }
         },
         "he" : {
@@ -1701,7 +1707,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создать новый"
+            "value" : "Создать"
           }
         },
         "sk" : {
@@ -1758,7 +1764,8 @@
             "value" : "創建新項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createProject" : {
       "comment" : "Use for starting a new project",
@@ -2007,10 +2014,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建項目"
+            "value" : "建立項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createTask" : {
       "comment" : "Use for creating a new task",
@@ -2261,7 +2269,8 @@
             "value" : "創建任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.editNote" : {
       "comment" : "Use for editing a note or reminder",
@@ -2513,7 +2522,8 @@
             "value" : "編輯便條"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting content as a PDF file",
@@ -2677,7 +2687,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteer pdf"
+            "value" : "Exporteer PDF"
           }
         },
         "pl" : {
@@ -2764,7 +2774,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a report from data",
@@ -3015,7 +3026,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing data from external sources",
@@ -3267,7 +3279,8 @@
             "value" : "导入数据"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsDone" : {
       "comment" : "Use for marking a task as completed",
@@ -3365,7 +3378,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סמן כהגמר"
+            "value" : "סמן כהושלם"
           }
         },
         "hi" : {
@@ -3497,7 +3510,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đánh Dấu Là Đã Xong"
+            "value" : "Đánh dấu là đã xong"
           }
         },
         "zh-Hans" : {
@@ -3518,7 +3531,8 @@
             "value" : "標記為已完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsImportant" : {
       "comment" : "Use for highlighting a task or item as important",
@@ -3635,7 +3649,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fontosnak megjelölés"
+            "value" : "Fontosnak megjelölése"
           }
         },
         "id" : {
@@ -3770,7 +3784,8 @@
             "value" : "标记为重要"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use for marking a message or notification as read",
@@ -3874,7 +3889,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पठित के रूप में चिह्नित करें"
+            "value" : "मार्क अस पढ़ा"
           }
         },
         "hr" : {
@@ -4021,7 +4036,8 @@
             "value" : "標示為已讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsUnread" : {
       "comment" : "Use for marking a message or notification as unread",
@@ -4030,7 +4046,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أعلام كغير مقروء"
+            "value" : "علامة كغير مقروء"
           }
         },
         "bg" : {
@@ -4066,7 +4082,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναγνωσμένο"
+            "value" : "Μη Αναγνωσμένο"
           }
         },
         "en" : {
@@ -4126,7 +4142,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अवांछित के रूप में चिह्नित करें"
+            "value" : "गैर पढ़ा चिह्नित के रूप में"
           }
         },
         "hr" : {
@@ -4156,7 +4172,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未読マーク"
+            "value" : "未読にする"
           }
         },
         "kk" : {
@@ -4273,7 +4289,8 @@
             "value" : "标记为未读"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.moveToFolder" : {
       "comment" : "Use for moving an item or task to a folder",
@@ -4294,7 +4311,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mou a la carpeta"
+            "value" : "Mou a una carpeta"
           }
         },
         "cs" : {
@@ -4525,7 +4542,8 @@
             "value" : "移动至文件夹"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pin" : {
       "comment" : "Use for pinning an item or task to the top",
@@ -4653,7 +4671,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metti in evidenza"
+            "value" : "Mettiti in evidenza"
           }
         },
         "ja" : {
@@ -4776,7 +4794,8 @@
             "value" : "釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.prioritize" : {
       "comment" : "Use for setting the priority of a task or project",
@@ -5027,7 +5046,8 @@
             "value" : "優先考慮"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordTime" : {
       "comment" : "Use for recording the time spent on a task",
@@ -5279,7 +5299,8 @@
             "value" : "記錄時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.restoreBackup" : {
       "comment" : "Use for restoring a previous backup",
@@ -5530,7 +5551,8 @@
             "value" : "恢復備份"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setDeadline" : {
       "comment" : "Use for setting a deadline for a task or project",
@@ -5562,7 +5584,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Deadline"
+            "value" : "Sæt deadline"
           }
         },
         "de" : {
@@ -5781,7 +5803,8 @@
             "value" : "設定最後期限"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setDueDate" : {
       "comment" : "Use for setting a due date for a task or project",
@@ -5826,7 +5849,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορισμός Περίληψης Προθεσμίας"
+            "value" : "Ορισμός Προθεσμίας Πληρωμής"
           }
         },
         "en" : {
@@ -6033,7 +6056,8 @@
             "value" : "設置到期日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setPriority" : {
       "comment" : "Use for setting the priority level of a task or project",
@@ -6285,7 +6309,8 @@
             "value" : "設置優先級"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setReminder" : {
       "comment" : "Use for setting a reminder for a task or event",
@@ -6293,7 +6318,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حدد تذكير"
+            "value" : "تعيين تذكير"
           }
         },
         "bg" : {
@@ -6536,7 +6561,8 @@
             "value" : "設定提醒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sortByDeadline" : {
       "comment" : "Use for sorting tasks or items by their deadline",
@@ -6629,7 +6655,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trier par date limite"
+            "value" : "Trier par échéance"
           }
         },
         "he" : {
@@ -6701,7 +6727,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sorteren op Deadline"
+            "value" : "Sorteer op deadline"
           }
         },
         "pl" : {
@@ -6788,7 +6814,8 @@
             "value" : "按截止日期排序"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sortByDueDate" : {
       "comment" : "Use for sorting tasks or items by their due date",
@@ -6893,13 +6920,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "परेशान करने की तिथि के अनुसार क्रमबद्ध करें"
+            "value" : "देय तिथि के अनुसार क्रमबद्ध करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortiraj po roka"
+            "value" : "Sortiraj po datumu dospijeća"
           }
         },
         "hu" : {
@@ -6953,13 +6980,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sorteren op Einddatum"
+            "value" : "Sorteer op einddatum"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortuj według daty"
+            "value" : "Sortuj według daty wymagalności"
           }
         },
         "pt-BR" : {
@@ -7040,7 +7067,8 @@
             "value" : "按到期日排序"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sortByPriority" : {
       "comment" : "Use for sorting tasks or items by their priority",
@@ -7205,7 +7233,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sorteren op Prioriteit"
+            "value" : "Sorteer op prioriteit"
           }
         },
         "pl" : {
@@ -7292,7 +7320,8 @@
             "value" : "按優先級排序"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startTimer" : {
       "comment" : "Use for starting a time tracking timer",
@@ -7543,7 +7572,8 @@
             "value" : "開始計時"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stopTimer" : {
       "comment" : "Use for stopping a time tracking timer",
@@ -7714,7 +7744,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zatrzymaj timer"
+            "value" : "Rozpocznij timer"
           }
         },
         "pt-BR" : {
@@ -7795,7 +7825,8 @@
             "value" : "停止計時器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackTime" : {
       "comment" : "Use for tracking the amount of time spent on a task",
@@ -7870,7 +7901,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar tiempo"
+            "value" : "Registrar Tiempo"
           }
         },
         "fi" : {
@@ -8047,7 +8078,8 @@
             "value" : "追蹤時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unarchive" : {
       "comment" : "Use for unarchiving previously archived content",
@@ -8175,7 +8207,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annulla Archiviazione"
+            "value" : "Annulla archiviazione"
           }
         },
         "ja" : {
@@ -8259,7 +8291,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เลิกเก็บถาวร"
+            "value" : "นำออกจากคลังเก็บ"
           }
         },
         "tr" : {
@@ -8298,7 +8330,8 @@
             "value" : "取消檔案封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unpin" : {
       "comment" : "Use for removing an item from the pinned section",
@@ -8549,7 +8582,8 @@
             "value" : "取消釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.assignedTo" : {
       "comment" : "Use when referring to the person responsible for a task",
@@ -8630,7 +8664,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vastuu henkilölle"
+            "value" : "Vastuussa oleva henkilö"
           }
         },
         "fr" : {
@@ -8801,7 +8835,8 @@
             "value" : "分配给"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.assignee" : {
       "comment" : "Use for the person assigned to complete a task",
@@ -8816,7 +8851,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задача"
+            "value" : "Получател на задача"
           }
         },
         "ca" : {
@@ -8918,7 +8953,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hozzárendelő"
+            "value" : "Assigned To"
           }
         },
         "id" : {
@@ -9053,7 +9088,8 @@
             "value" : "受派人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.attachments" : {
       "comment" : "Use when referring to files or documents attached to a task",
@@ -9305,7 +9341,8 @@
             "value" : "附件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.completed" : {
       "comment" : "Use to indicate that a task is finished",
@@ -9556,7 +9593,8 @@
             "value" : "已完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.creationDate" : {
       "comment" : "Use for the date a task or project was created",
@@ -9715,7 +9753,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oprettingsdato"
+            "value" : "Opprettelsesdato"
           }
         },
         "nl" : {
@@ -9739,7 +9777,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data de criação"
+            "value" : "Data de Criação"
           }
         },
         "ro" : {
@@ -9808,7 +9846,8 @@
             "value" : "製作日期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.description" : {
       "comment" : "Use for a brief explanation of a task or project",
@@ -10059,7 +10098,8 @@
             "value" : "描述"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.documents" : {
       "comment" : "Use for files related to a task or project",
@@ -10311,7 +10351,8 @@
             "value" : "文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.draft" : {
       "comment" : "Use for a task or document that is in an unfinished state",
@@ -10470,7 +10511,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utklipp"
+            "value" : "Utkast"
           }
         },
         "nl" : {
@@ -10563,7 +10604,8 @@
             "value" : "草稿"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dueDate" : {
       "comment" : "Use for the deadline by which a task or project must be completed",
@@ -10814,7 +10856,8 @@
             "value" : "到期日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dueToday" : {
       "comment" : "Use to indicate that a task or project is due today",
@@ -10835,7 +10878,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data límit"
+            "value" : "Per a avui"
           }
         },
         "cs" : {
@@ -10889,7 +10932,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vence Hoy"
+            "value" : "Vence hoy"
           }
         },
         "fi" : {
@@ -10913,7 +10956,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לתאר היום"
+            "value" : "להיום"
           }
         },
         "hi" : {
@@ -11003,7 +11046,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termen Limită"
+            "value" : "Termen limită azi"
           }
         },
         "ru" : {
@@ -11066,7 +11109,8 @@
             "value" : "今天到期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.endTime" : {
       "comment" : "Use for the time at which a task or project is expected to end",
@@ -11141,7 +11185,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de Fin"
+            "value" : "Hora de fin"
           }
         },
         "fi" : {
@@ -11249,7 +11293,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de Termino"
+            "value" : "Hora de Término"
           }
         },
         "ro" : {
@@ -11318,7 +11362,8 @@
             "value" : "結束時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.files" : {
       "comment" : "Use when referring to all types of files related to a task or project",
@@ -11569,7 +11614,8 @@
             "value" : "檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.folder" : {
       "comment" : "Use when referring to a container or directory for organizing tasks or files",
@@ -11821,7 +11867,8 @@
             "value" : "資料夾"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.labels" : {
       "comment" : "Use for tags or keywords assigned to a task or project",
@@ -11854,7 +11901,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etiketter"
+            "value" : "Samling"
           }
         },
         "de" : {
@@ -12052,7 +12099,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Những nhãn"
+            "value" : "Nhãn"
           }
         },
         "zh-Hans" : {
@@ -12073,7 +12120,8 @@
             "value" : "標籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lastModified" : {
       "comment" : "Use for the date or time when a task or document was last changed",
@@ -12189,7 +12237,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utolsó Módosítva"
+            "value" : "Utoljára módosítva"
           }
         },
         "id" : {
@@ -12219,7 +12267,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "최종 수정일"
+            "value" : "최종 수정"
           }
         },
         "ms" : {
@@ -12324,7 +12372,8 @@
             "value" : "最後修改時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.modifiedBy" : {
       "comment" : "Use for the person who last made changes to a task or project",
@@ -12576,7 +12625,8 @@
             "value" : "最後修改者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notes" : {
       "comment" : "Use for additional information or comments related to a task or project",
@@ -12828,7 +12878,8 @@
             "value" : "備忘錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.overdue" : {
       "comment" : "Use to indicate that a task or project has passed its due date",
@@ -13080,7 +13131,8 @@
             "value" : "逾期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.owner" : {
       "comment" : "Use for the person who owns or is responsible for a task or project",
@@ -13332,7 +13384,8 @@
             "value" : "擁有者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.priority" : {
       "comment" : "Use for setting the urgency or importance of a task or project",
@@ -13584,7 +13637,8 @@
             "value" : "優先次序"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.progress" : {
       "comment" : "Use to indicate the current status or completion level of a task",
@@ -13835,7 +13889,8 @@
             "value" : "進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.project" : {
       "comment" : "Use for a specific task or set of tasks organized for a particular goal",
@@ -14087,7 +14142,8 @@
             "value" : "項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reminders" : {
       "comment" : "Use for notifications to remind users of pending tasks or deadlines",
@@ -14339,7 +14395,8 @@
             "value" : "提醒事項"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sharedWith" : {
       "comment" : "Use for listing individuals with whom a task or project is shared",
@@ -14591,7 +14648,8 @@
             "value" : "共享對象"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.startTime" : {
       "comment" : "Use for the time at which a task or project is scheduled to begin",
@@ -14780,7 +14838,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Început"
+            "value" : "Ora de Începere"
           }
         },
         "ru" : {
@@ -14792,7 +14850,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Začiatok"
+            "value" : "Začiatok čas"
           }
         },
         "sv" : {
@@ -14843,7 +14901,8 @@
             "value" : "開始時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.status" : {
       "comment" : "Use for the current state or condition of a task or project",
@@ -15094,7 +15153,8 @@
             "value" : "狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.subtasks" : {
       "comment" : "Use for smaller tasks or steps within a larger task or project",
@@ -15115,7 +15175,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subtorns"
+            "value" : "Subtasques"
           }
         },
         "cs" : {
@@ -15346,7 +15406,8 @@
             "value" : "子任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tags" : {
       "comment" : "Use for additional keywords or labels to categorize tasks or projects",
@@ -15355,7 +15416,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الوسوم"
+            "value" : "السمات"
           }
         },
         "bg" : {
@@ -15598,7 +15659,8 @@
             "value" : "標籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.task" : {
       "comment" : "Use for an individual assignment or job that needs to be completed",
@@ -15850,7 +15912,8 @@
             "value" : "任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.timeSpent" : {
       "comment" : "Use for tracking the amount of time spent on a task or project",
@@ -16087,7 +16150,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "花费时间"
+            "value" : "耗费时间"
           }
         },
         "zh-Hant" : {
@@ -16102,7 +16165,8 @@
             "value" : "所花時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.totalTime" : {
       "comment" : "Use for the total amount of time spent on a task or project",
@@ -16261,7 +16325,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total tid"
+            "value" : "Totaltid"
           }
         },
         "nl" : {
@@ -16354,7 +16418,8 @@
             "value" : "總時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.allTasksCompleted" : {
       "comment" : "Message displayed when all tasks have been completed",
@@ -16606,7 +16671,8 @@
             "value" : "所有任務已完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.assignmentSuccessfullyCreated" : {
       "comment" : "Confirmation message when a new assignment is created",
@@ -16675,7 +16741,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarea creada exitosamente."
+            "value" : "Tarea creada con éxito."
           }
         },
         "es-419" : {
@@ -16765,7 +16831,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppgaven er opprettet."
+            "value" : "Oppgaven ble opprettet."
           }
         },
         "nl" : {
@@ -16858,7 +16924,8 @@
             "value" : "任務已成功創建。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.changesWillSyncWhenYoureBackOnline" : {
       "comment" : "Message indicating changes will sync after reconnecting",
@@ -16957,7 +17024,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שינויים ית синכרנו כשתחזור לא conexión."
+            "value" : "שינויים יסתנכרנו כשתחזור לאינטרנט."
           }
         },
         "hi" : {
@@ -16981,7 +17048,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perubahan akan disinkronkan saat kamu kembali online."
+            "value" : "Konten di balik paywall."
           }
         },
         "it" : {
@@ -17071,7 +17138,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงจะซิงค์เมื่อกลับมาออนไลน์อีกครั้ง"
+            "value" : "การเปลี่ยนแปลงจะซิงค์เมื่อกลับมาออนไลน์อีกครั้ง."
           }
         },
         "tr" : {
@@ -17089,7 +17156,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thay đổi sẽ đồng bộ khi bạn trở lại trực tuyến."
+            "value" : "Thay đổi sẽ đồng bộ khi bạn online trở lại."
           }
         },
         "zh-Hans" : {
@@ -17110,7 +17177,8 @@
             "value" : "更改將在您上線後同步。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newTaskAssignedToYou" : {
       "comment" : "Notification when a new task is assigned to the user",
@@ -17197,7 +17265,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouvelle tâche qui vous a été assignée."
+            "value" : "Nouvelle tâche assignée à vous."
           }
         },
         "fr-CA" : {
@@ -17227,7 +17295,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Új feladat lett hozzád rendelve."
+            "value" : "Új feladat hozzád rendelve."
           }
         },
         "id" : {
@@ -17362,7 +17430,8 @@
             "value" : "分配給你的新任務。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noTasksDueToday" : {
       "comment" : "Message displayed when there are no tasks due today",
@@ -17401,7 +17470,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Heute keine Aufgaben fällig."
+            "value" : "Keine Aufgaben heute fällig."
           }
         },
         "el" : {
@@ -17539,7 +17608,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma tarefa devida hoje."
+            "value" : "Nenhuma tarefa prevista para hoje."
           }
         },
         "pt-PT" : {
@@ -17563,7 +17632,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žiadne úlohy sú splatné dnes."
+            "value" : "Dnes nie sú splatné žiadne úlohy."
           }
         },
         "sv" : {
@@ -17614,7 +17683,8 @@
             "value" : "今天沒有到期的任務。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.projectArchivedSuccessfully" : {
       "comment" : "Confirmation message when a project is archived",
@@ -17866,7 +17936,8 @@
             "value" : "項目已成功存檔。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reminderSetForThisTask" : {
       "comment" : "Confirmation message when a reminder is set for a task",
@@ -18067,7 +18138,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pripomienka bola nastavená pre tento úlohu."
+            "value" : "Pripomienka bola nastavená pre túto úlohu."
           }
         },
         "sv" : {
@@ -18118,7 +18189,8 @@
             "value" : "已為此任務設置提醒。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reportGeneratedSuccessfully" : {
       "comment" : "Confirmation message when a report is generated",
@@ -18163,7 +18235,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η αναφορά生成με επιτυχία."
+            "value" : "Η αναφορά δημιουργήθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -18370,7 +18442,8 @@
             "value" : "報告已成功生成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.taskCompletedSuccessfully" : {
       "comment" : "Confirmation message when a task is completed",
@@ -18622,7 +18695,8 @@
             "value" : "任務已成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.taskCreatedSuccessfully" : {
       "comment" : "Confirmation message when a new task is created",
@@ -18874,7 +18948,8 @@
             "value" : "任務已成功創建。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.taskDueIn5Minutes" : {
       "comment" : "Notification when a task is due in the next 5 minutes",
@@ -18985,7 +19060,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadatak je due za 5 minuta."
+            "value" : "Zadatak dospijeva za 5 minuta."
           }
         },
         "hu" : {
@@ -19093,7 +19168,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Görev 5 dakikaya kadar vadesi var."
+            "value" : "Görev 5 dakika içinde yapılmalı."
           }
         },
         "uk" : {
@@ -19126,7 +19201,8 @@
             "value" : "任務即將在 5 分鐘內到期。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.taskListIsEmpty" : {
       "comment" : "Message displayed when there are no tasks in the list",
@@ -19183,7 +19259,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Task list is empty."
+            "value" : "Task list is empty"
           }
         },
         "en-GB" : {
@@ -19207,7 +19283,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tehtävälista on tyhjät."
+            "value" : "Tehtävälista on tyhjä."
           }
         },
         "fr" : {
@@ -19378,7 +19454,8 @@
             "value" : "任務列表是空的。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.thisFolderIsEmpty" : {
       "comment" : "Message displayed when a folder has no content",
@@ -19459,7 +19536,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tämä kansio on tyhjät."
+            "value" : "Tämä kansio on tyhjä."
           }
         },
         "fr" : {
@@ -19567,7 +19644,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Această folder este gol."
+            "value" : "Acest folder este gol."
           }
         },
         "ru" : {
@@ -19630,7 +19707,8 @@
             "value" : "此文件夾是空的。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeTrackingStarted" : {
       "comment" : "Confirmation message when time tracking starts",
@@ -19783,7 +19861,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengesahan bahawa penjejakan masa telah dimulakan."
+            "value" : "Penjejakan masa telah bermula."
           }
         },
         "nb" : {
@@ -19795,7 +19873,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijdregistratie gestart."
+            "value" : "Tijdregistratie is gestart."
           }
         },
         "pl" : {
@@ -19882,7 +19960,8 @@
             "value" : "時間追蹤已啟動。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourChangesAreSaved" : {
       "comment" : "Message indicating that the user's changes have been saved",
@@ -19909,7 +19988,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje změny byly uloženy."
+            "value" : "Tvoje změny jsou uloženy."
           }
         },
         "da" : {
@@ -19945,7 +20024,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your changes have been saved."
+            "value" : "Your changes are saved."
           }
         },
         "es" : {
@@ -20017,7 +20096,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの変更は保存されました。"
+            "value" : "変更は保存されました。"
           }
         },
         "kk" : {
@@ -20134,7 +20213,8 @@
             "value" : "你的更改已保存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addADescriptionDots" : {
       "comment" : "Placeholder text for adding a description to a task or project",
@@ -20385,7 +20465,8 @@
             "value" : "新增描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addANoteDots" : {
       "comment" : "Placeholder text for adding a note",
@@ -20544,7 +20625,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til en notat…"
+            "value" : "Legg til et notat…"
           }
         },
         "nl" : {
@@ -20637,7 +20718,8 @@
             "value" : "添加备注…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addATagDots" : {
       "comment" : "Placeholder text for adding a tag to a task or project",
@@ -20664,7 +20746,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidej štítek…"
+            "value" : "Přidej tag…"
           }
         },
         "da" : {
@@ -20889,7 +20971,8 @@
             "value" : "添加标签…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addSubtaskDots" : {
       "comment" : "Placeholder text for adding a subtask to a project",
@@ -20934,7 +21017,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη υποκατευθύνσεως…"
+            "value" : "Προσθήκη υπεργασίας…"
           }
         },
         "en" : {
@@ -21072,13 +21155,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar subtarefa..."
+            "value" : "Adicionar subtarefa…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați subtask…"
+            "value" : "Adaugă subtask…"
           }
         },
         "ru" : {
@@ -21132,7 +21215,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加子任務…"
+            "value" : "新增子任務…"
           }
         },
         "zh-HK" : {
@@ -21141,7 +21224,8 @@
             "value" : "添加子任務…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTaskDetailsDots" : {
       "comment" : "Placeholder text for adding task-specific details",
@@ -21270,7 +21354,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi dettagli attività…"
+            "value" : "Aggiungi dettagli dell'attività…"
           }
         },
         "ja" : {
@@ -21324,13 +21408,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar detalhes da tarefa..."
+            "value" : "Adicionar detalhes da tarefa…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați detalii sarcină…"
+            "value" : "Adaugă detalii sarcină…"
           }
         },
         "ru" : {
@@ -21393,7 +21477,8 @@
             "value" : "添加任務詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.createNewFolderDots" : {
       "comment" : "Placeholder text for creating a new folder",
@@ -21645,7 +21730,8 @@
             "value" : "創建新資料夾…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.createNewProjectDots" : {
       "comment" : "Placeholder text for creating a new project",
@@ -21897,7 +21983,8 @@
             "value" : "創建新項目…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.describeYourTaskDots" : {
       "comment" : "Placeholder text for describing a task",
@@ -21989,7 +22076,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Décrire ta tâche…"
+            "value" : "Décris ta tâche…"
           }
         },
         "he" : {
@@ -22025,7 +22112,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descrivi il tuo compito…"
+            "value" : "Descrivi il tuo incarico…"
           }
         },
         "ja" : {
@@ -22073,7 +22160,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descrever sua tarefa…"
+            "value" : "Descreva sua tarefa…"
           }
         },
         "pt-PT" : {
@@ -22148,7 +22235,8 @@
             "value" : "描述你的任務…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDeadlineDots" : {
       "comment" : "Placeholder text for entering the deadline of a task",
@@ -22217,7 +22305,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa la fecha de entrega…"
+            "value" : "Ingresa la fecha límite…"
           }
         },
         "es-419" : {
@@ -22361,7 +22449,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่กำหนดส่ง…"
+            "value" : "กรอกกำหนดส่ง…"
           }
         },
         "tr" : {
@@ -22400,7 +22488,8 @@
             "value" : "輸入截止日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDueDateDots" : {
       "comment" : "Placeholder text for entering the due date of a task",
@@ -22613,7 +22702,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่วันครบกำหนด…"
+            "value" : "กรอกวันครบกำหนด…"
           }
         },
         "tr" : {
@@ -22652,7 +22741,8 @@
             "value" : "輸入到期日…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterProjectNameDots" : {
       "comment" : "Placeholder text for entering the project name",
@@ -22904,7 +22994,8 @@
             "value" : "輸入項目名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTaskDescriptionDots" : {
       "comment" : "Placeholder text for entering a task description",
@@ -22973,7 +23064,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir descripción de la tarea…"
+            "value" : "Introduce la descripción de la tarea…"
           }
         },
         "es-419" : {
@@ -23093,7 +23184,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti descrierea sarcinii…"
+            "value" : "Introduceți descrierea sarcinii…"
           }
         },
         "ru" : {
@@ -23156,7 +23247,8 @@
             "value" : "輸入任務描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTaskTitleDots" : {
       "comment" : "Placeholder text for entering a task title",
@@ -23248,7 +23340,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le titre de la tâche…"
+            "value" : "Entrez le titre de la tâche…"
           }
         },
         "he" : {
@@ -23284,7 +23376,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci titolo del compito…"
+            "value" : "Inserisci il titolo del compito…"
           }
         },
         "ja" : {
@@ -23332,7 +23424,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira a data limite…"
+            "value" : "Insira o título da tarefa…"
           }
         },
         "pt-PT" : {
@@ -23356,7 +23448,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov úlohy…"
+            "value" : "Zadaj názov úlohy…"
           }
         },
         "sv" : {
@@ -23392,7 +23484,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入任务标题…"
+            "value" : "请输入任务标题…"
           }
         },
         "zh-Hant" : {
@@ -23407,7 +23499,8 @@
             "value" : "輸入任務標題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTimeSpentDots" : {
       "comment" : "Placeholder text for entering the time spent on a task",
@@ -23499,7 +23592,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le temps passé…"
+            "value" : "Entrez le temps passé…"
           }
         },
         "he" : {
@@ -23607,7 +23700,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte čas strávený…"
+            "value" : "Zadaj čas strávený…"
           }
         },
         "sv" : {
@@ -23643,7 +23736,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入时间…"
+            "value" : "请输入时间…"
           }
         },
         "zh-Hant" : {
@@ -23658,7 +23751,8 @@
             "value" : "輸入花費的時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.newFolderNameDots" : {
       "comment" : "Placeholder text for naming a new folder",
@@ -23841,7 +23935,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nome do novo ficheiro…"
+            "value" : "Nome da nova pasta…"
           }
         },
         "ro" : {
@@ -23910,7 +24004,8 @@
             "value" : "新文件夾名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.newProjectNameDots" : {
       "comment" : "Placeholder text for naming a new project",
@@ -24162,7 +24257,8 @@
             "value" : "新項目名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.newTaskNameDots" : {
       "comment" : "Placeholder text for naming a new task",
@@ -24414,7 +24510,8 @@
             "value" : "新任務名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noTasksFoundDots" : {
       "comment" : "Placeholder text indicating no tasks are available",
@@ -24666,7 +24763,8 @@
             "value" : "沒有找到任務…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTasksDots" : {
       "comment" : "Placeholder text for searching tasks",
@@ -24681,7 +24779,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търсене на задачи..."
+            "value" : "Търси задачи…"
           }
         },
         "ca" : {
@@ -24807,7 +24905,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырмаларды іздеңіз..."
+            "value" : "Тапсырмаларды іздеу…"
           }
         },
         "ko" : {
@@ -24819,7 +24917,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian tugasan…"
+            "value" : "Cari tugasan…"
           }
         },
         "nb" : {
@@ -24843,7 +24941,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesquisar tarefas…"
+            "value" : "Buscar tarefas…"
           }
         },
         "pt-PT" : {
@@ -24879,7 +24977,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหางานที่ต้องทำ…"
+            "value" : "ค้นหางาน…"
           }
         },
         "tr" : {
@@ -24918,7 +25016,8 @@
             "value" : "搜尋任務…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setReminderTimeDots" : {
       "comment" : "Placeholder text for setting a reminder time",
@@ -24992,7 +25091,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer hora del recordatorio…"
+            "value" : "Establece la hora del recordatorio…"
           }
         },
         "fi" : {
@@ -25022,7 +25121,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "याद दिलाने का समय सेट करें…"
+            "value" : "अनुस्मारक समय सेट करें…"
           }
         },
         "hr" : {
@@ -25124,7 +25223,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt påminnelsetid…"
+            "value" : "Ange påminnelsetid…"
           }
         },
         "th" : {
@@ -25169,7 +25268,8 @@
             "value" : "設好設置提醒時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

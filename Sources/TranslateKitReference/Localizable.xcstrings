@@ -251,7 +251,8 @@
             "value" : "添加注释"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when adding a document to the user's library",
@@ -337,13 +338,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter à la photothèque"
+            "value" : "Ajouter à la bibliothèque"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter à la photothèque"
+            "value" : "Ajouter à la bibliothèque"
           }
         },
         "he" : {
@@ -415,7 +416,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zet in bibliotheek"
+            "value" : "Toevoegen aan Bibliotheek"
           }
         },
         "pl" : {
@@ -502,7 +503,8 @@
             "value" : "加至圖庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when adding a document to a reading list",
@@ -753,7 +755,8 @@
             "value" : "加至閲讀列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving a page or section for quick access",
@@ -761,7 +764,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة إلى سجل القراءة"
+            "value" : "إضافة إلى العلامات المرجعية"
           }
         },
         "bg" : {
@@ -791,7 +794,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zur Lesezeichenliste hinzufügen"
+            "value" : "Lesezeichen"
           }
         },
         "el" : {
@@ -863,7 +866,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oznaka"
+            "value" : "Postavi oznaku"
           }
         },
         "hu" : {
@@ -929,7 +932,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvar"
+            "value" : "Favoritar"
           }
         },
         "pt-PT" : {
@@ -1004,7 +1007,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.browse" : {
       "comment" : "Use when browsing through available documents or materials",
@@ -1114,7 +1118,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregled"
+            "value" : "Istraži"
           }
         },
         "hu" : {
@@ -1168,7 +1172,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek"
+            "value" : "Bladeren"
           }
         },
         "pl" : {
@@ -1198,7 +1202,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обзор"
+            "value" : "Просмотреть"
           }
         },
         "sk" : {
@@ -1228,7 +1232,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Огляд"
+            "value" : "Переглядати"
           }
         },
         "vi" : {
@@ -1255,7 +1259,8 @@
             "value" : "瀏覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.cite" : {
       "comment" : "Use when citing a document or resource",
@@ -1264,13 +1269,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استشهاد"
+            "value" : "الاستشهاد"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цитирайте"
+            "value" : "Цитирай"
           }
         },
         "ca" : {
@@ -1507,7 +1512,8 @@
             "value" : "引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing two or more documents or sections",
@@ -1759,7 +1765,8 @@
             "value" : "比較"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyLink" : {
       "comment" : "Use when copying a link to a document or resource",
@@ -2010,7 +2017,8 @@
             "value" : "複製連結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createNew" : {
       "comment" : "Use when creating a new document or resource",
@@ -2102,7 +2110,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer Nouveau"
+            "value" : "Créer nouveau"
           }
         },
         "he" : {
@@ -2204,7 +2212,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создать новый"
+            "value" : "Создать"
           }
         },
         "sk" : {
@@ -2261,7 +2269,8 @@
             "value" : "創建新項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.define" : {
       "comment" : "Use when defining a term or concept",
@@ -2450,7 +2459,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Defineste"
+            "value" : "Definește"
           }
         },
         "ru" : {
@@ -2513,7 +2522,8 @@
             "value" : "定義"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use when downloading materials for offline use",
@@ -2719,7 +2729,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ladda ner material"
+            "value" : "Material ladda ner"
           }
         },
         "th" : {
@@ -2764,7 +2774,8 @@
             "value" : "下載資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting the current document as a PDF",
@@ -2928,7 +2939,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteer pdf"
+            "value" : "Exporteer PDF"
           }
         },
         "pl" : {
@@ -3015,7 +3026,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a report from a document or data",
@@ -3266,7 +3278,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.goBack" : {
       "comment" : "Use when navigating back to the previous page or section",
@@ -3370,7 +3383,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पीछे जाएँ"
+            "value" : "पीछे की अधिकारिता"
           }
         },
         "hr" : {
@@ -3448,7 +3461,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anterior"
+            "value" : "Voltar"
           }
         },
         "ro" : {
@@ -3517,7 +3530,8 @@
             "value" : "返回"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.highlight" : {
       "comment" : "Use when highlighting text or sections in a document",
@@ -3681,13 +3695,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Straalverlichting"
+            "value" : "Markeren"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dostosuj"
+            "value" : "Pokaż"
           }
         },
         "pt-BR" : {
@@ -3717,7 +3731,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zvýraznenie"
+            "value" : "Zvýrazniť"
           }
         },
         "sv" : {
@@ -3768,7 +3782,8 @@
             "value" : "螢光標示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.index" : {
       "comment" : "Use when indexing or searching for specific content in a document",
@@ -4020,7 +4035,8 @@
             "value" : "索引"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.lookUp" : {
       "comment" : "Use when looking up a specific term or reference",
@@ -4272,7 +4288,8 @@
             "value" : "查找"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when marking a document or section as read",
@@ -4523,7 +4540,8 @@
             "value" : "標示為已讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a document or link in a browser",
@@ -4774,7 +4792,8 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.organize" : {
       "comment" : "Use when organizing documents or resources into folders",
@@ -5026,7 +5045,8 @@
             "value" : "組織"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use when printing a document or resource",
@@ -5277,7 +5297,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.quickLook" : {
       "comment" : "Use when previewing a document or content quickly",
@@ -5472,7 +5493,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Просмотреть"
+            "value" : "Быстрый просмотр"
           }
         },
         "sk" : {
@@ -5529,7 +5550,8 @@
             "value" : "快速查看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when reading a full article or document",
@@ -5780,7 +5802,8 @@
             "value" : "閱讀文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reference" : {
       "comment" : "Use when referencing a document or source",
@@ -5855,7 +5878,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencia"
+            "value" : "Referenciar"
           }
         },
         "fi" : {
@@ -5867,7 +5890,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Référence"
+            "value" : "Se référer"
           }
         },
         "fr-CA" : {
@@ -5969,13 +5992,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referință"
+            "value" : "Referinţă"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Норма"
+            "value" : "Справка"
           }
         },
         "sk" : {
@@ -6005,7 +6028,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Референтне значення"
+            "value" : "Довідка"
           }
         },
         "vi" : {
@@ -6032,7 +6055,8 @@
             "value" : "參考"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeAll" : {
       "comment" : "Use when removing all documents or items from a list",
@@ -6172,7 +6196,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Барлығын алып тастау"
+            "value" : "Жоқ"
           }
         },
         "ko" : {
@@ -6283,7 +6307,8 @@
             "value" : "全部移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.research" : {
       "comment" : "Use when conducting research or looking up sources",
@@ -6316,7 +6341,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forsknings"
+            "value" : "Forskn"
           }
         },
         "de" : {
@@ -6535,7 +6560,8 @@
             "value" : "研究"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.review" : {
       "comment" : "Use when reviewing a document or material",
@@ -6729,7 +6755,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Просмотреть"
+            "value" : "Оценить"
           }
         },
         "sk" : {
@@ -6786,7 +6812,8 @@
             "value" : "檢視"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving a document for future reference",
@@ -6932,7 +6959,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "나중에 저장"
+            "value" : "나중에 저장하기"
           }
         },
         "ms" : {
@@ -7037,7 +7064,8 @@
             "value" : "稍後保存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveToFavorites" : {
       "comment" : "Use when saving a document to favorites",
@@ -7288,7 +7316,8 @@
             "value" : "保存到收藏夾"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.searchInFiles" : {
       "comment" : "Use when searching for documents or items in files",
@@ -7500,7 +7529,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหาในเอกสาร"
+            "value" : "ค้นหาในไฟล์"
           }
         },
         "tr" : {
@@ -7539,7 +7568,8 @@
             "value" : "在檔案中搜尋"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document or resource",
@@ -7769,7 +7799,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chia Sẻ Tài Liệu"
+            "value" : "Chia sẻ Tài Liệu"
           }
         },
         "zh-Hans" : {
@@ -7790,7 +7820,8 @@
             "value" : "分享文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.showHint" : {
       "comment" : "Use when showing a helpful hint or suggestion",
@@ -8041,7 +8072,8 @@
             "value" : "顯示提示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.study" : {
       "comment" : "Use when studying or reviewing content",
@@ -8122,7 +8154,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opiskella"
+            "value" : "Opiskele"
           }
         },
         "fr" : {
@@ -8293,7 +8325,8 @@
             "value" : "學習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to updates or newsletters",
@@ -8337,7 +8370,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συνδρομή"
+            "value" : "Εγγραφή"
           }
         },
         "en" : {
@@ -8541,10 +8574,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閲"
+            "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating text or documents",
@@ -8553,7 +8587,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الترجمة"
+            "value" : "ترجمة"
           }
         },
         "bg" : {
@@ -8649,7 +8683,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अनुवाद करें"
+            "value" : "स्थानांतरण"
           }
         },
         "hr" : {
@@ -8733,7 +8767,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traducere"
+            "value" : "Tradu"
           }
         },
         "ru" : {
@@ -8745,7 +8779,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tlmočník"
+            "value" : "Preložiť"
           }
         },
         "sv" : {
@@ -8763,13 +8797,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çeviri"
+            "value" : "Çevir"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Переклад"
+            "value" : "Перекладати"
           }
         },
         "vi" : {
@@ -8796,7 +8830,8 @@
             "value" : "翻譯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing additional details or information",
@@ -8924,7 +8959,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vedi dettagli"
+            "value" : "Visualizza dettagli"
           }
         },
         "ja" : {
@@ -8978,7 +9013,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver detalhes"
+            "value" : "Ver Detalhes"
           }
         },
         "ro" : {
@@ -9047,7 +9082,8 @@
             "value" : "檢視詳細資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.abbreviation" : {
       "comment" : "Use when referring to an abbreviation or shortened form of a word or phrase",
@@ -9299,7 +9335,8 @@
             "value" : "縮寫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.audioVersion" : {
       "comment" : "Use when referring to the audio format of a book or document",
@@ -9320,7 +9357,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versió Àudio"
+            "value" : "Versió d'àudio"
           }
         },
         "cs" : {
@@ -9551,7 +9588,8 @@
             "value" : "音频版本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a document or book",
@@ -9802,7 +9840,8 @@
             "value" : "作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bibliography" : {
       "comment" : "Use when referring to the list of sources used in a document",
@@ -10054,7 +10093,8 @@
             "value" : "参考书目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmark" : {
       "comment" : "Use when referring to a saved location in a document",
@@ -10305,7 +10345,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to multiple saved locations in a document",
@@ -10427,7 +10468,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda"
+            "value" : "Penanda (jamak)"
           }
         },
         "it" : {
@@ -10457,7 +10498,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda Buku"
+            "value" : "Penanda Buku-buku"
           }
         },
         "nb" : {
@@ -10493,7 +10534,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Semne de carte"
+            "value" : "Semne de Carte"
           }
         },
         "ru" : {
@@ -10556,7 +10597,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.categories" : {
       "comment" : "Use when displaying or organizing documents by category",
@@ -10807,7 +10849,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section of a book or document",
@@ -11059,7 +11102,8 @@
             "value" : "章节"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.citation" : {
       "comment" : "Use when referring to a source reference in a document",
@@ -11311,7 +11355,8 @@
             "value" : "引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.contents" : {
       "comment" : "Use when displaying the table of contents in a document or book",
@@ -11332,7 +11377,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "contingut"
+            "value" : "Continguts"
           }
         },
         "cs" : {
@@ -11494,7 +11539,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "conteúdo"
+            "value" : "Categoria"
           }
         },
         "ro" : {
@@ -11560,10 +11605,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "內容"
+            "value" : "目錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.definition" : {
       "comment" : "Use when displaying the meaning of a term or concept",
@@ -11815,7 +11861,8 @@
             "value" : "定義"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.downloads" : {
       "comment" : "Use when referring to available download options",
@@ -12066,7 +12113,8 @@
             "value" : "下載項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.encyclopedia" : {
       "comment" : "Use when referring to an encyclopedia or reference book",
@@ -12147,7 +12195,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ensyklopedia"
+            "value" : "Tietosanakirja"
           }
         },
         "fr" : {
@@ -12225,7 +12273,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ensyklopedi"
+            "value" : "Encyclopedi"
           }
         },
         "nl" : {
@@ -12318,7 +12366,8 @@
             "value" : "百科全書"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.entry" : {
       "comment" : "Use when referring to an individual item or definition in a reference work",
@@ -12570,7 +12619,8 @@
             "value" : "條目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.examples" : {
       "comment" : "Use when providing examples of terms or concepts",
@@ -12822,7 +12872,8 @@
             "value" : "例子"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use when referring to the user's favorite documents or resources",
@@ -13073,7 +13124,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.glossary" : {
       "comment" : "Use when referring to a list of terms and definitions",
@@ -13304,7 +13356,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bảng Thuật Ngữ"
+            "value" : "Bảng thuật ngữ"
           }
         },
         "zh-Hans" : {
@@ -13325,7 +13377,8 @@
             "value" : "詞彙表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to the history or past activities of the user",
@@ -13576,7 +13629,8 @@
             "value" : "瀏覽記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.index" : {
       "comment" : "Use when referring to the alphabetical list of topics in a book or document",
@@ -13828,7 +13882,8 @@
             "value" : "索引"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.keywords" : {
       "comment" : "Use when referring to important terms or topics in a document",
@@ -14080,7 +14135,8 @@
             "value" : "關鍵字"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.language" : {
       "comment" : "Use when referring to the language of the document or content",
@@ -14331,7 +14387,8 @@
             "value" : "語言"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lastUpdated" : {
       "comment" : "Use when displaying the last update date of a document",
@@ -14441,13 +14498,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Povijest ažuriranja"
+            "value" : "Posljednje ažuriranje"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utolsó Frissítés"
+            "value" : "Utoljára frissítve"
           }
         },
         "id" : {
@@ -14582,7 +14639,8 @@
             "value" : "最近更新"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.meaning" : {
       "comment" : "Use when referring to the definition or significance of a term",
@@ -14771,7 +14829,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sens"
+            "value" : "Sensuri"
           }
         },
         "ru" : {
@@ -14834,7 +14892,8 @@
             "value" : "意思"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to additional comments or annotations",
@@ -15086,7 +15145,8 @@
             "value" : "備忘錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a single page in a document",
@@ -15337,7 +15397,8 @@
             "value" : "頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pageNumber" : {
       "comment" : "Use when displaying the page number in a document",
@@ -15376,7 +15437,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seitenzahl"
+            "value" : "Seitenanzahl"
           }
         },
         "el" : {
@@ -15589,7 +15650,8 @@
             "value" : "頁碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.references" : {
       "comment" : "Use when referring to the list of sources cited in a document",
@@ -15841,7 +15903,8 @@
             "value" : "參考文獻"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.resources" : {
       "comment" : "Use when referring to materials or sources for further reading",
@@ -16092,7 +16155,8 @@
             "value" : "資源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.searchHistory" : {
       "comment" : "Use when referring to the history of searches made by the user",
@@ -16344,7 +16408,8 @@
             "value" : "搜索歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.source" : {
       "comment" : "Use when referring to the original source of a document or information",
@@ -16595,7 +16660,8 @@
             "value" : "來源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.summary" : {
       "comment" : "Use when providing a brief overview or summary of a document",
@@ -16634,7 +16700,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Übersicht"
+            "value" : "Kurze Übersicht"
           }
         },
         "el" : {
@@ -16760,7 +16826,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Overzicht"
+            "value" : "Samenvatting"
           }
         },
         "pl" : {
@@ -16847,7 +16913,8 @@
             "value" : "摘要"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.addToFavoritesForQuickAccessLater" : {
       "comment" : "Confirmation when adding an item to favorites",
@@ -17054,7 +17121,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg till favoriter för snabb åtkomst senare."
+            "value" : "Lägg till i favoriter för snabb åtkomst senare."
           }
         },
         "th" : {
@@ -17090,7 +17157,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加到收藏以便稍後快速訪問。"
+            "value" : "添加到最愛以便稍後快速訪問。"
           }
         },
         "zh-HK" : {
@@ -17099,7 +17166,8 @@
             "value" : "加入收藏以便日後快速訪問。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.articleHasBeenSavedForOfflineReading" : {
       "comment" : "Message when an article is saved for offline use",
@@ -17138,7 +17206,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel wurde für offline Lesen gespeichert."
+            "value" : "Artikel wurde für das Offline-Lesen gespeichert."
           }
         },
         "el" : {
@@ -17351,7 +17419,8 @@
             "value" : "文章已被保存以供離線閱讀。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.bookmarkAddedSuccessfully" : {
       "comment" : "Confirmation when a bookmark is added",
@@ -17366,13 +17435,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавена е отметка успешно."
+            "value" : "Отметката е добавена успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adreça d'interès afegida correctament."
+            "value" : "Marcador afegit correctament."
           }
         },
         "cs" : {
@@ -17492,7 +17561,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұйрық сәтті қосылды."
+            "value" : "Бетбелгі сәтті қосылды."
           }
         },
         "ko" : {
@@ -17603,7 +17672,8 @@
             "value" : "已成功添加書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.citationCopiedToClipboard" : {
       "comment" : "Confirmation when a citation is copied",
@@ -17855,7 +17925,8 @@
             "value" : "引用已複製到剪貼簿。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Message when content is unavailable in a region",
@@ -18001,7 +18072,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서 사용할 수 없는 콘텐츠"
+            "value" : "해당 지역에서 사용할 수 없는 콘텐츠."
           }
         },
         "ms" : {
@@ -18085,7 +18156,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung không có sẵn trong khu vực của bạn"
+            "value" : "Nội dung không có sẵn ở khu vực của bạn."
           }
         },
         "zh-Hans" : {
@@ -18106,7 +18177,8 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.definitionNotFoundInOfflineMode" : {
       "comment" : "Message when the definition is unavailable offline",
@@ -18289,7 +18361,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definição não encontrada offline."
+            "value" : "Definição não encontrada no modo offline."
           }
         },
         "ro" : {
@@ -18358,7 +18430,8 @@
             "value" : "離線模式下找不到定義。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.downloadComplete" : {
       "comment" : "Confirmation when the download is finished",
@@ -18444,7 +18517,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Téléchargement terminé"
+            "value" : "Téléchargement terminé."
           }
         },
         "fr-CA" : {
@@ -18609,7 +18682,8 @@
             "value" : "下載完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.entryHasBeenUpdatedWithLatestInformation" : {
       "comment" : "Confirmation when an entry is updated",
@@ -18624,7 +18698,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записът е актуализиран с последната информация."
+            "value" : "Записът е обновен с актуалната информация."
           }
         },
         "ca" : {
@@ -18684,7 +18758,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La entrada ha sido actualizada con la información más reciente."
+            "value" : "La información más reciente ha sido actualizada a la entrada."
           }
         },
         "fi" : {
@@ -18786,13 +18860,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrada atualizada com as informações mais recentes."
+            "value" : "Entrada foi atualizada com as informações mais recentes."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrada foi atualizada com a informação mais recente."
+            "value" : "Entrada foi atualizada com as informações mais recentes."
           }
         },
         "ro" : {
@@ -18804,7 +18878,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запись обновлена сLatest информацией."
+            "value" : "Запись обновлена с последней информацией."
           }
         },
         "sk" : {
@@ -18861,7 +18935,8 @@
             "value" : "條目已更新，包含最新信息。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.featureNotAvailableOffline" : {
       "comment" : "Message when a feature is unavailable offline",
@@ -19013,7 +19088,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ciri tidak tersedia secara tanpa talian"
+            "value" : "Ciri tidak tersedia dalam mod luar talian"
           }
         },
         "nb" : {
@@ -19112,7 +19187,8 @@
             "value" : "該功能在離線狀態下不可用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noMatchesFoundForThisTerm" : {
       "comment" : "Message when a search term has no results",
@@ -19355,7 +19431,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找不到此詞的匹配項。"
+            "value" : "匹配項"
           }
         },
         "zh-HK" : {
@@ -19364,7 +19440,8 @@
             "value" : "未找到此條目相關的配對。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.notesSavedSuccessfully" : {
       "comment" : "Confirmation when notes are saved",
@@ -19616,7 +19693,8 @@
             "value" : "筆記已成功保存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.referenceMaterialsAreDownloading" : {
       "comment" : "Message when reference materials are being downloaded",
@@ -19643,7 +19721,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reference se stahují."
+            "value" : "Referenční materiály se stahují."
           }
         },
         "da" : {
@@ -19868,7 +19946,8 @@
             "value" : "參考資料正在下載中。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.searchHistoryCleared" : {
       "comment" : "Confirmation when search history is cleared",
@@ -20120,7 +20199,8 @@
             "value" : "搜尋歷史已清除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.textCopiedToClipboard" : {
       "comment" : "Confirmation when text is copied",
@@ -20219,13 +20299,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הטקסט העתקed ללוח."
+            "value" : "הטקסט הועתק ללוח."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文本已经复制到剪贴板。"
+            "value" : "टेक्स्ट को क्लिपबोर्ड पर कॉपी कर दिया गया है।"
           }
         },
         "hr" : {
@@ -20372,7 +20452,8 @@
             "value" : "文本已複製到剪貼板。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.unableToLoadData" : {
       "comment" : "Message when data cannot be loaded",
@@ -20446,7 +20527,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se pueden cargar datos"
+            "value" : "No se pueden cargar datos."
           }
         },
         "fi" : {
@@ -20458,7 +20539,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossible de charger les données"
+            "value" : "Impossible de charger les données."
           }
         },
         "fr-CA" : {
@@ -20482,7 +20563,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nije moguće učitati podatke"
+            "value" : "Nije moguće učitati podatke."
           }
         },
         "hu" : {
@@ -20623,7 +20704,8 @@
             "value" : "無法載入數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addANoteDots" : {
       "comment" : "Placeholder for adding a new note",
@@ -20782,7 +20864,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til en notat…"
+            "value" : "Legg til et notat…"
           }
         },
         "nl" : {
@@ -20875,7 +20957,8 @@
             "value" : "添加备注…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addReferenceDots" : {
       "comment" : "Placeholder for adding a reference or source",
@@ -20896,7 +20979,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu una referència…"
+            "value" : "Afegir una referència…"
           }
         },
         "cs" : {
@@ -21058,13 +21141,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar referência..."
+            "value" : "Adicionar referência…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați referință…"
+            "value" : "Adaugă referință…"
           }
         },
         "ru" : {
@@ -21127,7 +21210,8 @@
             "value" : "添加參考…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addStudyNoteDots" : {
       "comment" : "Placeholder for adding a study-related note",
@@ -21310,13 +21394,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar nota de estudo..."
+            "value" : "Adicionar nota de estudo…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați notă de studiu…"
+            "value" : "Adaugă notă de studiu…"
           }
         },
         "ru" : {
@@ -21379,7 +21463,8 @@
             "value" : "添加學習筆記…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.browseByCategoryDots" : {
       "comment" : "Placeholder for browsing by category",
@@ -21478,7 +21563,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לגלול לפי קטגוריה…"
+            "value" : "עיין לפי קטגוריה…"
           }
         },
         "hi" : {
@@ -21520,7 +21605,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Категория бойынша қарау…"
+            "value" : "Құжаттарды қарап шығу…"
           }
         },
         "ko" : {
@@ -21538,7 +21623,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brouse etter kategori…"
+            "value" : "Bla etter kategori…"
           }
         },
         "nl" : {
@@ -21568,7 +21653,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după categorie…"
+            "value" : "Se caută după categorie…"
           }
         },
         "ru" : {
@@ -21631,7 +21716,8 @@
             "value" : "按類別瀏覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.browseTopicsDots" : {
       "comment" : "Placeholder for browsing topics",
@@ -21706,7 +21792,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navegar temas…"
+            "value" : "Navegar por temas…"
           }
         },
         "fi" : {
@@ -21790,7 +21876,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brouse emner…"
+            "value" : "Bla emner…"
           }
         },
         "nl" : {
@@ -21820,7 +21906,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută subiecte…"
+            "value" : "Se caută subiecte…"
           }
         },
         "ru" : {
@@ -21838,7 +21924,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bläddra ämnen…"
+            "value" : "Bläddra bland ämnen…"
           }
         },
         "th" : {
@@ -21883,7 +21969,8 @@
             "value" : "按主題瀏覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseACategoryDots" : {
       "comment" : "Placeholder for selecting a category",
@@ -22134,7 +22221,8 @@
             "value" : "選擇類別…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.citeThisEntryDots" : {
       "comment" : "Placeholder for citing the current entry",
@@ -22323,7 +22411,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citează acest element…"
+            "value" : "Citează această intrare…"
           }
         },
         "ru" : {
@@ -22341,7 +22429,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citerar denna post…"
+            "value" : "Citerar detta inlägg…"
           }
         },
         "th" : {
@@ -22353,7 +22441,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu girişi alıntılayın…"
+            "value" : "Bu girişi alıntıla…"
           }
         },
         "uk" : {
@@ -22386,7 +22474,8 @@
             "value" : "引用此條目…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.defineTermDots" : {
       "comment" : "Placeholder for defining a term",
@@ -22638,7 +22727,8 @@
             "value" : "定義術語…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterKeywordsDots" : {
       "comment" : "Placeholder for entering search keywords",
@@ -22707,7 +22797,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa palabras clave…"
+            "value" : "Introduce palabras clave…"
           }
         },
         "es-419" : {
@@ -22731,7 +22821,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer les mots-clés…"
+            "value" : "Entrez les mots-clés…"
           }
         },
         "he" : {
@@ -22743,13 +22833,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कीवर्ड डालें…"
+            "value" : "कीवर्ड दर्ज करें…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite ključne riječi…"
+            "value" : "Unesi ključne riječi…"
           }
         },
         "hu" : {
@@ -22809,7 +22899,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz słowa kluczowe…"
+            "value" : "Wprowadź słowa kluczowe…"
           }
         },
         "pt-BR" : {
@@ -22827,7 +22917,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti cuvinte cheie…"
+            "value" : "Introduceți cuvinte-cheie…"
           }
         },
         "ru" : {
@@ -22839,7 +22929,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte kľúčové slová…"
+            "value" : "Zadaj kľúčové slová…"
           }
         },
         "sv" : {
@@ -22890,7 +22980,8 @@
             "value" : "輸入關鍵詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSearchTermDots" : {
       "comment" : "Placeholder for entering a search term",
@@ -22959,7 +23050,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir término de búsqueda…"
+            "value" : "Introduce el término de búsqueda…"
           }
         },
         "es-419" : {
@@ -23142,7 +23233,8 @@
             "value" : "輸入搜尋詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a topic or keyword",
@@ -23258,7 +23350,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Téma vagy kulcsszó megadása…"
+            "value" : "Írd be a témát vagy kulcsszót…"
           }
         },
         "id" : {
@@ -23342,7 +23434,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte tému alebo kľúčové slovo…"
+            "value" : "Zadaj tému alebo kľúčové slovo…"
           }
         },
         "sv" : {
@@ -23393,7 +23485,8 @@
             "value" : "輸入主題或關鍵字…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -23605,7 +23698,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณากรองผล…"
+            "value" : "กรองผลลัพธ์…"
           }
         },
         "tr" : {
@@ -23644,7 +23737,8 @@
             "value" : "過濾結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within an article",
@@ -23713,7 +23807,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encuentra en el artículo…"
+            "value" : "Buscando en el artículo…"
           }
         },
         "es-419" : {
@@ -23737,7 +23831,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherchez dans l'article…"
+            "value" : "Rechercher dans l'article…"
           }
         },
         "he" : {
@@ -23773,7 +23867,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trova nell'articolo…"
+            "value" : "Trova nell’articolo…"
           }
         },
         "ja" : {
@@ -23803,7 +23897,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søk i artikkelen…"
+            "value" : "Finn i artikkel…"
           }
         },
         "nl" : {
@@ -23896,7 +23990,8 @@
             "value" : "在文章中查找…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.lookUpWordDots" : {
       "comment" : "Placeholder for looking up a word or term",
@@ -23995,7 +24090,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " מחפש מילה…"
+            "value" : "מחפש מילה…"
           }
         },
         "hi" : {
@@ -24103,7 +24198,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök ord…"
+            "value" : "Slå upp ord…"
           }
         },
         "th" : {
@@ -24148,7 +24243,8 @@
             "value" : "查詢單詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no search results are found",
@@ -24399,7 +24495,8 @@
             "value" : "未找到結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.quickSearchDots" : {
       "comment" : "Placeholder for quick searching",
@@ -24558,7 +24655,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rask søk…"
+            "value" : "Raskt søk…"
           }
         },
         "nl" : {
@@ -24651,7 +24748,8 @@
             "value" : "快速搜索…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByKeywordDots" : {
       "comment" : "Placeholder for searching by keyword",
@@ -24660,7 +24758,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث حسب الكلمة المفتاحية…"
+            "value" : "ابحث حسب الكلمة المفتاحية…"
           }
         },
         "bg" : {
@@ -24720,7 +24818,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por palabra clave…"
+            "value" : "Buscar por palabra clave…"
           }
         },
         "es-419" : {
@@ -24738,7 +24836,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche par mot-clé…"
+            "value" : "Rechercher par mot-clé…"
           }
         },
         "fr-CA" : {
@@ -24828,7 +24926,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por palavra-chave…"
+            "value" : "Buscar por palavra-chave…"
           }
         },
         "pt-PT" : {
@@ -24903,7 +25001,8 @@
             "value" : "按關鍵字搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchEncyclopediaDots" : {
       "comment" : "Placeholder for searching an encyclopedia",
@@ -24912,7 +25011,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث في الموسوعة…"
+            "value" : "ابحث في الموسوعة…"
           }
         },
         "bg" : {
@@ -24924,7 +25023,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant enciclopèdia…"
+            "value" : "Cercar enciclopèdia…"
           }
         },
         "cs" : {
@@ -24972,7 +25071,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando enciclopedia…"
+            "value" : "Buscar enciclopedia…"
           }
         },
         "es-419" : {
@@ -24990,7 +25089,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche dans l'encyclopédie…"
+            "value" : "Rechercher dans l'encyclopédie…"
           }
         },
         "fr-CA" : {
@@ -25002,7 +25101,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש אנציקלופדיה…"
+            "value" : "חפש אנציקלופדיה…"
           }
         },
         "hi" : {
@@ -25014,7 +25113,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem enciklopediju…"
+            "value" : "Pretraži enciklopediju…"
           }
         },
         "hu" : {
@@ -25074,13 +25173,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukaj encyklopedii…"
+            "value" : "Szukaj w encyklopedii…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando enciclopédia…"
+            "value" : "Buscar enciclopédia…"
           }
         },
         "pt-PT" : {
@@ -25110,13 +25209,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök efter encyklopedi…"
+            "value" : "Sök encyklopedin…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหาพจนานุกรม…"
+            "value" : "ค้นหาสารานุกรม…"
           }
         },
         "tr" : {
@@ -25146,16 +25245,17 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋百科全書中…"
+            "value" : "搜尋百科全書…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋百科全書…"
+            "value" : "搜索百科全书…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchReferencesDots" : {
       "comment" : "Placeholder for searching references",
@@ -25170,7 +25270,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търсене на референции..."
+            "value" : "Търси референции…"
           }
         },
         "ca" : {
@@ -25296,7 +25396,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сілтемелерді іздеңіз..."
+            "value" : "Сілтемелерді іздеу…"
           }
         },
         "ko" : {
@@ -25308,7 +25408,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian rujukan…"
+            "value" : "Cari rujukan…"
           }
         },
         "nb" : {
@@ -25332,7 +25432,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesquisar referências…"
+            "value" : "Buscar referências…"
           }
         },
         "pt-PT" : {
@@ -25350,7 +25450,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Искать ссылки…"
+            "value" : "Ищем справки…"
           }
         },
         "sk" : {
@@ -25407,7 +25507,8 @@
             "value" : "搜尋參考資料…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeToSearchDots" : {
       "comment" : "Placeholder to indicate the user can type to search",
@@ -25590,7 +25691,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir para pesquisar…"
+            "value" : "Escreve para pesquisar…"
           }
         },
         "ro" : {
@@ -25659,7 +25760,8 @@
             "value" : "輸入搜索…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

@@ -97,7 +97,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התאמה"
+            "value" : "כוון"
           }
         },
         "hi" : {
@@ -151,13 +151,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laras"
+            "value" : "Selaraskan"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Justere"
+            "value" : "Juster"
           }
         },
         "nl" : {
@@ -250,7 +250,8 @@
             "value" : "調整"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use for applying a filter to a photo or video",
@@ -402,7 +403,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terapkan Penapis"
+            "value" : "Laraskan"
           }
         },
         "nb" : {
@@ -501,7 +502,8 @@
             "value" : "套用過濾器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.choosePhoto" : {
       "comment" : "Use for selecting a photo from the library",
@@ -599,7 +601,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בחירת תמונה"
+            "value" : "בחר תמונה"
           }
         },
         "hi" : {
@@ -749,10 +751,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇相片"
+            "value" : "選擇"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing different photos or videos",
@@ -1004,7 +1007,8 @@
             "value" : "比較"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyLink" : {
       "comment" : "Use for copying a link to the clipboard",
@@ -1072,7 +1076,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar enlace"
+            "value" : "Copiar cita"
           }
         },
         "es-419" : {
@@ -1255,7 +1259,8 @@
             "value" : "複製連結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.crop" : {
       "comment" : "Use for cropping a photo or video",
@@ -1299,7 +1304,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Περικοπή"
+            "value" : "Αποκοπή"
           }
         },
         "en" : {
@@ -1506,7 +1511,8 @@
             "value" : "裁剪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.deletePermanently" : {
       "comment" : "Use for permanently deleting a photo or video",
@@ -1538,7 +1544,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slet Permanent"
+            "value" : "Slet permanent"
           }
         },
         "de" : {
@@ -1622,7 +1628,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Törlés véglegesen"
+            "value" : "Végleges törlés"
           }
         },
         "id" : {
@@ -1757,7 +1763,8 @@
             "value" : "永久刪除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.editPhoto" : {
       "comment" : "Use for editing a photo",
@@ -1795,7 +1802,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foto Bearbeiten"
+            "value" : "Foto bearbeiten"
           }
         },
         "el" : {
@@ -2008,7 +2015,8 @@
             "value" : "編輯照片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.enableCamera" : {
       "comment" : "Use for enabling the camera to take photos or videos",
@@ -2260,7 +2268,8 @@
             "value" : "啟用相機"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting content as a PDF",
@@ -2424,7 +2433,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteer pdf"
+            "value" : "Exporteer PDF"
           }
         },
         "pl" : {
@@ -2511,7 +2520,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.flip" : {
       "comment" : "Use for flipping a photo or video",
@@ -2598,7 +2608,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifier"
+            "value" : "Retourner"
           }
         },
         "fr-CA" : {
@@ -2670,7 +2680,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bland"
+            "value" : "Vend"
           }
         },
         "nl" : {
@@ -2763,7 +2773,8 @@
             "value" : "翻转"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importPhotos" : {
       "comment" : "Use for importing photos into the app",
@@ -3015,7 +3026,8 @@
             "value" : "导入照片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsFavorite" : {
       "comment" : "Use for marking a photo or video as a favorite",
@@ -3267,7 +3279,8 @@
             "value" : "标记为最爱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.mergeClips" : {
       "comment" : "Use for merging video clips",
@@ -3518,7 +3531,8 @@
             "value" : "合併片段"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use for opening content in an external browser",
@@ -3769,7 +3783,8 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.playNow" : {
       "comment" : "Use for starting video playback immediately",
@@ -3897,7 +3912,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gioca ora"
+            "value" : "Riproduci Ora"
           }
         },
         "ja" : {
@@ -3945,13 +3960,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jogar Agora"
+            "value" : "Reproduzir Agora"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jogar agora"
+            "value" : "Reproduzir agora"
           }
         },
         "ro" : {
@@ -3963,7 +3978,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играть"
+            "value" : "Воспроизвести сейчас"
           }
         },
         "sk" : {
@@ -4020,7 +4035,8 @@
             "value" : "立即播放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordVideo" : {
       "comment" : "Use for starting video recording",
@@ -4271,7 +4287,8 @@
             "value" : "錄製視頻"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeBackground" : {
       "comment" : "Use for removing the background from an image",
@@ -4436,7 +4453,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Achtergrond Verwijderen"
+            "value" : "Achtergrond verwijderen"
           }
         },
         "pl" : {
@@ -4523,7 +4540,8 @@
             "value" : "移除背景"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.replace" : {
       "comment" : "Use for replacing a photo or video",
@@ -4669,7 +4687,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "대치"
+            "value" : "대체하기"
           }
         },
         "ms" : {
@@ -4774,7 +4792,8 @@
             "value" : "取代"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resize" : {
       "comment" : "Use for resizing a photo or video",
@@ -4938,7 +4957,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grootte aanpassen"
+            "value" : "Grootte Aanpassen"
           }
         },
         "pl" : {
@@ -5025,7 +5044,8 @@
             "value" : "調整大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.revert" : {
       "comment" : "Use for reverting changes made to a photo or video",
@@ -5276,7 +5296,8 @@
             "value" : "回復"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rotate" : {
       "comment" : "Use for rotating a photo or video",
@@ -5528,7 +5549,8 @@
             "value" : "旋轉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveToPhotos" : {
       "comment" : "Use for saving a photo or video to the photo library",
@@ -5779,7 +5801,8 @@
             "value" : "儲存至「相片」"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use for saving a video to the library",
@@ -5925,7 +5948,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비디오 저장"
+            "value" : "비디오 저장하기"
           }
         },
         "ms" : {
@@ -6030,7 +6053,8 @@
             "value" : "儲存影片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning a photo or document",
@@ -6038,7 +6062,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "نسخة ضوئية"
+            "value" : "المسح الضوئي"
           }
         },
         "bg" : {
@@ -6281,7 +6305,8 @@
             "value" : "掃描"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setAsDefault" : {
       "comment" : "Use for setting a photo or video as the default",
@@ -6290,7 +6315,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تعيين كافتراضي"
+            "value" : "تعيين كتلقائي"
           }
         },
         "bg" : {
@@ -6464,7 +6489,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir como padrão"
+            "value" : "Definir como Predefinição"
           }
         },
         "ro" : {
@@ -6533,7 +6558,8 @@
             "value" : "設置為默認"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use for sharing a document",
@@ -6763,7 +6789,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chia Sẻ Tài Liệu"
+            "value" : "Chia sẻ Tài Liệu"
           }
         },
         "zh-Hans" : {
@@ -6784,7 +6810,8 @@
             "value" : "分享文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.split" : {
       "comment" : "Use for splitting a video into segments",
@@ -6823,7 +6850,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teilen"
+            "value" : "Aufteilen"
           }
         },
         "el" : {
@@ -6865,7 +6892,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jakaa"
+            "value" : "Jaa"
           }
         },
         "fr" : {
@@ -6907,7 +6934,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemisah"
+            "value" : "Pisahkan"
           }
         },
         "it" : {
@@ -7036,7 +7063,8 @@
             "value" : "分割"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting the recording",
@@ -7255,7 +7283,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kayda Başla"
+            "value" : "Kaydı Başla"
           }
         },
         "uk" : {
@@ -7288,7 +7316,8 @@
             "value" : "開始錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stopRecording" : {
       "comment" : "Use for stopping the video recording",
@@ -7519,7 +7548,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dừng Ghi Âm"
+            "value" : "Dừng ghi âm"
           }
         },
         "zh-Hans" : {
@@ -7540,7 +7569,8 @@
             "value" : "停止錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takePhoto" : {
       "comment" : "Use for taking a photo",
@@ -7608,7 +7638,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hacer foto"
+            "value" : "Tomar Foto"
           }
         },
         "es-419" : {
@@ -7668,7 +7698,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scatta foto"
+            "value" : "Scatta Foto"
           }
         },
         "ja" : {
@@ -7791,7 +7821,8 @@
             "value" : "影相"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.toggleGrid" : {
       "comment" : "Use for toggling the grid view",
@@ -7836,7 +7867,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Περιστροφή Πλέγματος"
+            "value" : "Εναλλαγή Πλέγματος"
           }
         },
         "en" : {
@@ -7914,7 +7945,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Togol Jala"
+            "value" : "Tempel"
           }
         },
         "it" : {
@@ -7980,7 +8011,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comută rețeaua"
+            "value" : "ToggleGrid"
           }
         },
         "ru" : {
@@ -8043,7 +8074,8 @@
             "value" : "切換網格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming a photo or video",
@@ -8232,7 +8264,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scurtați"
+            "value" : "Scurtează"
           }
         },
         "ru" : {
@@ -8295,7 +8327,8 @@
             "value" : "裁剪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trimVideo" : {
       "comment" : "Use for trimming a video",
@@ -8369,7 +8402,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recortar Vídeo"
+            "value" : "recortar video"
           }
         },
         "fi" : {
@@ -8453,7 +8486,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kutt video"
+            "value" : "Beskjær video"
           }
         },
         "nl" : {
@@ -8495,7 +8528,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upraviť video"
+            "value" : "Trimovať Video"
           }
         },
         "sv" : {
@@ -8546,7 +8579,8 @@
             "value" : "剪輯影片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.undoChanges" : {
       "comment" : "Use for undoing changes made to a photo or video",
@@ -8798,7 +8832,8 @@
             "value" : "撤銷更改"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.uploadPhoto" : {
       "comment" : "Use for uploading a photo to the platform",
@@ -8879,19 +8914,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lataa valokuva"
+            "value" : "Siirrä valokuva"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Télécharger une photo"
+            "value" : "Charger une photo"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Télécharger photo"
+            "value" : "Téléverser une photo"
           }
         },
         "he" : {
@@ -9050,7 +9085,8 @@
             "value" : "上傳照片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.useCamera" : {
       "comment" : "Use for activating the camera to capture a photo or video",
@@ -9269,7 +9305,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamerayı Kullan"
+            "value" : "Etkinleştir"
           }
         },
         "uk" : {
@@ -9302,7 +9338,8 @@
             "value" : "使用相機"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.zoomIn" : {
       "comment" : "Use for zooming into a photo or video",
@@ -9553,7 +9590,8 @@
             "value" : "放大"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.zoomOut" : {
       "comment" : "Use for zooming out of a photo or video",
@@ -9804,7 +9842,8 @@
             "value" : "縮小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.albums" : {
       "comment" : "Use for displaying photo albums",
@@ -9837,7 +9876,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Album"
+            "value" : "Albums"
           }
         },
         "de" : {
@@ -9927,7 +9966,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Album"
+            "value" : "Album-album"
           }
         },
         "it" : {
@@ -10056,7 +10095,8 @@
             "value" : "相簿"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.aperture" : {
       "comment" : "Use for displaying the aperture setting for a camera",
@@ -10155,7 +10195,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ממשק API"
+            "value" : "הערות שוליים"
           }
         },
         "hi" : {
@@ -10308,7 +10348,8 @@
             "value" : "光圈"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.aspectRatio" : {
       "comment" : "Use for displaying the aspect ratio of an image or video",
@@ -10559,7 +10600,8 @@
             "value" : "比例"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.backgroundBlur" : {
       "comment" : "Use for displaying the background blur setting of an image or video",
@@ -10810,7 +10852,8 @@
             "value" : "背景模糊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.brightness" : {
       "comment" : "Use for adjusting the brightness of an image or video",
@@ -11062,7 +11105,8 @@
             "value" : "亮度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.camera" : {
       "comment" : "Use for displaying the camera or camera-related settings",
@@ -11313,7 +11357,8 @@
             "value" : "相機"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cameraRoll" : {
       "comment" : "Use for accessing the camera roll or photo library",
@@ -11381,7 +11426,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carrete de Cámara"
+            "value" : "Carrete"
           }
         },
         "es-419" : {
@@ -11477,7 +11522,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Camera-album"
+            "value" : "Camera-rol"
           }
         },
         "pl" : {
@@ -11564,7 +11609,8 @@
             "value" : "相片庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.color" : {
       "comment" : "Use for adjusting the color properties of an image or video",
@@ -11815,7 +11861,8 @@
             "value" : "顏色"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.contrast" : {
       "comment" : "Use for adjusting the contrast of an image or video",
@@ -12066,7 +12113,8 @@
             "value" : "對比度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.createdDate" : {
       "comment" : "Use for displaying the date when the photo or video was created",
@@ -12141,7 +12189,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fecha de creación"
+            "value" : "Fecha de Creación"
           }
         },
         "fi" : {
@@ -12225,13 +12273,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opprettingsdato"
+            "value" : "Opprettelsesdato"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aangemaakt Op"
+            "value" : "Aangemaakt op"
           }
         },
         "pl" : {
@@ -12318,7 +12366,8 @@
             "value" : "創建日期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use for displaying the duration of a video or media clip",
@@ -12569,7 +12618,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.effects" : {
       "comment" : "Use for applying effects to an image or video",
@@ -12821,7 +12871,8 @@
             "value" : "效果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.exposure" : {
       "comment" : "Use for adjusting the exposure of an image or video",
@@ -12973,7 +13024,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pendedahan"
+            "value" : "Dedahan"
           }
         },
         "nb" : {
@@ -13072,7 +13123,8 @@
             "value" : "曝光度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for displaying the file format of a media file",
@@ -13324,7 +13376,8 @@
             "value" : "文件格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileName" : {
       "comment" : "Use for displaying the file name of a media file",
@@ -13344,7 +13397,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nom del Fitxer"
+            "value" : "Nom del fitxer"
           }
         },
         "cs" : {
@@ -13392,7 +13445,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nombre del/la Archivo"
+            "value" : "Nombre del Archivo"
           }
         },
         "es-419" : {
@@ -13575,7 +13628,8 @@
             "value" : "文件名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileSize" : {
       "comment" : "Use for displaying the size of a media file",
@@ -13826,7 +13880,8 @@
             "value" : "檔案大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.filters" : {
       "comment" : "Use for applying filters to an image or video",
@@ -14077,7 +14132,8 @@
             "value" : "濾鏡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gallery" : {
       "comment" : "Use for accessing the photo or video gallery",
@@ -14121,7 +14177,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γκαλερί"
+            "value" : "Πινακοθήκη"
           }
         },
         "en" : {
@@ -14157,7 +14213,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Galleriat"
+            "value" : "Galleria"
           }
         },
         "fr" : {
@@ -14328,7 +14384,8 @@
             "value" : "相簿"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.height" : {
       "comment" : "Use for displaying the height of an image or video",
@@ -14579,7 +14636,8 @@
             "value" : "身高"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.image" : {
       "comment" : "Use for displaying or selecting an image",
@@ -14830,7 +14888,8 @@
             "value" : "影像"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.library" : {
       "comment" : "Use for accessing the media library",
@@ -15081,7 +15140,8 @@
             "value" : "資料庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.media" : {
       "comment" : "Use for referring to media files (photos, videos, etc.)",
@@ -15332,7 +15392,8 @@
             "value" : "媒體"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.mode" : {
       "comment" : "Use for selecting different modes or settings",
@@ -15583,7 +15644,8 @@
             "value" : "模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.photos" : {
       "comment" : "Use for displaying photos or photo-related content",
@@ -15834,7 +15896,8 @@
             "value" : "相片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.playback" : {
       "comment" : "Use for controlling media playback",
@@ -16085,7 +16148,8 @@
             "value" : "播放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.playbackSpeed" : {
       "comment" : "Use for adjusting the speed of media playback",
@@ -16336,7 +16400,8 @@
             "value" : "播放速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.preview" : {
       "comment" : "Use for previewing a photo, video, or effect",
@@ -16513,7 +16578,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pré-Visualização"
+            "value" : "Prévias"
           }
         },
         "pt-PT" : {
@@ -16531,7 +16596,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Просмотреть"
+            "value" : "Предпросмотр"
           }
         },
         "sk" : {
@@ -16588,7 +16653,8 @@
             "value" : "預覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.resolution" : {
       "comment" : "Use for displaying or adjusting media resolution",
@@ -16839,7 +16905,8 @@
             "value" : "分辨率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.saturation" : {
       "comment" : "Use for adjusting the saturation of an image or video",
@@ -16848,13 +16915,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "السماكة"
+            "value" : "التشبع"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ситуация"
+            "value" : "Наситеност"
           }
         },
         "ca" : {
@@ -16884,7 +16951,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εντύπωση"
+            "value" : "Κατανομή κορεσμού"
           }
         },
         "en" : {
@@ -16980,7 +17047,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сәндеу"
+            "value" : "Сәндіру"
           }
         },
         "ko" : {
@@ -17091,7 +17158,8 @@
             "value" : "飽和度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.screenshot" : {
       "comment" : "Use for capturing a screenshot of the screen or media",
@@ -17342,7 +17410,8 @@
             "value" : "螢幕截圖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.size" : {
       "comment" : "Use for displaying the size of an image or video",
@@ -17593,7 +17662,8 @@
             "value" : "大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.timeline" : {
       "comment" : "Use for displaying or interacting with the timeline of a video",
@@ -17845,7 +17915,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.width" : {
       "comment" : "Use for displaying the width of an image or video",
@@ -18097,7 +18168,8 @@
             "value" : "闊度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.accessToYourCameraIsRequired" : {
       "comment" : "Message displayed when camera access is needed",
@@ -18178,7 +18250,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kameran käyttöoikeus on vaadittu."
+            "value" : "Kameraoikeus on pakollinen."
           }
         },
         "fr" : {
@@ -18208,7 +18280,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potrebna je pristup vašoj kameri."
+            "value" : "Potreban je pristup vašoj kameri."
           }
         },
         "hu" : {
@@ -18349,7 +18421,8 @@
             "value" : "需要訪問你的相機。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.accessToYourPhotosIsRequired" : {
       "comment" : "Message displayed when photo access is needed",
@@ -18430,7 +18503,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valokuvien käyttöoikeus on vaadittu."
+            "value" : "Kuvaoikeus on pakollinen."
           }
         },
         "fr" : {
@@ -18460,7 +18533,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potrebna je pristup vašim fotografijama."
+            "value" : "Potreban je pristup vašim fotografijama."
           }
         },
         "hu" : {
@@ -18601,7 +18674,8 @@
             "value" : "需要訪問你的照片。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.changesHaveBeenSavedToYourDevice" : {
       "comment" : "Message displayed after saving changes",
@@ -18676,7 +18750,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los cambios se han guardado en tu dispositivo."
+            "value" : "Los cambios se guardaron en tu dispositivo."
           }
         },
         "fi" : {
@@ -18814,7 +18888,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงได้ถูกบันทึกในอุปกรณ์ของคุณแล้ว"
+            "value" : "การเปลี่ยนแปลงได้ถูกบันทึกในอุปกรณ์ของคุณแล้ว."
           }
         },
         "tr" : {
@@ -18853,7 +18927,8 @@
             "value" : "更改已儲存到您的設備。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.convertingFileFormat" : {
       "comment" : "Message displayed when a file format is being converted",
@@ -18898,7 +18973,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μετατροπή μορφής αρχείου…"
+            "value" : "Μετατροπή μορφής αρχείου..."
           }
         },
         "en" : {
@@ -19105,7 +19180,8 @@
             "value" : "正在轉換文件格式..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.editingInProgress" : {
       "comment" : "Message displayed while editing is in progress",
@@ -19174,7 +19250,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editando en progreso..."
+            "value" : "Edición en curso..."
           }
         },
         "es-419" : {
@@ -19357,7 +19433,8 @@
             "value" : "正在編輯…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.effectAppliedSuccessfully" : {
       "comment" : "Message displayed when an effect is successfully applied",
@@ -19600,7 +19677,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "特效成功應用。"
+            "value" : "特效應用成功。"
           }
         },
         "zh-HK" : {
@@ -19609,7 +19686,8 @@
             "value" : "效果已成功應用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.exportCompletedSuccessfully" : {
       "comment" : "Message displayed after a successful export",
@@ -19684,7 +19762,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportación completada con éxito."
+            "value" : "Exportación completada exitosamente."
           }
         },
         "fi" : {
@@ -19768,7 +19846,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksporten er fullført."
+            "value" : "Eksporten ble fullført vellykket."
           }
         },
         "nl" : {
@@ -19852,7 +19930,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯出成功完成。"
+            "value" : "匯出已完成。"
           }
         },
         "zh-HK" : {
@@ -19861,7 +19939,8 @@
             "value" : "導出已成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.fileIsTooLargeToProcess" : {
       "comment" : "Message displayed when a file exceeds size limits",
@@ -20113,7 +20192,8 @@
             "value" : "檔案太大而無法處理。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.filterAppliedSuccessfully" : {
       "comment" : "Message displayed when a filter is successfully applied",
@@ -20365,7 +20445,8 @@
             "value" : "過濾器已成功應用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.imageHasBeenSavedToYourLibrary" : {
       "comment" : "Message displayed when an image is saved to the library",
@@ -20446,7 +20527,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kuva on tallennettu kirjastoon."
+            "value" : "Kuva on tallennettu kirjastooni."
           }
         },
         "fr" : {
@@ -20470,7 +20551,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "छवि आपकी लाइब्रेरी में सेव कर दी गई है।"
+            "value" : "छवि आपकी लाइब्रेरी में सेव हो गई है।"
           }
         },
         "hr" : {
@@ -20578,7 +20659,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ภาพถูกบันทึกไปยังห้องสมุดของคุณแล้ว."
+            "value" : "ภาพถูกบันทึกไปยังห้องสมุดของคุณแล้ว"
           }
         },
         "tr" : {
@@ -20617,7 +20698,8 @@
             "value" : "圖片已保存到你的庫存中。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.importCompletedSuccessfully" : {
       "comment" : "Message displayed after a successful import",
@@ -20650,7 +20732,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Import færdiggjort med succes."
+            "value" : "Import gennemført med succes."
           }
         },
         "de" : {
@@ -20770,13 +20852,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imbasan telah berjaya diselesaikan."
+            "value" : "Import telah berjaya diselesaikan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importering fullført."
+            "value" : "Importeringen ble fullført vellykket."
           }
         },
         "nl" : {
@@ -20830,7 +20912,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การนำเข้าสำเร็จแล้ว."
+            "value" : "การนำเข้าสำเร็จแล้ว"
           }
         },
         "tr" : {
@@ -20848,7 +20930,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập khẩu đã hoàn thành thành công."
+            "value" : "Quá trình nhập đã hoàn tất thành công."
           }
         },
         "zh-Hans" : {
@@ -20869,7 +20951,8 @@
             "value" : "導入成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noMediaFilesFound" : {
       "comment" : "Message displayed when no media files are found",
@@ -20896,7 +20979,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyl nalezen žádný mediální soubor."
+            "value" : "Nebyly nalezeny žádné mediální soubory."
           }
         },
         "da" : {
@@ -21052,7 +21135,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum ficheiro de media encontrado."
+            "value" : "Nenhum ficheiro de média encontrado."
           }
         },
         "ro" : {
@@ -21121,7 +21204,8 @@
             "value" : "未找到媒體文件。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.processingLargeMediaFile" : {
       "comment" : "Message displayed while processing a large file",
@@ -21280,7 +21364,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Behandler stort mediefil..."
+            "value" : "Behandler stor mediefil..."
           }
         },
         "nl" : {
@@ -21373,7 +21457,8 @@
             "value" : "正在處理大型媒體文件..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.theDevicesCameraIsNotAvailable" : {
       "comment" : "Message displayed when the camera is unavailable",
@@ -21625,7 +21710,8 @@
             "value" : "設備的相機無法使用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.videoExportComplete" : {
       "comment" : "Message displayed when video export is completed",
@@ -21748,7 +21834,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ekspor video lengkap."
+            "value" : "Ekspor video selesai."
           }
         },
         "it" : {
@@ -21802,7 +21888,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportação de vídeo concluída."
+            "value" : "Exportação de vídeo foi concluída."
           }
         },
         "pt-PT" : {
@@ -21832,7 +21918,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Videouppkopplingen är slutförd."
+            "value" : "Videoexporten är slutförd."
           }
         },
         "th" : {
@@ -21877,7 +21963,8 @@
             "value" : "視頻導出完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addCaption" : {
       "comment" : "Placeholder for adding a caption to an image or video",
@@ -21910,7 +21997,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilføj billedtekst..."
+            "value" : "Tilføj billedtekst…"
           }
         },
         "de" : {
@@ -21946,7 +22033,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir pie de foto..."
+            "value" : "Añadir pie de foto…"
           }
         },
         "es-419" : {
@@ -22048,7 +22135,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj podpis..."
+            "value" : "Dodaj tytuł..."
           }
         },
         "pt-BR" : {
@@ -22072,7 +22159,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте подпись..."
+            "value" : "Добавить подпись..."
           }
         },
         "sk" : {
@@ -22129,7 +22216,8 @@
             "value" : "添加说明..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addPhotoDescription" : {
       "comment" : "Placeholder for adding a description to a photo",
@@ -22150,7 +22238,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu una descripció de la foto..."
+            "value" : "Afegir una descripció de la foto…"
           }
         },
         "cs" : {
@@ -22198,7 +22286,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir descripción de foto…"
+            "value" : "Añadir descripción de foto..."
           }
         },
         "es-419" : {
@@ -22216,7 +22304,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter une description de photo..."
+            "value" : "Ajouter une description de photo…"
           }
         },
         "fr-CA" : {
@@ -22294,7 +22382,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg fotoomschrijving toe..."
+            "value" : "Voeg foto-omschrijving toe..."
           }
         },
         "pl" : {
@@ -22318,7 +22406,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați descriere foto..."
+            "value" : "Adaugă descriere foto…"
           }
         },
         "ru" : {
@@ -22381,7 +22469,8 @@
             "value" : "添加照片描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTags" : {
       "comment" : "Placeholder for adding tags to an image or video",
@@ -22468,7 +22557,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter des tags..."
+            "value" : "Ajouter des étiquettes..."
           }
         },
         "fr-CA" : {
@@ -22633,7 +22722,8 @@
             "value" : "添加標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addVideoTitle" : {
       "comment" : "Placeholder for adding a title to a video",
@@ -22885,7 +22975,8 @@
             "value" : "添加視頻標題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.adjustingColors" : {
       "comment" : "Placeholder when adjusting color settings",
@@ -22972,7 +23063,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustement des couleurs..."
+            "value" : "Ajustement des couleurs…"
           }
         },
         "fr-CA" : {
@@ -23074,7 +23165,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustare culori..."
+            "value" : "Ajustează culori..."
           }
         },
         "ru" : {
@@ -23092,7 +23183,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Justera färger…"
+            "value" : "Justerar färger…"
           }
         },
         "th" : {
@@ -23137,7 +23228,8 @@
             "value" : "調整顏色中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.adjustingExposure" : {
       "comment" : "Placeholder when adjusting exposure settings",
@@ -23224,7 +23316,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustement de l'exposition..."
+            "value" : "Ajustement de l'exposition…"
           }
         },
         "fr-CA" : {
@@ -23326,7 +23418,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustare expunere..."
+            "value" : "Ajustează expunere..."
           }
         },
         "ru" : {
@@ -23389,7 +23481,8 @@
             "value" : "調整曝光中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.analyzingImage" : {
       "comment" : "Placeholder when analyzing an image",
@@ -23560,7 +23653,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analiza obrazu…"
+            "value" : "Analizowanie obrazu…"
           }
         },
         "pt-BR" : {
@@ -23572,13 +23665,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A analisar imagem..."
+            "value" : "A analisar imagem…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analiză imagine..."
+            "value" : "Analizează imaginea..."
           }
         },
         "ru" : {
@@ -23641,7 +23734,8 @@
             "value" : "正在分析圖像…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.applyingFilters" : {
       "comment" : "Placeholder when applying filters to an image or video",
@@ -23722,7 +23816,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sovellamme suodattimia…"
+            "value" : "Sovitetaan suodattimia…"
           }
         },
         "fr" : {
@@ -23830,7 +23924,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplicare filtre..."
+            "value" : "Aplică filtre..."
           }
         },
         "ru" : {
@@ -23893,7 +23987,8 @@
             "value" : "正在應用濾鏡…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.creatingPreview" : {
       "comment" : "Placeholder when creating a preview of the media",
@@ -24145,7 +24240,8 @@
             "value" : "創建預覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAlbumName" : {
       "comment" : "Placeholder for entering an album name",
@@ -24226,7 +24322,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anna albun nimi…"
+            "value" : "Anna albumin nimi…"
           }
         },
         "fr" : {
@@ -24334,7 +24430,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducerea numelui albumului..."
+            "value" : "Introduceți!"
           }
         },
         "ru" : {
@@ -24346,7 +24442,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov albumu..."
+            "value" : "Zadaj názov albumu..."
           }
         },
         "sv" : {
@@ -24397,7 +24493,8 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDescription" : {
       "comment" : "Placeholder for entering a description",
@@ -24526,7 +24623,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci descrizione…"
+            "value" : "Inserisci la descrizione…"
           }
         },
         "ja" : {
@@ -24562,7 +24659,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer een beschrijving in..."
+            "value" : "Voer beschrijving in …"
           }
         },
         "pl" : {
@@ -24610,7 +24707,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่คำอธิบาย…"
+            "value" : "กรอกคำอธิบาย…"
           }
         },
         "tr" : {
@@ -24628,7 +24725,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập mô tả…"
+            "value" : "Nhập mô tả..."
           }
         },
         "zh-Hans" : {
@@ -24649,7 +24746,8 @@
             "value" : "輸入描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.exportingVideo" : {
       "comment" : "Placeholder when exporting a video",
@@ -24664,7 +24762,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експорт на видео…"
+            "value" : "Експортиране на видео…"
           }
         },
         "ca" : {
@@ -24736,7 +24834,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportation de la vidéo..."
+            "value" : "Exportation de vidéo..."
           }
         },
         "fr-CA" : {
@@ -24760,7 +24858,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izv exportiranje videa…"
+            "value" : "Izvoz videa..."
           }
         },
         "hu" : {
@@ -24901,7 +24999,8 @@
             "value" : "正導出影片…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.generatingPreview" : {
       "comment" : "Placeholder when generating a preview of media",
@@ -25024,7 +25123,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menghasilkan pratinjau..."
+            "value" : "Menghasilkan pratinjau…"
           }
         },
         "it" : {
@@ -25072,7 +25171,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generowanie podglądu..."
+            "value" : "Generowanie podglądu…"
           }
         },
         "pt-BR" : {
@@ -25153,7 +25252,8 @@
             "value" : "生成預覽中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingFilters" : {
       "comment" : "Placeholder when loading filters for an image or video",
@@ -25384,7 +25484,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tải bộ lọc..."
+            "value" : "Loading filters…"
           }
         },
         "zh-Hans" : {
@@ -25405,7 +25505,8 @@
             "value" : "加載過濾器中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.processingImage" : {
       "comment" : "Placeholder when processing an image",
@@ -25657,7 +25758,8 @@
             "value" : "處理圖像…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.processingVideo" : {
       "comment" : "Placeholder when processing a video",
@@ -25909,7 +26011,8 @@
             "value" : "處理視頻…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.renderingEffects" : {
       "comment" : "Placeholder when rendering effects for an image or video",
@@ -26134,7 +26237,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рендерінг ефектів…"
+            "value" : "Накладання ефектів…"
           }
         },
         "vi" : {
@@ -26161,7 +26264,8 @@
             "value" : "渲染效果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.renderingPreview" : {
       "comment" : "Placeholder when rendering a preview of media",
@@ -26386,7 +26490,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рендерінг попереднього перегляду…"
+            "value" : "Накладання попереднього перегляду…"
           }
         },
         "vi" : {
@@ -26413,7 +26517,8 @@
             "value" : "正在渲染預覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchMedia" : {
       "comment" : "Placeholder for searching through media",
@@ -26548,7 +26653,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "メディアを検索..."
+            "value" : "メディアを検索中…"
           }
         },
         "kk" : {
@@ -26590,7 +26695,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesquisar mídia…"
+            "value" : "Buscar mídia…"
           }
         },
         "pt-PT" : {
@@ -26608,7 +26713,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Искать медиа..."
+            "value" : "Ищем медиа..."
           }
         },
         "sk" : {
@@ -26665,7 +26770,8 @@
             "value" : "搜尋媒體..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.trimmingVideo" : {
       "comment" : "Placeholder when trimming a video",
@@ -26680,7 +26786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Очертаване на видео…"
+            "value" : "Подрязване на видео…"
           }
         },
         "ca" : {
@@ -26758,7 +26864,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rogner la vidéo…"
+            "value" : "Découpe de la vidéo…"
           }
         },
         "he" : {
@@ -26770,7 +26876,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "वीडियो को ट्रिम कर रहे हैं..."
+            "value" : "वीडियो को ट्रिम करना…"
           }
         },
         "hr" : {
@@ -26812,7 +26918,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비디오 자르기 중…"
+            "value" : "비디오 자르기…"
           }
         },
         "ms" : {
@@ -26917,7 +27023,8 @@
             "value" : "修剪影片…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

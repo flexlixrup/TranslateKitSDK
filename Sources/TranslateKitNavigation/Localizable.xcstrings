@@ -8,7 +8,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة إلى المفضلة"
+            "value" : "إضافة إلى العلامات المرجعية"
           }
         },
         "bg" : {
@@ -251,7 +251,8 @@
             "value" : "添加至收藏夾"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addStop" : {
       "comment" : "Use for adding a stop to the current navigation route",
@@ -503,7 +504,8 @@
             "value" : "添加停靠点"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addWaypoint" : {
       "comment" : "Use for adding a waypoint to the navigation route",
@@ -755,7 +757,8 @@
             "value" : "添加航路点"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.avoidRoute" : {
       "comment" : "Use for avoiding a specific route or section",
@@ -908,7 +911,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "避免路线"
+            "value" : "Hindar"
           }
         },
         "nb" : {
@@ -974,7 +977,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rota Kaçır"
+            "value" : "Rota Değiştir"
           }
         },
         "uk" : {
@@ -986,7 +989,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tránh đường"
+            "value" : "Tránh tuyến đường"
           }
         },
         "zh-Hans" : {
@@ -1007,7 +1010,8 @@
             "value" : "避免路线"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.centerMap" : {
       "comment" : "Use for centering the map on the current location",
@@ -1022,7 +1026,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Центрирайте картата"
+            "value" : "Центрирай картата"
           }
         },
         "ca" : {
@@ -1052,7 +1056,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κέντρο Χάρτη"
+            "value" : "Κεντράρισμα Χάρτη"
           }
         },
         "en" : {
@@ -1082,13 +1086,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Centro del mapa"
+            "value" : "Centrar mapa"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keskity karttaan"
+            "value" : "Keskitä kartta"
           }
         },
         "fr" : {
@@ -1166,7 +1170,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Senter kart"
+            "value" : "Sentrer kart"
           }
         },
         "nl" : {
@@ -1259,7 +1263,8 @@
             "value" : "中心地图"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkForecast" : {
       "comment" : "Use for checking the weather forecast",
@@ -1510,7 +1515,8 @@
             "value" : "檢查天氣預報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkTrafficStatus" : {
       "comment" : "Use for checking the current traffic status",
@@ -1762,7 +1768,8 @@
             "value" : "检查交通状态"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.enableWeatherAlerts" : {
       "comment" : "Use for enabling weather alerts during navigation",
@@ -1800,7 +1807,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wetterwarnungen Aktivieren"
+            "value" : "Wetterwarnungen aktivieren"
           }
         },
         "el" : {
@@ -2013,7 +2020,8 @@
             "value" : "啟用天氣通知"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.endNavigation" : {
       "comment" : "Use for ending the navigation session",
@@ -2265,7 +2273,8 @@
             "value" : "結束導航"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.findNearby" : {
       "comment" : "Use for finding nearby locations or services",
@@ -2303,7 +2312,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In Der Nähe Finden"
+            "value" : "In der Nähe finden"
           }
         },
         "el" : {
@@ -2516,7 +2525,8 @@
             "value" : "查找附近"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.findParking" : {
       "comment" : "Use for finding parking spaces nearby",
@@ -2767,7 +2777,8 @@
             "value" : "尋找停車位"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.followRoute" : {
       "comment" : "Use for following the current route",
@@ -2872,7 +2883,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रूट का पालन करें"
+            "value" : "को सही दिशा में"
           }
         },
         "hr" : {
@@ -3019,7 +3030,8 @@
             "value" : "跟随路线"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.getDirections" : {
       "comment" : "Use for getting directions to a destination",
@@ -3270,7 +3282,8 @@
             "value" : "獲取路線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markLocation" : {
       "comment" : "Use for marking a specific location on the map",
@@ -3519,10 +3532,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "标记位置"
+            "value" : "標記位置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.navigate" : {
       "comment" : "Use for starting navigation to a destination",
@@ -3711,7 +3725,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navighează"
+            "value" : "Mut"
           }
         },
         "ru" : {
@@ -3771,10 +3785,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导航"
+            "value" : "導航"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.planATrip" : {
       "comment" : "Use for planning a trip with multiple stops",
@@ -4025,7 +4040,8 @@
             "value" : "規劃旅行"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recalculate" : {
       "comment" : "Use for recalculating the route based on new inputs",
@@ -4070,7 +4086,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επανακαθορισμός"
+            "value" : "Επανυπολογισμός"
           }
         },
         "en" : {
@@ -4190,7 +4206,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herlaten"
+            "value" : "Berekenen"
           }
         },
         "pl" : {
@@ -4277,7 +4293,8 @@
             "value" : "重新計算"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordRoute" : {
       "comment" : "Use for recording the current route",
@@ -4388,7 +4405,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zabilježi rut"
+            "value" : "Rutu"
           }
         },
         "hu" : {
@@ -4529,7 +4546,8 @@
             "value" : "記錄路線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use for reporting an issue during navigation",
@@ -4663,7 +4681,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "問題を報告"
+            "value" : "問題を報告する"
           }
         },
         "kk" : {
@@ -4780,7 +4798,8 @@
             "value" : "舉報問題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportWeatherCondition" : {
       "comment" : "Use for reporting current weather conditions",
@@ -4914,7 +4933,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "天候条件を報告"
+            "value" : "天候条件を報告する"
           }
         },
         "kk" : {
@@ -5031,7 +5050,8 @@
             "value" : "報告天氣情況"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reroute" : {
       "comment" : "Use for rerouting the navigation path",
@@ -5190,7 +5210,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reroute"
+            "value" : "Omruter"
           }
         },
         "nl" : {
@@ -5238,13 +5258,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omdirigera"
+            "value" : "återspawna"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "หันไปทางอื่น"
+            "value" : "ปรับเส้นทาง"
           }
         },
         "tr" : {
@@ -5283,7 +5303,8 @@
             "value" : "重新路由"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setDestination" : {
       "comment" : "Use for setting a destination on the map",
@@ -5315,7 +5336,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Destination"
+            "value" : "Sæt destination"
           }
         },
         "de" : {
@@ -5423,7 +5444,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақсатты таңдау"
+            "value" : "Мақсатты орнату"
           }
         },
         "ko" : {
@@ -5435,7 +5456,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengaturan lalu lintas"
+            "value" : "Tetapkan Destinasi"
           }
         },
         "nb" : {
@@ -5534,7 +5555,8 @@
             "value" : "設定目的地"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setHome" : {
       "comment" : "Use for setting a home address",
@@ -5786,7 +5808,8 @@
             "value" : "設置主頁"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setTemperatureUnit" : {
       "comment" : "Use for setting the temperature unit (Celsius or Fahrenheit)",
@@ -5818,7 +5841,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Temperatur Enhed"
+            "value" : "Sæt temperaturenhed"
           }
         },
         "de" : {
@@ -5944,7 +5967,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sett temperaturenhet"
+            "value" : "Angi temperaturenhet"
           }
         },
         "nl" : {
@@ -6037,7 +6060,8 @@
             "value" : "設定溫度單位"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setWork" : {
       "comment" : "Use for setting a work address",
@@ -6244,7 +6268,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt arbete"
+            "value" : "Ange arbetsadress"
           }
         },
         "th" : {
@@ -6289,7 +6313,8 @@
             "value" : "設置工作地點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.showNotifications" : {
       "comment" : "Use for showing notifications related to navigation",
@@ -6471,7 +6496,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar notificações"
+            "value" : "Mostrar Notificações"
           }
         },
         "ro" : {
@@ -6483,7 +6508,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Показ уведомлений"
+            "value" : "Показать уведомления"
           }
         },
         "sk" : {
@@ -6540,7 +6565,8 @@
             "value" : "顯示通知"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.showTerrain" : {
       "comment" : "Use for displaying terrain information on the map",
@@ -6792,7 +6818,8 @@
             "value" : "顯示地形"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.showTraffic" : {
       "comment" : "Use for displaying traffic information",
@@ -6861,7 +6888,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Tráfico"
+            "value" : "Mostrar tráfico"
           }
         },
         "es-419" : {
@@ -7023,7 +7050,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hiển Thị Giao Thông"
+            "value" : "Hiển thị Giao Thông"
           }
         },
         "zh-Hans" : {
@@ -7044,7 +7071,8 @@
             "value" : "顯示交通"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startNavigation" : {
       "comment" : "Use for beginning the navigation process",
@@ -7295,7 +7323,8 @@
             "value" : "開始導航"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.switchView" : {
       "comment" : "Use for switching the map view type",
@@ -7466,7 +7495,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zmień widok"
+            "value" : "Przełącz"
           }
         },
         "pt-BR" : {
@@ -7547,7 +7576,8 @@
             "value" : "切換視圖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takeDetour" : {
       "comment" : "Use for taking an alternate route",
@@ -7622,7 +7652,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tomar desvío"
+            "value" : "Tomar Desvío"
           }
         },
         "fi" : {
@@ -7652,7 +7682,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "绕道走"
+            "value" : "चक्कर लें"
           }
         },
         "hr" : {
@@ -7799,7 +7829,8 @@
             "value" : "走另一條路"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking progress along the route",
@@ -8050,7 +8081,8 @@
             "value" : "追蹤進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the weather forecast by hour",
@@ -8226,7 +8258,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Previsão de Última Hora"
+            "value" : "Ver Previsão Horária"
           }
         },
         "pt-PT" : {
@@ -8301,7 +8333,8 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weather forecast for the week",
@@ -8552,7 +8585,8 @@
             "value" : "查看每週天氣預報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.alternativeRoutes" : {
       "comment" : "Use for displaying alternative navigation paths",
@@ -8804,7 +8838,8 @@
             "value" : "替代路徑"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.arrivalTime" : {
       "comment" : "Use for displaying the estimated time of arrival",
@@ -9056,7 +9091,8 @@
             "value" : "抵达时间"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.compass" : {
       "comment" : "Use for displaying the compass direction",
@@ -9308,7 +9344,8 @@
             "value" : "指南針"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for displaying the connection status (e.g., GPS, internet)",
@@ -9448,7 +9485,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Байланыс статусі"
+            "value" : "Байланыс күйі"
           }
         },
         "ko" : {
@@ -9559,7 +9596,8 @@
             "value" : "連接狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentSpeed" : {
       "comment" : "Use for displaying the current speed of the vehicle",
@@ -9811,7 +9849,8 @@
             "value" : "當前速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.departureTime" : {
       "comment" : "Use for showing the time of departure",
@@ -10063,7 +10102,8 @@
             "value" : "出發時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.direction" : {
       "comment" : "Use for indicating the direction to follow",
@@ -10204,7 +10244,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бағдарлама бағыты"
+            "value" : "Бағыт"
           }
         },
         "ko" : {
@@ -10315,7 +10355,8 @@
             "value" : "方向"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.distance" : {
       "comment" : "Use for displaying the distance to a destination",
@@ -10566,7 +10607,8 @@
             "value" : "距離"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.driver" : {
       "comment" : "Use for referring to the driver of the vehicle",
@@ -10574,7 +10616,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "برنامج التشغيل"
+            "value" : "السائق"
           }
         },
         "bg" : {
@@ -10817,7 +10859,8 @@
             "value" : "驅動程式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use for showing the estimated travel time",
@@ -11068,7 +11111,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.elevation" : {
       "comment" : "Use for displaying the elevation of the current location",
@@ -11320,7 +11364,8 @@
             "value" : "海拔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for showing the estimated arrival time",
@@ -11571,7 +11616,8 @@
             "value" : "預計到達時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.eta" : {
       "comment" : "Use for showing the estimated time of arrival",
@@ -11598,7 +11644,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Očekávaný čas příjezdu"
+            "value" : "ETA"
           }
         },
         "da" : {
@@ -11760,7 +11806,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TTA"
+            "value" : "ETA"
           }
         },
         "ru" : {
@@ -11823,7 +11869,8 @@
             "value" : "預計到達時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.highways" : {
       "comment" : "Use for referring to highways along the route",
@@ -12075,7 +12122,8 @@
             "value" : "高速公路"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.locationServices" : {
       "comment" : "Use for enabling or displaying location services",
@@ -12096,7 +12144,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Localització"
+            "value" : "Serveis de localització"
           }
         },
         "cs" : {
@@ -12144,7 +12192,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Localización"
+            "value" : "Servicios de localización"
           }
         },
         "es-419" : {
@@ -12234,7 +12282,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Steds tjenester"
+            "value" : "Stedstjenester"
           }
         },
         "nl" : {
@@ -12258,7 +12306,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Serviços de localização"
+            "value" : "Serviços de Localização"
           }
         },
         "ro" : {
@@ -12327,7 +12375,8 @@
             "value" : "定位服務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.mapType" : {
       "comment" : "Use for switching between different map types (e.g., satellite, terrain)",
@@ -12579,7 +12628,8 @@
             "value" : "地圖類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.navigationInstructions" : {
       "comment" : "Use for showing detailed navigation instructions",
@@ -12666,7 +12716,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Instructions de Navigation"
+            "value" : "Instructions de navigation"
           }
         },
         "fr-CA" : {
@@ -12831,7 +12881,8 @@
             "value" : "導航指示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.navigationMode" : {
       "comment" : "Use for setting the navigation mode (e.g., driving, walking)",
@@ -13032,7 +13083,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Návrh navigácie"
+            "value" : "Režim navigácie"
           }
         },
         "sv" : {
@@ -13083,7 +13134,8 @@
             "value" : "導航模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pointsOfInterest" : {
       "comment" : "Use for showing nearby points of interest",
@@ -13127,7 +13179,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημείο Ενδιαφέροντος"
+            "value" : "Σημεία Ενδιαφέροντος"
           }
         },
         "en" : {
@@ -13334,7 +13386,8 @@
             "value" : "熱門景點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.publicTransport" : {
       "comment" : "Use for displaying public transport options",
@@ -13444,7 +13497,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Javni Prijevoz"
+            "value" : "Javna transport"
           }
         },
         "hu" : {
@@ -13585,7 +13638,8 @@
             "value" : "公共交通"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.route" : {
       "comment" : "Use for referring to the navigation route",
@@ -13594,7 +13648,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "المسار"
           }
         },
         "bg" : {
@@ -13612,7 +13666,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Trasa"
           }
         },
         "da" : {
@@ -13630,7 +13684,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Διαδρομή"
           }
         },
         "en" : {
@@ -13654,7 +13708,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Ruta"
           }
         },
         "es-419" : {
@@ -13684,13 +13738,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "מסלול"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "मार्ग"
           }
         },
         "hr" : {
@@ -13702,7 +13756,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Útvonal"
           }
         },
         "id" : {
@@ -13726,7 +13780,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Маршрут"
           }
         },
         "ko" : {
@@ -13756,7 +13810,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sposób podania"
+            "value" : "Trasa"
           }
         },
         "pt-BR" : {
@@ -13768,76 +13822,77 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Rota"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Rută"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Маршрут"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Trasa"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Rutt"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "เส้นทาง"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Rota"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введення"
+            "value" : "Маршрут"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Tuyến đường"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "路线"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "路線"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "路線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.routeGuidance" : {
       "comment" : "Use for providing route guidance instructions",
@@ -14089,7 +14144,8 @@
             "value" : "路線指導"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.signalStrength" : {
       "comment" : "Use for displaying the signal strength of GPS or internet",
@@ -14341,7 +14397,8 @@
             "value" : "信號強度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.speedLimit" : {
       "comment" : "Use for indicating the speed limit on the current road",
@@ -14593,7 +14650,8 @@
             "value" : "速度限制"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stops" : {
       "comment" : "Use for indicating the stops along the route",
@@ -14752,7 +14810,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stopp"
+            "value" : "Stoppesteder"
           }
         },
         "nl" : {
@@ -14845,7 +14903,8 @@
             "value" : "停靠點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tollRoads" : {
       "comment" : "Use for indicating toll roads along the route",
@@ -14919,7 +14978,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peajes"
+            "value" : "Carreteras de Peaje"
           }
         },
         "fi" : {
@@ -14955,7 +15014,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naplatni put"
+            "value" : "Putarine"
           }
         },
         "hu" : {
@@ -15003,7 +15062,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betalingsveier"
+            "value" : "Fysiske betalingsveier"
           }
         },
         "nl" : {
@@ -15096,7 +15155,8 @@
             "value" : "收費道路"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trafficConditions" : {
       "comment" : "Use for displaying the traffic status on a route",
@@ -15347,7 +15407,8 @@
             "value" : "交通狀況"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trafficCongestion" : {
       "comment" : "Use for displaying traffic congestion on the route",
@@ -15374,7 +15435,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dopravní zácpa"
+            "value" : "Dopravní kongesce"
           }
         },
         "da" : {
@@ -15428,7 +15489,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liikenne ruuhka"
+            "value" : "Liikenne-ruuhka"
           }
         },
         "fr" : {
@@ -15518,7 +15579,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Korki drogowe"
+            "value" : "Korki uliczne"
           }
         },
         "pt-BR" : {
@@ -15578,7 +15639,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tình trạng giao thông"
+            "value" : "Tắc đường"
           }
         },
         "zh-Hans" : {
@@ -15599,7 +15660,8 @@
             "value" : "交通擠塞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.waypoint" : {
       "comment" : "Use for marking a waypoint in the navigation route",
@@ -15752,7 +15814,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Titian"
+            "value" : "Garisan Pergerakan"
           }
         },
         "nb" : {
@@ -15848,10 +15910,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "航點"
+            "value" : "航向"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.gpsSignalLost" : {
       "comment" : "Message indicating that the GPS signal is lost",
@@ -15968,7 +16031,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "GPS jel elveszett."
+            "value" : "A GPS jel elveszett."
           }
         },
         "id" : {
@@ -16103,7 +16166,8 @@
             "value" : "GPS 信號丟失。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.heavyTrafficAhead" : {
       "comment" : "Message warning about heavy traffic ahead",
@@ -16112,7 +16176,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مشكلة في حركة المرور."
+            "value" : "ازدحام مروري شديد في المقدمة."
           }
         },
         "bg" : {
@@ -16124,7 +16188,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trànsit intens ahead."
+            "value" : "Trànsit intens endavant."
           }
         },
         "cs" : {
@@ -16136,7 +16200,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tyk trafik foran."
+            "value" : "Kraftig trafik foran."
           }
         },
         "de" : {
@@ -16148,7 +16212,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πολύ κυκλοφοριακή συμφόρηση μπροστά."
+            "value" : "Πολύ αυξημένη κυκλοφορία μπροστά"
           }
         },
         "en" : {
@@ -16316,7 +16380,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีการจราจรหนาแน่นข้างหน้า."
+            "value" : "มีการจราจรหนาแน่นข้างหน้า"
           }
         },
         "tr" : {
@@ -16355,7 +16419,8 @@
             "value" : "前方交通繁忙。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.locationAccessRequired" : {
       "comment" : "Message informing the user that location access is needed",
@@ -16376,7 +16441,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S'accés a la ubicació és necessari."
+            "value" : "L'accés a la ubicació és necessari."
           }
         },
         "cs" : {
@@ -16598,7 +16663,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "需要位置訪問。"
+            "value" : "需要定位權限。"
           }
         },
         "zh-HK" : {
@@ -16607,7 +16672,8 @@
             "value" : "需要位置訪問。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.navigationWillContinueWhenSignalImproves" : {
       "comment" : "Message informing that navigation will resume once the signal improves",
@@ -16859,7 +16925,8 @@
             "value" : "導航將在信號改善時繼續。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newTrafficIncidentReported" : {
       "comment" : "Message indicating a new traffic incident has been reported",
@@ -16874,7 +16941,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладван е нов инцидент с трафика."
+            "value" : "Докладван е нов инцидент в трафика."
           }
         },
         "ca" : {
@@ -16898,7 +16965,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neuer Verkehrsunfall gemeldet."
+            "value" : "Neuer Verkehrsvorfall gemeldet."
           }
         },
         "el" : {
@@ -16970,13 +17037,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novi izvještaj o prometnom incidentu."
+            "value" : "Novi prometni incident prijavljen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Új közlekedési baleset történt."
+            "value" : "Új közlekedési esemény jelentve."
           }
         },
         "id" : {
@@ -17024,7 +17091,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nieuwe verkeersincident gerapporteerd."
+            "value" : "Nieuw verkeersincident gerapporteerd."
           }
         },
         "pl" : {
@@ -17111,7 +17178,8 @@
             "value" : "報告新的交通事件。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noGPSSignal" : {
       "comment" : "Message indicating that the GPS signal is unavailable",
@@ -17363,7 +17431,8 @@
             "value" : "GPS 信號不可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noRoutesAvailableForThisDestination" : {
       "comment" : "Message indicating no available routes for the destination",
@@ -17615,7 +17684,8 @@
             "value" : "該目的地無可用路線。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.routeCalculationCompleted" : {
       "comment" : "Message indicating that route calculation is complete",
@@ -17660,7 +17730,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η υπολογισμός διαδρομής ολοκληρώθηκε."
+            "value" : "Η υπολογισμός Διαδρομής ολοκληρώθηκε."
           }
         },
         "en" : {
@@ -17867,7 +17937,8 @@
             "value" : "路線計算已完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.routeGuidanceWillResumeShortly" : {
       "comment" : "Message indicating that route guidance will continue soon",
@@ -18119,7 +18190,8 @@
             "value" : "路線指引將會很快恢復。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.routeOptimizationComplete" : {
       "comment" : "Message indicating that the route optimization has finished",
@@ -18371,7 +18443,8 @@
             "value" : "路徑優化已完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.speedLimitChanged" : {
       "comment" : "Message indicating that the speed limit has changed",
@@ -18518,13 +18591,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "전속 제한이 변경되었습니다."
+            "value" : "속도 제한이 변경되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Had kelajuan telah ditukar."
+            "value" : "Had laju telah diubah."
           }
         },
         "nb" : {
@@ -18590,7 +18663,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hız sınırı değişti."
+            "value" : "Hız sınırı değiştirildi."
           }
         },
         "uk" : {
@@ -18623,7 +18696,8 @@
             "value" : "速度限制已更改。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.takingAFasterRoute" : {
       "comment" : "Message indicating that a faster route is being selected",
@@ -18632,7 +18706,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تأخذ طريقًا أسرع."
+            "value" : "ستأخذ طريقًا أسرع."
           }
         },
         "bg" : {
@@ -18710,7 +18784,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prise d'un chemin plus rapide."
+            "value" : "Prendre un chemin plus rapide."
           }
         },
         "fr-CA" : {
@@ -18875,7 +18949,8 @@
             "value" : "正在選擇更快的路線。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.trafficDelayDetected" : {
       "comment" : "Message warning about a traffic delay on the route",
@@ -18962,7 +19037,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dépassement de trafic détecté."
+            "value" : "Délai de trafic détecté."
           }
         },
         "fr-CA" : {
@@ -19028,7 +19103,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amaran tentang kelewatan trafik di laluan."
+            "value" : "Kelewatan trafik dikesan."
           }
         },
         "nb" : {
@@ -19046,7 +19121,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wykryto opóźnienie w ruchu drogowym."
+            "value" : "Wykryto opóźnienie."
           }
         },
         "pt-BR" : {
@@ -19094,7 +19169,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafic gecikmesi tespit edildi."
+            "value" : "Trafik gecikmesi tespit edildi."
           }
         },
         "uk" : {
@@ -19127,7 +19202,8 @@
             "value" : "檢測到交通延誤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.turnByTurnNavigationPaused" : {
       "comment" : "Message indicating that turn-by-turn navigation has been paused",
@@ -19208,7 +19284,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Käänteinen navigointi keskeytetty."
+            "value" : "Navigointi keskeytetty."
           }
         },
         "fr" : {
@@ -19280,7 +19356,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigasi langkah demi langkah telah dihentikan."
+            "value" : "Navigasi langkah demi langkah dihentikan."
           }
         },
         "nb" : {
@@ -19298,7 +19374,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nawigacja zwrot po zwrocie wstrzymana."
+            "value" : "Nawigacja prowadząca zatrzymana."
           }
         },
         "pt-BR" : {
@@ -19379,7 +19455,8 @@
             "value" : "逐程導航已暫停。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.youHaveArrivedAtYourDestination" : {
       "comment" : "Message indicating that the destination has been reached",
@@ -19630,7 +19707,8 @@
             "value" : "你已到達目的地。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.calculatingAlternativesDots" : {
       "comment" : "Placeholder for calculating alternative routes",
@@ -19663,7 +19741,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregn alternative..."
+            "value" : "Beregner alternativer…"
           }
         },
         "de" : {
@@ -19789,7 +19867,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregn alternative ruter…"
+            "value" : "Beregner alternative…"
           }
         },
         "nl" : {
@@ -19819,7 +19897,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calculează alternative…"
+            "value" : "Se calculează rute alternative…"
           }
         },
         "ru" : {
@@ -19882,7 +19960,8 @@
             "value" : "正在計算替代方案…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkingTrafficConditionsDots" : {
       "comment" : "Placeholder for checking traffic conditions",
@@ -20134,7 +20213,8 @@
             "value" : "正在檢查交通情況…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.detectingLocationDots" : {
       "comment" : "Placeholder for detecting the user's location",
@@ -20215,7 +20295,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paikan tunnistus…"
+            "value" : "Sijaintia haetaan…"
           }
         },
         "fr" : {
@@ -20293,7 +20373,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppdager plassering…"
+            "value" : "Diagnoserer plassering…"
           }
         },
         "nl" : {
@@ -20386,7 +20466,8 @@
             "value" : "正在檢測位置…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDestinationDots" : {
       "comment" : "Placeholder for entering a destination",
@@ -20478,13 +20559,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer la destination…"
+            "value" : "Entrez la destination…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן יעד…"
+            "value" : "הכנס יעד…"
           }
         },
         "hi" : {
@@ -20514,7 +20595,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci destinazione…"
+            "value" : "Inserisci la destinazione…"
           }
         },
         "ja" : {
@@ -20586,7 +20667,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte cieľ…"
+            "value" : "Zadaj cieľ…"
           }
         },
         "sv" : {
@@ -20637,7 +20718,8 @@
             "value" : "輸入目的地…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterStopNameDots" : {
       "comment" : "Placeholder for entering a stop name",
@@ -20670,7 +20752,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast stoppested navn…"
+            "value" : "Indtast navn på stoppested…"
           }
         },
         "de" : {
@@ -20706,7 +20788,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir nombre de la parada…"
+            "value" : "Introduce el nombre de la parada…"
           }
         },
         "es-419" : {
@@ -20778,7 +20860,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тоқтату атысының енгізіңіз…"
+            "value" : "Тоқтау атын енгізіңіз…"
           }
         },
         "ko" : {
@@ -20826,7 +20908,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numele opririi…"
+            "value" : "Introduceți numele opririi…"
           }
         },
         "ru" : {
@@ -20889,7 +20971,8 @@
             "value" : "輸入站名…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingChargingStationsDots" : {
       "comment" : "Placeholder for finding charging stations",
@@ -20910,7 +20993,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat estacions de càrrega…"
+            "value" : "Cercant estacions de càrrega…"
           }
         },
         "cs" : {
@@ -20970,7 +21053,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsitään latausasema…"
+            "value" : "Etsitään latausasemia…"
           }
         },
         "fr" : {
@@ -21060,7 +21143,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie stacji ładowania..."
+            "value" : "Wyszukiwanie stacji ładowania..."
           }
         },
         "pt-BR" : {
@@ -21141,7 +21224,8 @@
             "value" : "尋找充電站…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingFastestRouteDots" : {
       "comment" : "Placeholder for finding the fastest route",
@@ -21162,7 +21246,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat la ruta més ràpida…"
+            "value" : "Cercant la ruta més ràpida…"
           }
         },
         "cs" : {
@@ -21312,7 +21396,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie najszybszej trasy..."
+            "value" : "Wyszukiwanie najszybszej trasy..."
           }
         },
         "pt-BR" : {
@@ -21393,7 +21477,8 @@
             "value" : "尋找最快路線…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingGasStationsDots" : {
       "comment" : "Placeholder for finding nearby gas stations",
@@ -21414,7 +21499,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat gasolineres…"
+            "value" : "Cercant gasolineres…"
           }
         },
         "cs" : {
@@ -21564,7 +21649,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie stacji benzynowych..."
+            "value" : "Wyszukiwanie stacji benzynowych..."
           }
         },
         "pt-BR" : {
@@ -21645,7 +21730,8 @@
             "value" : "尋找加油站…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingParkingSpotsDots" : {
       "comment" : "Placeholder for finding available parking spots",
@@ -21816,7 +21902,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie miejsc parkingowych..."
+            "value" : "Wyszukiwanie miejsc parkingowych..."
           }
         },
         "pt-BR" : {
@@ -21897,7 +21983,8 @@
             "value" : "尋找停車位…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingRestAreasDots" : {
       "comment" : "Placeholder for finding nearby rest areas",
@@ -21918,13 +22005,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat zones de descans…"
+            "value" : "Cercant zones de descans…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledám odpočinkové oblasti…"
+            "value" : "Najdu odpočinkové oblasti…"
           }
         },
         "da" : {
@@ -22068,7 +22155,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie miejsc odpoczynku..."
+            "value" : "Wyszukiwanie miejsc odpoczynku..."
           }
         },
         "pt-BR" : {
@@ -22122,7 +22209,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знаходження відпочинкових зон…"
+            "value" : "Знайти відпочинкові зони…"
           }
         },
         "vi" : {
@@ -22149,7 +22236,8 @@
             "value" : "尋找休息區…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingYourLocationDots" : {
       "comment" : "Placeholder for finding the user's location",
@@ -22170,13 +22258,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat la teva ubicació…"
+            "value" : "Cercant la teva ubicació…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledám vaši polohu…"
+            "value" : "Najdu vaši polohu…"
           }
         },
         "da" : {
@@ -22290,7 +22378,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің орнатып жатқаныңызды табу…"
+            "value" : "Орныңызды анықтау…"
           }
         },
         "ko" : {
@@ -22320,7 +22408,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie twojej lokalizacji..."
+            "value" : "Wyszukiwanie twojej lokalizacji..."
           }
         },
         "pt-BR" : {
@@ -22374,7 +22462,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знаходження вашого розташування…"
+            "value" : "Знайти ваше розташування…"
           }
         },
         "vi" : {
@@ -22401,7 +22489,8 @@
             "value" : "尋找您所在的位置…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.gettingTurnByTurnDirectionsDots" : {
       "comment" : "Placeholder for fetching turn-by-turn directions",
@@ -22416,7 +22505,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Получаване на указания завой по завой..."
+            "value" : "Получаване на указания завой по завой…"
           }
         },
         "ca" : {
@@ -22440,7 +22529,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigiere Schritt für Schritt…"
+            "value" : "Wegbeschreibung Schritt für Schritt erhalten…"
           }
         },
         "el" : {
@@ -22542,7 +22631,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бейне нұсқаулықтарын алу…"
+            "value" : "Кезек бойынша нұсқауларды алу…"
           }
         },
         "ko" : {
@@ -22554,7 +22643,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mendapatkan arah berbagi langkah…"
+            "value" : "Mendapatkan arah panduan demi langkah…"
           }
         },
         "nb" : {
@@ -22632,7 +22721,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang lấy hướng dẫn từng bước…"
+            "value" : "Đang lấy hướng dẫn từng bước..."
           }
         },
         "zh-Hans" : {
@@ -22653,7 +22742,8 @@
             "value" : "獲取逐步指示中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.gettingWeatherConditionsDots" : {
       "comment" : "Placeholder for retrieving weather conditions",
@@ -22668,7 +22758,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Получаване на метеорологични условия..."
+            "value" : "Получаване на метеорологични условия…"
           }
         },
         "ca" : {
@@ -22686,7 +22776,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Henter vejrforslag…"
+            "value" : "Henter vejrforhold…"
           }
         },
         "de" : {
@@ -22905,7 +22995,8 @@
             "value" : "獲取天氣狀況中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingMapDataDots" : {
       "comment" : "Placeholder for loading map data",
@@ -23157,7 +23248,8 @@
             "value" : "加載地圖數據中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.locatingNearestExitDots" : {
       "comment" : "Placeholder for locating the nearest exit",
@@ -23346,7 +23438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încercare localizare cea mai apropiată ieșire…"
+            "value" : "Localizarea celei mai apropiate ieșiri…"
           }
         },
         "ru" : {
@@ -23364,7 +23456,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokalisering av närmaste utgång…"
+            "value" : "Lokaliserar närmaste utgång…"
           }
         },
         "th" : {
@@ -23409,7 +23501,8 @@
             "value" : "尋找最近出口中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.optimizingRouteDots" : {
       "comment" : "Placeholder for optimizing the navigation route",
@@ -23634,7 +23727,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оптимізація маршруту…"
+            "value" : "Оптимізуючи маршрут…"
           }
         },
         "vi" : {
@@ -23661,7 +23754,8 @@
             "value" : "優化路徑…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchAlongRouteDots" : {
       "comment" : "Placeholder for searching along the current route",
@@ -23670,7 +23764,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث على طول المسار…"
+            "value" : "ابحث على طول المسار…"
           }
         },
         "bg" : {
@@ -23748,7 +23842,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche en cours…"
+            "value" : "Recherche le long de l'itinéraire…"
           }
         },
         "fr-CA" : {
@@ -23766,7 +23860,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मार्ग के沿 खोजें…"
+            "value" : "मार्ग के अनुसार खोजें…"
           }
         },
         "hr" : {
@@ -23838,13 +23932,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando ao longo da rota…"
+            "value" : "Buscar ao longo da rota…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar ao longo da rota..."
+            "value" : "Procurar ao longo da rota…"
           }
         },
         "ro" : {
@@ -23913,7 +24007,8 @@
             "value" : "沿路搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchingNearbyDots" : {
       "comment" : "Placeholder for searching nearby locations",
@@ -23934,7 +24029,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant a prop…"
+            "value" : "Cercar prop…"
           }
         },
         "cs" : {
@@ -24012,7 +24107,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש בסביבה…"
+            "value" : "חפש בסביבה…"
           }
         },
         "hi" : {
@@ -24060,7 +24155,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "근처 검색 중…"
+            "value" : "근처 검색…"
           }
         },
         "ms" : {
@@ -24096,13 +24191,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar nas proximidades..."
+            "value" : "Pesquisar nas proximidades…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut în apropiere…"
+            "value" : "Caută în apropiere…"
           }
         },
         "ru" : {
@@ -24156,7 +24251,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋附近地點中…"
+            "value" : "搜尋附近…"
           }
         },
         "zh-HK" : {
@@ -24165,7 +24260,8 @@
             "value" : "正在搜尋附近…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchLocationsDots" : {
       "comment" : "Placeholder for searching specific locations",
@@ -24299,7 +24395,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ロケーションを検索…"
+            "value" : "ロケーションを検索中…"
           }
         },
         "kk" : {
@@ -24329,7 +24425,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek locaties…"
+            "value" : "Zoeken naar locaties…"
           }
         },
         "pl" : {
@@ -24395,7 +24491,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tìm địa điểm…"
+            "value" : "Tìm kiếm địa điểm…"
           }
         },
         "zh-Hans" : {
@@ -24416,7 +24512,8 @@
             "value" : "搜索地點…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.updatingTrafficDataDots" : {
       "comment" : "Placeholder for updating traffic data",
@@ -24569,7 +24666,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mengemas kini data trafik…"
+            "value" : "Menyelaras data trafik…"
           }
         },
         "nb" : {
@@ -24668,7 +24765,8 @@
             "value" : "更新交通數據…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

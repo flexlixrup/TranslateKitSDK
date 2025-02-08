@@ -251,7 +251,8 @@
             "value" : "回答问题"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use for saving content for future reference",
@@ -259,7 +260,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة إلى سجل القراءة"
+            "value" : "إضافة إلى العلامات المرجعية"
           }
         },
         "bg" : {
@@ -289,7 +290,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zur Lesezeichenliste hinzufügen"
+            "value" : "Lesezeichen"
           }
         },
         "el" : {
@@ -361,7 +362,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oznaka"
+            "value" : "Postavi oznaku"
           }
         },
         "hu" : {
@@ -427,7 +428,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvar"
+            "value" : "Favoritar"
           }
         },
         "pt-PT" : {
@@ -502,7 +503,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkAnswer" : {
       "comment" : "Use when reviewing the correctness of an answer",
@@ -754,7 +756,8 @@
             "value" : "检查答案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkSolution" : {
       "comment" : "Use for checking the answer to a problem\nUse for reviewing the correct solution to a problem",
@@ -1005,7 +1008,8 @@
             "value" : "檢查解決方案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.completeLesson" : {
       "comment" : "Use when finishing a lesson or module",
@@ -1218,7 +1222,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ทำข้อสอบให้เสร็จ"
+            "value" : "ทำบทเรียนให้เสร็จ"
           }
         },
         "tr" : {
@@ -1257,7 +1261,8 @@
             "value" : "完成課程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use for downloading educational materials",
@@ -1463,7 +1468,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ladda ner material"
+            "value" : "Material ladda ner"
           }
         },
         "th" : {
@@ -1508,7 +1513,8 @@
             "value" : "下載資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.explain" : {
       "comment" : "Use for providing an explanation or clarification",
@@ -1760,7 +1766,8 @@
             "value" : "解釋"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exploreTopic" : {
       "comment" : "Use for discovering additional content on a topic",
@@ -2012,7 +2019,8 @@
             "value" : "探索主題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.focusMode" : {
       "comment" : "Use for enabling a distraction-free learning environment",
@@ -2026,7 +2034,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Фокус режим"
+            "value" : "Фокусен режим"
           }
         },
         "ca" : {
@@ -2263,7 +2271,8 @@
             "value" : "專注模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a progress or performance report",
@@ -2367,7 +2376,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रिपोर्ट उत्पन्न करें"
+            "value" : "पथ के निर्देश पूछें"
           }
         },
         "hr" : {
@@ -2514,7 +2523,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.grade" : {
       "comment" : "Use for grading or assessing performance",
@@ -2766,7 +2776,8 @@
             "value" : "评分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.highlight" : {
       "comment" : "Use for marking important information",
@@ -2930,13 +2941,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Straalverlichting"
+            "value" : "Markeren"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dostosuj"
+            "value" : "Pokaż"
           }
         },
         "pt-BR" : {
@@ -2966,7 +2977,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zvýraznenie"
+            "value" : "Zvýrazniť"
           }
         },
         "sv" : {
@@ -3017,7 +3028,8 @@
             "value" : "螢光標示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.listen" : {
       "comment" : "Use for audio learning or listening to instructions",
@@ -3269,7 +3281,8 @@
             "value" : "收听"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when completing a task or lesson",
@@ -3403,7 +3416,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完了"
+            "value" : "完了としてマークする"
           }
         },
         "kk" : {
@@ -3520,7 +3533,8 @@
             "value" : "標記完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.memorize" : {
       "comment" : "Use for committing information to memory",
@@ -3619,7 +3633,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "זכור"
+            "value" : "שנן"
           }
         },
         "hi" : {
@@ -3772,7 +3786,8 @@
             "value" : "记忆"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.practice" : {
       "comment" : "Use for engaging in learning exercises",
@@ -4024,7 +4039,8 @@
             "value" : "練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.quiz" : {
       "comment" : "Use for taking a quiz",
@@ -4135,7 +4151,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kviza"
+            "value" : "Kviz"
           }
         },
         "hu" : {
@@ -4165,7 +4181,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дәріс"
+            "value" : "Сауалнама"
           }
         },
         "ko" : {
@@ -4276,7 +4292,8 @@
             "value" : "測驗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.read" : {
       "comment" : "Use for reading learning material",
@@ -4285,7 +4302,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت القراءة"
+            "value" : "قراءة"
           }
         },
         "bg" : {
@@ -4309,13 +4326,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Læst"
+            "value" : "Læs"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gelesen"
+            "value" : "Lesen"
           }
         },
         "el" : {
@@ -4345,7 +4362,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leído"
+            "value" : "Pausar"
           }
         },
         "es-419" : {
@@ -4357,7 +4374,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Luettu"
+            "value" : "Lue"
           }
         },
         "fr" : {
@@ -4381,19 +4398,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पठित"
+            "value" : "पढ़ें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pročitano"
+            "value" : "Pročitaj"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elolvasva"
+            "value" : "Felolvasás"
           }
         },
         "id" : {
@@ -4405,7 +4422,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Letto"
+            "value" : "Leggi"
           }
         },
         "ja" : {
@@ -4423,13 +4440,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "읽음"
+            "value" : "읽기"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dibaca"
+            "value" : "Baca"
           }
         },
         "nb" : {
@@ -4459,7 +4476,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lida"
+            "value" : "Ler"
           }
         },
         "ro" : {
@@ -4471,7 +4488,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочитано"
+            "value" : "Очитать"
           }
         },
         "sk" : {
@@ -4483,7 +4500,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Läst"
+            "value" : "Läsa"
           }
         },
         "th" : {
@@ -4495,13 +4512,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okundu"
+            "value" : "Okuma"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочитано"
+            "value" : "Зберігати"
           }
         },
         "vi" : {
@@ -4528,7 +4545,8 @@
             "value" : "已讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordAnswer" : {
       "comment" : "Use for recording your response or answer",
@@ -4780,7 +4798,8 @@
             "value" : "記錄答案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use for repeating an exercise or activity",
@@ -5032,7 +5051,8 @@
             "value" : "重複練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportMistakes" : {
       "comment" : "Use for reporting errors or mistakes",
@@ -5167,7 +5187,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "間違いを報告"
+            "value" : "間違いを報告する"
           }
         },
         "kk" : {
@@ -5284,7 +5304,8 @@
             "value" : "報告錯誤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.review" : {
       "comment" : "Use for going over learned material",
@@ -5478,7 +5499,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Просмотреть"
+            "value" : "Оценить"
           }
         },
         "sk" : {
@@ -5535,7 +5556,8 @@
             "value" : "檢視"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleTutoring" : {
       "comment" : "Use for scheduling a tutoring session",
@@ -5639,7 +5661,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ट्यूशन बुक करें"
+            "value" : "ट्यूशन का समय निर्धारित करें"
           }
         },
         "hr" : {
@@ -5786,7 +5808,8 @@
             "value" : "安排輔導"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipChapter" : {
       "comment" : "Use for bypassing a chapter or section",
@@ -5933,7 +5956,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "장 생략"
+            "value" : "챕터 건너뛰기"
           }
         },
         "ms" : {
@@ -6005,7 +6028,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bölümü Atlama"
+            "value" : "Bölümü Atla"
           }
         },
         "uk" : {
@@ -6038,7 +6061,8 @@
             "value" : "跳過章節"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.solve" : {
       "comment" : "Use for solving problems or exercises",
@@ -6071,7 +6095,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Løs problemet"
+            "value" : "Løs"
           }
         },
         "de" : {
@@ -6167,7 +6191,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Risolvere"
+            "value" : "Risolvi"
           }
         },
         "ja" : {
@@ -6290,7 +6314,8 @@
             "value" : "解決"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startExercise" : {
       "comment" : "Use for initiating a learning activity",
@@ -6541,7 +6566,8 @@
             "value" : "開始運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startLesson" : {
       "comment" : "Use for beginning a lesson",
@@ -6759,7 +6785,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Derse Başlat"
+            "value" : "Derse Başla"
           }
         },
         "uk" : {
@@ -6792,7 +6818,8 @@
             "value" : "開始課程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startTutoring" : {
       "comment" : "Use for beginning a tutoring session",
@@ -6909,7 +6936,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tanárok Kezdése"
+            "value" : "Tanítás kezdése"
           }
         },
         "id" : {
@@ -6957,7 +6984,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Huiswerk Starten"
+            "value" : "Huiswerkbegeleiding Starten"
           }
         },
         "pl" : {
@@ -7044,7 +7071,8 @@
             "value" : "開始輔導"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.study" : {
       "comment" : "Use for engaging in study activities",
@@ -7125,7 +7153,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opiskella"
+            "value" : "Opiskele"
           }
         },
         "fr" : {
@@ -7296,7 +7324,8 @@
             "value" : "學習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.submitAnswer" : {
       "comment" : "Use when submitting an answer to a question",
@@ -7547,7 +7576,8 @@
             "value" : "提交答案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takeNotes" : {
       "comment" : "Use for writing down important points",
@@ -7622,7 +7652,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tomar notas"
+            "value" : "Tomar Notas"
           }
         },
         "fi" : {
@@ -7799,7 +7829,8 @@
             "value" : "做筆記"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.testYourself" : {
       "comment" : "Use for self-assessment activities",
@@ -7880,7 +7911,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Testaa itseäsi"
+            "value" : "Testaa itse"
           }
         },
         "fr" : {
@@ -7892,7 +7923,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Évaluer"
+            "value" : "S’évaluer"
           }
         },
         "he" : {
@@ -8051,7 +8082,8 @@
             "value" : "自我測試"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for monitoring learning or task progress",
@@ -8302,7 +8334,8 @@
             "value" : "追蹤進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewProgress" : {
       "comment" : "Use for viewing learning progress",
@@ -8553,7 +8586,8 @@
             "value" : "查看進展"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.writeReflection" : {
       "comment" : "Use for writing a reflective thought or summary",
@@ -8652,7 +8686,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כתוב שיקול דעת"
+            "value" : "כתוב השתקפות"
           }
         },
         "hi" : {
@@ -8805,7 +8839,8 @@
             "value" : "寫反思"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.assignment" : {
       "comment" : "Use for labeling a task or homework to be completed",
@@ -9057,7 +9092,8 @@
             "value" : "作业"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.chapter" : {
       "comment" : "Use for dividing content into distinct sections",
@@ -9309,7 +9345,8 @@
             "value" : "章节"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.completionCertificate" : {
       "comment" : "Use for awarding a certificate upon course completion",
@@ -9560,7 +9597,8 @@
             "value" : "完成證書"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.correctAnswers" : {
       "comment" : "Use for counting or showing correct responses in quizzes",
@@ -9682,13 +9720,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jawaban Tepat"
+            "value" : "Jawaban Benar"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Risposte Corrette"
+            "value" : "Risposte corrette"
           }
         },
         "ja" : {
@@ -9811,7 +9849,8 @@
             "value" : "正確答案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.course" : {
       "comment" : "Use to label an educational program or series of lessons",
@@ -10063,7 +10102,8 @@
             "value" : "課程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.courseProgress" : {
       "comment" : "Use for tracking progress through a course",
@@ -10191,7 +10231,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Progresso del Corso"
+            "value" : "Progresso del corso"
           }
         },
         "ja" : {
@@ -10314,7 +10354,8 @@
             "value" : "課程進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.curriculum" : {
       "comment" : "Use for the complete set of educational content",
@@ -10341,7 +10382,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurzy"
+            "value" : "Osnovy"
           }
         },
         "da" : {
@@ -10566,7 +10607,8 @@
             "value" : "課程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.difficultyLevel" : {
       "comment" : "Use for indicating the complexity of content or tasks",
@@ -10817,7 +10859,8 @@
             "value" : "難度級別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.exam" : {
       "comment" : "Use for labeling assessments or tests",
@@ -10856,7 +10899,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einsatz"
+            "value" : "Prüfung"
           }
         },
         "el" : {
@@ -11048,7 +11091,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kỳ Thi"
+            "value" : "Kỳ thi"
           }
         },
         "zh-Hans" : {
@@ -11069,7 +11112,8 @@
             "value" : "考試"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.exercise" : {
       "comment" : "Use for labeling practice activities or tasks",
@@ -11216,7 +11260,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "운동하기"
+            "value" : "운동"
           }
         },
         "ms" : {
@@ -11264,7 +11308,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Упражнения"
+            "value" : "Упражнение"
           }
         },
         "sk" : {
@@ -11321,7 +11365,8 @@
             "value" : "運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.flashcards" : {
       "comment" : "Use for interactive learning tools in a question-answer format",
@@ -11366,7 +11411,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Φλας Κάρτες"
+            "value" : "Φωτογραφικές Κάρτες"
           }
         },
         "en" : {
@@ -11552,7 +11597,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thẻ Nhớ"
+            "value" : "Thẻ nhớ"
           }
         },
         "zh-Hans" : {
@@ -11573,7 +11618,8 @@
             "value" : "抽認卡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gradeLevel" : {
       "comment" : "Use for categorizing content based on educational stages",
@@ -11588,7 +11634,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Уровень на образованието"
+            "value" : "Образователно ниво"
           }
         },
         "ca" : {
@@ -11600,7 +11646,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rok"
+            "value" : "Úroveň vzdělání"
           }
         },
         "da" : {
@@ -11738,7 +11784,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cijfer Niveau"
+            "value" : "Niveau"
           }
         },
         "pl" : {
@@ -11792,7 +11838,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Başlıklar"
+            "value" : "Sınıf Düzeyi"
           }
         },
         "uk" : {
@@ -11804,7 +11850,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cấp Độ Khối"
+            "value" : "Lớp"
           }
         },
         "zh-Hans" : {
@@ -11825,7 +11871,8 @@
             "value" : "年級等級"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.knowledgePoints" : {
       "comment" : "Use for awarding points based on learning achievements",
@@ -12077,7 +12124,8 @@
             "value" : "知識點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.learningPath" : {
       "comment" : "Use for a structured sequence of lessons or activities",
@@ -12328,7 +12376,8 @@
             "value" : "學習路徑"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.learningStreak" : {
       "comment" : "Use for tracking consecutive days or sessions of learning",
@@ -12579,7 +12628,8 @@
             "value" : "學習連續天數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lesson" : {
       "comment" : "Use for individual instructional sessions",
@@ -12696,7 +12746,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Óra"
+            "value" : "Lecke"
           }
         },
         "id" : {
@@ -12828,10 +12878,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "課程"
+            "value" : "課堂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notes" : {
       "comment" : "Use for personal annotations or study material",
@@ -13083,7 +13134,8 @@
             "value" : "備忘錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.practiceExercises" : {
       "comment" : "Use for exercises designed to reinforce learning",
@@ -13334,7 +13386,8 @@
             "value" : "練習題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.quizResults" : {
       "comment" : "Use for showing the outcomes of a quiz",
@@ -13586,7 +13639,8 @@
             "value" : "測驗結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.score" : {
       "comment" : "Use for labeling a user's performance or results",
@@ -13631,7 +13685,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Score"
+            "value" : "Σκορ"
           }
         },
         "en" : {
@@ -13838,7 +13892,8 @@
             "value" : "分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.student" : {
       "comment" : "Use to refer to a person engaged in learning",
@@ -13853,7 +13908,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ученик"
+            "value" : "Студент"
           }
         },
         "ca" : {
@@ -14090,7 +14145,8 @@
             "value" : "學生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.studyMaterials" : {
       "comment" : "Use for resources used in studying",
@@ -14218,7 +14274,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Materiale di studio"
+            "value" : "Materiali di studio"
           }
         },
         "ja" : {
@@ -14341,7 +14397,8 @@
             "value" : "學習資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.studySessions" : {
       "comment" : "Use for tracking individual study sessions",
@@ -14439,13 +14496,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סessions לימוד"
+            "value" : "מפגשי לימוד"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अध्यान सत्र"
+            "value" : "अध्ययन सत्र"
           }
         },
         "hr" : {
@@ -14592,7 +14649,8 @@
             "value" : "學習時段"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.studyTime" : {
       "comment" : "Use for tracking the amount of time spent studying",
@@ -14843,7 +14901,8 @@
             "value" : "學習時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.subject" : {
       "comment" : "Use to categorize topics or disciplines of study",
@@ -15095,7 +15154,8 @@
             "value" : "標題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.teacher" : {
       "comment" : "Use to refer to a person providing instruction",
@@ -15347,7 +15407,8 @@
             "value" : "教師"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.testScore" : {
       "comment" : "Use for showing the results of a test",
@@ -15512,7 +15573,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toetsresultaat"
+            "value" : "Testscore"
           }
         },
         "pl" : {
@@ -15599,7 +15660,8 @@
             "value" : "考試成績"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.topic" : {
       "comment" : "Use for specific areas of focus within a subject",
@@ -15851,7 +15913,8 @@
             "value" : "主題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tutor" : {
       "comment" : "Use for a person providing one-on-one educational assistance",
@@ -16040,7 +16103,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tunător"
+            "value" : "Profesor"
           }
         },
         "ru" : {
@@ -16103,7 +16166,8 @@
             "value" : "導師"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tutorial" : {
       "comment" : "Use for instructional content or guides",
@@ -16354,7 +16418,8 @@
             "value" : "教程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.xp" : {
       "comment" : "Use for experience points earned through activities or tasks",
@@ -16398,7 +16463,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εμπειρία"
+            "value" : "XP"
           }
         },
         "en" : {
@@ -16605,7 +16670,8 @@
             "value" : "XP"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Use to notify the user of an unlocked achievement",
@@ -16625,7 +16691,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Èxits"
+            "value" : "Èxit desbloquejat"
           }
         },
         "cs" : {
@@ -16637,7 +16703,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Præstation låst op"
+            "value" : "Præstation låst op!"
           }
         },
         "de" : {
@@ -16709,7 +16775,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उपलब्धि अनलॉक की गई"
+            "value" : "उपलब्धि अनलॉक की गई।"
           }
         },
         "hr" : {
@@ -16856,7 +16922,8 @@
             "value" : "成就已解鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.answerNeedsImprovement" : {
       "comment" : "Feedback for an incorrect or suboptimal answer",
@@ -17108,7 +17175,8 @@
             "value" : "答案需要改進。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyStreakMaintained" : {
       "comment" : "Use to congratulate maintaining a study streak",
@@ -17129,7 +17197,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Manteniment d'una sèrie diària!"
+            "value" : "Mantenen una sèrie diària!"
           }
         },
         "cs" : {
@@ -17225,7 +17293,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napi streak fenntartva!"
+            "value" : "Napi sorozat megtartva!"
           }
         },
         "id" : {
@@ -17261,7 +17329,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rantaian harian dipelihara!"
+            "value" : "Rantaian harian dicapai!"
           }
         },
         "nb" : {
@@ -17360,7 +17428,8 @@
             "value" : "每日連續學習已維持！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.greatJob" : {
       "comment" : "Use for praising a user's achievement",
@@ -17603,7 +17672,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "做得好！"
+            "value" : "很好！"
           }
         },
         "zh-HK" : {
@@ -17612,7 +17681,8 @@
             "value" : "幹得好！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.keepPracticing" : {
       "comment" : "Motivational message to encourage continued practice",
@@ -17711,7 +17781,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " continue practicing!"
+            "value" : "המשך להתאמן!"
           }
         },
         "hi" : {
@@ -17747,7 +17817,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "練習を続けてください！"
+            "value" : "磨きをかけ続けてください！"
           }
         },
         "kk" : {
@@ -17759,7 +17829,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "계속 연습하세요!"
+            "value" : "연습을 계속하세요!"
           }
         },
         "ms" : {
@@ -17864,7 +17934,8 @@
             "value" : "繼續練習！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newLessonAvailable" : {
       "comment" : "Notification for a new lesson being available",
@@ -18116,7 +18187,8 @@
             "value" : "有新課程可用！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.readyForTheNextLesson" : {
       "comment" : "Use to prompt users to move to the next lesson",
@@ -18131,7 +18203,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Готов ли си за следния урок?"
+            "value" : "Готов/а ли си за следващия урок?"
           }
         },
         "ca" : {
@@ -18227,7 +18299,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spreman za sljedeću lekciju?"
+            "value" : "Jesi li spreman/spremna za sljedeću lekciju?"
           }
         },
         "hu" : {
@@ -18317,7 +18389,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pripravení na ďalšiu lekciu?"
+            "value" : "Ste pripravení na ďalšiu lekciu?"
           }
         },
         "sv" : {
@@ -18368,7 +18440,8 @@
             "value" : "準備好下個課程了嗎？"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.rememberToTakeNotes" : {
       "comment" : "Reminder to take notes while studying",
@@ -18620,7 +18693,8 @@
             "value" : "記得做筆記！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.studyGoalAchieved" : {
       "comment" : "Use to confirm the achievement of a study goal",
@@ -18833,7 +18907,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เป้าหมายการศึกษาเสร็จสมบูรณ์แล้ว!"
+            "value" : "เป้าหมายการศึกษาเสร็จสิ้นแล้ว!"
           }
         },
         "tr" : {
@@ -18872,7 +18946,8 @@
             "value" : "學習目標已達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.studySessionComplete" : {
       "comment" : "Confirmation that the study session has ended",
@@ -18905,7 +18980,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Studie session færdig!"
+            "value" : "Studie session afsluttet!"
           }
         },
         "de" : {
@@ -19085,7 +19160,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การรีวิวการศึกษาเสร็จสมบูรณ์แล้ว!"
+            "value" : "การศึกษาเสร็จสมบูรณ์แล้ว!"
           }
         },
         "tr" : {
@@ -19115,16 +19190,17 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "學習會議已完成！"
+            "value" : "學習會話已完成！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "學習會議已完成！"
+            "value" : "學習時段已完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.takeAShortBreak" : {
       "comment" : "Use to suggest a break after studying",
@@ -19217,7 +19293,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fais une courte pause !"
+            "value" : "Faites une courte pause !"
           }
         },
         "he" : {
@@ -19376,7 +19452,8 @@
             "value" : "休息一下！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeForAQuiz" : {
       "comment" : "Use to prompt the user to take a quiz",
@@ -19628,7 +19705,8 @@
             "value" : "是時候進行測驗了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeToReview" : {
       "comment" : "Use to prompt the user to review material",
@@ -19880,7 +19958,8 @@
             "value" : "是時候復習了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeToTestYourKnowledge" : {
       "comment" : "Prompt for a knowledge testing activity",
@@ -20132,7 +20211,8 @@
             "value" : "是時候考考你的知識了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourAnswerIsCorrect" : {
       "comment" : "Confirmation that the user's answer is right",
@@ -20159,7 +20239,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja odpoveď je správně!"
+            "value" : "Tvoje odpověď je správná!"
           }
         },
         "da" : {
@@ -20384,7 +20464,8 @@
             "value" : "你的答案是正确的！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addStudyNotesDots" : {
       "comment" : "Placeholder for adding study notes",
@@ -20494,7 +20575,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj bilješke za učenje…"
+            "value" : "Dodavanje bilješki za učenje…"
           }
         },
         "hu" : {
@@ -20554,7 +20635,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj notatki ze studiów…"
+            "value" : "Dodaj notatki do nauki…"
           }
         },
         "pt-BR" : {
@@ -20635,7 +20716,8 @@
             "value" : "新增學習筆記…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.courseProgressDots" : {
       "comment" : "Placeholder for tracking course progress",
@@ -20854,7 +20936,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurs ilerlemesi…"
+            "value" : "Kurs ilerleme durumu…"
           }
         },
         "uk" : {
@@ -20887,7 +20969,8 @@
             "value" : "課程進度…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.currentChapterDots" : {
       "comment" : "Placeholder for indicating the current chapter",
@@ -21139,7 +21222,8 @@
             "value" : "當前章節…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAnswerDots" : {
       "comment" : "Placeholder for answer input fields",
@@ -21390,7 +21474,8 @@
             "value" : "輸入答案…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterFormulaDots" : {
       "comment" : "Placeholder for entering a formula",
@@ -21555,7 +21640,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de formule in…"
+            "value" : "Voer de formule in …"
           }
         },
         "pl" : {
@@ -21642,7 +21727,8 @@
             "value" : "輸入公式…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterQuestionHereDots" : {
       "comment" : "Placeholder for entering a question",
@@ -21894,7 +21980,8 @@
             "value" : "在此輸入問題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTopicToStudyDots" : {
       "comment" : "Placeholder for entering a study topic",
@@ -21963,7 +22050,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir tema a estudiar…"
+            "value" : "Introduce tema a estudiar…"
           }
         },
         "es-419" : {
@@ -22083,7 +22170,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti subiectul de studiat…"
+            "value" : "Introduceți subiectul de studiat…"
           }
         },
         "ru" : {
@@ -22146,7 +22233,8 @@
             "value" : "輸入學習主題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.nameYourFlashcardDots" : {
       "comment" : "Placeholder for naming a flashcard",
@@ -22161,7 +22249,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Наименувайте вашата флашкарта…"
+            "value" : "Наименувай флашкартата си…"
           }
         },
         "ca" : {
@@ -22221,7 +22309,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nombra tu tarjeta de memoria…"
+            "value" : "Tarjeta educativa"
           }
         },
         "fi" : {
@@ -22269,7 +22357,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beri nama flashcard Anda…"
+            "value" : "Beri nama flashcard-mu…"
           }
         },
         "it" : {
@@ -22353,7 +22441,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ge din flashcard ett namn…"
+            "value" : "Namnge ditt flashcard…"
           }
         },
         "th" : {
@@ -22398,7 +22486,8 @@
             "value" : "命名你的抽認卡…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchExercisesDots" : {
       "comment" : "Placeholder for searching exercises",
@@ -22407,7 +22496,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث عن التمارين…"
+            "value" : "ابحث عن التمارين الرياضية…"
           }
         },
         "bg" : {
@@ -22419,7 +22508,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant exercicis…"
+            "value" : "Cercar exercicis…"
           }
         },
         "cs" : {
@@ -22467,7 +22556,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando ejercicios…"
+            "value" : "Buscar ejercicios…"
           }
         },
         "es-419" : {
@@ -22485,7 +22574,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche d'exercices…"
+            "value" : "Rechercher des exercices…"
           }
         },
         "fr-CA" : {
@@ -22497,7 +22586,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש תרגילים…"
+            "value" : "חפש תרגילים…"
           }
         },
         "hi" : {
@@ -22509,7 +22598,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem vježbe…"
+            "value" : "Pretraži vježbe…"
           }
         },
         "hu" : {
@@ -22575,7 +22664,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando exercícios…"
+            "value" : "Buscar exercícios…"
           }
         },
         "pt-PT" : {
@@ -22641,7 +22730,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋練習題中…"
+            "value" : "搜尋練習題…"
           }
         },
         "zh-HK" : {
@@ -22650,7 +22739,8 @@
             "value" : "搜尋練習…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchForLessonsDots" : {
       "comment" : "Placeholder for searching lessons",
@@ -22671,7 +22761,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant lliçons…"
+            "value" : "Cercar lliçons…"
           }
         },
         "cs" : {
@@ -22719,7 +22809,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando lecciones…"
+            "value" : "Buscar lecciones…"
           }
         },
         "es-419" : {
@@ -22737,7 +22827,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche de leçons…"
+            "value" : "Rechercher des leçons…"
           }
         },
         "fr-CA" : {
@@ -22749,7 +22839,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש שיעורים…"
+            "value" : "חפש שיעורים…"
           }
         },
         "hi" : {
@@ -22827,19 +22917,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando lições…"
+            "value" : "Buscar lições…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar lições..."
+            "value" : "Pesquisar lições…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut lecții…"
+            "value" : "Caută lecții…"
           }
         },
         "ru" : {
@@ -22893,7 +22983,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋課程中…"
+            "value" : "搜尋課程…"
           }
         },
         "zh-HK" : {
@@ -22902,7 +22992,8 @@
             "value" : "搜尋課堂…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTutorsDots" : {
       "comment" : "Placeholder for searching tutors",
@@ -23120,7 +23211,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eğitmenleri Ara…"
+            "value" : "Eğitmenleri ara…"
           }
         },
         "uk" : {
@@ -23132,7 +23223,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tìm gia sư…"
+            "value" : "Tìm kiếm gia sư…"
           }
         },
         "zh-Hans" : {
@@ -23153,7 +23244,8 @@
             "value" : "搜索家教…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.studyGoalForTodayDots" : {
       "comment" : "Placeholder for today's study goal",
@@ -23186,7 +23278,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Studie mål for i dag…"
+            "value" : "Studiemål for i dag…"
           }
         },
         "de" : {
@@ -23228,7 +23320,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objetivo de estudio para hoy…"
+            "value" : "Establece el objetivo de estudio para hoy…"
           }
         },
         "fi" : {
@@ -23405,7 +23497,8 @@
             "value" : "今天的學習目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.studySessionDurationDots" : {
       "comment" : "Placeholder for tracking the study session duration",
@@ -23438,7 +23531,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Studie session varighed…"
+            "value" : "Studiesession varighed…"
           }
         },
         "de" : {
@@ -23480,7 +23573,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duración de la sesión de estudio…"
+            "value" : "Duración de sesion de estudio…"
           }
         },
         "fi" : {
@@ -23510,7 +23603,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अभ्यास सत्र की अवधि…"
+            "value" : "अध्ययन सत्र की अवधि…"
           }
         },
         "hr" : {
@@ -23657,7 +23750,8 @@
             "value" : "學習時段時長…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.timeSpentStudyingDots" : {
       "comment" : "Placeholder for tracking study time",
@@ -23909,7 +24003,8 @@
             "value" : "學習時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeDefinitionDots" : {
       "comment" : "Placeholder for typing a definition",
@@ -24104,7 +24199,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите определение…"
+            "value" : "Тип определения…"
           }
         },
         "sk" : {
@@ -24161,7 +24256,8 @@
             "value" : "輸入定義…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeYourQuestionDots" : {
       "comment" : "Placeholder for typing a question",
@@ -24413,7 +24509,8 @@
             "value" : "輸入你的問題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.whatDidYouLearnDots" : {
       "comment" : "Placeholder for summarizing learned material",
@@ -24422,7 +24519,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ماذا تعلمت…"
+            "value" : "ما الذي تعلمته…"
           }
         },
         "bg" : {
@@ -24440,7 +24537,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Co jsi se naučil…"
+            "value" : "Co ses naučil…"
           }
         },
         "da" : {
@@ -24458,7 +24555,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τι έμαθες…"
+            "value" : "Πληκτρολόγησε τι έμαθες…"
           }
         },
         "en" : {
@@ -24500,13 +24597,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Qu'avez-vous appris…"
+            "value" : "Qu'as-tu appris…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Qu'avez-vous appris…"
+            "value" : "Qu'as-tu appris…"
           }
         },
         "he" : {
@@ -24584,7 +24681,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Czego się nauczyłeś…"
+            "value" : "Czego się nauczyłeś/aś…"
           }
         },
         "pt-BR" : {
@@ -24614,7 +24711,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čo si sa naučil…"
+            "value" : "Čo si sa naučil/a…"
           }
         },
         "sv" : {
@@ -24632,7 +24729,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ne öğrendiniz…"
+            "value" : "Ne öğrendin…"
           }
         },
         "uk" : {
@@ -24665,7 +24762,8 @@
             "value" : "你學到了什麼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeNotesHereDots" : {
       "comment" : "Placeholder for writing notes",
@@ -24764,7 +24862,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כתוב כאן תגובות…"
+            "value" : "כתוב פה הערות…"
           }
         },
         "hi" : {
@@ -24800,7 +24898,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ここにメモを書き込む…"
+            "value" : "ここにメモを書く…"
           }
         },
         "kk" : {
@@ -24884,7 +24982,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notları buraya yazın…"
+            "value" : "Notları buraya yaz…"
           }
         },
         "uk" : {
@@ -24917,7 +25015,8 @@
             "value" : "在這裡寫下筆記…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeSummaryDots" : {
       "comment" : "Placeholder for writing a summary",
@@ -24974,7 +25073,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Write summary…"
+            "value" : "Write a summary…"
           }
         },
         "en-GB" : {
@@ -25124,7 +25223,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv sammanfattning…"
+            "value" : "Skriv en sammanfattning…"
           }
         },
         "th" : {
@@ -25136,7 +25235,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Özet yazın…"
+            "value" : "Özet yaz…"
           }
         },
         "uk" : {
@@ -25169,7 +25268,8 @@
             "value" : "撰寫總結…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.yourAnswerHereDots" : {
       "comment" : "Placeholder for entering an answer",
@@ -25202,13 +25302,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din svar her…"
+            "value" : "Dit svar her…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Antwort hier…"
+            "value" : "Gebe hier deine Antwort ein…"
           }
         },
         "el" : {
@@ -25262,7 +25362,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre réponse ici…"
+            "value" : "Ta réponse ici…"
           }
         },
         "he" : {
@@ -25274,7 +25374,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "यहाँ अपना उत्तर दें..."
+            "value" : "अपना उत्तर यहाँ लिखें…"
           }
         },
         "hr" : {
@@ -25334,7 +25434,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je antwoord hier…"
+            "value" : "Vul hier je antwoord in…"
           }
         },
         "pl" : {
@@ -25388,7 +25488,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cevabınızı buraya yazın…"
+            "value" : "Cevap buraya…"
           }
         },
         "uk" : {
@@ -25406,7 +25506,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的答案在这里…"
+            "value" : "在此输入你的答案…"
           }
         },
         "zh-Hant" : {
@@ -25421,7 +25521,8 @@
             "value" : "在這裡輸入你的答案…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

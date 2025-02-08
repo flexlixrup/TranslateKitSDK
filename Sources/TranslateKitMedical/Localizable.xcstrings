@@ -14,7 +14,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Анализирайте"
+            "value" : "Анализирай"
           }
         },
         "ca" : {
@@ -251,7 +251,8 @@
             "value" : "分析"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a report or record",
@@ -502,7 +503,8 @@
             "value" : "附加檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -661,7 +663,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestill avtale"
+            "value" : "Bestill time"
           }
         },
         "nl" : {
@@ -754,7 +756,8 @@
             "value" : "预约"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compareResults" : {
       "comment" : "Use for comparing different medical results",
@@ -1006,7 +1009,8 @@
             "value" : "比較結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.contactDoctor" : {
       "comment" : "Use for initiating contact with a doctor",
@@ -1171,7 +1175,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokter Contacten"
+            "value" : "Dokter contacteren"
           }
         },
         "pl" : {
@@ -1258,7 +1262,8 @@
             "value" : "聯絡醫生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.contactSupport" : {
       "comment" : "Use for reaching out to customer support",
@@ -1278,7 +1283,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contactar amb el servei de suport"
+            "value" : "Departament de suport"
           }
         },
         "cs" : {
@@ -1368,7 +1373,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obratite se korisničkoj podršci"
+            "value" : "Obrati se korisničkoj podršci"
           }
         },
         "hu" : {
@@ -1392,7 +1397,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "サポートに問い合わせ"
+            "value" : "お問い合わせ"
           }
         },
         "kk" : {
@@ -1509,7 +1514,8 @@
             "value" : "聯絡支援"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.deleteReport" : {
       "comment" : "Use for removing a medical report from the system",
@@ -1674,7 +1680,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport Verwijderen"
+            "value" : "Rapport verwijderen"
           }
         },
         "pl" : {
@@ -1761,7 +1767,8 @@
             "value" : "刪除報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.diagnose" : {
       "comment" : "Use for diagnosing a medical condition",
@@ -1890,7 +1897,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diagnosi"
+            "value" : "Diagnostica"
           }
         },
         "ja" : {
@@ -1926,7 +1933,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diagnose Stellen"
+            "value" : "Diagnose"
           }
         },
         "pl" : {
@@ -2013,7 +2020,8 @@
             "value" : "診斷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportData" : {
       "comment" : "Use for exporting medical data",
@@ -2264,7 +2272,8 @@
             "value" : "導出數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting a medical report as a PDF",
@@ -2428,7 +2437,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteer pdf"
+            "value" : "Exporteer PDF"
           }
         },
         "pl" : {
@@ -2515,7 +2524,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportResults" : {
       "comment" : "Use for exporting medical test or analysis results",
@@ -2767,7 +2777,8 @@
             "value" : "導出結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a medical report",
@@ -3018,7 +3029,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing medical data into the system",
@@ -3270,7 +3282,8 @@
             "value" : "导入数据"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logMeasurement" : {
       "comment" : "Use for recording medical measurements",
@@ -3522,7 +3535,8 @@
             "value" : "记录测量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logSymptom" : {
       "comment" : "Use for documenting medical symptoms",
@@ -3603,7 +3617,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kirjaa oire"
+            "value" : "Kirjaa vesiannos"
           }
         },
         "fr" : {
@@ -3774,7 +3788,8 @@
             "value" : "记录症状"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use for marking a task or report as complete",
@@ -3872,7 +3887,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סמן כהשלים"
+            "value" : "סמן כהושלם"
           }
         },
         "hi" : {
@@ -3908,7 +3923,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完了とマーク"
+            "value" : "完了としてマークする"
           }
         },
         "kk" : {
@@ -4025,7 +4040,8 @@
             "value" : "標記為完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.measure" : {
       "comment" : "Use for taking a medical measurement",
@@ -4040,7 +4056,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Измервания"
+            "value" : "Измери"
           }
         },
         "ca" : {
@@ -4064,7 +4080,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maßband"
+            "value" : "Messen"
           }
         },
         "el" : {
@@ -4094,7 +4110,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medidas"
+            "value" : "Medir"
           }
         },
         "es-419" : {
@@ -4112,13 +4128,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesures"
+            "value" : "Mesurer"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesures"
+            "value" : "Mesurer"
           }
         },
         "he" : {
@@ -4202,13 +4218,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medida"
+            "value" : "Medir"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fita Métrica"
+            "value" : "Medir"
           }
         },
         "ro" : {
@@ -4220,7 +4236,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рулетка"
+            "value" : "Измерить"
           }
         },
         "sk" : {
@@ -4238,7 +4254,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เครื่องมือวัด"
+            "value" : "วัด"
           }
         },
         "tr" : {
@@ -4250,7 +4266,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мірило"
+            "value" : "Виміряти"
           }
         },
         "vi" : {
@@ -4262,13 +4278,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "测距仪"
+            "value" : "测量"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測距儀"
+            "value" : "測量"
           }
         },
         "zh-HK" : {
@@ -4277,7 +4293,8 @@
             "value" : "測距儀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.monitor" : {
       "comment" : "Use for monitoring health conditions or progress",
@@ -4478,7 +4495,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monitorovať"
+            "value" : "Sledovať"
           }
         },
         "sv" : {
@@ -4529,7 +4546,8 @@
             "value" : "监测"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.printReport" : {
       "comment" : "Use for printing a medical report",
@@ -4658,7 +4676,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stampa Rapport"
+            "value" : "Rapporto"
           }
         },
         "ja" : {
@@ -4781,7 +4799,8 @@
             "value" : "列印報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use for recording medical data or information",
@@ -5032,7 +5051,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordResult" : {
       "comment" : "Use for recording the result of a medical test",
@@ -5284,7 +5304,8 @@
             "value" : "記錄結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordValue" : {
       "comment" : "Use for recording a value from a medical measurement",
@@ -5536,7 +5557,8 @@
             "value" : "記錄數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestAppointment" : {
       "comment" : "Use for requesting a medical appointment",
@@ -5557,7 +5579,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Solicitar cita"
+            "value" : "Sol·licitar cita"
           }
         },
         "cs" : {
@@ -5671,7 +5693,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "予約をリクエスト"
+            "value" : "予約を要求する"
           }
         },
         "kk" : {
@@ -5749,7 +5771,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ขอหมายแพทย์"
+            "value" : "ขอคิวนัด"
           }
         },
         "tr" : {
@@ -5788,7 +5810,8 @@
             "value" : "要求約見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestData" : {
       "comment" : "Use for requesting medical data or records",
@@ -5809,7 +5832,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Solicitar dades"
+            "value" : "Sol·licitar dades"
           }
         },
         "cs" : {
@@ -5923,7 +5946,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "データをリクエスト"
+            "value" : "データを要求する"
           }
         },
         "kk" : {
@@ -6040,7 +6063,8 @@
             "value" : "要求資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestRefill" : {
       "comment" : "Use for requesting a prescription refill",
@@ -6061,7 +6085,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Solicitar renovació"
+            "value" : "Sol·licitar renovació"
           }
         },
         "cs" : {
@@ -6085,7 +6109,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αίτημα Επαναληψής"
+            "value" : "Αίτημα Αναπλήρωσης"
           }
         },
         "en" : {
@@ -6139,7 +6163,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בקש משפט"
+            "value" : "בקש מילוי מחדש"
           }
         },
         "hi" : {
@@ -6199,7 +6223,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Be om refill"
+            "value" : "Be om påfyll"
           }
         },
         "nl" : {
@@ -6292,7 +6316,8 @@
             "value" : "要求補充處方"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reviewResults" : {
       "comment" : "Use for reviewing medical test or analysis results",
@@ -6544,7 +6569,8 @@
             "value" : "檢閱結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling a medical event or appointment",
@@ -6553,25 +6579,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جدول الأوقات"
+            "value" : "جدولة"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "График"
+            "value" : "Насрочи"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programació"
+            "value" : "Programar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rozvrh"
+            "value" : "Plán"
           }
         },
         "da" : {
@@ -6637,7 +6663,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Horaire"
+            "value" : "Planifier"
           }
         },
         "he" : {
@@ -6649,13 +6675,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "शेड्यूल"
+            "value" : "शेड्यूल करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raspored"
+            "value" : "Zakaži"
           }
         },
         "hu" : {
@@ -6721,13 +6747,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Horários"
+            "value" : "Agendar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Horário"
+            "value" : "Programar"
           }
         },
         "ro" : {
@@ -6739,7 +6765,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание"
+            "value" : "Планировать"
           }
         },
         "sk" : {
@@ -6775,7 +6801,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch trình"
+            "value" : "Lên lịch"
           }
         },
         "zh-Hans" : {
@@ -6796,7 +6822,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -7048,7 +7075,8 @@
             "value" : "安排約見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareReport" : {
       "comment" : "Use for sharing a medical report",
@@ -7123,7 +7151,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartir Informe"
+            "value" : "Compartir informe"
           }
         },
         "fi" : {
@@ -7300,7 +7328,8 @@
             "value" : "分享報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareResults" : {
       "comment" : "Use for sharing the results of a medical test or analysis",
@@ -7375,7 +7404,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartir Resultados"
+            "value" : "Compartir resultados"
           }
         },
         "fi" : {
@@ -7552,7 +7581,8 @@
             "value" : "分享結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startMeasurement" : {
       "comment" : "Use for starting a measurement process",
@@ -7693,7 +7723,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өлшеуді бастау"
+            "value" : "Өлшем бастау"
           }
         },
         "ko" : {
@@ -7804,7 +7834,8 @@
             "value" : "開始測量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting a recording session for data",
@@ -8056,7 +8087,8 @@
             "value" : "開始錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.submitReport" : {
       "comment" : "Use for submitting a medical report",
@@ -8215,7 +8247,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Send inn rapport"
+            "value" : "Lever rapport"
           }
         },
         "nl" : {
@@ -8308,7 +8340,8 @@
             "value" : "提交報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takeReading" : {
       "comment" : "Use for taking a reading, such as blood pressure or temperature",
@@ -8353,7 +8386,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πράγματι"
+            "value" : "Λήψη Μέτρησης"
           }
         },
         "en" : {
@@ -8521,7 +8554,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกการวัด"
+            "value" : "วัดการอ่านค่า"
           }
         },
         "tr" : {
@@ -8560,7 +8593,8 @@
             "value" : "進行讀取"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking medical conditions or health metrics",
@@ -8575,7 +8609,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пътека"
+            "value" : "Следи"
           }
         },
         "ca" : {
@@ -8641,7 +8675,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Seuraa"
           }
         },
         "fr" : {
@@ -8665,7 +8699,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "ट्रैक"
           }
         },
         "hr" : {
@@ -8755,7 +8789,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Отслеживать"
           }
         },
         "sk" : {
@@ -8785,7 +8819,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ґрунтова дорога"
+            "value" : "Відстежувати"
           }
         },
         "vi" : {
@@ -8812,7 +8846,8 @@
             "value" : "Track"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.verifyReading" : {
       "comment" : "Use for verifying the accuracy of a medical reading",
@@ -9064,7 +9099,8 @@
             "value" : "驗證讀數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.address" : {
       "comment" : "Use for labeling address fields",
@@ -9316,7 +9352,8 @@
             "value" : "地址"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.age" : {
       "comment" : "Use for labeling age-related information",
@@ -9567,7 +9604,8 @@
             "value" : "年齡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.allergies" : {
       "comment" : "Use for labeling allergy information",
@@ -9666,7 +9704,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מסלולים חלופיים"
+            "value" : "אלרגיות"
           }
         },
         "hi" : {
@@ -9819,7 +9857,8 @@
             "value" : "過敏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.appointments" : {
       "comment" : "Use for listing medical appointments",
@@ -9984,7 +10023,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afspraak"
+            "value" : "Afspraken"
           }
         },
         "pl" : {
@@ -10002,7 +10041,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Consultas Médicas"
+            "value" : "Marcações"
           }
         },
         "ro" : {
@@ -10071,7 +10110,8 @@
             "value" : "約會"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use for tracking blood pressure readings",
@@ -10323,7 +10363,8 @@
             "value" : "血压"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bloodSugar" : {
       "comment" : "Use for tracking blood sugar levels",
@@ -10464,7 +10505,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қан гемоглобині"
+            "value" : "Қан қант деңгейі"
           }
         },
         "ko" : {
@@ -10575,7 +10616,8 @@
             "value" : "血糖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bodyTemperature" : {
       "comment" : "Use for recording body temperature readings",
@@ -10827,7 +10869,8 @@
             "value" : "体温"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.diagnosis" : {
       "comment" : "Use for labeling a diagnosis",
@@ -11079,7 +11122,8 @@
             "value" : "診斷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.doctor" : {
       "comment" : "Use for referring to a healthcare professional",
@@ -11106,7 +11150,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doktor"
+            "value" : "Lékař"
           }
         },
         "da" : {
@@ -11331,7 +11375,8 @@
             "value" : "醫生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.documentation" : {
       "comment" : "Use for referring to medical documentation",
@@ -11400,7 +11445,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documentación Médica"
+            "value" : "Documentación"
           }
         },
         "es-419" : {
@@ -11514,7 +11559,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documentação Médica"
+            "value" : "Documentação"
           }
         },
         "ro" : {
@@ -11544,7 +11589,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เอกสาร"
+            "value" : "เอกสารทางการแพทย์"
           }
         },
         "tr" : {
@@ -11583,7 +11628,8 @@
             "value" : "文檔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dosage" : {
       "comment" : "Use for referring to prescribed medication dosage",
@@ -11835,7 +11881,8 @@
             "value" : "劑量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.emergencyContact" : {
       "comment" : "Use for labeling emergency contact information",
@@ -11946,7 +11993,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hitna pomoć"
+            "value" : "Osoba za Hitni Kontakt"
           }
         },
         "hu" : {
@@ -12006,7 +12053,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt Wymagany"
+            "value" : "\"Kontakt alarmowy\""
           }
         },
         "pt-BR" : {
@@ -12087,7 +12134,8 @@
             "value" : "緊急聯絡人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.expirationDate" : {
       "comment" : "Use for labeling medication expiration dates",
@@ -12168,7 +12216,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vanhenee"
+            "value" : "Viimeinen käyttöpäivä"
           }
         },
         "fr" : {
@@ -12339,7 +12387,8 @@
             "value" : "到期日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gender" : {
       "comment" : "Use for labeling gender information",
@@ -12590,7 +12639,8 @@
             "value" : "性別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking heart rate readings",
@@ -12841,7 +12891,8 @@
             "value" : "心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.hospital" : {
       "comment" : "Use for labeling hospital or medical facility information",
@@ -13093,7 +13144,8 @@
             "value" : "醫院"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.id" : {
       "comment" : "Use for labeling identification information",
@@ -13344,7 +13396,8 @@
             "value" : "識別碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.insurance" : {
       "comment" : "Use for referring to insurance details",
@@ -13485,7 +13538,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кепілдік"
+            "value" : "Сақтандыру"
           }
         },
         "ko" : {
@@ -13596,7 +13649,8 @@
             "value" : "保險"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.labResults" : {
       "comment" : "Use for referring to laboratory test results",
@@ -13848,7 +13902,8 @@
             "value" : "化驗結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.measurement" : {
       "comment" : "Use for referring to medical measurements",
@@ -14100,7 +14155,8 @@
             "value" : "測量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.medicalHistory" : {
       "comment" : "Use for referring to a patient's medical history",
@@ -14181,7 +14237,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "SairausHistoria"
+            "value" : "Sairaus­historia"
           }
         },
         "fr" : {
@@ -14235,7 +14291,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "医療歴"
+            "value" : "履歴"
           }
         },
         "kk" : {
@@ -14352,7 +14408,8 @@
             "value" : "病歷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.medication" : {
       "comment" : "Use for referring to prescribed medications",
@@ -14565,7 +14622,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การแพทย์"
+            "value" : "ยา"
           }
         },
         "tr" : {
@@ -14604,7 +14661,8 @@
             "value" : "藥物"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.name" : {
       "comment" : "Use for labeling name fields",
@@ -14702,7 +14760,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "זיהוי"
+            "value" : "שם"
           }
         },
         "hi" : {
@@ -14855,7 +14913,8 @@
             "value" : "名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.patient" : {
       "comment" : "Use for referring to a patient",
@@ -14876,7 +14935,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " pacient"
+            "value" : "Pacient"
           }
         },
         "cs" : {
@@ -14972,7 +15031,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betegek"
+            "value" : "Beteg"
           }
         },
         "id" : {
@@ -15107,7 +15166,8 @@
             "value" : "病人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pharmacy" : {
       "comment" : "Use for labeling pharmacy or prescription information",
@@ -15359,7 +15419,8 @@
             "value" : "藥房"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.prescription" : {
       "comment" : "Use for referring to a medical prescription",
@@ -15386,7 +15447,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recepty"
+            "value" : "Recept"
           }
         },
         "da" : {
@@ -15611,7 +15672,8 @@
             "value" : "處方"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.provider" : {
       "comment" : "Use for referring to a healthcare provider",
@@ -15863,7 +15925,8 @@
             "value" : "提供者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pulse" : {
       "comment" : "Use for tracking pulse rate",
@@ -16004,7 +16067,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Көктемдер"
+            "value" : "Тамыр соғуы"
           }
         },
         "ko" : {
@@ -16016,7 +16079,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denyut Lebih"
+            "value" : "Denyut Nadi"
           }
         },
         "nb" : {
@@ -16028,7 +16091,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uitgever"
+            "value" : "Hartslag"
           }
         },
         "pl" : {
@@ -16115,7 +16178,8 @@
             "value" : "脈搏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.results" : {
       "comment" : "Use for referring to medical test or report results",
@@ -16130,7 +16194,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Резултати"
           }
         },
         "ca" : {
@@ -16142,19 +16206,19 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Výsledky"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultater"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Ergebnisse"
           }
         },
         "el" : {
@@ -16202,7 +16266,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Résultats"
           }
         },
         "fr-CA" : {
@@ -16220,25 +16284,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "परिणाम"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Rezultati"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Eredmények"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Hasil"
           }
         },
         "it" : {
@@ -16250,25 +16314,25 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "結果"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Нәтижелер"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "결과"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Keputusan"
           }
         },
         "nb" : {
@@ -16280,7 +16344,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultaten"
           }
         },
         "pl" : {
@@ -16298,76 +16362,77 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultados"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Rezultate"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Результаты"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Výsledky"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultat"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "ผลลัพธ์"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Sonuçlar"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Результати"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Kết quả"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "结果"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "結果"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.symptoms" : {
       "comment" : "Use for referring to symptoms reported by the patient",
@@ -16619,7 +16684,8 @@
             "value" : "症狀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.treatment" : {
       "comment" : "Use for referring to medical treatment options",
@@ -16871,7 +16937,8 @@
             "value" : "治療"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.abnormalReadingDetected" : {
       "comment" : "Use to notify of an abnormal medical reading",
@@ -16982,13 +17049,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Otkriveno nenormalno očitanje."
+            "value" : "Nepostojano očitanje"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megszokottan észlelt olvasat."
+            "value" : "Szokatlan értékelés észlelve."
           }
         },
         "id" : {
@@ -17123,7 +17190,8 @@
             "value" : "檢測到異常讀數。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.appointmentBookingConfirmed" : {
       "comment" : "Use to confirm appointment booking",
@@ -17150,7 +17218,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrzení o rezervaci schůzky."
+            "value" : "Schůzka byla potvrzena."
           }
         },
         "da" : {
@@ -17246,7 +17314,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengaturan janji temu telah dikonfirmasi."
+            "value" : "Pengaturan janji temu dikonfirmasi."
           }
         },
         "it" : {
@@ -17282,7 +17350,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avtale booket."
+            "value" : "Avtalen er bekreftet."
           }
         },
         "nl" : {
@@ -17375,7 +17443,8 @@
             "value" : "預約已確認。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.contactEmergencyServicesImmediately" : {
       "comment" : "Urgent message to contact emergency services",
@@ -17498,7 +17567,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hubungi layanan darurat segera."
+            "value" : "Konten di balik paywall."
           }
         },
         "it" : {
@@ -17534,7 +17603,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt nødnumre umiddelbart."
+            "value" : "Kontakt nødetatene umiddelbart."
           }
         },
         "nl" : {
@@ -17582,13 +17651,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakta akuthjälp omedelbart."
+            "value" : "Kontakta nödjouren omedelbart."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาติดต่อบริการฉุกเฉินทันที"
+            "value" : "กรุณาติดต่อบริการฉุกเฉินทันที."
           }
         },
         "tr" : {
@@ -17627,7 +17696,8 @@
             "value" : "請立即聯絡緊急服務。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dataSuccessfullyUploadedToYourHealthcareProvider" : {
       "comment" : "Confirmation of data upload to a provider",
@@ -17666,7 +17736,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daten erfolgreich an Ihren Gesundheitsdienstleister hochgeladen."
+            "value" : "Daten erfolgreich an deinen Gesundheitsdienstleister hochgeladen."
           }
         },
         "el" : {
@@ -17696,7 +17766,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datos subidos exitosamente a tu proveedor de salud."
+            "value" : "Datos subidos correctamente a tu proveedor de salud."
           }
         },
         "es-419" : {
@@ -17756,7 +17826,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dati caricati con successo dal tuo fornitore di assistenza sanitaria."
+            "value" : "Dati caricati con successo al tuo fornitore di assistenza sanitaria."
           }
         },
         "ja" : {
@@ -17879,7 +17949,8 @@
             "value" : "數據已成功上傳到您的醫療服務提供者。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.documentSuccessfullyUploadedToYourRecords" : {
       "comment" : "Confirmation that a document has been uploaded to records",
@@ -17900,7 +17971,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Document pujats satisfactòriament als teus registres."
+            "value" : "Document pujat satisfactòriament als teus registres."
           }
         },
         "cs" : {
@@ -17918,7 +17989,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokument erfolgreich in Ihren Aufzeichnungen hochgeladen."
+            "value" : "Dokument erfolgreich in deinen Aufzeichnungen hochgeladen."
           }
         },
         "el" : {
@@ -18131,7 +18202,8 @@
             "value" : "文件已成功上傳到您的檔案。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.emergencyContactHasBeenNotified" : {
       "comment" : "Notification that emergency contact has been alerted",
@@ -18158,7 +18230,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakty pro nouzové situace byly informovány."
+            "value" : "Kontakt pro nouzové situace byl informován."
           }
         },
         "da" : {
@@ -18176,7 +18248,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο επείγων σύντροφος έχει ειδοποιηθεί."
+            "value" : "Η επαφή ανάγκης έχει ειδοποιηθεί."
           }
         },
         "en" : {
@@ -18212,7 +18284,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hätänumero on ilmoitettu."
+            "value" : "Hätäyhteyshenkilölle on ilmoitettu."
           }
         },
         "fr" : {
@@ -18242,7 +18314,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakta za hitne slučajeve je obaviješten."
+            "value" : "Kontakt za hitne slučajeve je obaviješten."
           }
         },
         "hu" : {
@@ -18260,7 +18332,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contatto di emergenza è stato avvisato."
+            "value" : "Il contatto di emergenza è stato avvisato."
           }
         },
         "ja" : {
@@ -18308,13 +18380,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contato de emergência foi notificado."
+            "value" : "Contato de emergência foi notificade."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contato de emergência foi notificado."
+            "value" : "O contato de emergência foi notificado."
           }
         },
         "ro" : {
@@ -18383,7 +18455,8 @@
             "value" : "緊急聯絡人已被通知。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.labResultsAreNowAvailable" : {
       "comment" : "Notification that lab results are ready",
@@ -18635,7 +18708,8 @@
             "value" : "實驗室結果現已可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.measurementComplete" : {
       "comment" : "Confirmation that a measurement has been completed",
@@ -18842,7 +18916,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mätningen är klar."
+            "value" : "Mätningen är slutförd."
           }
         },
         "th" : {
@@ -18887,7 +18961,8 @@
             "value" : "測量已完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.medicalHistoryHasBeenUpdated" : {
       "comment" : "Confirmation that medical history has been updated",
@@ -18908,7 +18983,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S'hana actualitzat l'historial mèdic."
+            "value" : "S'ha actualitzat l'historial mèdic."
           }
         },
         "cs" : {
@@ -18962,7 +19037,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historia médica ha sido actualizada."
+            "value" : "La historia médica ha sido actualizada."
           }
         },
         "fi" : {
@@ -19139,7 +19214,8 @@
             "value" : "醫療歷史已更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reminderTakeYourMedication" : {
       "comment" : "Reminder to take prescribed medication",
@@ -19238,7 +19314,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תזכורת: קח את התרופה שלך."
+            "value" : "התראה: קח/י את התרופה שלך."
           }
         },
         "hi" : {
@@ -19310,7 +19386,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przypomnienie: Weź swoją lekarstwo."
+            "value" : "Przypomnienie: Weź swoje lekarstwo."
           }
         },
         "pt-BR" : {
@@ -19391,7 +19467,8 @@
             "value" : "提醒：請服用您的藥物。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reportHasBeenSentToYourDoctor" : {
       "comment" : "Confirmation that a report has been sent to the doctor",
@@ -19406,7 +19483,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладът е изпратен на твоят лекар."
+            "value" : "Докладът е изпратен на твоя лекар."
           }
         },
         "ca" : {
@@ -19643,7 +19720,8 @@
             "value" : "報告已發送至您的醫生。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.resultsHaveBeenSaved" : {
       "comment" : "Confirmation that results have been stored",
@@ -19895,7 +19973,8 @@
             "value" : "結果已保存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.testCompletedSuccessfully" : {
       "comment" : "Confirmation that a medical test was successful",
@@ -20147,7 +20226,8 @@
             "value" : "測試已成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeForYourNextDose" : {
       "comment" : "Reminder for the next medication dose",
@@ -20399,7 +20479,8 @@
             "value" : "是時候服用下一劑了。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourAppointmentHasBeenConfirmed" : {
       "comment" : "Confirmation that an appointment is scheduled",
@@ -20540,7 +20621,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің кездесуліңіз расталды."
+            "value" : "Сіздің кездесуіңіз расталды."
           }
         },
         "ko" : {
@@ -20651,7 +20732,8 @@
             "value" : "你的预约已确认。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -20834,13 +20916,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar sintomas..."
+            "value" : "Adicionar sintomas…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați simptome…"
+            "value" : "Adaugă simptome…"
           }
         },
         "ru" : {
@@ -20903,7 +20985,8 @@
             "value" : "添加症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.bloodPressureReadingDots" : {
       "comment" : "Placeholder for entering a blood pressure reading",
@@ -21032,7 +21115,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lettura della pressione sanguigna…"
+            "value" : "Lettura pressione sanguigna…"
           }
         },
         "ja" : {
@@ -21044,7 +21127,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қан қысымын өлшеу…"
+            "value" : "Қан қысымы өлшенуде…"
           }
         },
         "ko" : {
@@ -21062,7 +21145,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blodtrykkmåling…"
+            "value" : "Bloodtrykkmåling…"
           }
         },
         "nl" : {
@@ -21092,7 +21175,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citire tensiune arterială…"
+            "value" : "Citirea tensiunii arteriale…"
           }
         },
         "ru" : {
@@ -21122,7 +21205,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan basıncı ölçümü..."
+            "value" : "Kan basıncı okuması…"
           }
         },
         "uk" : {
@@ -21155,7 +21238,8 @@
             "value" : "血壓讀數…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.bodyTemperatureDots" : {
       "comment" : "Placeholder for entering body temperature",
@@ -21308,7 +21392,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suhunya badan…"
+            "value" : "Suhu badan…"
           }
         },
         "nb" : {
@@ -21344,7 +21428,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatura corpului…"
+            "value" : "Temperatură corp…"
           }
         },
         "ru" : {
@@ -21374,7 +21458,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vücut sıcaklığı..."
+            "value" : "Vücut sıcaklığı…"
           }
         },
         "uk" : {
@@ -21407,7 +21491,8 @@
             "value" : "體溫…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.describeSymptomsDots" : {
       "comment" : "Placeholder for describing symptoms",
@@ -21542,7 +21627,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "症状を説明…"
+            "value" : "症状を説明中…"
           }
         },
         "kk" : {
@@ -21659,7 +21744,8 @@
             "value" : "描述症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.doctorsNameDots" : {
       "comment" : "Placeholder for entering the doctor's name",
@@ -21776,7 +21862,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Orvos neve…"
+            "value" : "Doktor neve…"
           }
         },
         "id" : {
@@ -21830,7 +21916,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imię lekarza…"
+            "value" : "Nazwisko lekarza…"
           }
         },
         "pt-BR" : {
@@ -21911,7 +21997,8 @@
             "value" : "醫生的名字…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAllergiesDots" : {
       "comment" : "Placeholder for entering allergies",
@@ -22100,7 +22187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducerea alergiilor…"
+            "value" : "Introduceți alergiile…"
           }
         },
         "ru" : {
@@ -22112,7 +22199,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte alergie…"
+            "value" : "Zadaj alergie…"
           }
         },
         "sv" : {
@@ -22163,7 +22250,8 @@
             "value" : "輸入過敏…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterBloodSugarLevelDots" : {
       "comment" : "Placeholder for entering blood sugar level",
@@ -22256,7 +22344,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le taux de sucre dans le sang…"
+            "value" : "Entrer le taux de sucre dans le sang…"
           }
         },
         "he" : {
@@ -22328,7 +22416,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de bloedsuikerniveau in…"
+            "value" : "Voer bloedsuikerniveau in …"
           }
         },
         "pl" : {
@@ -22370,19 +22458,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange blodsockernivå…"
+            "value" : "Enter blood sugar level…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ระดับน้ำตาลในเลือด…"
+            "value" : "กรอกระดับน้ำตาลในเลือด…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan şekeri seviyesini girin…"
+            "value" : "Kan şekeri seviyesini gir…"
           }
         },
         "uk" : {
@@ -22415,7 +22503,8 @@
             "value" : "輸入血糖水平…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDiagnosisDots" : {
       "comment" : "Placeholder for entering a diagnosis",
@@ -22562,7 +22651,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "진단서 입력…"
+            "value" : "진단 입력…"
           }
         },
         "ms" : {
@@ -22580,7 +22669,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de diagnose in…"
+            "value" : "Voer de diagnose in …"
           }
         },
         "pl" : {
@@ -22667,7 +22756,8 @@
             "value" : "輸入診斷…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterEmergencyContactDots" : {
       "comment" : "Placeholder for entering emergency contact details",
@@ -22736,7 +22826,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa contacto de emergencia…"
+            "value" : "Ingresa el contacto de emergencia…"
           }
         },
         "es-419" : {
@@ -22766,7 +22856,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן פרטי קשר חירום…"
+            "value" : "הכנס פרטי קשר חירום…"
           }
         },
         "hi" : {
@@ -22826,7 +22916,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn nødnummer…"
+            "value" : "Skriv inn nødnummer/person"
           }
         },
         "nl" : {
@@ -22880,13 +22970,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ข้อมูลการติดต่อฉุกเฉิน…"
+            "value" : "กรอกข้อมูลการติดต่อฉุกเฉิน…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acil durum iletişimini girin…"
+            "value" : "Acil durum kişisini girin…"
           }
         },
         "uk" : {
@@ -22919,7 +23009,8 @@
             "value" : "輸入緊急聯絡人…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMedicalHistoryDots" : {
       "comment" : "Placeholder for entering medical history",
@@ -22988,7 +23079,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa historial médico…"
+            "value" : "Introduce el historial médico…"
           }
         },
         "es-419" : {
@@ -23012,7 +23103,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer les antécédents médicaux…"
+            "value" : "Entrez les antécédents médicaux…"
           }
         },
         "he" : {
@@ -23120,7 +23211,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte anamnézu…"
+            "value" : "Zadaj anamnézu…"
           }
         },
         "sv" : {
@@ -23162,7 +23253,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入病歷…"
+            "value" : "輸入醫藥史…"
           }
         },
         "zh-HK" : {
@@ -23171,7 +23262,8 @@
             "value" : "輸入病歷…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMedicationNameDots" : {
       "comment" : "Placeholder for entering medication name",
@@ -23204,7 +23296,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast medicin navn…"
+            "value" : "Indtast medicinnavn…"
           }
         },
         "de" : {
@@ -23240,7 +23332,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa nombre del medicamento…"
+            "value" : "Introduce el nombre del medicamento…"
           }
         },
         "es-419" : {
@@ -23264,7 +23356,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom du médicament…"
+            "value" : "Entrez le nom du médicament…"
           }
         },
         "he" : {
@@ -23372,7 +23464,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov lieku…"
+            "value" : "Zadaj názov lieku…"
           }
         },
         "sv" : {
@@ -23423,7 +23515,8 @@
             "value" : "輸入藥物名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPatientIDDots" : {
       "comment" : "Placeholder for entering patient ID",
@@ -23438,7 +23531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи пациентски ID…"
+            "value" : "Въведи ID на пациента…"
           }
         },
         "ca" : {
@@ -23492,7 +23585,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa ID del paciente…"
+            "value" : "Introduce la ID del paciente…"
           }
         },
         "es-419" : {
@@ -23516,7 +23609,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer l'identifiant du patient…"
+            "value" : "Entrez l'identifiant du patient…"
           }
         },
         "he" : {
@@ -23624,7 +23717,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte ID pacienta…"
+            "value" : "Zadaj ID pacienta…"
           }
         },
         "sv" : {
@@ -23675,7 +23768,8 @@
             "value" : "輸入病人ID…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPharmacyDetailsDots" : {
       "comment" : "Placeholder for entering pharmacy details",
@@ -23768,7 +23862,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer les détails de la pharmacie…"
+            "value" : "Entrez les détails de la pharmacie…"
           }
         },
         "he" : {
@@ -23876,7 +23970,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte podrobnosti lekárne…"
+            "value" : "Zadaj podrobnosti lekárne…"
           }
         },
         "sv" : {
@@ -23927,7 +24021,8 @@
             "value" : "輸入藥房詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPrescriptionNumberDots" : {
       "comment" : "Placeholder for entering prescription number",
@@ -24179,7 +24274,8 @@
             "value" : "輸入處方號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterProviderNameDots" : {
       "comment" : "Placeholder for entering healthcare provider's name",
@@ -24344,7 +24440,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer naam zorgverlener in…"
+            "value" : "Voer zorgverlenernaam in…"
           }
         },
         "pl" : {
@@ -24431,7 +24527,8 @@
             "value" : "輸入提供者名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -24500,7 +24597,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir síntomas…"
+            "value" : "Introduce los síntomas…"
           }
         },
         "es-419" : {
@@ -24620,7 +24717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti simptomele…"
+            "value" : "Introduceți simptomele…"
           }
         },
         "ru" : {
@@ -24683,7 +24780,8 @@
             "value" : "輸入症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTreatmentNotesDots" : {
       "comment" : "Placeholder for entering treatment notes",
@@ -24884,7 +24982,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte poznámky k liečbe…"
+            "value" : "Zadaj poznámky k liečbe…"
           }
         },
         "sv" : {
@@ -24920,7 +25018,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入治疗笔记…"
+            "value" : "请输入治疗笔记…"
           }
         },
         "zh-Hant" : {
@@ -24935,7 +25033,8 @@
             "value" : "輸入治療記錄…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.heartRateDots" : {
       "comment" : "Placeholder for entering heart rate reading",
@@ -24950,7 +25049,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сърдечен ритъм..."
+            "value" : "Сърдечен пулс…"
           }
         },
         "ca" : {
@@ -25184,10 +25283,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "心率..."
+            "value" : "心率…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.insuranceIDDots" : {
       "comment" : "Placeholder for entering insurance ID",
@@ -25328,7 +25428,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Страховая идентификация…"
+            "value" : "Сақтандыру идентификациясы…"
           }
         },
         "ko" : {
@@ -25436,10 +25536,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保險ID..."
+            "value" : "保險證號..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.patientNameDots" : {
       "comment" : "Placeholder for entering patient's name",
@@ -25472,13 +25573,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Patientens navn…"
+            "value" : "Patientnavn…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Patient:in Name…"
+            "value" : "Patient:innenname…"
           }
         },
         "el" : {
@@ -25556,7 +25657,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betegek neve…"
+            "value" : "Beteg neve…"
           }
         },
         "id" : {
@@ -25691,7 +25792,8 @@
             "value" : "病人姓名…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

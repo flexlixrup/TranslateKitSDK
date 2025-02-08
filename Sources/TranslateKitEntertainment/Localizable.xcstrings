@@ -74,7 +74,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar a lista de reproducción"
+            "value" : "Agregar a la lista de reproducción"
           }
         },
         "fi" : {
@@ -251,7 +251,8 @@
             "value" : "添加至播放列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToQueue" : {
       "comment" : "Use when adding content to the playback queue",
@@ -439,7 +440,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă în Playlist"
+            "value" : "Adaugă la coadă"
           }
         },
         "ru" : {
@@ -502,7 +503,8 @@
             "value" : "添加到隊列"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.cast" : {
       "comment" : "Use when casting content to a device",
@@ -517,7 +519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Излъчвайте"
+            "value" : "Излъчвай"
           }
         },
         "ca" : {
@@ -583,7 +585,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Castaa"
+            "value" : "Suoratoista"
           }
         },
         "fr" : {
@@ -661,7 +663,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speil"
+            "value" : "Speil til enhet"
           }
         },
         "nl" : {
@@ -754,7 +756,8 @@
             "value" : "投放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createPlaylist" : {
       "comment" : "Use when creating a new playlist",
@@ -1002,10 +1005,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建播放列表"
+            "value" : "建立播放列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use when allowing download of content for offline viewing",
@@ -1115,7 +1119,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzmi za Offline"
+            "value" : "Preuzmi za offline"
           }
         },
         "hu" : {
@@ -1241,7 +1245,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下载离线版"
+            "value" : "下载以供离线使用"
           }
         },
         "zh-Hant" : {
@@ -1256,7 +1260,8 @@
             "value" : "下載離線內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.fastForward" : {
       "comment" : "Use for fast-forwarding through content",
@@ -1301,7 +1306,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γρήγορη προώθηση"
+            "value" : "Γρήγορη Προώθηση"
           }
         },
         "en" : {
@@ -1331,7 +1336,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rebobinar"
+            "value" : "Avance rápido"
           }
         },
         "fi" : {
@@ -1373,7 +1378,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gyors előretekerés"
+            "value" : "Gyors Előretekerés"
           }
         },
         "id" : {
@@ -1508,7 +1513,8 @@
             "value" : "快轉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.follow" : {
       "comment" : "Use when following a user or content creator",
@@ -1759,7 +1765,8 @@
             "value" : "關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.like" : {
       "comment" : "Use when liking content",
@@ -1785,7 +1792,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To dva mi líbí"
+            "value" : "To se mi líbí"
           }
         },
         "da" : {
@@ -1893,7 +1900,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "いいね!"
+            "value" : "レシピをいいねする"
           }
         },
         "kk" : {
@@ -2010,7 +2017,8 @@
             "value" : "喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.link" : {
       "comment" : "Use when linking content to other platforms or services",
@@ -2261,7 +2269,8 @@
             "value" : "連結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.loop" : {
       "comment" : "Use for looping content playback",
@@ -2513,7 +2522,8 @@
             "value" : "Loop"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pin" : {
       "comment" : "Use when pinning content to a specific section or location",
@@ -2641,7 +2651,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metti in evidenza"
+            "value" : "Mettiti in evidenza"
           }
         },
         "ja" : {
@@ -2764,7 +2774,8 @@
             "value" : "釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.queue" : {
       "comment" : "Use when managing a content queue",
@@ -2905,7 +2916,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Келісім"
+            "value" : "Жылжыту"
           }
         },
         "ko" : {
@@ -2959,7 +2970,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В очередь"
+            "value" : "Очередь"
           }
         },
         "sk" : {
@@ -3016,7 +3027,8 @@
             "value" : "排隊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rate" : {
       "comment" : "Use when rating content",
@@ -3267,7 +3279,8 @@
             "value" : "評分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rateContent" : {
       "comment" : "Use when rating specific content",
@@ -3518,7 +3531,8 @@
             "value" : "評價內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recommend" : {
       "comment" : "Use when recommending content to others",
@@ -3689,7 +3703,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zalecać"
+            "value" : "Poleć"
           }
         },
         "pt-BR" : {
@@ -3770,7 +3784,8 @@
             "value" : "推薦"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use when starting to record content",
@@ -4021,7 +4036,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordVideo" : {
       "comment" : "Use when recording a video",
@@ -4272,7 +4288,8 @@
             "value" : "錄製視頻"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeFromQueue" : {
       "comment" : "Use when removing content from the queue",
@@ -4524,7 +4541,8 @@
             "value" : "從隊列中移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rewind" : {
       "comment" : "Use for rewinding content playback",
@@ -4562,7 +4580,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schneller Rücklauf"
+            "value" : "Zurückspulen"
           }
         },
         "el" : {
@@ -4775,7 +4793,8 @@
             "value" : "回帶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling content for later viewing or action",
@@ -4784,7 +4803,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جدول الأوقات"
+            "value" : "جدولة"
           }
         },
         "bg" : {
@@ -4796,13 +4815,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programació"
+            "value" : "Programar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rozvrh"
+            "value" : "Plán"
           }
         },
         "da" : {
@@ -4880,7 +4899,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "शेड्यूल"
+            "value" : "शेड्यूल करें"
           }
         },
         "hr" : {
@@ -4952,13 +4971,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Horários"
+            "value" : "Agendar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Horário"
+            "value" : "Programar"
           }
         },
         "ro" : {
@@ -5027,7 +5046,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareStory" : {
       "comment" : "Use when sharing a story with others",
@@ -5278,7 +5298,8 @@
             "value" : "分享故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shuffle" : {
       "comment" : "Use for shuffling content playback order",
@@ -5287,7 +5308,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "عشوائي"
+            "value" : "خَلط"
           }
         },
         "bg" : {
@@ -5455,19 +5476,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aleatório"
+            "value" : "Aleatorizar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aleatório"
+            "value" : "Aleatorizar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mod aleatoriu"
+            "value" : "Amestecare"
           }
         },
         "ru" : {
@@ -5530,7 +5551,8 @@
             "value" : "隨機播放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping introductory content or scenes",
@@ -5694,7 +5716,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Intro overslaan"
+            "value" : "Oefening overslaan"
           }
         },
         "pl" : {
@@ -5760,7 +5782,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bỏ qua giới thiệu"
+            "value" : "Bỏ Qua Giới Thiệu"
           }
         },
         "zh-Hans" : {
@@ -5781,7 +5803,8 @@
             "value" : "跳過介紹"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a content feed or creator",
@@ -5825,7 +5848,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συνδρομή"
+            "value" : "Εγγραφή"
           }
         },
         "en" : {
@@ -6029,10 +6052,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閲"
+            "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trimVideo" : {
       "comment" : "Use for trimming video content",
@@ -6106,7 +6130,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recortar Vídeo"
+            "value" : "recortar video"
           }
         },
         "fi" : {
@@ -6232,7 +6256,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upraviť video"
+            "value" : "Trimovať Video"
           }
         },
         "sv" : {
@@ -6283,7 +6307,8 @@
             "value" : "剪輯影片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unfollowing a user or content creator",
@@ -6339,7 +6364,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfollow"
+            "value" : "Unfavourite"
           }
         },
         "en-GB" : {
@@ -6483,7 +6508,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odhlásiť sa"
+            "value" : "Odstrániť sledovanie"
           }
         },
         "sv" : {
@@ -6534,7 +6559,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unlike" : {
       "comment" : "Use when unliking content",
@@ -6663,7 +6689,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Non mi piace"
+            "value" : "mi piace"
           }
         },
         "ja" : {
@@ -6705,7 +6731,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie lubię"
+            "value" : "Nie lubię tego"
           }
         },
         "pt-BR" : {
@@ -6747,13 +6773,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่ถูกใจ"
+            "value" : "ยกเลิกถูกใจ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beğenilmeyen"
+            "value" : "Beğenmekten Vazgeç"
           }
         },
         "uk" : {
@@ -6786,7 +6812,8 @@
             "value" : "不喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unpin" : {
       "comment" : "Use when unpinning content from a section or location",
@@ -7037,7 +7064,8 @@
             "value" : "取消釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.watch" : {
       "comment" : "Use for watching content",
@@ -7075,13 +7103,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Ansehen"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Παρακολούθηση"
           }
         },
         "en" : {
@@ -7153,13 +7181,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Nézés"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Tonton"
           }
         },
         "it" : {
@@ -7171,7 +7199,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "視聴する"
           }
         },
         "kk" : {
@@ -7225,19 +7253,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Urmărește"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Наблюдать"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Pozerať"
           }
         },
         "sv" : {
@@ -7261,7 +7289,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Дивитися"
           }
         },
         "vi" : {
@@ -7288,7 +7316,8 @@
             "value" : "Watch"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.watchLater" : {
       "comment" : "Use when saving content to watch later",
@@ -7363,7 +7392,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver después"
+            "value" : "ver después"
           }
         },
         "fi" : {
@@ -7540,7 +7569,8 @@
             "value" : "稍後觀看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.actors" : {
       "comment" : "Use for the list of actors involved in content",
@@ -7549,7 +7579,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الملوك"
+            "value" : "الممثلون"
           }
         },
         "bg" : {
@@ -7792,7 +7822,8 @@
             "value" : "演員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.album" : {
       "comment" : "Use for referring to a music album",
@@ -8044,7 +8075,8 @@
             "value" : "專輯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.albums" : {
       "comment" : "Use for referring to multiple music albums",
@@ -8077,7 +8109,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Album"
+            "value" : "Albums"
           }
         },
         "de" : {
@@ -8167,7 +8199,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Album"
+            "value" : "Album-album"
           }
         },
         "it" : {
@@ -8296,7 +8328,8 @@
             "value" : "相簿"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.artist" : {
       "comment" : "Use for referring to a music artist",
@@ -8548,7 +8581,8 @@
             "value" : "藝人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.artists" : {
       "comment" : "Use for referring to multiple music artists",
@@ -8767,7 +8801,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sanatçı"
+            "value" : "Sanatçılar"
           }
         },
         "uk" : {
@@ -8800,7 +8834,8 @@
             "value" : "藝人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.audio" : {
       "comment" : "Use for referring to audio content or settings",
@@ -9052,7 +9087,8 @@
             "value" : "音訊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.backgroundSounds" : {
       "comment" : "Use for referring to background sound settings",
@@ -9303,7 +9339,8 @@
             "value" : "背景聲音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmark" : {
       "comment" : "Use for saving a specific spot or item",
@@ -9554,7 +9591,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.castCrew" : {
       "comment" : "Use for referring to the cast and crew of content",
@@ -9640,7 +9678,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Équipe de production"
+            "value" : "Distribution"
           }
         },
         "fr-CA" : {
@@ -9805,7 +9843,8 @@
             "value" : "演出陣容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.channel" : {
       "comment" : "Use for referring to a specific media channel",
@@ -9946,7 +9985,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арна"
+            "value" : "Жаңадан енгізу"
           }
         },
         "ko" : {
@@ -10057,7 +10096,8 @@
             "value" : "頻道"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.channels" : {
       "comment" : "Use for referring to multiple media channels",
@@ -10270,7 +10310,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ช่องทาง"
+            "value" : "ช่อง"
           }
         },
         "tr" : {
@@ -10309,7 +10349,8 @@
             "value" : "频道"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.comments" : {
       "comment" : "Use for referring to user comments or feedback",
@@ -10560,7 +10601,8 @@
             "value" : "評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.continueWatching" : {
       "comment" : "Use when resuming previously watched content",
@@ -10811,7 +10853,8 @@
             "value" : "繼續觀看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.creator" : {
       "comment" : "Use for referring to the creator of content",
@@ -10880,7 +10923,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creadores"
+            "value" : "Creador"
           }
         },
         "es-419" : {
@@ -11063,7 +11106,8 @@
             "value" : "創作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use for referring to the length of content",
@@ -11314,7 +11358,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.episode" : {
       "comment" : "Use for referring to a single episode of a series",
@@ -11566,7 +11611,8 @@
             "value" : "集數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.episodes" : {
       "comment" : "Use for referring to multiple episodes of a series",
@@ -11809,7 +11855,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "單集"
+            "value" : "集數"
           }
         },
         "zh-HK" : {
@@ -11818,7 +11864,8 @@
             "value" : "單集"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use for referring to a user's favorite content",
@@ -12069,7 +12116,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.featured" : {
       "comment" : "Use for prominently displayed or recommended content",
@@ -12321,7 +12369,8 @@
             "value" : "精選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.genre" : {
       "comment" : "Use for referring to a specific genre of content",
@@ -12572,7 +12621,8 @@
             "value" : "類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.genres" : {
       "comment" : "Use for referring to multiple genres of content",
@@ -12587,7 +12637,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Genres"
+            "value" : "Жанрове"
           }
         },
         "ca" : {
@@ -12803,7 +12853,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thể loại"
+            "value" : "Các thể loại"
           }
         },
         "zh-Hans" : {
@@ -12824,7 +12874,8 @@
             "value" : "類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.live" : {
       "comment" : "Use for referring to live-streamed content",
@@ -12845,7 +12896,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Live"
+            "value" : "En Directe"
           }
         },
         "cs" : {
@@ -12893,13 +12944,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Live"
+            "value" : "En Vivo"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En vivo"
+            "value" : "En Vivo"
           }
         },
         "fi" : {
@@ -13076,7 +13127,8 @@
             "value" : "原況"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.media" : {
       "comment" : "Use for referring to general multimedia content",
@@ -13327,7 +13379,8 @@
             "value" : "媒體"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.playlist" : {
       "comment" : "Use for referring to a collection of media content",
@@ -13578,7 +13631,8 @@
             "value" : "播放列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.playlists" : {
       "comment" : "Use for referring to multiple playlists",
@@ -13701,7 +13755,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daftar Putar"
+            "value" : "Daftar-daftar Putar"
           }
         },
         "it" : {
@@ -13830,7 +13884,8 @@
             "value" : "播放列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.popular" : {
       "comment" : "Use for referring to content that is popular among users",
@@ -14082,7 +14137,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.queue" : {
       "comment" : "Use for referring to a list of upcoming content to be played",
@@ -14333,7 +14389,8 @@
             "value" : "佇列"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.rating" : {
       "comment" : "Use for referring to the rating of content",
@@ -14462,7 +14519,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classifica"
+            "value" : "Valutazione"
           }
         },
         "ja" : {
@@ -14552,7 +14609,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puan"
+            "value" : "Derecelendirme"
           }
         },
         "uk" : {
@@ -14585,7 +14642,8 @@
             "value" : "年齡分級"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.releaseDate" : {
       "comment" : "Use for referring to the release date of content",
@@ -14836,7 +14894,8 @@
             "value" : "發行日期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.runtime" : {
       "comment" : "Use for referring to the total duration of content",
@@ -15088,7 +15147,8 @@
             "value" : "運行時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.streaming" : {
       "comment" : "Use for referring to the process of streaming content",
@@ -15294,7 +15354,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Strömmar"
+            "value" : "Streamning"
           }
         },
         "th" : {
@@ -15324,7 +15384,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "流化"
+            "value" : "流媒体"
           }
         },
         "zh-Hant" : {
@@ -15339,7 +15399,8 @@
             "value" : "串流"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.aNewVersionIsAvailableForStreaming" : {
       "comment" : "Notification about a new streaming version",
@@ -15438,7 +15499,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "גרסה חדשה זמינה להז streaming."
+            "value" : "גרסה חדשה זמינה להזרים."
           }
         },
         "hi" : {
@@ -15480,7 +15541,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа нұсқа емес көруге қолжетімді."
+            "value" : "Жаңа нұсқа көруге қолжетімді."
           }
         },
         "ko" : {
@@ -15558,7 +15619,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni bir versiyon yayın için mevcut."
+            "value" : "Yeni bir sürüm yayın akışı için mevcut."
           }
         },
         "uk" : {
@@ -15591,7 +15652,8 @@
             "value" : "有新版本可供串流。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.connectionTooSlowForStreaming" : {
       "comment" : "Notification when the internet connection is insufficient for streaming",
@@ -15702,7 +15764,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Povezivanje je previše sporo za straming."
+            "value" : "Povezivanje je previše sporo za streaming."
           }
         },
         "hu" : {
@@ -15843,7 +15905,8 @@
             "value" : "連接速度過慢，無法進行串流。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Notification when content is restricted by region",
@@ -15989,7 +16052,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서 사용할 수 없는 콘텐츠"
+            "value" : "해당 지역에서 사용할 수 없는 콘텐츠."
           }
         },
         "ms" : {
@@ -16073,7 +16136,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung không có sẵn trong khu vực của bạn"
+            "value" : "Nội dung không có sẵn ở khu vực của bạn."
           }
         },
         "zh-Hans" : {
@@ -16094,7 +16157,8 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.downloadCompletedSuccessfully" : {
       "comment" : "Confirmation message when a download finishes",
@@ -16337,7 +16401,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下載成功完成。"
+            "value" : "下載已完成。"
           }
         },
         "zh-HK" : {
@@ -16346,7 +16410,8 @@
             "value" : "下載成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.freeTrialPeriodHasEnded" : {
       "comment" : "Notification when a free trial period ends",
@@ -16415,7 +16480,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El período de prueba gratuito ha terminado."
+            "value" : "El período de prueba gratuita ha terminado."
           }
         },
         "es-419" : {
@@ -16598,7 +16663,8 @@
             "value" : "免費試用期已結束。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.liveStreamHasEnded" : {
       "comment" : "Notification when a live stream ends",
@@ -16850,7 +16916,8 @@
             "value" : "直播已結束。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newEpisodeAvailable" : {
       "comment" : "Notification when a new episode is available",
@@ -16870,7 +16937,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nous episodis disponibles"
+            "value" : "Nou episodi disponible"
           }
         },
         "cs" : {
@@ -16906,7 +16973,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New episode available"
+            "value" : "New episode available."
           }
         },
         "en-GB" : {
@@ -16918,7 +16985,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo episodio disponible"
+            "value" : "Nuevo episodio disponible."
           }
         },
         "es-419" : {
@@ -16966,7 +17033,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Új epizód elérhető"
+            "value" : "Új epizód érhető el"
           }
         },
         "id" : {
@@ -17050,7 +17117,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nová epizóda je dostupná"
+            "value" : "Nová epizóda je dostupná."
           }
         },
         "sv" : {
@@ -17080,7 +17147,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Có tập mới"
+            "value" : "Có tập mới."
           }
         },
         "zh-Hans" : {
@@ -17101,7 +17168,8 @@
             "value" : "新剧集已上线"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noMediaAvailable" : {
       "comment" : "Notification when no media is available for viewing",
@@ -17353,7 +17421,8 @@
             "value" : "沒有媒體可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.playbackErrorOccurred" : {
       "comment" : "Error message during playback issues",
@@ -17428,7 +17497,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ocurrió un error de reproducción."
+            "value" : "Se produjo un error de reproducción."
           }
         },
         "fi" : {
@@ -17605,7 +17674,8 @@
             "value" : "播放時出現錯誤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.premiumContentRequiresSubscription" : {
       "comment" : "Message about subscription requirement for premium content",
@@ -17857,7 +17927,8 @@
             "value" : "付費內容需要訂閱。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.subscriptionExpired" : {
       "comment" : "Notification when a subscription has expired",
@@ -17913,7 +17984,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subscription expired"
+            "value" : "Subscription expired."
           }
         },
         "en-GB" : {
@@ -17931,7 +18002,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suscripción caducada"
+            "value" : "La suscripción caducada"
           }
         },
         "fi" : {
@@ -17979,7 +18050,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langganan telah kedaluwarsa"
+            "value" : "Langganan kedaluwarsa"
           }
         },
         "it" : {
@@ -18033,7 +18104,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscrição expirada"
+            "value" : "Assinatura expirada"
           }
         },
         "pt-PT" : {
@@ -18108,7 +18179,8 @@
             "value" : "訂閱已過期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.subscriptionRequiredToContinue" : {
       "comment" : "Message indicating a subscription is required to continue",
@@ -18135,7 +18207,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyžaduje se předplatné pro pokračování."
+            "value" : "Pro pokračování je nutné předplatné."
           }
         },
         "da" : {
@@ -18207,7 +18279,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "דרושה מנוי להמשך."
+            "value" : "נדרש מנוי להמשך."
           }
         },
         "hi" : {
@@ -18360,7 +18432,8 @@
             "value" : "需要訂閱才能繼續。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.thisContentContainsMatureThemes" : {
       "comment" : "Warning about mature content",
@@ -18399,7 +18472,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dieser Inhalt enthält begleitende Themen."
+            "value" : "Dieser Inhalt enthält reife Themen."
           }
         },
         "el" : {
@@ -18489,7 +18562,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Questo contenuto contiene temi importanti."
+            "value" : "Questo contenuto contiene temi per adulti."
           }
         },
         "ja" : {
@@ -18531,7 +18604,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ten content zawiera wątki dla dorosłych."
+            "value" : "Ta treść zawiera wątki dla dorosłych."
           }
         },
         "pt-BR" : {
@@ -18612,7 +18685,8 @@
             "value" : "該內容包含成人主題。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.thisContentIsAvailableForSubscribersOnly" : {
       "comment" : "Notification for subscriber-only content",
@@ -18842,7 +18916,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Những người đăng ký"
+            "value" : "Nội dung này chỉ dành cho người đăng ký."
           }
         },
         "zh-Hans" : {
@@ -18863,7 +18937,8 @@
             "value" : "此內容僅供訂閱者使用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.videoQualityLimitedOnMobileData" : {
       "comment" : "Notification about limited video quality on mobile data",
@@ -19046,7 +19121,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Qualidade de vídeo limitada em dados móveis."
+            "value" : "A qualidade de vídeo limitada em dados móveis."
           }
         },
         "ro" : {
@@ -19115,7 +19190,8 @@
             "value" : "在移動數據下視頻質量受限。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addACaptionDots" : {
       "comment" : "Placeholder for adding a caption",
@@ -19366,7 +19442,8 @@
             "value" : "新增說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.browsingCategoriesDots" : {
       "comment" : "Placeholder while browsing categories",
@@ -19399,7 +19476,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Browser kategorier..."
+            "value" : "Gennemser kategorier…"
           }
         },
         "de" : {
@@ -19465,7 +19542,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מרפרף בקטגוריות…"
+            "value" : "עיון בקטגוריות…"
           }
         },
         "hi" : {
@@ -19495,7 +19572,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigazione categorie…"
+            "value" : "Navigando categorie…"
           }
         },
         "ja" : {
@@ -19525,7 +19602,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brouser kategorier…"
+            "value" : "Bla gjennom kategorier…"
           }
         },
         "nl" : {
@@ -19543,7 +19620,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navegando categorias…"
+            "value" : "Navegando por categorias…"
           }
         },
         "pt-PT" : {
@@ -19555,7 +19632,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută categorii…"
+            "value" : "Se caută categorii…"
           }
         },
         "ru" : {
@@ -19573,7 +19650,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bläddrar kategorier…"
+            "value" : "Bläddrar bland kategorier…"
           }
         },
         "th" : {
@@ -19618,7 +19695,8 @@
             "value" : "正在瀏覽類別…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkingSubscriptionStatusDots" : {
       "comment" : "Placeholder while checking subscription status",
@@ -19777,7 +19855,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sjekker lagringsstatus…"
+            "value" : "Sjekker abonnementstatus…"
           }
         },
         "nl" : {
@@ -19870,7 +19948,8 @@
             "value" : "正在檢查訂閱狀態…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.connectingToStreamDots" : {
       "comment" : "Placeholder while connecting to a stream",
@@ -19891,7 +19970,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Connexió al flux…"
+            "value" : "Connexió a la transmissió…"
           }
         },
         "cs" : {
@@ -19999,7 +20078,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Connessione allo stream…"
+            "value" : "Connettendo allo stream…"
           }
         },
         "ja" : {
@@ -20035,7 +20114,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbonden met stream…"
+            "value" : "Verbinden met stream…"
           }
         },
         "pl" : {
@@ -20059,7 +20138,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conectare la flux…"
+            "value" : "Conectându-se la flux…"
           }
         },
         "ru" : {
@@ -20122,7 +20201,8 @@
             "value" : "正在連接到串流…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAlbumNameDots" : {
       "comment" : "Placeholder for entering an album name",
@@ -20154,7 +20234,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast album navn…"
+            "value" : "Indtast albumnavn..."
           }
         },
         "de" : {
@@ -20190,7 +20270,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir nombre del álbum…"
+            "value" : "Ingresa nombre del álbum…"
           }
         },
         "es-419" : {
@@ -20208,7 +20288,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom de l'album…"
+            "value" : "Entrez le nom de l'album…"
           }
         },
         "fr-CA" : {
@@ -20286,7 +20366,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer album naam in…"
+            "value" : "Voer albumnaam in…"
           }
         },
         "pl" : {
@@ -20340,7 +20420,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Albüm adı girin…"
+            "value" : "Albüm adını gir…"
           }
         },
         "uk" : {
@@ -20373,7 +20453,8 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterWatchlistNameDots" : {
       "comment" : "Placeholder for entering a watchlist name",
@@ -20447,7 +20528,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa nombre de la lista de seguimiento…"
+            "value" : "Ingresa el nombre de la lista de seguimiento…"
           }
         },
         "fi" : {
@@ -20489,7 +20570,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figyelőlista neve…"
+            "value" : "Figyelőlista nevének megadása…"
           }
         },
         "id" : {
@@ -20501,7 +20582,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci nome della lista di monitoraggio…"
+            "value" : "Inserisci il nome della lista di monitoraggio…"
           }
         },
         "ja" : {
@@ -20624,7 +20705,8 @@
             "value" : "輸入觀賞清單名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.fastForwardingDots" : {
       "comment" : "Placeholder while fast-forwarding content",
@@ -20639,7 +20721,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напредване…"
+            "value" : "Бързо превъртане напред…"
           }
         },
         "ca" : {
@@ -20735,7 +20817,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fast-forwarding…"
+            "value" : "Premotavanje unaprijed…"
           }
         },
         "hu" : {
@@ -20777,7 +20859,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menggandakan…"
+            "value" : "Menjalankan maju…"
           }
         },
         "nb" : {
@@ -20876,7 +20958,8 @@
             "value" : "快進中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder while filtering search results",
@@ -21088,7 +21171,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณากรองผล…"
+            "value" : "กรองผลลัพธ์…"
           }
         },
         "tr" : {
@@ -21127,7 +21210,8 @@
             "value" : "過濾結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingSimilarContentDots" : {
       "comment" : "Placeholder while finding similar content",
@@ -21148,13 +21232,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat contingut similar…"
+            "value" : "Cercant contingut similar…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledám podobný obsah…"
+            "value" : "Najdu podobný obsah…"
           }
         },
         "da" : {
@@ -21298,7 +21382,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie podobnych treści..."
+            "value" : "Wyszukiwanie podobnych treści..."
           }
         },
         "pt-BR" : {
@@ -21352,7 +21436,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знаходження схожого контенту…"
+            "value" : "Знайти схожий контент…"
           }
         },
         "vi" : {
@@ -21379,7 +21463,8 @@
             "value" : "尋找相似內容…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingCommentsDots" : {
       "comment" : "Placeholder while loading comments",
@@ -21631,7 +21716,8 @@
             "value" : "加載評論中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingNextEpisodeDots" : {
       "comment" : "Placeholder while loading the next episode",
@@ -21730,7 +21816,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "טוען פרק הבא…"
+            "value" : "טוען את הפרק הבא…"
           }
         },
         "hi" : {
@@ -21880,10 +21966,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載下一集..."
+            "value" : "加載下一集⋯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingRecommendationsDots" : {
       "comment" : "Placeholder while loading recommendations",
@@ -22135,7 +22222,8 @@
             "value" : "加載推薦中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingStreamDots" : {
       "comment" : "Placeholder while loading the stream",
@@ -22387,7 +22475,8 @@
             "value" : "加載串流中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingSubtitlesDots" : {
       "comment" : "Placeholder while loading subtitles",
@@ -22639,7 +22728,8 @@
             "value" : "加載字幕中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.lookingForDevicesDots" : {
       "comment" : "Placeholder while searching for devices",
@@ -22882,7 +22972,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找設備…"
+            "value" : "正在尋找設備…"
           }
         },
         "zh-HK" : {
@@ -22891,7 +22981,8 @@
             "value" : "尋找設備…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noMediaAvailableDots" : {
       "comment" : "Placeholder when no media is available",
@@ -23073,13 +23164,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sem media disponível…"
+            "value" : "Sem multimédia disponível…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu sunt media disponibile…"
+            "value" : "Nu este media disponibilă…"
           }
         },
         "ru" : {
@@ -23142,7 +23233,8 @@
             "value" : "沒有媒體可用…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.preparingDownloadDots" : {
       "comment" : "Placeholder while preparing a download",
@@ -23394,7 +23486,8 @@
             "value" : "準備下載…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.preparingStreamDots" : {
       "comment" : "Placeholder while preparing a stream",
@@ -23646,7 +23739,8 @@
             "value" : "準備串流…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.rewindingDots" : {
       "comment" : "Placeholder while rewinding content",
@@ -23661,7 +23755,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завъртане…"
+            "value" : "Пренавиване…"
           }
         },
         "ca" : {
@@ -23835,13 +23929,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncărcare…"
+            "value" : "Rebobinare…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перемотаем…"
+            "value" : "Перемотка…"
           }
         },
         "sk" : {
@@ -23898,7 +23992,8 @@
             "value" : "倒帶中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchMoviesAndShowsDots" : {
       "comment" : "Placeholder for searching movies and shows",
@@ -23960,7 +24055,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search films and shows…"
+            "value" : "Search films and TV shows…"
           }
         },
         "es" : {
@@ -24032,7 +24127,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "映画と番組を検索…"
+            "value" : "映画と番組を検索中…"
           }
         },
         "kk" : {
@@ -24116,7 +24211,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Film ve dizileri Ara…"
+            "value" : "Film ve dizileri ara…"
           }
         },
         "uk" : {
@@ -24149,7 +24244,8 @@
             "value" : "搜索電影和節目…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

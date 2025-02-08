@@ -251,7 +251,8 @@
             "value" : "添加测量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addPhoto" : {
       "comment" : "Use when adding a photo (e.g., fitness progress picture)",
@@ -271,7 +272,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir foto"
+            "value" : "Afegir Foto"
           }
         },
         "cs" : {
@@ -439,7 +440,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați o poză"
+            "value" : "Adaugă poză"
           }
         },
         "ru" : {
@@ -502,7 +503,8 @@
             "value" : "加入相片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addWorkout" : {
       "comment" : "Use when adding a new workout session",
@@ -754,7 +756,8 @@
             "value" : "添加健身"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.beginWorkout" : {
       "comment" : "Use when starting a workout session",
@@ -1006,7 +1009,8 @@
             "value" : "开始健身"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.cancelWorkout" : {
       "comment" : "Use when canceling a workout session",
@@ -1258,7 +1262,8 @@
             "value" : "取消健身"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.complete" : {
       "comment" : "Use when marking a task or workout as complete",
@@ -1326,7 +1331,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Completado"
+            "value" : "Completar"
           }
         },
         "es-419" : {
@@ -1464,7 +1469,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slutförd"
+            "value" : "Slutför"
           }
         },
         "th" : {
@@ -1509,7 +1514,8 @@
             "value" : "完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new health or fitness task",
@@ -1760,7 +1766,8 @@
             "value" : "創建任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.endExercise" : {
       "comment" : "Use when ending a specific exercise",
@@ -2012,7 +2019,8 @@
             "value" : "結束運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.endWorkout" : {
       "comment" : "Use when finishing a workout session",
@@ -2264,7 +2272,8 @@
             "value" : "結束健身"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.enterWeight" : {
       "comment" : "Use when inputting weight data",
@@ -2381,7 +2390,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Súly Bekezdése"
+            "value" : "Súly Bevitele"
           }
         },
         "id" : {
@@ -2516,7 +2525,8 @@
             "value" : "輸入體重"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a fitness or health progress report",
@@ -2767,7 +2777,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinChallenge" : {
       "comment" : "Use when joining a fitness challenge",
@@ -2997,7 +3008,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tham Gia Thử Thách"
+            "value" : "Tham gia thử thách"
           }
         },
         "zh-Hans" : {
@@ -3018,7 +3029,8 @@
             "value" : "參加挑戰"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logMeal" : {
       "comment" : "Use when logging a meal",
@@ -3248,7 +3260,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ghi Chép Bữa Ăn"
+            "value" : "Ghi chép bữa ăn"
           }
         },
         "zh-Hans" : {
@@ -3269,7 +3281,8 @@
             "value" : "記錄餐食"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logWater" : {
       "comment" : "Use when logging water intake",
@@ -3521,7 +3534,8 @@
             "value" : "记录水分摄入"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when marking a workout or task as completed",
@@ -3772,7 +3786,8 @@
             "value" : "標記完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.measure" : {
       "comment" : "Use when measuring health data (e.g., heart rate, steps)",
@@ -3787,7 +3802,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Измервания"
+            "value" : "Измери"
           }
         },
         "ca" : {
@@ -3805,13 +3820,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Måling"
+            "value" : "Mål"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maßband"
+            "value" : "Messen"
           }
         },
         "el" : {
@@ -3841,7 +3856,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medidas"
+            "value" : "Medir"
           }
         },
         "es-419" : {
@@ -3853,19 +3868,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mittanauha"
+            "value" : "Mittaa"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesures"
+            "value" : "Mesurer"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesures"
+            "value" : "Mesurer"
           }
         },
         "he" : {
@@ -3949,13 +3964,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medida"
+            "value" : "Medir"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fita Métrica"
+            "value" : "Medir"
           }
         },
         "ro" : {
@@ -3967,7 +3982,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рулетка"
+            "value" : "Измерить"
           }
         },
         "sk" : {
@@ -3985,7 +4000,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เครื่องมือวัด"
+            "value" : "วัด"
           }
         },
         "tr" : {
@@ -3997,7 +4012,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мірило"
+            "value" : "Виміряти"
           }
         },
         "vi" : {
@@ -4009,13 +4024,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "测距仪"
+            "value" : "测量"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測距儀"
+            "value" : "測量"
           }
         },
         "zh-HK" : {
@@ -4024,7 +4039,8 @@
             "value" : "測距儀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.meditate" : {
       "comment" : "Use when starting a meditation session",
@@ -4069,7 +4085,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μενταγιόν"
+            "value" : "Διαλογίζομαι"
           }
         },
         "en" : {
@@ -4276,7 +4292,8 @@
             "value" : "冥想"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.monitor" : {
       "comment" : "Use when monitoring health or fitness progress",
@@ -4528,7 +4545,8 @@
             "value" : "监测"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pauseWorkout" : {
       "comment" : "Use when pausing a workout session",
@@ -4573,7 +4591,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πάυσε προπόνηση"
+            "value" : "Πάυσε Προπόνηση"
           }
         },
         "en" : {
@@ -4753,7 +4771,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пауза на тренування"
+            "value" : "Зупинити тренування"
           }
         },
         "vi" : {
@@ -4780,7 +4798,8 @@
             "value" : "暫停訓練"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use when recording an exercise or workout session",
@@ -5031,7 +5050,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use when repeating an exercise in a workout",
@@ -5280,10 +5300,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重覆練習"
+            "value" : "重複練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when reporting an issue with health or fitness tracking",
@@ -5417,7 +5438,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "問題を報告"
+            "value" : "問題を報告する"
           }
         },
         "kk" : {
@@ -5534,7 +5555,8 @@
             "value" : "舉報問題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestAccess" : {
       "comment" : "Use when requesting access to health data or features",
@@ -5668,7 +5690,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "アクセスをリクエスト"
+            "value" : "アクセスを要求する"
           }
         },
         "kk" : {
@@ -5680,7 +5702,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "접근 요청"
+            "value" : "접근 요청하기"
           }
         },
         "ms" : {
@@ -5785,7 +5807,8 @@
             "value" : "請求訪問"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resetProgress" : {
       "comment" : "Use when resetting health or fitness progress",
@@ -6036,7 +6059,8 @@
             "value" : "重置進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resumeWorkout" : {
       "comment" : "Use when resuming a paused workout",
@@ -6288,7 +6312,8 @@
             "value" : "恢復鍛煉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reviewProgress" : {
       "comment" : "Use when reviewing fitness or health progress",
@@ -6540,7 +6565,8 @@
             "value" : "檢閱進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use when saving a workout or fitness video",
@@ -6686,7 +6712,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비디오 저장"
+            "value" : "비디오 저장하기"
           }
         },
         "ms" : {
@@ -6791,7 +6817,8 @@
             "value" : "儲存影片"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when setting a health or fitness goal",
@@ -7042,7 +7069,8 @@
             "value" : "設定目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setReminder" : {
       "comment" : "Use when setting a health or fitness reminder",
@@ -7050,7 +7078,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حدد تذكير"
+            "value" : "تعيين تذكير"
           }
         },
         "bg" : {
@@ -7146,7 +7174,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "याद दिलाएं"
+            "value" : "रिमाइंडर सेट करें"
           }
         },
         "hr" : {
@@ -7293,7 +7321,8 @@
             "value" : "設定提醒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipExercise" : {
       "comment" : "Use when skipping an exercise in a workout",
@@ -7512,7 +7541,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Egzersizi Atlama"
+            "value" : "Egzersizi Atla"
           }
         },
         "uk" : {
@@ -7545,7 +7574,8 @@
             "value" : "跳過練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when starting a specific exercise",
@@ -7796,7 +7826,8 @@
             "value" : "開始運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startWorkout" : {
       "comment" : "Use when starting a workout session",
@@ -8047,7 +8078,8 @@
             "value" : "開始鍛煉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stopExercise" : {
       "comment" : "Use when stopping a specific exercise",
@@ -8146,7 +8178,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שוב את התרגיל"
+            "value" : "הפסק תרגיל"
           }
         },
         "hi" : {
@@ -8278,7 +8310,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dừng Bài Tập"
+            "value" : "Dừng bài tập"
           }
         },
         "zh-Hans" : {
@@ -8299,7 +8331,8 @@
             "value" : "停止練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackCalories" : {
       "comment" : "Use when tracking calories burned or consumed",
@@ -8550,7 +8583,8 @@
             "value" : "追蹤卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackSleep" : {
       "comment" : "Use when tracking sleep patterns or duration",
@@ -8802,7 +8836,8 @@
             "value" : "追蹤睡眠"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackWeight" : {
       "comment" : "Use when tracking weight progress",
@@ -8877,7 +8912,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar peso"
+            "value" : "Registrar Peso"
           }
         },
         "fi" : {
@@ -8943,7 +8978,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Салмақты қадағаламақ"
+            "value" : "Салмақты бақылау"
           }
         },
         "ko" : {
@@ -8955,7 +8990,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jejak Berat"
+            "value" : "Jejaki Berat"
           }
         },
         "nb" : {
@@ -9045,7 +9080,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "追踪體重"
+            "value" : "追蹤體重"
           }
         },
         "zh-HK" : {
@@ -9054,7 +9089,8 @@
             "value" : "追踪體重"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activeCalories" : {
       "comment" : "Use when displaying the number of calories burned through activity",
@@ -9306,7 +9342,8 @@
             "value" : "活動卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Use when displaying the amount of time spent in physical activity",
@@ -9557,7 +9594,8 @@
             "value" : "活躍分鐘數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activityLevel" : {
       "comment" : "Use when showing the intensity of physical activity",
@@ -9638,7 +9676,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktiviteetti taso"
+            "value" : "Aktiviteettitaso"
           }
         },
         "fr" : {
@@ -9809,7 +9847,8 @@
             "value" : "活動水平"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying the user's age",
@@ -10060,7 +10099,8 @@
             "value" : "年齡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.averagePace" : {
       "comment" : "Use when displaying the user's average speed during an exercise",
@@ -10311,7 +10351,8 @@
             "value" : "平均配速"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use when displaying a user's blood pressure data",
@@ -10464,7 +10505,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kadar Pernafasan"
+            "value" : "Tekanan Darah"
           }
         },
         "nb" : {
@@ -10563,7 +10604,8 @@
             "value" : "血压"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bodyFat" : {
       "comment" : "Use when displaying the percentage of body fat",
@@ -10815,7 +10857,8 @@
             "value" : "体脂肪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bodyMassIndexBMI" : {
       "comment" : "Use when displaying the user's BMI",
@@ -11066,7 +11109,8 @@
             "value" : "身體質量指數 (BMI)"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bodyWeight" : {
       "comment" : "Use when displaying the user's body weight",
@@ -11318,7 +11362,8 @@
             "value" : "体重"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.breathingRate" : {
       "comment" : "Use when displaying the user's breathing rate (breaths per minute)",
@@ -11477,7 +11522,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pustingfrekvens"
+            "value" : "Pustefrekvens"
           }
         },
         "nl" : {
@@ -11570,7 +11615,8 @@
             "value" : "呼吸速率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when showing the total calories burned during an exercise",
@@ -11821,7 +11867,8 @@
             "value" : "已燃燒卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cardioFitness" : {
       "comment" : "Use when displaying the user's cardiovascular fitness level",
@@ -12072,7 +12119,8 @@
             "value" : "心適能"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentHeartRate" : {
       "comment" : "Use when showing the user's current heart rate",
@@ -12117,7 +12165,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τρέχουσα Καρδιά"
+            "value" : "Τρέχων Καρδιακός Ρυθμός"
           }
         },
         "en" : {
@@ -12225,7 +12273,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denat Jantung Semasa"
+            "value" : "Degupan Jantung Semasa"
           }
         },
         "nb" : {
@@ -12297,7 +12345,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поточний рівень серцевого ритму"
+            "value" : "Поточний серцевий ритм"
           }
         },
         "vi" : {
@@ -12324,7 +12372,8 @@
             "value" : "當前心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyGoal" : {
       "comment" : "Use when displaying the user's health or fitness goal for the day",
@@ -12576,7 +12625,8 @@
             "value" : "每日目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.distance" : {
       "comment" : "Use when showing the total distance traveled during an exercise",
@@ -12827,7 +12877,8 @@
             "value" : "距離"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying the total time spent on an activity or exercise",
@@ -13078,7 +13129,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.exerciseType" : {
       "comment" : "Use when displaying the type of exercise (e.g., running, swimming)",
@@ -13153,7 +13205,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo de Ejercicio"
+            "value" : "Tipo de ejercicio"
           }
         },
         "fi" : {
@@ -13330,7 +13382,8 @@
             "value" : "運動類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying the user's heart rate",
@@ -13581,7 +13634,8 @@
             "value" : "心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.height" : {
       "comment" : "Use when displaying the user's height",
@@ -13832,7 +13886,8 @@
             "value" : "身高"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.hydration" : {
       "comment" : "Use when displaying the user's hydration status or water intake",
@@ -14062,7 +14117,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mức độ Cung cấp Nước"
+            "value" : "Cung cấp nước"
           }
         },
         "zh-Hans" : {
@@ -14083,7 +14138,8 @@
             "value" : "水分補充"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.intensityLevel" : {
       "comment" : "Use when displaying the intensity level of an exercise",
@@ -14266,7 +14322,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nível de Intensidade"
+            "value" : "Nível de intensidade"
           }
         },
         "ro" : {
@@ -14302,7 +14358,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yoğunluk Seviyesi"
+            "value" : "Başlık Seviyesi"
           }
         },
         "uk" : {
@@ -14335,7 +14391,8 @@
             "value" : "強度級別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.maximumHeartRate" : {
       "comment" : "Use when displaying the user's maximum heart rate",
@@ -14587,7 +14644,8 @@
             "value" : "最大心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.measurements" : {
       "comment" : "Use when referring to health measurements (e.g., weight, heart rate)",
@@ -14839,7 +14897,8 @@
             "value" : "測量值"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.meditationTime" : {
       "comment" : "Use when displaying the total time spent meditating",
@@ -15091,7 +15150,8 @@
             "value" : "冥想時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.progress" : {
       "comment" : "Use when showing the user's progress towards their health or fitness goals",
@@ -15342,7 +15402,8 @@
             "value" : "進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sleepDuration" : {
       "comment" : "Use when displaying the total duration of sleep",
@@ -15593,7 +15654,8 @@
             "value" : "睡眠時長"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sleepQuality" : {
       "comment" : "Use when displaying the quality of the user's sleep",
@@ -15692,7 +15754,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הצהרה"
+            "value" : "איכות שינה"
           }
         },
         "hi" : {
@@ -15800,7 +15862,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sömnkvalité"
+            "value" : "Sömnkvalitet"
           }
         },
         "th" : {
@@ -15845,7 +15907,8 @@
             "value" : "睡眠質素"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.steps" : {
       "comment" : "Use when displaying the number of steps taken by the user",
@@ -16063,7 +16126,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adım"
+            "value" : "Adımlar"
           }
         },
         "uk" : {
@@ -16096,7 +16159,8 @@
             "value" : "步數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.targetHeartRate" : {
       "comment" : "Use when displaying the user's target heart rate",
@@ -16213,7 +16277,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Célpulzus"
+            "value" : "Célzott pulzusszám"
           }
         },
         "id" : {
@@ -16261,7 +16325,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doel Hartslag"
+            "value" : "Doelhartslag"
           }
         },
         "pl" : {
@@ -16303,7 +16367,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Måltidspuls"
+            "value" : "Mål hjärtfrekvens"
           }
         },
         "th" : {
@@ -16348,7 +16412,8 @@
             "value" : "目標心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.workoutDuration" : {
       "comment" : "Use when displaying the total time spent on a workout",
@@ -16513,7 +16578,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout Duur"
+            "value" : "Work-outduur"
           }
         },
         "pl" : {
@@ -16600,7 +16665,8 @@
             "value" : "鍛煉持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Message when a user achieves a milestone or accomplishment",
@@ -16620,7 +16686,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Èxits"
+            "value" : "Èxit desbloquejat"
           }
         },
         "cs" : {
@@ -16632,7 +16698,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Præstation låst op"
+            "value" : "Præstation låst op!"
           }
         },
         "de" : {
@@ -16704,7 +16770,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उपलब्धि अनलॉक की गई"
+            "value" : "उपलब्धि अनलॉक की गई।"
           }
         },
         "hr" : {
@@ -16734,7 +16800,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成目標が解除されました"
+            "value" : "達成が解除されました"
           }
         },
         "kk" : {
@@ -16851,7 +16917,8 @@
             "value" : "成就已解鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.activeMinutesGoalReached" : {
       "comment" : "Message when the user reaches their active minutes goal",
@@ -17103,7 +17170,8 @@
             "value" : "已達到活動分鐘目標！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.almostThere" : {
       "comment" : "Motivational message indicating progress towards a goal",
@@ -17189,7 +17257,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Presque là ! "
+            "value" : "Presque là !"
           }
         },
         "fr-CA" : {
@@ -17213,7 +17281,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gotovo je!"
+            "value" : "Gotovo smo!"
           }
         },
         "hu" : {
@@ -17231,7 +17299,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quasi!"
+            "value" : "Quasi lì!"
           }
         },
         "ja" : {
@@ -17243,7 +17311,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіз жақындатып келе жатырсыз!"
+            "value" : "Мақсатқа жақындап қалдыңыз!"
           }
         },
         "ko" : {
@@ -17354,7 +17422,8 @@
             "value" : "快到了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.breatheInDeeplyAndRelax" : {
       "comment" : "Message encouraging relaxation during exercise",
@@ -17531,7 +17600,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inspire fundo e relaxe."
+            "value" : "Respire fundo e relaxe."
           }
         },
         "pt-PT" : {
@@ -17579,7 +17648,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глибоко вдихніть і розслабтесь."
+            "value" : "Глибоко вдихніть і розслабтеся."
           }
         },
         "vi" : {
@@ -17606,7 +17675,8 @@
             "value" : "深呼吸並放鬆。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.congratulationsOnCompletingYourWorkout" : {
       "comment" : "Message congratulating the user on completing a workout",
@@ -17705,7 +17775,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מזל טוב על סיום האימון שלך!"
+            "value" : "מזל טוב על השלמת האימון!"
           }
         },
         "hi" : {
@@ -17723,7 +17793,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratulálunk a gyakorlatod teljesítéséhez!"
+            "value" : "Gratulálunk az edzésed teljesítéséhez!"
           }
         },
         "id" : {
@@ -17789,7 +17859,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Parabéns por completar o seu treino!"
+            "value" : "Parabéns por completares o teu treino!"
           }
         },
         "ro" : {
@@ -17813,7 +17883,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grattis till att du fullföljt ditt träningspass!"
+            "value" : "Grattis till att du har fullföljt ditt träningspass!"
           }
         },
         "th" : {
@@ -17831,7 +17901,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вітаємо з завершенням вашої тренування!"
+            "value" : "Вітаємо з завершенням тренування!"
           }
         },
         "vi" : {
@@ -17858,7 +17928,8 @@
             "value" : "恭喜您完成了鍛鍊！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyGoalAchieved" : {
       "comment" : "Message when a user successfully reaches their daily goal",
@@ -18083,7 +18154,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щоденну мету досягнуто!"
+            "value" : "Щоденна мета досягнута!"
           }
         },
         "vi" : {
@@ -18110,7 +18181,8 @@
             "value" : "每日目標達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyStepGoalAchieved" : {
       "comment" : "Message when the user achieves their daily step goal",
@@ -18251,7 +18323,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті қадам мақсатқа жетілді!"
+            "value" : "Күнделікті жүріс мақсатына жетілді!"
           }
         },
         "ko" : {
@@ -18335,7 +18407,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щоденну мету з кроків досягнуто!"
+            "value" : "Щоденна мета з кроків досягнута!"
           }
         },
         "vi" : {
@@ -18362,7 +18434,8 @@
             "value" : "每日步行目標已達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyStreakAchieved" : {
       "comment" : "Confirmation of maintaining a daily streak",
@@ -18370,7 +18443,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إنجاز سلسلة اليومية!"
+            "value" : "تم تحقيق سلسلة يومية!"
           }
         },
         "bg" : {
@@ -18394,7 +18467,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daglig rekord opnået!"
+            "value" : "Daglig streak opnået!"
           }
         },
         "de" : {
@@ -18448,7 +18521,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Série quotidienne atteinte !"
+            "value" : "Série quotidienne atteinte."
           }
         },
         "fr-CA" : {
@@ -18502,7 +18575,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті жеңiске жеттіңіз!"
+            "value" : "Күнделікті жетістікті сақтадыңыз!"
           }
         },
         "ko" : {
@@ -18520,7 +18593,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daglig mål oppnådd!"
+            "value" : "Daglig rekke oppnådd!"
           }
         },
         "nl" : {
@@ -18613,7 +18686,8 @@
             "value" : "每日連續達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.drinkWaterToStayHydrated" : {
       "comment" : "Reminder to drink water",
@@ -18712,7 +18786,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שתה מים כדי להישאר לחות."
+            "value" : "שתה מים כדי להישאר רווי."
           }
         },
         "hi" : {
@@ -18754,7 +18828,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Су ішіп, суды көп ішіңіз."
+            "value" : "Сусын ішіңіз, ағзаңызды сулаңыз."
           }
         },
         "ko" : {
@@ -18862,10 +18936,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "飲水以保持水分。"
+            "value" : "飲水保持水分。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.getReadyForYourWorkout" : {
       "comment" : "Message encouraging the user to prepare for their workout",
@@ -18898,7 +18973,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gør dig klar til dit workout."
+            "value" : "Gør dig klar til din træning."
           }
         },
         "de" : {
@@ -18982,13 +19057,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Készülj a edzésedre."
+            "value" : "Készülj az edzésedre."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bersiaplah untuk latihanmu."
+            "value" : "Bersiap untuk latihanmu."
           }
         },
         "it" : {
@@ -19090,7 +19165,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Готуйся до своєї тренування."
+            "value" : "Готуйся до свого тренування."
           }
         },
         "vi" : {
@@ -19117,7 +19192,8 @@
             "value" : "準備好你的運動吧。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.greatJobStayingActiveToday" : {
       "comment" : "Positive reinforcement for staying active",
@@ -19222,7 +19298,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आज सक्रिय रहने के लिए शानदार काम!"
+            "value" : "आज सक्रिय रहने के लिए शानदार काम किया!"
           }
         },
         "hr" : {
@@ -19288,7 +19364,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Świetna robota, że dziś jesteś aktywny!"
+            "value" : "Świetna robota, że dziś jesteś aktywny:na!"
           }
         },
         "pt-BR" : {
@@ -19360,7 +19436,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今天保持活躍，做得好！"
+            "value" : "今天活躍，幹得好！"
           }
         },
         "zh-HK" : {
@@ -19369,7 +19445,8 @@
             "value" : "今天保持活躍，幹得好！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.itsTimeForYourWorkout" : {
       "comment" : "Reminder that it’s time to start the workout",
@@ -19594,7 +19671,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час для твоєї тренування."
+            "value" : "Час для твого тренування."
           }
         },
         "vi" : {
@@ -19621,7 +19698,8 @@
             "value" : "是時候進行你的運動了。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.keepUpTheGreatWork" : {
       "comment" : "Motivational message to encourage continued effort",
@@ -19714,7 +19792,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuez votre excellent travail !"
+            "value" : "Continue ton excellent travail !"
           }
         },
         "he" : {
@@ -19756,19 +19834,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "素晴らしい仕事を続けてください！"
+            "value" : "素晴らしい調子を続けてください！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Асыңдар! Жұмысыңды жалғастыра бер!"
+            "value" : "Керемет жұмысыңды жалғастыра бер!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "멋진 일을 계속하세요!"
+            "value" : "멋진 작업 계속하세요!"
           }
         },
         "ms" : {
@@ -19810,7 +19888,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă munca bună!"
+            "value" : "Continuă munca grozavă!"
           }
         },
         "ru" : {
@@ -19864,7 +19942,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "繼續保持出色的工作！"
+            "value" : "繼續出色！"
           }
         },
         "zh-HK" : {
@@ -19873,7 +19951,8 @@
             "value" : "保持出色的表现！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.maintainProperFormDuringExercise" : {
       "comment" : "Message reminding the user to focus on form",
@@ -20080,7 +20159,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vid hållning och teknik under träning."
+            "value" : "Bibehåll rätt hållning under träning."
           }
         },
         "th" : {
@@ -20125,7 +20204,8 @@
             "value" : "在運動中保持正確的姿勢。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeToDrinkSomeWater" : {
       "comment" : "Reminder to hydrate",
@@ -20313,7 +20393,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timp să bei apă!"
+            "value" : "E timpul să bei apă!"
           }
         },
         "ru" : {
@@ -20376,7 +20456,8 @@
             "value" : "是時候喝水了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeToGetActive" : {
       "comment" : "Encouragement to start exercising",
@@ -20628,7 +20709,8 @@
             "value" : "是時候運動了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.wellDoneOnMeetingYourGoal" : {
       "comment" : "Congratulations for achieving a goal",
@@ -20637,7 +20719,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أحسنت على تحقيق هدفك!"
+            "value" : "أحسنتِ على تحقيق هدفك!"
           }
         },
         "bg" : {
@@ -20880,7 +20962,8 @@
             "value" : "恭喜你達成目標！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.workoutComplete" : {
       "comment" : "Confirmation when a workout is finished",
@@ -21027,13 +21110,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "운동이 완료되었습니다!"
+            "value" : "오늘의 연속성 달성!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kelas selesai!"
+            "value" : "Latihan selesai!"
           }
         },
         "nb" : {
@@ -21132,7 +21215,8 @@
             "value" : "鍛煉完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addWorkoutDetailsDots" : {
       "comment" : "Placeholder for entering workout details",
@@ -21315,13 +21399,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar detalhes do treino..."
+            "value" : "Adicionar detalhes do treino…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați detalii antrenament…"
+            "value" : "Adaugă detalii antrenament…"
           }
         },
         "ru" : {
@@ -21384,7 +21468,8 @@
             "value" : "添加健身詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.analyzingWorkoutDots" : {
       "comment" : "Placeholder for analyzing workout data",
@@ -21465,7 +21550,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analysoidaan harjoituksia…"
+            "value" : "Analysoidaan harjoitusta…"
           }
         },
         "fr" : {
@@ -21555,7 +21640,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analiza treningu…"
+            "value" : "Analizowanie treningu…"
           }
         },
         "pt-BR" : {
@@ -21573,7 +21658,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analiză antrenament…"
+            "value" : "Analizează antrenament…"
           }
         },
         "ru" : {
@@ -21636,7 +21721,8 @@
             "value" : "正在分析健身數據…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.calculatingCaloriesDots" : {
       "comment" : "Placeholder for calculating calories burned",
@@ -21669,7 +21755,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregn kalorier..."
+            "value" : "Beregnelse af kalorier…"
           }
         },
         "de" : {
@@ -21735,7 +21821,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש קלוריות…"
+            "value" : "מחושב קלוריות…"
           }
         },
         "hi" : {
@@ -21825,7 +21911,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calculează calorii…"
+            "value" : "Se calculează calorii…"
           }
         },
         "ru" : {
@@ -21888,7 +21974,8 @@
             "value" : "正在計算卡路里…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterActivityTypeDots" : {
       "comment" : "Placeholder for entering the type of activity",
@@ -22089,7 +22176,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte typ aktivity…"
+            "value" : "Zadaj typ aktivity…"
           }
         },
         "sv" : {
@@ -22140,7 +22227,8 @@
             "value" : "輸入活動類型…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCurrentWeightDots" : {
       "comment" : "Placeholder for entering current weight",
@@ -22179,7 +22267,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gutscheincode eingeben…"
+            "value" : "Aktuelles Gewicht eingeben…"
           }
         },
         "el" : {
@@ -22353,7 +22441,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่น้ำหนักปัจจุบัน…"
+            "value" : "กรอกน้ำหนักปัจจุบัน…"
           }
         },
         "tr" : {
@@ -22392,7 +22480,8 @@
             "value" : "輸入當前體重…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDailyStepGoalDots" : {
       "comment" : "Placeholder for entering daily step goal",
@@ -22431,7 +22520,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelles Gewicht eingeben…"
+            "value" : "Tägliches Schrittziel eingeben…"
           }
         },
         "el" : {
@@ -22551,7 +22640,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn daglig støttemål…"
+            "value" : "Skriv inn daglige skrittmål…"
           }
         },
         "nl" : {
@@ -22605,7 +22694,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่เป้าหมายจำนวนก้าวต่อวัน…"
+            "value" : "กรอกเป้าหมายจำนวนก้าวต่อวัน…"
           }
         },
         "tr" : {
@@ -22644,7 +22733,8 @@
             "value" : "輸入每日步行目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterExerciseDurationDots" : {
       "comment" : "Placeholder for entering exercise duration",
@@ -22659,7 +22749,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи продължителността на упражненията…"
+            "value" : "Въведи упражнение…"
           }
         },
         "ca" : {
@@ -22857,7 +22947,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ระยะเวลาในการออกกำลังกาย…"
+            "value" : "กรอกระยะเวลาในการออกกำลังกาย…"
           }
         },
         "tr" : {
@@ -22896,7 +22986,8 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterHeartRateDots" : {
       "comment" : "Placeholder for entering heart rate",
@@ -22965,7 +23056,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa frecuencia cardíaca…"
+            "value" : "Introduce la frecuencia cardíaca…"
           }
         },
         "es-419" : {
@@ -22989,7 +23080,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le rythme cardiaque…"
+            "value" : "Entrez le rythme cardiaque…"
           }
         },
         "he" : {
@@ -23001,7 +23092,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "हृदय गति डालें…"
+            "value" : "हृदय गति दर्ज करें…"
           }
         },
         "hr" : {
@@ -23067,7 +23158,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz puls…"
+            "value" : "Wprowadź tętno…"
           }
         },
         "pt-BR" : {
@@ -23085,7 +23176,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti frecventa cardiaca…"
+            "value" : "Introduceți frecvența cardiacă…"
           }
         },
         "ru" : {
@@ -23097,7 +23188,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte srdcový tep…"
+            "value" : "Zadaj srdcový tep…"
           }
         },
         "sv" : {
@@ -23109,7 +23200,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่อัตราการเต้นของหัวใจ…"
+            "value" : "กรอกอัตราการเต้นของหัวใจ…"
           }
         },
         "tr" : {
@@ -23148,7 +23239,8 @@
             "value" : "輸入心率…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterHeightDots" : {
       "comment" : "Placeholder for entering height",
@@ -23217,7 +23309,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa altura…"
+            "value" : "Introduce la altura…"
           }
         },
         "es-419" : {
@@ -23241,7 +23333,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer la taille…"
+            "value" : "Entrez la taille…"
           }
         },
         "he" : {
@@ -23253,7 +23345,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ऊंचाई डालें…"
+            "value" : "ऊंचाई दर्ज करें…"
           }
         },
         "hr" : {
@@ -23319,7 +23411,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz wzrost…"
+            "value" : "Wprowadź wzrost…"
           }
         },
         "pt-BR" : {
@@ -23337,7 +23429,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti inaltimea…"
+            "value" : "Introduceți înălțimea…"
           }
         },
         "ru" : {
@@ -23349,7 +23441,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte výšku…"
+            "value" : "Zadaj výšku…"
           }
         },
         "sv" : {
@@ -23361,7 +23453,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ส่วนสูง…"
+            "value" : "กรอกส่วนสูง…"
           }
         },
         "tr" : {
@@ -23400,7 +23492,8 @@
             "value" : "輸入身高…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMealDetailsDots" : {
       "comment" : "Placeholder for entering meal information",
@@ -23469,7 +23562,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa detalles de la comida…"
+            "value" : "Introduce detalles de la comida…"
           }
         },
         "es-419" : {
@@ -23493,7 +23586,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer les détails du repas…"
+            "value" : "Entrez les détails du repas…"
           }
         },
         "he" : {
@@ -23601,7 +23694,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte podrobnosti o jedle…"
+            "value" : "Zadaj podrobnosti o jedle…"
           }
         },
         "sv" : {
@@ -23652,7 +23745,8 @@
             "value" : "輸入餐點詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterRepsDots" : {
       "comment" : "Placeholder for entering the number of repetitions",
@@ -23661,7 +23755,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل عدد المجموعات…"
+            "value" : "أدخل عدد التكرارات…"
           }
         },
         "bg" : {
@@ -23721,7 +23815,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir repeticiones…"
+            "value" : "Introduce las repeticiones…"
           }
         },
         "es-419" : {
@@ -23793,7 +23887,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отандық репетицияларды енгізіңіз…"
+            "value" : "Репетицияларды енгізіңіз…"
           }
         },
         "ko" : {
@@ -23847,7 +23941,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите количество повторений…"
+            "value" : "Введите повторения…"
           }
         },
         "sk" : {
@@ -23877,7 +23971,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть кількість повторів…"
+            "value" : "Введіть повтори…"
           }
         },
         "vi" : {
@@ -23904,7 +23998,8 @@
             "value" : "輸入重複次數…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSetsDots" : {
       "comment" : "Placeholder for entering the number of sets",
@@ -23973,7 +24068,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir series…"
+            "value" : "Introduce las series…"
           }
         },
         "es-419" : {
@@ -24099,7 +24194,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите количество подходов…"
+            "value" : "Введите подходы…"
           }
         },
         "sk" : {
@@ -24129,7 +24224,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть кількість сетів…"
+            "value" : "Введіть сети…"
           }
         },
         "vi" : {
@@ -24156,7 +24251,8 @@
             "value" : "輸入組數…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTargetWeightDots" : {
       "comment" : "Placeholder for entering target weight",
@@ -24225,7 +24321,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir peso objetivo…"
+            "value" : "Introduce el peso objetivo…"
           }
         },
         "es-419" : {
@@ -24237,7 +24333,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä tavoitekilo…"
+            "value" : "Syötä tavoitepaino…"
           }
         },
         "fr" : {
@@ -24345,7 +24441,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti greutatea țintă…"
+            "value" : "Introduceți greutatea țintă…"
           }
         },
         "ru" : {
@@ -24363,7 +24459,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange mål vikt…"
+            "value" : "Ange målvikt…"
           }
         },
         "th" : {
@@ -24408,7 +24504,8 @@
             "value" : "輸入目標體重…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterWaterAmountDots" : {
       "comment" : "Placeholder for entering water intake amount",
@@ -24645,7 +24742,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入水量…"
+            "value" : "输入水量中…"
           }
         },
         "zh-Hant" : {
@@ -24660,7 +24757,8 @@
             "value" : "輸入水量…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterWorkoutDurationDots" : {
       "comment" : "Placeholder for entering workout duration",
@@ -24734,7 +24832,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa duración del entrenamiento…"
+            "value" : "Ingresa la duración del entrenamiento…"
           }
         },
         "fi" : {
@@ -24776,7 +24874,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edzés időtartama…"
+            "value" : "Edzés időtartamának megadása…"
           }
         },
         "id" : {
@@ -24911,7 +25009,8 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findAnExerciseDots" : {
       "comment" : "Placeholder for searching an exercise",
@@ -24980,7 +25079,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encuentra un ejercicio…"
+            "value" : "Buscando un ejercicio…"
           }
         },
         "es-419" : {
@@ -25163,7 +25262,8 @@
             "value" : "找一個練習…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.logYourMealDots" : {
       "comment" : "Placeholder for logging a meal",
@@ -25255,7 +25355,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrez votre repas…"
+            "value" : "Enregistrement de tes repas…"
           }
         },
         "he" : {
@@ -25363,7 +25463,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaznamenajte si svoje jedlo…"
+            "value" : "Zaznamenávam svoje jedlo…"
           }
         },
         "sv" : {
@@ -25405,7 +25505,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄你的餐點…"
+            "value" : "正在記錄你的餐點…"
           }
         },
         "zh-HK" : {
@@ -25414,7 +25514,8 @@
             "value" : "記錄你的餐點…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.recordingWorkoutDots" : {
       "comment" : "Placeholder for recording a workout session",
@@ -25459,7 +25560,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ηχογράφηση προπόνησης…"
+            "value" : "Καταγραφή προπόνησης…"
           }
         },
         "en" : {
@@ -25666,7 +25767,8 @@
             "value" : "錄製運動…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setAFitnessGoalDots" : {
       "comment" : "Placeholder for setting a fitness goal",
@@ -25680,7 +25782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определи фитнес цел…"
+            "value" : "Определяне на фитнес цел..."
           }
         },
         "ca" : {
@@ -25710,7 +25812,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίζω στόχο fitness…"
+            "value" : "Ορισμός στόχου φυσικής κατάστασης…"
           }
         },
         "en" : {
@@ -25914,10 +26016,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設好開學目標…"
+            "value" : "設置健身目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.trackingStepsDots" : {
       "comment" : "Placeholder for tracking the number of steps",
@@ -25992,7 +26095,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contando pasos…"
+            "value" : "Rastreando pasos…"
           }
         },
         "fi" : {
@@ -26040,7 +26143,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Melacak langkah…"
+            "value" : "Melacak langkah-langkah…"
           }
         },
         "it" : {
@@ -26169,7 +26272,8 @@
             "value" : "追蹤步數…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

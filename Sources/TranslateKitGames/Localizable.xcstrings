@@ -152,7 +152,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "攻击"
+            "value" : "Guna semula"
           }
         },
         "nb" : {
@@ -200,7 +200,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Útok"
+            "value" : "Zaútočiť"
           }
         },
         "sv" : {
@@ -251,7 +251,8 @@
             "value" : "攻击"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.battle" : {
       "comment" : "Use for starting a battle or combat",
@@ -338,7 +339,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Battre"
+            "value" : "Combattre"
           }
         },
         "fr-CA" : {
@@ -503,7 +504,8 @@
             "value" : "战斗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.blockPlayer" : {
       "comment" : "Use for blocking a player",
@@ -755,7 +757,8 @@
             "value" : "封锁玩家"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.challenge" : {
       "comment" : "Use for initiating a challenge to another player",
@@ -902,7 +905,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "도전 과제"
+            "value" : "도전"
           }
         },
         "ms" : {
@@ -1007,7 +1010,8 @@
             "value" : "挑戰"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.claim" : {
       "comment" : "Use for claiming a reward or prize",
@@ -1040,7 +1044,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Krav"
+            "value" : "Gør krav på"
           }
         },
         "de" : {
@@ -1178,7 +1182,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renee"
+            "value" : "Zgłoś się"
           }
         },
         "pt-BR" : {
@@ -1214,7 +1218,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anspråk"
+            "value" : "Kräv"
           }
         },
         "th" : {
@@ -1259,7 +1263,8 @@
             "value" : "领养"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.collect" : {
       "comment" : "Use for collecting items or rewards",
@@ -1274,7 +1279,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съберете"
+            "value" : "Събери"
           }
         },
         "ca" : {
@@ -1334,7 +1339,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reclamar"
+            "value" : "Recoger"
           }
         },
         "fi" : {
@@ -1511,7 +1516,8 @@
             "value" : "收集"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.defend" : {
       "comment" : "Use for initiating a defense action",
@@ -1763,7 +1769,8 @@
             "value" : "防禦"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.equipItem" : {
       "comment" : "Use for equipping an item to the player",
@@ -1771,7 +1778,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تجهز العنصر"
+            "value" : "تجهيز العنصر"
           }
         },
         "bg" : {
@@ -1795,7 +1802,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udstyr Genstand"
+            "value" : "Udstyr genstand"
           }
         },
         "de" : {
@@ -1807,7 +1814,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εξοπλισμός"
+            "value" : "Εξοπλισμός Αντικειμένου"
           }
         },
         "en" : {
@@ -1879,7 +1886,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tárgy felszerelése"
+            "value" : "Tárgy Felszerelése"
           }
         },
         "id" : {
@@ -1963,7 +1970,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obleč si vec"
+            "value" : "Vybaviť predmet"
           }
         },
         "sv" : {
@@ -2014,7 +2021,8 @@
             "value" : "裝備物品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.fight" : {
       "comment" : "Use for engaging in combat or a fight",
@@ -2266,7 +2274,8 @@
             "value" : "戰鬥"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.findOpponent" : {
       "comment" : "Use for searching for an opponent to play against",
@@ -2517,7 +2526,8 @@
             "value" : "查找對手"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.forfeit" : {
       "comment" : "Use when quitting or surrendering a game",
@@ -2586,7 +2596,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendir"
+            "value" : "Renunciar"
           }
         },
         "es-419" : {
@@ -2658,7 +2668,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кейінге қалдыру"
+            "value" : "Тастап кету"
           }
         },
         "ko" : {
@@ -2769,7 +2779,8 @@
             "value" : "放弃"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.invite" : {
       "comment" : "Use for inviting others to join a game or event",
@@ -3021,7 +3032,8 @@
             "value" : "邀请"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.join" : {
       "comment" : "Use for joining a game or event",
@@ -3272,7 +3284,8 @@
             "value" : "加入"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinChallenge" : {
       "comment" : "Use for participating in a challenge",
@@ -3523,7 +3536,8 @@
             "value" : "參加挑戰"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinMatch" : {
       "comment" : "Use for joining an active match",
@@ -3555,7 +3569,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deltag i Kamp"
+            "value" : "Deltag i kamp"
           }
         },
         "de" : {
@@ -3753,7 +3767,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tham Gia Trận Đấu"
+            "value" : "Tham gia trận đấu"
           }
         },
         "zh-Hans" : {
@@ -3774,7 +3788,8 @@
             "value" : "加入比賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.levelUp" : {
       "comment" : "Use for advancing to a higher level",
@@ -3867,7 +3882,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niveau supérieur"
+            "value" : "Niveler"
           }
         },
         "he" : {
@@ -4026,7 +4041,8 @@
             "value" : "升级"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.multiSelect" : {
       "comment" : "Use for selecting multiple items or options",
@@ -4277,7 +4293,8 @@
             "value" : "多選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.playNow" : {
       "comment" : "Use when starting gameplay immediately",
@@ -4405,7 +4422,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gioca ora"
+            "value" : "Riproduci Ora"
           }
         },
         "ja" : {
@@ -4453,7 +4470,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jogar Agora"
+            "value" : "Reproduzir Agora"
           }
         },
         "pt-PT" : {
@@ -4471,7 +4488,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играть"
+            "value" : "Воспроизвести сейчас"
           }
         },
         "sk" : {
@@ -4528,7 +4545,8 @@
             "value" : "立即播放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.practice" : {
       "comment" : "Use for practicing skills or techniques",
@@ -4780,7 +4798,8 @@
             "value" : "練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rematch" : {
       "comment" : "Use for starting a rematch with an opponent",
@@ -4789,7 +4808,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مباراة عائدة"
+            "value" : "إعادة مباراة"
           }
         },
         "bg" : {
@@ -4801,7 +4820,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repartit"
+            "value" : "Desfer"
           }
         },
         "cs" : {
@@ -4825,7 +4844,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επανεξέταση"
+            "value" : "Ρεβάνς"
           }
         },
         "en" : {
@@ -4909,7 +4928,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ritorno Partita"
+            "value" : "Partita di ritorno"
           }
         },
         "ja" : {
@@ -4945,13 +4964,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Speel opnieuw"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Rewanż"
           }
         },
         "pt-BR" : {
@@ -4975,7 +4994,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ремаш"
+            "value" : "Встретиться снова"
           }
         },
         "sk" : {
@@ -5005,7 +5024,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ремач"
+            "value" : "Реванш"
           }
         },
         "vi" : {
@@ -5032,7 +5051,8 @@
             "value" : "再賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportPlayer" : {
       "comment" : "Use for reporting a player for inappropriate behavior",
@@ -5167,13 +5187,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プレイヤーを報告"
+            "value" : "プレイヤーを報告する"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ойыншымен хабарлау"
+            "value" : "Ойыншыға шағымдану"
           }
         },
         "ko" : {
@@ -5284,7 +5304,8 @@
             "value" : "舉報玩家"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.respawn" : {
       "comment" : "Use for respawning after a death or defeat",
@@ -5328,7 +5349,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επαναφορά"
+            "value" : "Επαναδημιουργία"
           }
         },
         "en" : {
@@ -5535,7 +5556,8 @@
             "value" : "重生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.restart" : {
       "comment" : "Use for restarting a game or level",
@@ -5573,7 +5595,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neustart"
+            "value" : "Neustarten"
           }
         },
         "el" : {
@@ -5786,7 +5808,8 @@
             "value" : "重新啟動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resume" : {
       "comment" : "Use when continuing a paused game or activity",
@@ -6037,7 +6060,8 @@
             "value" : "恢復"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping the introductory sequence",
@@ -6267,7 +6291,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bỏ qua giới thiệu"
+            "value" : "Bỏ Qua Giới Thiệu"
           }
         },
         "zh-Hans" : {
@@ -6288,7 +6312,8 @@
             "value" : "跳過介紹"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipTutorial" : {
       "comment" : "Use for skipping the tutorial section",
@@ -6540,7 +6565,8 @@
             "value" : "跳過教程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.spectate" : {
       "comment" : "Use for spectating a game or event",
@@ -6561,7 +6587,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espectar"
+            "value" : "Observar"
           }
         },
         "cs" : {
@@ -6627,7 +6653,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spectateur"
+            "value" : "Spectateurr"
           }
         },
         "fr-CA" : {
@@ -6771,7 +6797,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Theo Dõi"
+            "value" : "Theo dõi"
           }
         },
         "zh-Hans" : {
@@ -6792,7 +6818,8 @@
             "value" : "旁觀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.surrender" : {
       "comment" : "Use for surrendering during a game",
@@ -6825,7 +6852,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Overgivelse"
+            "value" : "Overgiv"
           }
         },
         "de" : {
@@ -6867,7 +6894,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendir"
+            "value" : "Rendirse"
           }
         },
         "fi" : {
@@ -6897,7 +6924,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "संविधान छोड़ें"
+            "value" : "समर्पण करें"
           }
         },
         "hr" : {
@@ -6969,7 +6996,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Surrender"
+            "value" : "Render-se"
           }
         },
         "pt-PT" : {
@@ -6981,7 +7008,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Predă"
+            "value" : "Predă-te"
           }
         },
         "ru" : {
@@ -7044,7 +7071,8 @@
             "value" : "投降"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking game or challenge progress",
@@ -7295,7 +7323,8 @@
             "value" : "追蹤進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.train" : {
       "comment" : "Use for starting a training session",
@@ -7310,7 +7339,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Трениране"
+            "value" : "Тренирай"
           }
         },
         "ca" : {
@@ -7547,7 +7576,8 @@
             "value" : "訓練"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.tutorial" : {
       "comment" : "Use for starting the tutorial section",
@@ -7628,7 +7658,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opas"
+            "value" : "Opetusohjelma"
           }
         },
         "fr" : {
@@ -7799,7 +7829,8 @@
             "value" : "教程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.upgrade" : {
       "comment" : "Use for upgrading a character, item, or skill",
@@ -7813,7 +7844,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подобрена версия"
+            "value" : "Надгради"
           }
         },
         "ca" : {
@@ -7879,7 +7910,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Päivitä"
+            "value" : "Paranna"
           }
         },
         "fr" : {
@@ -8050,7 +8081,8 @@
             "value" : "升級"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.usePowerUp" : {
       "comment" : "Use for activating a power-up during a game",
@@ -8301,7 +8333,8 @@
             "value" : "使用增強道具"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.watch" : {
       "comment" : "Use for observing a game or event",
@@ -8339,7 +8372,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Ansehen"
           }
         },
         "el" : {
@@ -8417,7 +8450,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Nézés"
           }
         },
         "id" : {
@@ -8435,7 +8468,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "視聴する"
           }
         },
         "kk" : {
@@ -8489,19 +8522,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Urmărește"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Наблюдать"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Pozerať"
           }
         },
         "sv" : {
@@ -8525,7 +8558,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Дивитися"
           }
         },
         "vi" : {
@@ -8552,7 +8585,8 @@
             "value" : "Watch"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.achievements" : {
       "comment" : "Use for displaying the player's achievements",
@@ -8680,7 +8714,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esercizi"
+            "value" : "Risultati"
           }
         },
         "ja" : {
@@ -8698,7 +8732,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "목표 달성"
+            "value" : "업적"
           }
         },
         "ms" : {
@@ -8734,7 +8768,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proezas"
+            "value" : "Conquistas"
           }
         },
         "ro" : {
@@ -8803,7 +8837,8 @@
             "value" : "成就"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.battlePass" : {
       "comment" : "Use for displaying battle pass options or benefits",
@@ -8895,7 +8930,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Battle Pass"
+            "value" : "Passe de combat"
           }
         },
         "he" : {
@@ -8913,7 +8948,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bitka Pass"
+            "value" : "Bojni Pass"
           }
         },
         "hu" : {
@@ -9054,7 +9089,8 @@
             "value" : "挑戰通行證"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.battleStats" : {
       "comment" : "Use for displaying battle performance statistics",
@@ -9306,7 +9342,8 @@
             "value" : "战斗统计"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.challenges" : {
       "comment" : "Use for displaying available challenges",
@@ -9558,7 +9595,8 @@
             "value" : "挑战"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.characters" : {
       "comment" : "Use for displaying the available characters in the game",
@@ -9809,7 +9847,8 @@
             "value" : "字元"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.characterStats" : {
       "comment" : "Use for displaying character statistics",
@@ -9890,7 +9929,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hahmo tilastot"
+            "value" : "Hahmotilastot"
           }
         },
         "fr" : {
@@ -10061,7 +10100,8 @@
             "value" : "角色统计"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.coins" : {
       "comment" : "Use for displaying the number of in-game coins",
@@ -10202,7 +10242,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Монета"
+            "value" : "Монеталар"
           }
         },
         "ko" : {
@@ -10313,7 +10353,8 @@
             "value" : "硬幣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currency" : {
       "comment" : "Use for displaying in-game currency",
@@ -10564,7 +10605,8 @@
             "value" : "貨幣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyRewards" : {
       "comment" : "Use for displaying daily reward options",
@@ -10816,7 +10858,8 @@
             "value" : "每日獎勵"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.difficulty" : {
       "comment" : "Use for displaying the game's difficulty level",
@@ -10903,7 +10946,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Difficulté"
+            "value" : "Niveau de difficulté"
           }
         },
         "fr-CA" : {
@@ -11068,7 +11111,8 @@
             "value" : "難度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.energy" : {
       "comment" : "Use for displaying the player's energy or stamina",
@@ -11299,7 +11343,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Năng Lượng"
+            "value" : "Năng lượng"
           }
         },
         "zh-Hans" : {
@@ -11320,7 +11364,8 @@
             "value" : "能量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gameMode" : {
       "comment" : "Use for displaying the selected game mode",
@@ -11571,7 +11616,8 @@
             "value" : "遊戲模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gems" : {
       "comment" : "Use for displaying the number of in-game gems",
@@ -11742,7 +11788,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kleje"
+            "value" : "Kamienie szlachetne"
           }
         },
         "pt-BR" : {
@@ -11796,7 +11842,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Камені"
+            "value" : "Самоцвіти"
           }
         },
         "vi" : {
@@ -11823,7 +11869,8 @@
             "value" : "寶石"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.health" : {
       "comment" : "Use for displaying the player's health status",
@@ -12075,7 +12122,8 @@
             "value" : "健康"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.highScore" : {
       "comment" : "Use for displaying the highest score achieved",
@@ -12326,7 +12374,8 @@
             "value" : "最高分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.inventory" : {
       "comment" : "Use for displaying the player's inventory",
@@ -12370,7 +12419,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποθεματικό"
+            "value" : "Απόθεμα"
           }
         },
         "en" : {
@@ -12577,7 +12626,8 @@
             "value" : "庫存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.leaderboard" : {
       "comment" : "Use for displaying the leaderboard rankings",
@@ -12828,7 +12878,8 @@
             "value" : "排行榜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.level" : {
       "comment" : "Use for displaying the current level or stage",
@@ -12866,7 +12917,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wasserwaage"
+            "value" : "Level"
           }
         },
         "el" : {
@@ -12974,7 +13025,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "수준기"
+            "value" : "수준"
           }
         },
         "ms" : {
@@ -13040,7 +13091,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ระนาบ"
+            "value" : "ระดับ"
           }
         },
         "tr" : {
@@ -13079,7 +13130,8 @@
             "value" : "水平儀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lives" : {
       "comment" : "Use for displaying the number of remaining lives",
@@ -13088,7 +13140,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الحياة المتبقية"
+            "value" : "الأرواح"
           }
         },
         "bg" : {
@@ -13292,7 +13344,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ชีวิต"
+            "value" : "ชีวิตที่เหลือ"
           }
         },
         "tr" : {
@@ -13331,7 +13383,8 @@
             "value" : "生命"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.matchHistory" : {
       "comment" : "Use for displaying past game results",
@@ -13490,7 +13543,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamp Historie"
+            "value" : "Kamphistorie"
           }
         },
         "nl" : {
@@ -13583,7 +13636,8 @@
             "value" : "比賽歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.missions" : {
       "comment" : "Use for displaying available or ongoing missions",
@@ -13604,7 +13658,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Missió"
+            "value" : "Missions"
           }
         },
         "cs" : {
@@ -13835,7 +13889,8 @@
             "value" : "任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.playersOnline" : {
       "comment" : "Use for displaying the number of players online",
@@ -14087,7 +14142,8 @@
             "value" : "在線球員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.power" : {
       "comment" : "Use for displaying the player's power or strength",
@@ -14108,7 +14164,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Engegar"
+            "value" : "Potència"
           }
         },
         "cs" : {
@@ -14216,7 +14272,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alimentazione"
+            "value" : "Potenza"
           }
         },
         "ja" : {
@@ -14339,7 +14395,8 @@
             "value" : "電源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.quests" : {
       "comment" : "Use for displaying available or active quests",
@@ -14591,7 +14648,8 @@
             "value" : "任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.rank" : {
       "comment" : "Use for displaying the player's rank or position",
@@ -14672,7 +14730,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ranka"
+            "value" : "Sijoitus"
           }
         },
         "fr" : {
@@ -14780,7 +14838,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rană"
+            "value" : "Rang"
           }
         },
         "ru" : {
@@ -14843,7 +14901,8 @@
             "value" : "排名"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.score" : {
       "comment" : "Use for displaying current score in a game",
@@ -14888,7 +14947,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Score"
+            "value" : "Σκόρε"
           }
         },
         "en" : {
@@ -15095,7 +15154,8 @@
             "value" : "分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.seasonPass" : {
       "comment" : "Use for displaying season pass options or benefits",
@@ -15218,7 +15278,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Musim Pass"
+            "value" : "Tiket Musim"
           }
         },
         "it" : {
@@ -15347,7 +15407,8 @@
             "value" : "季票"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.team" : {
       "comment" : "Use for displaying the player's team or group",
@@ -15599,7 +15660,8 @@
             "value" : "隊伍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.winRate" : {
       "comment" : "Use for displaying the player's win rate",
@@ -15680,7 +15742,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voitto prosentti"
+            "value" : "Voittoprosentti"
           }
         },
         "fr" : {
@@ -15851,7 +15913,8 @@
             "value" : "勝率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.xp" : {
       "comment" : "Use for displaying experience points",
@@ -15895,7 +15958,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εμπειρία"
+            "value" : "XP"
           }
         },
         "en" : {
@@ -16102,7 +16165,8 @@
             "value" : "XP"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Message displayed when an achievement is unlocked",
@@ -16122,7 +16186,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Èxits"
+            "value" : "Èxit desbloquejat"
           }
         },
         "cs" : {
@@ -16134,7 +16198,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Præstation låst op"
+            "value" : "Præstation låst op!"
           }
         },
         "de" : {
@@ -16206,7 +16270,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उपलब्धि अनलॉक की गई"
+            "value" : "उपलब्धि अनलॉक की गई।"
           }
         },
         "hr" : {
@@ -16353,7 +16417,8 @@
             "value" : "成就已解鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.challengeComplete" : {
       "comment" : "Message displayed when a challenge is successfully completed",
@@ -16542,7 +16607,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Provocare completă."
+            "value" : "Provocare finalizată."
           }
         },
         "ru" : {
@@ -16572,7 +16637,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meydan Okuma Tamamlandı"
+            "value" : "Meydan okuma tamamlandı"
           }
         },
         "uk" : {
@@ -16605,7 +16670,8 @@
             "value" : "挑戰完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.connectionLostDuringMatch" : {
       "comment" : "Message displayed when the connection is lost during a match",
@@ -16812,7 +16878,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anslutning förlorad under match."
+            "value" : "Anslutningen förlorad under match."
           }
         },
         "th" : {
@@ -16824,7 +16890,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eşleşme sırasında bağlantı kaybedildi."
+            "value" : "Eşleşme sırasında bağlantı kaybedildi"
           }
         },
         "uk" : {
@@ -16857,7 +16923,8 @@
             "value" : "比賽期間連接已丟失。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyRewardAvailable" : {
       "comment" : "Message displayed when a daily reward is available",
@@ -16944,7 +17011,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Récompense quotidienne disponible"
+            "value" : "Récompense quotidienne disponible."
           }
         },
         "fr-CA" : {
@@ -17064,7 +17131,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagsbelöning tillgänglig"
+            "value" : "Dagsbelöning är tillgänglig"
           }
         },
         "th" : {
@@ -17109,7 +17176,8 @@
             "value" : "每日獎勵可用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.energyRefilled" : {
       "comment" : "Message displayed when the player's energy is refilled",
@@ -17172,13 +17240,13 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energy refilled"
+            "value" : "Energy refilled."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía recargada."
+            "value" : "Energía recargada"
           }
         },
         "es-419" : {
@@ -17196,13 +17264,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Énergie rechargée"
+            "value" : "Énergie rechargée."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Énergie remplie."
+            "value" : "Énergie rechargée."
           }
         },
         "he" : {
@@ -17262,7 +17330,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tenaga dipenuhi semula."
+            "value" : "Tenaga berjaya dipulihkan."
           }
         },
         "nb" : {
@@ -17274,7 +17342,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energie Opgefrist"
+            "value" : "Energie bijgevuld"
           }
         },
         "pl" : {
@@ -17361,7 +17429,8 @@
             "value" : "能量已補充。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.gameOver" : {
       "comment" : "Message displayed when the game ends",
@@ -17418,13 +17487,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Game Over."
+            "value" : "Game Over"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Game Over"
+            "value" : "Game over"
           }
         },
         "es" : {
@@ -17613,7 +17682,8 @@
             "value" : "比賽結束"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.levelComplete" : {
       "comment" : "Message displayed when a level is successfully completed",
@@ -17670,7 +17740,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Level Complete."
+            "value" : "Level complete."
           }
         },
         "en-GB" : {
@@ -17766,7 +17836,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tingkat Selesai"
+            "value" : "Tahap Selesai."
           }
         },
         "nb" : {
@@ -17802,7 +17872,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivel complet"
+            "value" : "Nivel completat"
           }
         },
         "ru" : {
@@ -17832,7 +17902,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seviye Tamam"
+            "value" : "Seviye tamamlandı."
           }
         },
         "uk" : {
@@ -17865,7 +17935,8 @@
             "value" : "關卡完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.matchFound" : {
       "comment" : "Message displayed when a match is found with an opponent",
@@ -17922,7 +17993,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match Found."
+            "value" : "Match found."
           }
         },
         "en-GB" : {
@@ -17988,7 +18059,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertandingan Ditemukan"
+            "value" : "Pertandingan ditemukan"
           }
         },
         "it" : {
@@ -18096,7 +18167,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã tìm thấy trận đấu"
+            "value" : "Đã tìm thấy trận đấu."
           }
         },
         "zh-Hans" : {
@@ -18108,7 +18179,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找到比賽"
+            "value" : "比賽找到對手。"
           }
         },
         "zh-HK" : {
@@ -18117,7 +18188,8 @@
             "value" : "找到對手"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.matchStartingSoon" : {
       "comment" : "Message displayed when a match is about to begin",
@@ -18174,7 +18246,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match Starting Soon."
+            "value" : "Match starting soon."
           }
         },
         "en-GB" : {
@@ -18240,13 +18312,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertandingan Segera Dimulai"
+            "value" : "Pertandingan segera dimulai."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partita inizio imminente."
+            "value" : "Partita inizio imminente"
           }
         },
         "ja" : {
@@ -18369,7 +18441,8 @@
             "value" : "比賽即將開始"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newHighScore" : {
       "comment" : "Message displayed when a new high score is achieved",
@@ -18426,13 +18499,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New High Score!"
+            "value" : "New high score."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New High Score"
+            "value" : "New High Score."
           }
         },
         "es" : {
@@ -18462,7 +18535,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouveau meilleur score."
+            "value" : "Nouveau meilleur score"
           }
         },
         "he" : {
@@ -18474,7 +18547,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नई उच्चतम स्कोर।"
+            "value" : "नई उच्चतम स्कोर"
           }
         },
         "hr" : {
@@ -18486,13 +18559,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Új rekord."
+            "value" : "Új rekord"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rekor Tinggi Baru"
+            "value" : "Rekor tinggi baru"
           }
         },
         "it" : {
@@ -18540,7 +18613,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nowy rekord wysokiego wyniku"
+            "value" : "Nowy rekord."
           }
         },
         "pt-BR" : {
@@ -18600,7 +18673,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Điểm cao mới"
+            "value" : "Điểm cao mới."
           }
         },
         "zh-Hans" : {
@@ -18621,7 +18694,8 @@
             "value" : "新高分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newLevelUnlocked" : {
       "comment" : "Message displayed when a new level is unlocked",
@@ -18689,7 +18763,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo nivel desbloqueado"
+            "value" : "Nuevo nivel desbloqueado."
           }
         },
         "es-419" : {
@@ -18731,7 +18805,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novi nivo otključan"
+            "value" : "Nova razina otključana"
           }
         },
         "hu" : {
@@ -18821,7 +18895,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nová úroveň odomknutá"
+            "value" : "Nová úroveň odomknutá."
           }
         },
         "sv" : {
@@ -18872,7 +18946,8 @@
             "value" : "新关卡解锁"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.notEnoughCurrency" : {
       "comment" : "Message displayed when there is insufficient currency",
@@ -18887,7 +18962,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостатъчно валута."
+            "value" : "Недостатъчно валута"
           }
         },
         "ca" : {
@@ -18911,7 +18986,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicht genügend Geld."
+            "value" : "Nicht genügend Währung."
           }
         },
         "el" : {
@@ -18983,7 +19058,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema dovoljno sredstava."
+            "value" : "Nedovoljno sredstava."
           }
         },
         "hu" : {
@@ -19037,7 +19112,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niet genoeg geld."
+            "value" : "Niet genoeg valuta."
           }
         },
         "pl" : {
@@ -19061,7 +19136,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu suficientă monedă."
+            "value" : "Monedă insuficientă."
           }
         },
         "ru" : {
@@ -19124,7 +19199,8 @@
             "value" : "貨幣不足。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.opponentDisconnected" : {
       "comment" : "Message displayed when the opponent disconnects",
@@ -19139,13 +19215,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опонентът се е отключил."
+            "value" : "Опонентът се е разкачил."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opponent desconectat."
+            "value" : "Oponent desconnectat."
           }
         },
         "cs" : {
@@ -19223,7 +19299,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "האויב התנתק."
+            "value" : "האויב התנתק"
           }
         },
         "hi" : {
@@ -19241,7 +19317,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az ellenfél levált."
+            "value" : "Az ellenfél bontotta a kapcsolatot."
           }
         },
         "id" : {
@@ -19277,7 +19353,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rakan lawan terputus."
+            "value" : "Pihak lawan terputus."
           }
         },
         "nb" : {
@@ -19319,7 +19395,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Противник отключен."
+            "value" : "Противник отключен"
           }
         },
         "sk" : {
@@ -19376,7 +19452,8 @@
             "value" : "對手已斷線。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.tutorialComplete" : {
       "comment" : "Message displayed when the tutorial is completed",
@@ -19439,7 +19516,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial Complete"
+            "value" : "Tutorial completed."
           }
         },
         "es" : {
@@ -19451,7 +19528,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial completo"
+            "value" : "Tutorial completo."
           }
         },
         "fi" : {
@@ -19565,7 +19642,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial complet."
+            "value" : "Completare tutorial"
           }
         },
         "ru" : {
@@ -19601,7 +19678,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навчання завершено."
+            "value" : "Навчання завершене."
           }
         },
         "vi" : {
@@ -19613,7 +19690,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "教程完成"
+            "value" : "教程已完成"
           }
         },
         "zh-Hant" : {
@@ -19628,7 +19705,8 @@
             "value" : "教程完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.victoryYouWonTheMatch" : {
       "comment" : "Message displayed when the player wins the match",
@@ -19879,7 +19957,8 @@
             "value" : "勝利！你贏得了比賽。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.calculatingScoreDots" : {
       "comment" : "Shown when calculating the player's score",
@@ -19912,7 +19991,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregn score..."
+            "value" : "Beregner scoringsresultat…"
           }
         },
         "de" : {
@@ -20062,13 +20141,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A calcular Pontuação…"
+            "value" : "A calcular pontuação…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calculează punctaj…"
+            "value" : "Se calculează punctajul…"
           }
         },
         "ru" : {
@@ -20131,7 +20210,8 @@
             "value" : "正在計算得分…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkingRewardsDots" : {
       "comment" : "Shown when checking available rewards",
@@ -20158,13 +20238,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontrola odměn…"
+            "value" : "Kontroluji odměny…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tjekker belønninger..."
+            "value" : "Tjekker belønninger…"
           }
         },
         "de" : {
@@ -20206,7 +20286,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verificando recompensas…"
+            "value" : "Verificando Recompensas…"
           }
         },
         "fi" : {
@@ -20230,7 +20310,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בודק דמיונים…"
+            "value" : "בודק תגמולים…"
           }
         },
         "hi" : {
@@ -20383,7 +20463,8 @@
             "value" : "正在檢查獎勵…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.claimingRewardsDots" : {
       "comment" : "Shown when claiming rewards",
@@ -20464,7 +20545,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouto palkintoja…"
+            "value" : "Noudetaan palkintoja…"
           }
         },
         "fr" : {
@@ -20482,7 +20563,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תובעים דמיונים…"
+            "value" : "טוען תגמולים…"
           }
         },
         "hi" : {
@@ -20512,7 +20593,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Richiesta premi…"
+            "value" : "Richiesta dei premi…"
           }
         },
         "ja" : {
@@ -20572,7 +20653,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revendică recompense…"
+            "value" : "Se revendică recompense…"
           }
         },
         "ru" : {
@@ -20635,7 +20716,8 @@
             "value" : "正在索取獎勵…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.connectingToServerDots" : {
       "comment" : "Shown when connecting to the server",
@@ -20662,7 +20744,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připojení k serveru…"
+            "value" : "Připojování k serveru…"
           }
         },
         "da" : {
@@ -20800,7 +20882,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbonden met server…"
+            "value" : "Verbinden met server…"
           }
         },
         "pl" : {
@@ -20818,13 +20900,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A ligar ao servidor…"
+            "value" : "A ligar ao Servidor…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conectare la server…"
+            "value" : "Conectându-se la server…"
           }
         },
         "ru" : {
@@ -20887,7 +20969,8 @@
             "value" : "正在連接到伺服器…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.creatingRoomDots" : {
       "comment" : "Shown when creating a game room",
@@ -21004,7 +21087,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kreatív szoba létrehozása…"
+            "value" : "Szoba létrehozása…"
           }
         },
         "id" : {
@@ -21016,7 +21099,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creazione stanza…"
+            "value" : "Creando stanza…"
           }
         },
         "ja" : {
@@ -21070,7 +21153,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A criar Sala…"
+            "value" : "A criar sala…"
           }
         },
         "ro" : {
@@ -21139,7 +21222,8 @@
             "value" : "創建遊戲房間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterClanNameDots" : {
       "comment" : "Placeholder for entering a clan name",
@@ -21184,7 +21268,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε το όνομα του κλαν…"
+            "value" : "Εισάγετε το όνομα της φατρίας…"
           }
         },
         "en" : {
@@ -21226,7 +21310,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la guilde…"
+            "value" : "Entrez le nom du clan…"
           }
         },
         "fr-CA" : {
@@ -21268,7 +21352,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci il nome della clan…"
+            "value" : "Inserisci il nome del clan…"
           }
         },
         "ja" : {
@@ -21292,7 +21376,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan nama Clan…"
+            "value" : "Masukkan nama klan…"
           }
         },
         "nb" : {
@@ -21334,7 +21418,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название клана…"
+            "value" : "Введите название клана… "
           }
         },
         "sk" : {
@@ -21352,7 +21436,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อ Clan…"
+            "value" : "กรอกชื่อ Clan…"
           }
         },
         "tr" : {
@@ -21376,7 +21460,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入战群名称…"
+            "value" : "输入氏族名称…"
           }
         },
         "zh-Hant" : {
@@ -21391,7 +21475,8 @@
             "value" : "輸入戰隊名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterGamerTagDots" : {
       "comment" : "Placeholder for entering a gamer tag",
@@ -21544,7 +21629,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan Nama Gamer…"
+            "value" : "Masukkan nama gamer…"
           }
         },
         "nb" : {
@@ -21568,7 +21653,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Digite o Gamer Tag…"
+            "value" : "Digite a tag de jogador…"
           }
         },
         "pt-PT" : {
@@ -21616,7 +21701,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть Gamer Tag…"
+            "value" : "Введіть GamerTag…"
           }
         },
         "vi" : {
@@ -21628,7 +21713,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入玩家标签…"
+            "value" : "输入游戏玩家名…"
           }
         },
         "zh-Hant" : {
@@ -21643,7 +21728,8 @@
             "value" : "輸入遊戲玩家標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPlayerNameDots" : {
       "comment" : "Placeholder for entering a player's name",
@@ -21712,7 +21798,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa nombre del jugador…"
+            "value" : "Introduce el nombre del jugador…"
           }
         },
         "es-419" : {
@@ -21736,7 +21822,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom du joueur…"
+            "value" : "Entrez le nom du joueur…"
           }
         },
         "he" : {
@@ -21766,7 +21852,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan nama Pemain…"
+            "value" : "Masukkan nama pemain…"
           }
         },
         "it" : {
@@ -21796,7 +21882,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan nama Pemain…"
+            "value" : "Masukkan nama pemain…"
           }
         },
         "nb" : {
@@ -21844,7 +21930,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov hráča…"
+            "value" : "Zadaj meno hráča…"
           }
         },
         "sv" : {
@@ -21862,7 +21948,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oyuncunun adını girin…"
+            "value" : "Oyuncu adını girin…"
           }
         },
         "uk" : {
@@ -21880,7 +21966,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入玩家名称…"
+            "value" : "输入玩家名…"
           }
         },
         "zh-Hant" : {
@@ -21895,7 +21981,8 @@
             "value" : "輸入玩家名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingOpponentDots" : {
       "comment" : "Shown when searching for an opponent",
@@ -21916,7 +22003,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat opositor…"
+            "value" : "Cercant opositor…"
           }
         },
         "cs" : {
@@ -22066,13 +22153,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie przeciwnika..."
+            "value" : "Wyszukiwanie przeciwnika..."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encontrando Oponente…"
+            "value" : "Encontrando oponente…"
           }
         },
         "pt-PT" : {
@@ -22147,7 +22234,8 @@
             "value" : "尋找對手…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingTeamDots" : {
       "comment" : "Shown when searching for a team",
@@ -22168,13 +22256,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trobat equip…"
+            "value" : "Cercant equip…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledám tým…"
+            "value" : "Najdu tým…"
           }
         },
         "da" : {
@@ -22186,7 +22274,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Team suchen…"
+            "value" : "Team finden…"
           }
         },
         "el" : {
@@ -22318,13 +22406,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znalezienie drużyny..."
+            "value" : "Wyszukiwanie drużyny..."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando equipe…"
+            "value" : "Encontrando equipe…"
           }
         },
         "pt-PT" : {
@@ -22372,7 +22460,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знаходження команди…"
+            "value" : "Знайти команду…"
           }
         },
         "vi" : {
@@ -22399,7 +22487,8 @@
             "value" : "尋找隊伍…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.generatingWorldDots" : {
       "comment" : "Shown when generating a game world",
@@ -22576,7 +22665,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gerando mundo…"
+            "value" : "Gerando Mundo…"
           }
         },
         "pt-PT" : {
@@ -22630,7 +22719,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tạo thế giới…"
+            "value" : "Đang tạo thế giới..."
           }
         },
         "zh-Hans" : {
@@ -22651,7 +22740,8 @@
             "value" : "生成世界中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.joiningMatchDots" : {
       "comment" : "Shown when joining an existing match",
@@ -22750,7 +22840,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שם ב-match…"
+            "value" : "מצטרף למשחק…"
           }
         },
         "hi" : {
@@ -22786,7 +22876,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "対戦中…"
+            "value" : "マッチ参加中…"
           }
         },
         "kk" : {
@@ -22810,7 +22900,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bli med i kampen…"
+            "value" : "Bli med i Match…"
           }
         },
         "nl" : {
@@ -22828,7 +22918,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrando na partida…"
+            "value" : "Entrando na Partida…"
           }
         },
         "pt-PT" : {
@@ -22882,13 +22972,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tham gia Trận đấu…"
+            "value" : "Đang tham gia Trận đấu..."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入比赛中..."
+            "value" : "正在加入比赛..."
           }
         },
         "zh-Hant" : {
@@ -22903,7 +22993,8 @@
             "value" : "加入對戰中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingLevelDots" : {
       "comment" : "Shown when loading a new level",
@@ -23155,7 +23246,8 @@
             "value" : "加載關卡中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingResourcesDots" : {
       "comment" : "Shown when loading game resources",
@@ -23407,7 +23499,8 @@
             "value" : "加載資源中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingTutorialDots" : {
       "comment" : "Shown when loading the tutorial",
@@ -23659,7 +23752,8 @@
             "value" : "加載教程中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.matchmakingDots" : {
       "comment" : "Shown when searching for players or opponents",
@@ -23872,7 +23966,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหารายชื่อนักกีฬา…"
+            "value" : "การจับคู่…"
           }
         },
         "tr" : {
@@ -23911,7 +24005,8 @@
             "value" : "匹配中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.respawningDots" : {
       "comment" : "Shown when respawning the player",
@@ -23938,7 +24033,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnovení…"
+            "value" : "Obnovuji se…"
           }
         },
         "da" : {
@@ -23980,7 +24075,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reaparición…"
+            "value" : "Reapareciendo…"
           }
         },
         "es-419" : {
@@ -23992,7 +24087,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uudelleen syntyminen…"
+            "value" : "Uudelleensynnytys…"
           }
         },
         "fr" : {
@@ -24100,7 +24195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reapariția…"
+            "value" : "Respawnare…"
           }
         },
         "ru" : {
@@ -24163,7 +24258,8 @@
             "value" : "重生中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchPlayersDots" : {
       "comment" : "Placeholder for searching players",
@@ -24172,7 +24268,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ابحث عن اللاعبين…"
+            "value" : "ابعث"
           }
         },
         "bg" : {
@@ -24202,7 +24298,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spieler:in durchsuchen…"
+            "value" : "Spieler:innen durchsuchen…"
           }
         },
         "el" : {
@@ -24220,7 +24316,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search Players…"
+            "value" : "Search players…"
           }
         },
         "en-GB" : {
@@ -24244,7 +24340,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi pelaajia..."
+            "value" : "Etsi pelaajia…"
           }
         },
         "fr" : {
@@ -24292,7 +24388,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerca Giocatori…"
+            "value" : "Cerca giocatori…"
           }
         },
         "ja" : {
@@ -24334,13 +24430,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukaj graczy..."
+            "value" : "Szukaj graczy…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesquisar Jogadores…"
+            "value" : "Buscar Jogadores…"
           }
         },
         "pt-PT" : {
@@ -24388,7 +24484,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук Гравців…"
+            "value" : "Пошук гравців…"
           }
         },
         "vi" : {
@@ -24415,7 +24511,8 @@
             "value" : "搜尋玩家…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.synchronizingGameStateDots" : {
       "comment" : "Shown when synchronizing game data",
@@ -24460,7 +24557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ενημέρωση κατάστασης παιχνιδιού…"
+            "value" : "Συγχρονίζω κατάσταση παιχνιδιού…"
           }
         },
         "en" : {
@@ -24568,19 +24665,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menyelaraskan Status Permainan…"
+            "value" : "Menyelaras Status Permainan…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synkroniserer spilltilstand…"
+            "value" : "Trimmer video..."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Game-status synchroniseren…"
+            "value" : "Spelstatus synchroniseren…"
           }
         },
         "pl" : {
@@ -24664,10 +24761,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同步遊戲狀態…"
+            "value" : "同步中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.updatingLeaderboardDots" : {
       "comment" : "Shown when updating the leaderboard",
@@ -24742,7 +24840,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizando clasificación…"
+            "value" : "Actualizando el tablero de clasificación…"
           }
         },
         "fi" : {
@@ -24784,7 +24882,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Újdonságok frissítése…"
+            "value" : "Ranglista frissítése…"
           }
         },
         "id" : {
@@ -24808,7 +24906,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тізімді жаңарту…"
+            "value" : "Тізімкестені жаңартуда..."
           }
         },
         "ko" : {
@@ -24904,7 +25002,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新排行榜…"
+            "value" : "正在更新排行榜…"
           }
         },
         "zh-Hant" : {
@@ -24919,7 +25017,8 @@
             "value" : "更新排行榜…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

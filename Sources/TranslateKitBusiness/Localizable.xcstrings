@@ -19,7 +19,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permetre"
+            "value" : "Aprovar"
           }
         },
         "cs" : {
@@ -151,7 +151,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Luluskan"
+            "value" : "Selaraskan"
           }
         },
         "nb" : {
@@ -250,7 +250,8 @@
             "value" : "批准"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.assign" : {
       "comment" : "Use when assigning a task or responsibility to someone",
@@ -265,7 +266,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначете"
+            "value" : "Назначи"
           }
         },
         "ca" : {
@@ -343,7 +344,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assigné"
+            "value" : "Assign"
           }
         },
         "he" : {
@@ -385,7 +386,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "割り当てる"
+            "value" : "タスクを割り当てる"
           }
         },
         "kk" : {
@@ -403,7 +404,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分配"
+            "value" : "Tugaskan"
           }
         },
         "nb" : {
@@ -502,7 +503,8 @@
             "value" : "分配"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.attachFile" : {
       "comment" : "Use when adding a file to a message, task, or document",
@@ -753,7 +755,8 @@
             "value" : "附加檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.backupData" : {
       "comment" : "Use when backing up important data or files",
@@ -1004,7 +1007,8 @@
             "value" : "備份數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bill" : {
       "comment" : "Use when generating a billing statement or invoice",
@@ -1031,7 +1035,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Faktura"
+            "value" : "Vyfakturovat"
           }
         },
         "da" : {
@@ -1127,7 +1131,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tagih"
+            "value" : "Catat"
           }
         },
         "it" : {
@@ -1256,7 +1260,8 @@
             "value" : "账单"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when scheduling or confirming a reservation",
@@ -1372,7 +1377,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foglalás most"
+            "value" : "Foglalás Most"
           }
         },
         "id" : {
@@ -1507,7 +1512,8 @@
             "value" : "立即預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.calculate" : {
       "comment" : "Use when performing a calculation or estimation",
@@ -1522,7 +1528,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изчислете"
+            "value" : "Изчисли"
           }
         },
         "ca" : {
@@ -1759,7 +1765,8 @@
             "value" : "计算"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.clockIn" : {
       "comment" : "Use when starting work or logging in for a shift",
@@ -1870,7 +1877,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prijavi se"
+            "value" : "Odjavi se"
           }
         },
         "hu" : {
@@ -1930,7 +1937,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zbieraj"
+            "value" : "Skontaktuj się"
           }
         },
         "pt-BR" : {
@@ -2011,7 +2018,8 @@
             "value" : "打卡上班"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.clockOut" : {
       "comment" : "Use when finishing work or logging out after a shift",
@@ -2068,7 +2076,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clock Off"
+            "value" : "Clock Out"
           }
         },
         "en-GB" : {
@@ -2086,7 +2094,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerrar sesión"
+            "value" : "Registrar salida"
           }
         },
         "fi" : {
@@ -2098,7 +2106,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se déconnecter"
+            "value" : "Déconnecter"
           }
         },
         "fr-CA" : {
@@ -2122,7 +2130,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odjavite se"
+            "value" : "Odjavi se"
           }
         },
         "hu" : {
@@ -2263,7 +2271,8 @@
             "value" : "打卡下班"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createInvoice" : {
       "comment" : "Use when generating a new invoice for a customer",
@@ -2514,7 +2523,8 @@
             "value" : "創建發票"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new task or to-do item",
@@ -2765,7 +2775,8 @@
             "value" : "創建任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.deposit" : {
       "comment" : "Use when depositing funds into an account or system",
@@ -3016,7 +3027,8 @@
             "value" : "存款"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportData" : {
       "comment" : "Use when exporting data to an external format or file",
@@ -3267,7 +3279,8 @@
             "value" : "導出數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting a document or report as a PDF file",
@@ -3431,7 +3444,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteer pdf"
+            "value" : "Exporteer PDF"
           }
         },
         "pl" : {
@@ -3518,7 +3531,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.finalize" : {
       "comment" : "Use when completing or finalizing a process or task",
@@ -3770,7 +3784,8 @@
             "value" : "完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateInvoice" : {
       "comment" : "Use when automatically generating an invoice",
@@ -4021,7 +4036,8 @@
             "value" : "生成發票"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when creating a detailed report or summary",
@@ -4272,7 +4288,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.invoice" : {
       "comment" : "Use when creating or referencing an invoice",
@@ -4524,7 +4541,8 @@
             "value" : "发票"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logHours" : {
       "comment" : "Use when recording worked hours or time spent on tasks",
@@ -4776,7 +4794,8 @@
             "value" : "记录工时"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use when indicating that a task or project is finished",
@@ -4874,7 +4893,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סמן כהשלים"
+            "value" : "סמן כהושלם"
           }
         },
         "hi" : {
@@ -5027,7 +5046,8 @@
             "value" : "標記為完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsPaid" : {
       "comment" : "Use when marking a bill or invoice as paid",
@@ -5036,7 +5056,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أعلام كمدفوع"
+            "value" : "علامة كمدفوع"
           }
         },
         "bg" : {
@@ -5072,7 +5092,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημαντική Πληρωμή"
+            "value" : "Σημείωση ως Πληρωμένο"
           }
         },
         "en" : {
@@ -5144,7 +5164,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fizetettnek megjelölés"
+            "value" : "Fizetettként megjelölés"
           }
         },
         "id" : {
@@ -5279,7 +5299,8 @@
             "value" : "标记为已付"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use when printing documents, reports, or invoices",
@@ -5530,7 +5551,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.processPayment" : {
       "comment" : "Use when handling or processing a payment transaction",
@@ -5782,7 +5804,8 @@
             "value" : "處理付款"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.quote" : {
       "comment" : "Use when generating or referencing a price estimate",
@@ -6034,7 +6057,8 @@
             "value" : "報價"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordExpense" : {
       "comment" : "Use when logging or tracking an expense",
@@ -6286,7 +6310,8 @@
             "value" : "記錄開支"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestApproval" : {
       "comment" : "Use when submitting a task or project for approval",
@@ -6420,7 +6445,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "承認をリクエスト"
+            "value" : "承認を要求する"
           }
         },
         "kk" : {
@@ -6450,7 +6475,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Goedkeuring Aanvragen"
+            "value" : "Goedkeuring aanvragen"
           }
         },
         "pl" : {
@@ -6537,7 +6562,8 @@
             "value" : "請求批准"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestMoney" : {
       "comment" : "Use when asking for a payment or funds",
@@ -6641,7 +6667,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैसे की अनुरोध करें"
+            "value" : "पैसे का अनुरोध करें"
           }
         },
         "hr" : {
@@ -6671,7 +6697,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お金をリクエスト"
+            "value" : "お金を要求する"
           }
         },
         "kk" : {
@@ -6683,7 +6709,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "돈 요청"
+            "value" : "금액 요청하기"
           }
         },
         "ms" : {
@@ -6788,7 +6814,8 @@
             "value" : "請求付款"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleMeeting" : {
       "comment" : "Use when organizing a meeting or appointment",
@@ -7039,7 +7066,8 @@
             "value" : "安排會議"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sendInvitation" : {
       "comment" : "Use when sending an invitation to join a meeting or event",
@@ -7071,7 +7099,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Send Invitation"
+            "value" : "Send invitation"
           }
         },
         "de" : {
@@ -7290,7 +7318,8 @@
             "value" : "發送邀請"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sendMoney" : {
       "comment" : "Use when transferring funds to another party",
@@ -7541,7 +7570,8 @@
             "value" : "發送金錢"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sendReminder" : {
       "comment" : "Use when sending a notification or reminder",
@@ -7645,7 +7675,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "याद दिलाएं"
+            "value" : "रिमाइंडर सेट करें"
           }
         },
         "hr" : {
@@ -7693,7 +7723,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengurusan tugas"
+            "value" : "Hantar Peringatan"
           }
         },
         "nb" : {
@@ -7792,7 +7822,8 @@
             "value" : "發送提醒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setDeadline" : {
       "comment" : "Use when establishing a deadline for a task or project",
@@ -7824,7 +7855,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Deadline"
+            "value" : "Sæt deadline"
           }
         },
         "de" : {
@@ -8043,7 +8074,8 @@
             "value" : "設定最後期限"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.signContract" : {
       "comment" : "Use when signing an agreement or contract",
@@ -8295,7 +8327,8 @@
             "value" : "簽署合約"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.submitReport" : {
       "comment" : "Use when submitting a report or document",
@@ -8547,7 +8580,8 @@
             "value" : "提交報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackTime" : {
       "comment" : "Use when monitoring or tracking time spent on tasks",
@@ -8622,7 +8656,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar tiempo"
+            "value" : "Registrar Tiempo"
           }
         },
         "fi" : {
@@ -8799,7 +8833,8 @@
             "value" : "追蹤時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use when uploading a file to a system or service",
@@ -8879,13 +8914,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lataa tiedosto"
+            "value" : "Siirrä tiedosto"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Télécharger un fichier"
+            "value" : "Charger un fichier"
           }
         },
         "fr-CA" : {
@@ -9050,7 +9085,8 @@
             "value" : "上載文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.verifyIdentity" : {
       "comment" : "Use when confirming the identity of a user or client",
@@ -9302,7 +9338,8 @@
             "value" : "驗證身份"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.address" : {
       "comment" : "Use for address fields or location information",
@@ -9554,7 +9591,8 @@
             "value" : "地址"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.balance" : {
       "comment" : "Use for showing financial balance information",
@@ -9805,7 +9843,8 @@
             "value" : "餘額"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.balanceDue" : {
       "comment" : "Use when indicating an outstanding balance",
@@ -9934,7 +9973,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saldo Dovuto"
+            "value" : "Importo Dovuto"
           }
         },
         "ja" : {
@@ -10054,10 +10093,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "应缴余额"
+            "value" : "餘額到期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bankAccount" : {
       "comment" : "Use for bank account details or settings",
@@ -10309,7 +10349,8 @@
             "value" : "银行账户"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.billableHours" : {
       "comment" : "Use when tracking hours that are billable to a client",
@@ -10408,7 +10449,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שעות שדאי לחייב"
+            "value" : "שעות לחיוב"
           }
         },
         "hi" : {
@@ -10504,7 +10545,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Биллабельные часы"
+            "value" : "Платные часы"
           }
         },
         "sk" : {
@@ -10561,7 +10602,8 @@
             "value" : "可计费小时"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.billingStatus" : {
       "comment" : "Use when showing the payment or billing status",
@@ -10812,7 +10854,8 @@
             "value" : "帳單狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.businessHours" : {
       "comment" : "Use for specifying the hours a business is open",
@@ -10851,7 +10894,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Öffnungszeit"
+            "value" : "Öffnungszeiten"
           }
         },
         "el" : {
@@ -10893,7 +10936,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avoinna ollen tunnit"
+            "value" : "Aukioloajat"
           }
         },
         "fr" : {
@@ -11064,7 +11107,8 @@
             "value" : "营业时间"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cardDetails" : {
       "comment" : "Use for payment card information",
@@ -11315,7 +11359,8 @@
             "value" : "卡的詳細資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.client" : {
       "comment" : "Use when referring to a single customer or business partner",
@@ -11567,7 +11612,8 @@
             "value" : "客戶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.clients" : {
       "comment" : "Use when referring to multiple customers or business partners",
@@ -11702,7 +11748,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "クライアント（複数）"
+            "value" : "クライアント"
           }
         },
         "kk" : {
@@ -11714,7 +11760,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "클라이언트들"
+            "value" : "클라이언트"
           }
         },
         "ms" : {
@@ -11819,7 +11865,8 @@
             "value" : "客戶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.company" : {
       "comment" : "Use for organizational or business information",
@@ -12070,7 +12117,8 @@
             "value" : "公司"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.completionDate" : {
       "comment" : "Use when showing the date a project or task is due to be completed",
@@ -12321,7 +12369,8 @@
             "value" : "完成日期"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.contract" : {
       "comment" : "Use for a formal agreement or business contract",
@@ -12504,7 +12553,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data de Criação"
+            "value" : "Contrato"
           }
         },
         "ro" : {
@@ -12573,7 +12622,8 @@
             "value" : "合約"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.creditCard" : {
       "comment" : "Use when referring to payment information via credit card",
@@ -12824,7 +12874,8 @@
             "value" : "信用卡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currency" : {
       "comment" : "Use when showing the monetary unit or currency type",
@@ -13075,7 +13126,8 @@
             "value" : "貨幣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.customer" : {
       "comment" : "Use when referring to a customer or client",
@@ -13327,7 +13379,8 @@
             "value" : "客戶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dueDate" : {
       "comment" : "Use when showing the date by which a task or payment is due",
@@ -13578,7 +13631,8 @@
             "value" : "到期日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.employee" : {
       "comment" : "Use when referring to a single employee",
@@ -13830,7 +13884,8 @@
             "value" : "員工"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.employees" : {
       "comment" : "Use when referring to multiple employees",
@@ -13983,7 +14038,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pekerja-Pekerja"
+            "value" : "Pekerja"
           }
         },
         "nb" : {
@@ -14043,7 +14098,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พนักงานหลายคน"
+            "value" : "พนักงาน"
           }
         },
         "tr" : {
@@ -14061,13 +14116,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhân Viên"
+            "value" : "Nhân viên"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "员工们"
+            "value" : "员工"
           }
         },
         "zh-Hant" : {
@@ -14082,7 +14137,8 @@
             "value" : "員工"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.expense" : {
       "comment" : "Use when referring to a single business-related expense",
@@ -14334,7 +14390,8 @@
             "value" : "支出"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.expenses" : {
       "comment" : "Use when referring to multiple business-related expenses",
@@ -14481,7 +14538,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비용들"
+            "value" : "비용"
           }
         },
         "ms" : {
@@ -14586,7 +14643,8 @@
             "value" : "開支"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.invoiceNumber" : {
       "comment" : "Use for referencing the unique identifier of an invoice",
@@ -14643,7 +14701,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Job Title"
+            "value" : "Invoice Number"
           }
         },
         "en-GB" : {
@@ -14838,7 +14896,8 @@
             "value" : "發票號碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.jobTitle" : {
       "comment" : "Use when referring to a person's job position or role",
@@ -14895,7 +14954,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Position Title"
+            "value" : "Job Title"
           }
         },
         "en-GB" : {
@@ -15090,7 +15149,8 @@
             "value" : "職位"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.meeting" : {
       "comment" : "Use for a scheduled business meeting or appointment",
@@ -15342,7 +15402,8 @@
             "value" : "會議"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.organization" : {
       "comment" : "Use for company or group organization details",
@@ -15519,7 +15580,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Empresa"
+            "value" : "Organização"
           }
         },
         "pt-PT" : {
@@ -15594,7 +15655,8 @@
             "value" : "機構"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.paymentMethod" : {
       "comment" : "Use for selecting or displaying payment method options",
@@ -15663,7 +15725,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Método de Pago"
+            "value" : "Método de pago"
           }
         },
         "es-419" : {
@@ -15705,7 +15767,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metoda Plačanja"
+            "value" : "Metoda plaćanja"
           }
         },
         "hu" : {
@@ -15765,7 +15827,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metoda Płatności"
+            "value" : "metoda płatności"
           }
         },
         "pt-BR" : {
@@ -15846,7 +15908,8 @@
             "value" : "付款方式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.paymentStatus" : {
       "comment" : "Use when indicating the status of a payment (e.g., paid, pending)",
@@ -15915,7 +15978,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estado del Pago"
+            "value" : "Estado del pago"
           }
         },
         "es-419" : {
@@ -15957,7 +16020,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Status Plačanja"
+            "value" : "Status plaćanja"
           }
         },
         "hu" : {
@@ -16098,7 +16161,8 @@
             "value" : "付款狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.projectStatus" : {
       "comment" : "Use when showing the current status of a project",
@@ -16349,7 +16413,8 @@
             "value" : "項目狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.revenue" : {
       "comment" : "Use for displaying the income or earnings of a business",
@@ -16601,7 +16666,8 @@
             "value" : "收入"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.transactionHistory" : {
       "comment" : "Use for showing past financial transactions or records",
@@ -16852,7 +16918,8 @@
             "value" : "交易歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.vendor" : {
       "comment" : "Use for referring to a supplier or service provider",
@@ -17104,7 +17171,8 @@
             "value" : "供應商"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.accountBalanceIsOverdue" : {
       "comment" : "Notification for overdue account payments",
@@ -17239,7 +17307,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "口座残高が期限切れです。"
+            "value" : "口座残高の支払いが遅れています。"
           }
         },
         "kk" : {
@@ -17263,7 +17331,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontoen har forfalt saldo."
+            "value" : "Saldoen på kontoen er forfalt."
           }
         },
         "nl" : {
@@ -17299,7 +17367,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Баланс на счете просрочен."
+            "value" : "Просрочен баланс счета."
           }
         },
         "sk" : {
@@ -17356,7 +17424,8 @@
             "value" : "帳戶餘額已逾期。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.budgetLimitExceeded" : {
       "comment" : "Notification for exceeding the budget limit",
@@ -17382,7 +17451,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Byla překročena finanční hranice"
+            "value" : "Byla překročena finanční hranice."
           }
         },
         "da" : {
@@ -17526,7 +17595,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przekroczono limit budżetowy"
+            "value" : "Przekroczono limit budżetu"
           }
         },
         "pt-BR" : {
@@ -17550,7 +17619,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Превышен лимит бюджета"
+            "value" : "Превышен лимит бюджета."
           }
         },
         "sk" : {
@@ -17574,7 +17643,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bütçe Limiti Aşıldı"
+            "value" : "Bütçe limiti aşıldı"
           }
         },
         "uk" : {
@@ -17592,7 +17661,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预算限制超出"
+            "value" : "预算超出限制"
           }
         },
         "zh-Hant" : {
@@ -17607,7 +17676,8 @@
             "value" : "超出預算限制"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.changesHaveBeenSavedToCloudStorage" : {
       "comment" : "Confirmation for cloud storage updates",
@@ -17682,7 +17752,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los cambios se han guardado en el almacenamiento en la nube."
+            "value" : "Los cambios se guardaron en la nube."
           }
         },
         "fi" : {
@@ -17700,7 +17770,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les modifications ont été enregistrées dans le stockage nuagique."
+            "value" : "Les modifications ont été enregistrées dans le stockage cloud."
           }
         },
         "he" : {
@@ -17820,7 +17890,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงได้ถูกบันทึกในคลาวด์แล้ว"
+            "value" : "การเปลี่ยนแปลงได้ถูกบันทึกในคลาวด์แล้ว."
           }
         },
         "tr" : {
@@ -17859,7 +17929,8 @@
             "value" : "更改已儲存到雲端儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.clientInformationUpdatedSuccessfully" : {
       "comment" : "Confirmation for client data update",
@@ -18072,7 +18143,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข้อมูลลูกค้าได้รับการอัปเดตเรียบร้อยแล้ว"
+            "value" : "ข้อมูลลูกค้าได้รับการอัปเดตเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -18111,7 +18182,8 @@
             "value" : "客戶資料已成功更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.documentRequiresApproval" : {
       "comment" : "Notification for documents awaiting approval",
@@ -18257,7 +18329,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "문서 승인 필요"
+            "value" : "문서 승인 필요."
           }
         },
         "ms" : {
@@ -18362,7 +18434,8 @@
             "value" : "文檔需要批准"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.expenseApprovalPending" : {
       "comment" : "Notification for pending expense approval",
@@ -18376,7 +18449,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Одобрението на разходите е в очакване"
+            "value" : "Очаква се одобрение на разходите."
           }
         },
         "ca" : {
@@ -18514,7 +18587,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kelulusan perbelanjaan tertangguh"
+            "value" : "Kelulusan perbelanjaan menunggu"
           }
         },
         "nb" : {
@@ -18613,7 +18686,8 @@
             "value" : "費用批准待定"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.expenseReportSubmittedForReview" : {
       "comment" : "Confirmation for submitted expense report",
@@ -18634,7 +18708,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informe ddespeses enviat per a revisió."
+            "value" : "Informe de despeses enviat per a revisió."
           }
         },
         "cs" : {
@@ -18865,7 +18939,8 @@
             "value" : "開支報告已提交審核。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.invoiceHasBeenSent" : {
       "comment" : "Confirmation for invoice dispatch",
@@ -19078,7 +19153,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใบแจ้งหนี้ถูกส่งแล้ว."
+            "value" : "ใบแจ้งหนี้ถูกส่งแล้ว"
           }
         },
         "tr" : {
@@ -19117,7 +19192,8 @@
             "value" : "發票已發送。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.paymentDeclinedByBank" : {
       "comment" : "Notification for payment rejection by the bank",
@@ -19369,7 +19445,8 @@
             "value" : "支付被銀行拒絕。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.paymentProcessedSuccessfully" : {
       "comment" : "Confirmation for successful payment processing",
@@ -19378,7 +19455,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم processing الدفع بنجاح."
+            "value" : "تمت معالجة الدفع بنجاح."
           }
         },
         "bg" : {
@@ -19528,7 +19605,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betaling behandlet vellykket."
+            "value" : "Betaling behandlet."
           }
         },
         "nl" : {
@@ -19621,7 +19698,8 @@
             "value" : "支付已成功處理。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.projectDeadlineApproaching" : {
       "comment" : "Reminder for upcoming project deadlines",
@@ -19707,7 +19785,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Date limite de projet approchant"
+            "value" : "Date limite du projet approchant"
           }
         },
         "fr-CA" : {
@@ -19785,7 +19863,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Projectdeadline nadert"
+            "value" : "Project-deadline nadert."
           }
         },
         "pl" : {
@@ -19872,7 +19950,8 @@
             "value" : "项目截止日期临近"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reportGenerationComplete" : {
       "comment" : "Notification for completed report generation",
@@ -20123,7 +20202,8 @@
             "value" : "報告生成完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.taskDependenciesUnmet" : {
       "comment" : "Notification for unmet task dependencies",
@@ -20191,7 +20271,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dependencias de tarea no cumplidas"
+            "value" : "Dependencias de la tarea no cumplidas"
           }
         },
         "es-419" : {
@@ -20374,7 +20454,8 @@
             "value" : "任務依賴未滿足"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.transactionPending" : {
       "comment" : "Notification for pending transaction status",
@@ -20442,7 +20523,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transacción pendiente"
+            "value" : "Transacción pendiente."
           }
         },
         "es-419" : {
@@ -20460,7 +20541,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transaction en attente"
+            "value" : "Transaction en attente."
           }
         },
         "fr-CA" : {
@@ -20484,7 +20565,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transakcija na čekanju"
+            "value" : "Transakcija na čekanju."
           }
         },
         "hu" : {
@@ -20586,7 +20667,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ระหว่างกระบวนการ"
+            "value" : "การทำรายการอยู่ระหว่างดำเนินการ"
           }
         },
         "tr" : {
@@ -20625,7 +20706,8 @@
             "value" : "交易待處理"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourPaymentHasBeenProcessedSuccessfully" : {
       "comment" : "Confirmation for successful payment processing",
@@ -20807,7 +20889,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O seu pagamento foi processado com sucesso."
+            "value" : "O teu pagamento foi processado com sucesso."
           }
         },
         "ro" : {
@@ -20861,13 +20943,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的付款已成功处理。"
+            "value" : "你的支付已成功处理。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的付款已成功處理。"
+            "value" : "你的付款已成功處理。"
           }
         },
         "zh-HK" : {
@@ -20876,7 +20958,8 @@
             "value" : "你的付款已成功處理。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addClientDetailsDots" : {
       "comment" : "Placeholder for entering client-related information",
@@ -21128,7 +21211,8 @@
             "value" : "添加客户详情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addCompanyNameDots" : {
       "comment" : "Placeholder for entering company name",
@@ -21293,7 +21377,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg de naam van het bedrijf toe…"
+            "value" : "Voeg bedrijfsnaam toe…"
           }
         },
         "pl" : {
@@ -21359,7 +21443,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm tên công ty…"
+            "value" : "Thêm tên công ty …"
           }
         },
         "zh-Hans" : {
@@ -21380,7 +21464,8 @@
             "value" : "添加公司名称…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addExpenseDetailsDots" : {
       "comment" : "Placeholder for entering details of an expense",
@@ -21466,7 +21551,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter des détails sur les dépenses..."
+            "value" : "Ajouter des détails sur les dépenses…"
           }
         },
         "fr-CA" : {
@@ -21631,7 +21716,8 @@
             "value" : "新增開支詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addInvoiceNumberDots" : {
       "comment" : "Placeholder for entering an invoice number",
@@ -21652,7 +21738,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu el número de factura…"
+            "value" : "Afegir el número de factura…"
           }
         },
         "cs" : {
@@ -21814,13 +21900,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar número de fatura..."
+            "value" : "Adicionar número de fatura…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați numărul facturii…"
+            "value" : "Adaugă numărul facturii…"
           }
         },
         "ru" : {
@@ -21883,7 +21969,8 @@
             "value" : "添加發票號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addJobTitleDots" : {
       "comment" : "Placeholder for entering a job title",
@@ -21904,7 +21991,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu el títol del treball…"
+            "value" : "Afegir el títol del treball…"
           }
         },
         "cs" : {
@@ -22066,13 +22153,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar título do trabalho..."
+            "value" : "Adicionar título do trabalho…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați titlul postului…"
+            "value" : "Adaugă titlul postului…"
           }
         },
         "ru" : {
@@ -22135,7 +22222,8 @@
             "value" : "添加職位名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addMeetingAgendaDots" : {
       "comment" : "Placeholder for entering a meeting agenda",
@@ -22251,7 +22339,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add hozzá a találkozó napirendjét…"
+            "value" : "Megbeszélés napirend hozzáadása…"
           }
         },
         "id" : {
@@ -22293,7 +22381,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til møtesammendrag…"
+            "value" : "Legg til agenda for møtet…"
           }
         },
         "nl" : {
@@ -22365,7 +22453,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm chương trình cuộc họp…"
+            "value" : "Thêm chương trình cuộc họp ..."
           }
         },
         "zh-Hans" : {
@@ -22386,7 +22474,8 @@
             "value" : "新增會議議程…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addMilestoneDescriptionDots" : {
       "comment" : "Placeholder for entering a milestone description",
@@ -22514,7 +22603,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi la descrizione della milestones…"
+            "value" : "Aggiungi descrizione della milestone…"
           }
         },
         "ja" : {
@@ -22550,7 +22639,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg mijlpaal beschrijving toe…"
+            "value" : "Voeg mijlpaalbeschrijving toe…"
           }
         },
         "pl" : {
@@ -22637,7 +22726,8 @@
             "value" : "新增里程碑描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addPaymentNoteDots" : {
       "comment" : "Placeholder for entering payment-related notes",
@@ -22658,7 +22748,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu una nota de pagament…"
+            "value" : "Afegir una nota de pagament…"
           }
         },
         "cs" : {
@@ -22718,7 +22808,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää maksukomento…"
+            "value" : "Lisää maksumuistio…"
           }
         },
         "fr" : {
@@ -22826,7 +22916,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați notă de plată…"
+            "value" : "Adaugă notă de plată…"
           }
         },
         "ru" : {
@@ -22889,7 +22979,8 @@
             "value" : "添加付款備註…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addProjectDetailsDots" : {
       "comment" : "Placeholder for entering project details",
@@ -22927,7 +23018,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Projekt_details hinzufügen…"
+            "value" : "Projektdetails hinzufügen…"
           }
         },
         "el" : {
@@ -23005,7 +23096,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add hozzá a projekt részleteit…"
+            "value" : "Részlet hozzáadása a projekthez…"
           }
         },
         "id" : {
@@ -23140,7 +23231,8 @@
             "value" : "新增項目詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTaskDescriptionDots" : {
       "comment" : "Placeholder for entering a task description",
@@ -23391,7 +23483,8 @@
             "value" : "新增任務描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAmountDots" : {
       "comment" : "Placeholder for entering a monetary amount",
@@ -23642,7 +23735,8 @@
             "value" : "輸入金額…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterBankAccountNumberDots" : {
       "comment" : "Placeholder for entering a bank account number",
@@ -23806,7 +23900,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer bankrekeningnummer in…"
+            "value" : "Voer bankrekeningnummer in …"
           }
         },
         "pl" : {
@@ -23842,7 +23936,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte číslo bankového účtu…"
+            "value" : "Zadaj číslo bankového účtu…"
           }
         },
         "sv" : {
@@ -23860,7 +23954,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Banka hesap numarasını girin…"
+            "value" : "Banka hesap numarasını gir…"
           }
         },
         "uk" : {
@@ -23893,7 +23987,8 @@
             "value" : "輸入銀行賬戶號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterClientNameDots" : {
       "comment" : "Placeholder for entering a client's name",
@@ -23913,7 +24008,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix nom del client…"
+            "value" : "Introdueix el nom del client…"
           }
         },
         "cs" : {
@@ -23979,13 +24074,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir le nom du client…"
+            "value" : "Entrez le nom du client…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom du client…"
+            "value" : "Entrez le nom du client…"
           }
         },
         "he" : {
@@ -24057,7 +24152,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer klantnaam in…"
+            "value" : "Voer klantnaam in …"
           }
         },
         "pl" : {
@@ -24093,7 +24188,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte meno klienta…"
+            "value" : "Zadaj meno klienta…"
           }
         },
         "sv" : {
@@ -24111,7 +24206,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Müşteri adını girin…"
+            "value" : "Müşteri adını gir…"
           }
         },
         "uk" : {
@@ -24144,7 +24239,8 @@
             "value" : "輸入客戶名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCompanyNameDots" : {
       "comment" : "Placeholder for entering a company's name",
@@ -24357,13 +24453,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อบริษัท…"
+            "value" : "กรอกชื่อบริษัท…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şirket adını girin…"
+            "value" : "Şirket adını gir…"
           }
         },
         "uk" : {
@@ -24396,7 +24492,8 @@
             "value" : "輸入公司名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterInvoiceNumberDots" : {
       "comment" : "Placeholder for entering an invoice number",
@@ -24416,7 +24513,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix número de factura…"
+            "value" : "Introdueix el número de factura…"
           }
         },
         "cs" : {
@@ -24482,13 +24579,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir le numéro de facture…"
+            "value" : "Entrez le numéro de facture…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le numéro de facture…"
+            "value" : "Entrez le numéro de facture…"
           }
         },
         "he" : {
@@ -24584,7 +24681,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numarul facturii…"
+            "value" : "Introdu numărul facturii…"
           }
         },
         "ru" : {
@@ -24596,7 +24693,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte číslo faktúry…"
+            "value" : "Zadaj číslo faktúry…"
           }
         },
         "sv" : {
@@ -24647,7 +24744,8 @@
             "value" : "輸入發票號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPaymentNoteDots" : {
       "comment" : "Placeholder for entering payment-related notes",
@@ -24740,7 +24838,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer la note de paiement…"
+            "value" : "Entrez la note de paiement…"
           }
         },
         "he" : {
@@ -24848,7 +24946,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte platobný poznámku…"
+            "value" : "Zadaj platobnú poznámku…"
           }
         },
         "sv" : {
@@ -24899,7 +24997,8 @@
             "value" : "輸入付款備註…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterProjectNameDots" : {
       "comment" : "Placeholder for entering a project name",
@@ -25151,7 +25250,8 @@
             "value" : "輸入項目名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterRecipientsNameDots" : {
       "comment" : "Placeholder for entering the recipient's name",
@@ -25171,7 +25271,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix nom del destinatari…"
+            "value" : "Introdueix el nom del destinatari…"
           }
         },
         "cs" : {
@@ -25237,13 +25337,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir le nom du destinataire…"
+            "value" : "Entrez le nom du destinataire…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom du destinataire…"
+            "value" : "Entrez le nom du destinataire…"
           }
         },
         "he" : {
@@ -25351,7 +25451,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte meno príjemcu…"
+            "value" : "Zadaj meno príjemcu…"
           }
         },
         "sv" : {
@@ -25387,7 +25487,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入收件人姓名…"
+            "value" : "请输入收件人姓名…"
           }
         },
         "zh-Hant" : {
@@ -25399,10 +25499,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收款人姓名…"
+            "value" : "輸入收件人姓名…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTaxIDDots" : {
       "comment" : "Placeholder for entering a tax identification number",
@@ -25471,7 +25572,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir identificación fiscal…"
+            "value" : "Introduce la identificación fiscal…"
           }
         },
         "es-419" : {
@@ -25591,7 +25692,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti ID-ul de taxă…"
+            "value" : "Introduceți ID-ul de taxă…"
           }
         },
         "ru" : {
@@ -25654,7 +25755,8 @@
             "value" : "輸入稅號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchDocumentsDots" : {
       "comment" : "Placeholder for searching documents",
@@ -25674,7 +25776,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerca documents..."
+            "value" : "Cercar documents..."
           }
         },
         "cs" : {
@@ -25788,7 +25890,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ドキュメントを検索…"
+            "value" : "ドキュメントを検索中…"
           }
         },
         "kk" : {
@@ -25800,7 +25902,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "문서 검색…"
+            "value" : "문서 검색 중…"
           }
         },
         "ms" : {
@@ -25818,7 +25920,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek documenten…"
+            "value" : "Zoeken in documenten…"
           }
         },
         "pl" : {
@@ -25905,7 +26007,8 @@
             "value" : "搜索文件…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

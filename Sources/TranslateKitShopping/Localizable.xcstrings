@@ -163,7 +163,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aan Winkelwagentje Toevoegen"
+            "value" : "Winkelwagen Toevoegen"
           }
         },
         "pl" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sepet Ekle"
+            "value" : "Sepete Ekle"
           }
         },
         "uk" : {
@@ -250,7 +250,8 @@
             "value" : "加入購物車"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding an item to a favorites list",
@@ -288,7 +289,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Als Favoriten sichern"
+            "value" : "Zu Favoriten hinzufügen"
           }
         },
         "el" : {
@@ -414,7 +415,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zet in favorieten"
+            "value" : "Toevoegen aan Favorieten"
           }
         },
         "pl" : {
@@ -501,7 +502,8 @@
             "value" : "加至我的最愛"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.applyCoupon" : {
       "comment" : "Use when applying a discount coupon or code",
@@ -689,7 +691,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică Coupon"
+            "value" : "Aplică cupon"
           }
         },
         "ru" : {
@@ -752,7 +754,8 @@
             "value" : "應用優惠券"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use when applying a filter to narrow down search results",
@@ -904,7 +907,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terapkan Penapis"
+            "value" : "Selaraskan"
           }
         },
         "nb" : {
@@ -1003,7 +1006,8 @@
             "value" : "套用過濾器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when booking an item or service for immediate action",
@@ -1119,7 +1123,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foglalás most"
+            "value" : "Foglalás Most"
           }
         },
         "id" : {
@@ -1254,7 +1258,8 @@
             "value" : "立即預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.buy" : {
       "comment" : "Use when purchasing a product or service",
@@ -1505,7 +1510,8 @@
             "value" : "購買"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.buyNow" : {
       "comment" : "Use when immediately purchasing an item or service",
@@ -1756,7 +1762,8 @@
             "value" : "立即購買"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkout" : {
       "comment" : "Use when proceeding to the payment page for an order",
@@ -1867,7 +1874,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokušaj"
+            "value" : "Blagajna"
           }
         },
         "hu" : {
@@ -1957,7 +1964,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokladňa"
+            "value" : "Prejsť k platbe"
           }
         },
         "sv" : {
@@ -2008,7 +2015,8 @@
             "value" : "结账"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing products or prices",
@@ -2260,7 +2268,8 @@
             "value" : "比較"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.comparePrices" : {
       "comment" : "Use when comparing prices between different products",
@@ -2511,7 +2520,8 @@
             "value" : "比較價格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.findInStore" : {
       "comment" : "Use when searching for an item available in a physical store",
@@ -2763,7 +2773,8 @@
             "value" : "在商店查找"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.orderNow" : {
       "comment" : "Use when placing an order for immediate purchase",
@@ -2903,7 +2914,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қазір тапсырыс беру"
+            "value" : "Жедел тапсырыс беру"
           }
         },
         "ko" : {
@@ -3014,7 +3025,8 @@
             "value" : "立即訂購"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.placeOrder" : {
       "comment" : "Use when confirming and placing an order",
@@ -3113,7 +3125,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מקום הזמנה"
+            "value" : "בצע הזמנה"
           }
         },
         "hi" : {
@@ -3266,7 +3278,8 @@
             "value" : "下訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.preOrder" : {
       "comment" : "Use when ordering a product before its release date",
@@ -3341,7 +3354,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pre-pedido"
+            "value" : "Preordenar"
           }
         },
         "fi" : {
@@ -3377,7 +3390,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preporuči unaprijed"
+            "value" : "Unaprijed naruči"
           }
         },
         "hu" : {
@@ -3431,7 +3444,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vorf bestellen"
+            "value" : "Voorbestellen"
           }
         },
         "pl" : {
@@ -3473,7 +3486,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Förhandsbeställa"
+            "value" : "Förbeställa"
           }
         },
         "th" : {
@@ -3518,7 +3531,8 @@
             "value" : "預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.proceedToCheckout" : {
       "comment" : "Use when moving to the checkout page to complete a purchase",
@@ -3769,7 +3783,8 @@
             "value" : "繼續結帳"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rateProduct" : {
       "comment" : "Use when rating or reviewing a product",
@@ -4021,7 +4036,8 @@
             "value" : "評分產品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeFromCart" : {
       "comment" : "Use when removing an item from the shopping cart",
@@ -4186,7 +4202,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verwijderen uit Winkelwagentje"
+            "value" : "Breng Fouten uit"
           }
         },
         "pl" : {
@@ -4273,7 +4289,8 @@
             "value" : "從購物車移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeFromWishlist" : {
       "comment" : "Use when removing an item from the wishlist",
@@ -4372,7 +4389,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לְהַסִּיר מִרְשֶּׁתֶת"
+            "value" : "הסר מרשימת המשאלות"
           }
         },
         "hi" : {
@@ -4525,7 +4542,8 @@
             "value" : "從願望清單中移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reviewPurchase" : {
       "comment" : "Use when reviewing or confirming a completed purchase",
@@ -4777,7 +4795,8 @@
             "value" : "檢閱購買"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving an item for future purchase or review",
@@ -4923,7 +4942,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "나중에 저장"
+            "value" : "나중에 저장하기"
           }
         },
         "ms" : {
@@ -5028,7 +5047,8 @@
             "value" : "稍後保存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scan" : {
       "comment" : "Use when scanning a barcode or QR code for products",
@@ -5036,7 +5056,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "نسخة ضوئية"
+            "value" : "المسح الضوئي"
           }
         },
         "bg" : {
@@ -5279,7 +5299,8 @@
             "value" : "掃描"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scanQRCode" : {
       "comment" : "Use when scanning a QR code to obtain information",
@@ -5401,7 +5422,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scan Kode QR"
+            "value" : "Pindai QR Code"
           }
         },
         "it" : {
@@ -5530,7 +5551,8 @@
             "value" : "掃描 QR 碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.share" : {
       "comment" : "Use when sharing product details or a shopping list",
@@ -5781,7 +5803,8 @@
             "value" : "分享"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sortByDate" : {
       "comment" : "Use when sorting items by date of addition or release",
@@ -6032,7 +6055,8 @@
             "value" : "按日期排序"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startShopping" : {
       "comment" : "Use when beginning a shopping session or browsing products",
@@ -6172,7 +6196,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сауда жасауға кірісу"
+            "value" : "Сауда жасауды бастау"
           }
         },
         "ko" : {
@@ -6283,7 +6307,8 @@
             "value" : "開始購物"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a service or product",
@@ -6327,7 +6352,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συνδρομή"
+            "value" : "Εγγραφή"
           }
         },
         "en" : {
@@ -6531,10 +6556,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閲"
+            "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribeSave" : {
       "comment" : "Use when subscribing to a service or product for discounts",
@@ -6578,7 +6604,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψου & Εξοικονόμησε"
+            "value" : "Συνδρομή & Οικονομία"
           }
         },
         "en" : {
@@ -6656,7 +6682,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langganan & Hemat"
+            "value" : "Berlangganan & Hemat"
           }
         },
         "it" : {
@@ -6668,7 +6694,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "購読して保存"
+            "value" : "購読して節約"
           }
         },
         "kk" : {
@@ -6728,7 +6754,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подписаться и экономить"
+            "value" : "Подписаться и сэкономить"
           }
         },
         "sk" : {
@@ -6785,7 +6811,8 @@
             "value" : "訂閱及省錢"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use when checking the status or tracking a purchase",
@@ -6853,7 +6880,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear pedido"
+            "value" : "Rastrear Pedido"
           }
         },
         "es-419" : {
@@ -7036,7 +7063,8 @@
             "value" : "追蹤訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewCart" : {
       "comment" : "Use when viewing the contents of the shopping cart",
@@ -7225,7 +7253,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi Cosul"
+            "value" : "Vezi Coșul"
           }
         },
         "ru" : {
@@ -7288,7 +7316,8 @@
             "value" : "查看購物車"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing more detailed information about a product",
@@ -7416,7 +7445,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vedi dettagli"
+            "value" : "Visualizza dettagli"
           }
         },
         "ja" : {
@@ -7470,7 +7499,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver detalhes"
+            "value" : "Ver Detalhes"
           }
         },
         "ro" : {
@@ -7539,7 +7568,8 @@
             "value" : "檢視詳細資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewListings" : {
       "comment" : "Use when browsing or searching listings of products",
@@ -7790,7 +7820,8 @@
             "value" : "查看列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewReviews" : {
       "comment" : "Use when viewing customer reviews of a product",
@@ -8042,7 +8073,8 @@
             "value" : "查看評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.wishlist" : {
       "comment" : "Use when managing a list of favorite or desired products",
@@ -8117,7 +8149,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lista de Deseos"
+            "value" : "lista de deseos"
           }
         },
         "fi" : {
@@ -8294,7 +8326,8 @@
             "value" : "願望清單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.announcement" : {
       "comment" : "Use for special announcements or updates",
@@ -8546,7 +8579,8 @@
             "value" : "公告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.availability" : {
       "comment" : "Use when indicating the availability of an item",
@@ -8798,7 +8832,8 @@
             "value" : "可用性"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use for listing the most popular or best-selling products",
@@ -9049,7 +9084,8 @@
             "value" : "暢銷商品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.billingStatus" : {
       "comment" : "Use when displaying the payment status of an order",
@@ -9300,7 +9336,8 @@
             "value" : "帳單狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.brand" : {
       "comment" : "Use for the brand or manufacturer of a product",
@@ -9552,7 +9589,8 @@
             "value" : "品牌"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cart" : {
       "comment" : "Use when referring to the shopping cart",
@@ -9804,7 +9842,8 @@
             "value" : "购物车"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cartTotal" : {
       "comment" : "Use when displaying the total amount in the shopping cart",
@@ -9879,7 +9918,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total del carrito"
+            "value" : "Total del Carrito"
           }
         },
         "fi" : {
@@ -10056,7 +10095,8 @@
             "value" : "购物车总计"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.category" : {
       "comment" : "Use for product categories or classifications",
@@ -10307,7 +10347,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.delivery" : {
       "comment" : "Use when referring to the delivery or shipping of items",
@@ -10559,7 +10600,8 @@
             "value" : "配送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deliveryStatus" : {
       "comment" : "Use when indicating the status of a delivery",
@@ -10810,7 +10852,8 @@
             "value" : "派送狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deliveryTime" : {
       "comment" : "Use when displaying estimated delivery times",
@@ -11061,7 +11104,8 @@
             "value" : "派送時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.discount" : {
       "comment" : "Use when displaying a discount applied to a product",
@@ -11094,7 +11138,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rabatt"
+            "value" : "Rabat"
           }
         },
         "de" : {
@@ -11313,7 +11357,8 @@
             "value" : "折扣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for estimated arrival times for shipping",
@@ -11564,7 +11609,8 @@
             "value" : "預計到達時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.estimatedDelivery" : {
       "comment" : "Use for estimated delivery dates or timeframes",
@@ -11710,7 +11756,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "예상 배송 시간"
+            "value" : "예상 배송"
           }
         },
         "ms" : {
@@ -11815,7 +11861,8 @@
             "value" : "預計派送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.freeShipping" : {
       "comment" : "Use when indicating that shipping is free",
@@ -11902,7 +11949,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Framework"
+            "value" : "Livraison gratuite"
           }
         },
         "fr-CA" : {
@@ -12067,7 +12114,8 @@
             "value" : "免費運送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.inStock" : {
       "comment" : "Use when displaying availability of a product in stock",
@@ -12087,7 +12135,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En Estoc"
+            "value" : "En estoc"
           }
         },
         "cs" : {
@@ -12171,7 +12219,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टॉक में"
+            "value" : "खाली स्टॉक में"
           }
         },
         "hr" : {
@@ -12318,7 +12366,8 @@
             "value" : "有存貨"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.inventory" : {
       "comment" : "Use when displaying or managing product inventory levels",
@@ -12338,7 +12387,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inventari"
+            "value" : "Llista"
           }
         },
         "cs" : {
@@ -12362,7 +12411,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποθεματικό"
+            "value" : "Δείκτης"
           }
         },
         "en" : {
@@ -12569,7 +12618,8 @@
             "value" : "庫存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.item" : {
       "comment" : "Use when referring to a specific product or product unit",
@@ -12709,7 +12759,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тармақ"
+            "value" : "Зат"
           }
         },
         "ko" : {
@@ -12739,7 +12789,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rzecz"
+            "value" : "Wydanie"
           }
         },
         "pt-BR" : {
@@ -12763,7 +12813,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Объект пользователя"
+            "value" : "Элемент"
           }
         },
         "sk" : {
@@ -12820,7 +12870,8 @@
             "value" : "項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.itemPrice" : {
       "comment" : "Use when displaying the price of a product or item",
@@ -12907,7 +12958,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prix de l'Article"
+            "value" : "Prix de l'article"
           }
         },
         "fr-CA" : {
@@ -13072,7 +13123,8 @@
             "value" : "物品價格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.newArrivals" : {
       "comment" : "Use when displaying new products or recently released items",
@@ -13182,7 +13234,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jako najnoviji dodaci"
+            "value" : "Novopridošli"
           }
         },
         "hu" : {
@@ -13224,7 +13276,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kedatangan Baru"
+            "value" : "Kedatangan Baharu"
           }
         },
         "nb" : {
@@ -13323,7 +13375,8 @@
             "value" : "新到貨品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use for tracking past orders or purchase history",
@@ -13574,7 +13627,8 @@
             "value" : "訂單歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.outOfStock" : {
       "comment" : "Use when indicating a product is unavailable",
@@ -13690,7 +13744,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Készleten Nincs"
+            "value" : "Készlethiány"
           }
         },
         "id" : {
@@ -13825,7 +13879,8 @@
             "value" : "缺貨"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.paymentMethods" : {
       "comment" : "Use for displaying available payment options",
@@ -13899,7 +13954,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Métodos de Pago"
+            "value" : "Métodos de pago"
           }
         },
         "fi" : {
@@ -13947,7 +14002,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metode Pembayaran"
+            "value" : "Metode-metode Pembayaran"
           }
         },
         "it" : {
@@ -14076,7 +14131,8 @@
             "value" : "付款方法"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.popularCategories" : {
       "comment" : "Use for displaying the most popular product categories",
@@ -14327,7 +14383,8 @@
             "value" : "熱門類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.price" : {
       "comment" : "Use when displaying the cost or price of a product",
@@ -14360,7 +14417,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurs"
+            "value" : "Pris"
           }
         },
         "de" : {
@@ -14414,13 +14471,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cours"
+            "value" : "Prix"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cours"
+            "value" : "Prix"
           }
         },
         "he" : {
@@ -14474,7 +14531,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "주가"
+            "value" : "가격"
           }
         },
         "ms" : {
@@ -14546,7 +14603,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ücret"
+            "value" : "Fiyat"
           }
         },
         "uk" : {
@@ -14579,7 +14636,8 @@
             "value" : "價格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.productDetails" : {
       "comment" : "Use when displaying detailed information about a product",
@@ -14648,7 +14706,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detalles del Producto"
+            "value" : "Detalles del producto"
           }
         },
         "es-419" : {
@@ -14831,7 +14889,8 @@
             "value" : "產品詳情"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.promotion" : {
       "comment" : "Use for product promotions, deals, or sales",
@@ -15083,7 +15142,8 @@
             "value" : "促銷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.quantity" : {
       "comment" : "Use when displaying or selecting the amount of an item",
@@ -15335,7 +15395,8 @@
             "value" : "數量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reviews" : {
       "comment" : "Use when displaying customer reviews or ratings for a product",
@@ -15586,7 +15647,8 @@
             "value" : "評價"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.shoppingCart" : {
       "comment" : "Use for referring to the cart containing selected items",
@@ -15837,7 +15899,8 @@
             "value" : "購物車"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.addedToCartSuccessfully" : {
       "comment" : "Confirmation when an item has been added to the cart",
@@ -15996,7 +16059,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lagt i handlekurv."
+            "value" : "Lagt til i handlekurv."
           }
         },
         "nl" : {
@@ -16089,7 +16152,8 @@
             "value" : "成功添加到購物車。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.addedToWishlist" : {
       "comment" : "Confirmation when an item has been added to the wishlist",
@@ -16104,7 +16168,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавено в списъка с желания."
+            "value" : "Добавено в списъка с желания"
           }
         },
         "ca" : {
@@ -16212,7 +16276,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berhasil ditambahkan ke daftar keinginan."
+            "value" : "Ditambahkan ke daftar keinginan"
           }
         },
         "it" : {
@@ -16284,7 +16348,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавлено в список желаемого."
+            "value" : "Добавлено в список желаемого"
           }
         },
         "sk" : {
@@ -16341,7 +16405,8 @@
             "value" : "已添加至願望清單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.cartIsEmpty" : {
       "comment" : "Message when the shopping cart is empty",
@@ -16374,7 +16439,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurv er tom."
+            "value" : "Kurven er tom."
           }
         },
         "de" : {
@@ -16422,7 +16487,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ostoskori on tyhjö."
+            "value" : "Ostoskori on tyhjä."
           }
         },
         "fr" : {
@@ -16494,7 +16559,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Troli adalah kosong."
+            "value" : "Troli kosong."
           }
         },
         "nb" : {
@@ -16518,7 +16583,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carrinho está vazio."
+            "value" : "O carrinho está vazio."
           }
         },
         "pt-PT" : {
@@ -16590,10 +16655,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "購物車是空的。"
+            "value" : "購物車內是空的。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.discountCodeApplied" : {
       "comment" : "Confirmation when a discount code has been successfully applied",
@@ -16626,7 +16692,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rabattkode anvendt."
+            "value" : "Rabodetakode anvendt."
           }
         },
         "de" : {
@@ -16818,7 +16884,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Код знижки застосовано."
+            "value" : "Код знижки застосований."
           }
         },
         "vi" : {
@@ -16845,7 +16911,8 @@
             "value" : "優惠碼已應用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.itemCurrentlyOutOfStock" : {
       "comment" : "Message when an item is out of stock",
@@ -16974,7 +17041,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Articolo attualmente esaurito."
+            "value" : "Articolo attualmente non disponibile."
           }
         },
         "ja" : {
@@ -17022,13 +17089,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Item fora de estoque."
+            "value" : "Item atualmente fora de estoque."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Produto atualmente fora de stock."
+            "value" : "Produto atualmente fora de estoque."
           }
         },
         "ro" : {
@@ -17058,7 +17125,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สินค้าไม่มีในสต็อกในขณะนี้."
+            "value" : "สินค้าไม่มีในสต็อกในขณะนี้"
           }
         },
         "tr" : {
@@ -17097,7 +17164,8 @@
             "value" : "該商品目前缺貨。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.itemHasBeenShipped" : {
       "comment" : "Confirmation when an item has been shipped",
@@ -17190,7 +17258,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Produit a été expédié."
+            "value" : "Le produit a été expédié."
           }
         },
         "he" : {
@@ -17349,7 +17417,8 @@
             "value" : "商品已發貨。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.itemRemovedFromCart" : {
       "comment" : "Confirmation when an item is removed from the cart",
@@ -17514,7 +17583,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel is uit de winkelwagentje verwijderd."
+            "value" : "Artikel is uit de winkelwagen verwijderd."
           }
         },
         "pl" : {
@@ -17601,7 +17670,8 @@
             "value" : "商品已從購物車中移除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.maximumQuantityReached" : {
       "comment" : "Message when the maximum quantity for an item is reached",
@@ -17628,7 +17698,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Byla dosažena maximální množství."
+            "value" : "Bylo dosaženo maximálního množství."
           }
         },
         "da" : {
@@ -17853,7 +17923,8 @@
             "value" : "已達到最大數量。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noReviewsYet" : {
       "comment" : "Message when no reviews are available for an item",
@@ -17880,7 +17951,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádné recenze zatím."
+            "value" : "Žádné recenze zatím nejsou."
           }
         },
         "da" : {
@@ -18030,7 +18101,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma avaliação ainda."
+            "value" : "Nenhuma avaliação disponível ainda."
           }
         },
         "pt-PT" : {
@@ -18042,7 +18113,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niciun review încă."
+            "value" : "Nicio recenzie încă."
           }
         },
         "ru" : {
@@ -18105,7 +18176,8 @@
             "value" : "尚無評價。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.orderConfirmationSent" : {
       "comment" : "Confirmation when the order confirmation has been sent",
@@ -18357,7 +18429,8 @@
             "value" : "訂單確認已發送。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.orderIsOnTheWay" : {
       "comment" : "Message indicating that an order is on the way",
@@ -18609,7 +18682,8 @@
             "value" : "訂單已在途中。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.orderPlacedSuccessfully" : {
       "comment" : "Confirmation when an order has been successfully placed",
@@ -18690,7 +18764,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilatu onnistuneesti."
+            "value" : "Onnistuneesti tilattu."
           }
         },
         "fr" : {
@@ -18861,7 +18935,8 @@
             "value" : "訂單已成功下達。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.paymentDeclined" : {
       "comment" : "Message when the payment is declined",
@@ -19113,7 +19188,8 @@
             "value" : "支付被拒絕。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.promoCodeApplied" : {
       "comment" : "Confirmation when a promo code is applied successfully",
@@ -19128,7 +19204,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кода на промоцията е приложен."
+            "value" : "Кодът за промоция е приложен."
           }
         },
         "ca" : {
@@ -19146,7 +19222,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rabattkode anvendt."
+            "value" : "Rabalkode anvendt."
           }
         },
         "de" : {
@@ -19212,7 +19288,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "קוד הקידום הוחל."
+            "value" : "הקוד של המבצע הוחל."
           }
         },
         "hi" : {
@@ -19365,7 +19441,8 @@
             "value" : "促銷代碼已成功應用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourOrderHasBeenPlacedSuccessfully" : {
       "comment" : "Confirmation when the order has been successfully placed",
@@ -19379,7 +19456,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вашата поръчка е направена успешно!"
+            "value" : "Успешно направена е поръчката ти!"
           }
         },
         "ca" : {
@@ -19439,7 +19516,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Tu orden ha sido realizada exitosamente!"
+            "value" : "¡Tu pedido ha sido realizado exitosamente!"
           }
         },
         "fi" : {
@@ -19475,7 +19552,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaša narudžba je uspješno postavljena!"
+            "value" : "Tvoja narudžba je uspješno postavljena!"
           }
         },
         "hu" : {
@@ -19547,7 +19624,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A sua encomenda foi realizada com sucesso!"
+            "value" : "A tua encomenda foi realizada com sucesso!"
           }
         },
         "ro" : {
@@ -19601,13 +19678,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的订单已成功提交！"
+            "value" : "你的订单已成功提交！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的訂單已成功下單！"
+            "value" : "你的訂單已成功下單！"
           }
         },
         "zh-HK" : {
@@ -19616,7 +19693,8 @@
             "value" : "你的訂單已成功下單！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addADeliveryNoteDots" : {
       "comment" : "Placeholder for entering special delivery instructions",
@@ -19840,7 +19918,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати накладну…"
+            "value" : "Додати примітку до доставки…"
           }
         },
         "vi" : {
@@ -19867,7 +19945,8 @@
             "value" : "新增配送說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAddressDots" : {
       "comment" : "Placeholder for entering an address",
@@ -19935,7 +20014,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir dirección…"
+            "value" : "Ingresa dirección…"
           }
         },
         "es-419" : {
@@ -19953,7 +20032,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer une adresse…"
+            "value" : "Entrez l'adresse…"
           }
         },
         "fr-CA" : {
@@ -20007,7 +20086,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мекенжайды енгізіңіз…"
+            "value" : "Мекенжай енгізіңіз…"
           }
         },
         "ko" : {
@@ -20103,7 +20182,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入地址…"
+            "value" : "请输入地址…"
           }
         },
         "zh-Hant" : {
@@ -20118,7 +20197,8 @@
             "value" : "輸入地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAmountDots" : {
       "comment" : "Placeholder for entering a monetary amount",
@@ -20369,7 +20449,8 @@
             "value" : "輸入金額…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCardNumberDots" : {
       "comment" : "Placeholder for entering payment card details",
@@ -20389,7 +20470,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix número de targeta…"
+            "value" : "Introdueix el número de targeta…"
           }
         },
         "cs" : {
@@ -20461,7 +20542,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le numéro de carte…"
+            "value" : "Entrez le numéro de carte…"
           }
         },
         "he" : {
@@ -20557,7 +20638,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numarul cardului…"
+            "value" : "Introdu numărul cardului…"
           }
         },
         "ru" : {
@@ -20587,7 +20668,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kart numarasını girin…"
+            "value" : "Kart numarasını gir…"
           }
         },
         "uk" : {
@@ -20620,7 +20701,8 @@
             "value" : "輸入信用卡號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCityNameDots" : {
       "comment" : "Placeholder for entering a city name (e.g., for shipping)",
@@ -20640,7 +20722,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix nom de la ciutat…"
+            "value" : "Introdueix el nom de la ciutat…"
           }
         },
         "cs" : {
@@ -20706,13 +20788,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir le nom de la ville…"
+            "value" : "Entrez le nom de la ville…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom de la ville…"
+            "value" : "Entrez le nom de la ville…"
           }
         },
         "he" : {
@@ -20748,7 +20830,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci nome della città…"
+            "value" : "Inserisci il nome della città…"
           }
         },
         "ja" : {
@@ -20808,7 +20890,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele orasului…"
+            "value" : "Introdu numele orașului…"
           }
         },
         "ru" : {
@@ -20820,7 +20902,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte názov mesta…"
+            "value" : "Zadaj názov mesta…"
           }
         },
         "sv" : {
@@ -20838,7 +20920,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şehir adını girin…"
+            "value" : "Şehir adını gir…"
           }
         },
         "uk" : {
@@ -20871,7 +20953,8 @@
             "value" : "輸入城市名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCouponCodeDots" : {
       "comment" : "Placeholder for entering a coupon code",
@@ -21084,7 +21167,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสคูปอง…"
+            "value" : "กรอกรหัสคูปอง…"
           }
         },
         "tr" : {
@@ -21123,7 +21206,8 @@
             "value" : "輸入優惠券代碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDiscountCodeDots" : {
       "comment" : "Placeholder for entering a discount code",
@@ -21215,13 +21299,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le code de réduction…"
+            "value" : "Entrez le code de réduction…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן קוד הנחה…"
+            "value" : "הכנס קוד הנחה…"
           }
         },
         "hi" : {
@@ -21335,7 +21419,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรอกรหัสส่วนลด…"
+            "value" : "กรุณาใส่รหัสส่วนลด…"
           }
         },
         "tr" : {
@@ -21374,7 +21458,8 @@
             "value" : "輸入折扣碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPromoCodeDots" : {
       "comment" : "Placeholder for entering a promotional code",
@@ -21407,7 +21492,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast promo kode…"
+            "value" : "Indtast promokode…"
           }
         },
         "de" : {
@@ -21563,7 +21648,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti codul promoțional…"
+            "value" : "Introdu codul promoțional…"
           }
         },
         "ru" : {
@@ -21626,7 +21711,8 @@
             "value" : "輸入優惠碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterRecipientsNameDots" : {
       "comment" : "Placeholder for entering the recipient's name",
@@ -21646,7 +21732,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix nom del destinatari…"
+            "value" : "Introdueix el nom del destinatari…"
           }
         },
         "cs" : {
@@ -21712,13 +21798,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir le nom du destinataire…"
+            "value" : "Entrez le nom du destinataire…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le nom du destinataire…"
+            "value" : "Entrez le nom du destinataire…"
           }
         },
         "he" : {
@@ -21826,7 +21912,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte meno príjemcu…"
+            "value" : "Zadaj meno príjemcu…"
           }
         },
         "sv" : {
@@ -21862,7 +21948,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入收件人姓名…"
+            "value" : "请输入收件人姓名…"
           }
         },
         "zh-Hant" : {
@@ -21874,10 +21960,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收款人姓名…"
+            "value" : "輸入收件人姓名…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterShippingAddressDots" : {
       "comment" : "Placeholder for entering a shipping address",
@@ -21897,7 +21984,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix adreça de lliurament…"
+            "value" : "Introdueix l'adreça de lliurament…"
           }
         },
         "cs" : {
@@ -21963,13 +22050,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisir l'adresse de livraison…"
+            "value" : "Entrez l'adresse d'expédition…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer l'adresse de livraison…"
+            "value" : "Entrez l'adresse de livraison…"
           }
         },
         "he" : {
@@ -22005,7 +22092,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci indirizzo di spedizione…"
+            "value" : "Inserisci l'indirizzo di spedizione…"
           }
         },
         "ja" : {
@@ -22113,7 +22200,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入收货地址…"
+            "value" : "请输入收货地址…"
           }
         },
         "zh-Hant" : {
@@ -22128,7 +22215,8 @@
             "value" : "輸入送貨地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterZIPCodeDots" : {
       "comment" : "Placeholder for entering a postal or ZIP code",
@@ -22202,7 +22290,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa código postal…"
+            "value" : "Ingresa el código postal…"
           }
         },
         "fi" : {
@@ -22256,7 +22344,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci codice postale…"
+            "value" : "Inserisci il codice postale…"
           }
         },
         "ja" : {
@@ -22328,7 +22416,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte PSČ…"
+            "value" : "Zadaj PSČ…"
           }
         },
         "sv" : {
@@ -22379,7 +22467,8 @@
             "value" : "輸入郵政編碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByBrandDots" : {
       "comment" : "Placeholder for searching products by brand",
@@ -22388,7 +22477,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث حسب العلامة التجارية…"
+            "value" : "ابحث حسب العلامة التجارية…"
           }
         },
         "bg" : {
@@ -22448,7 +22537,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por marca…"
+            "value" : "Buscar por marca…"
           }
         },
         "es-419" : {
@@ -22631,7 +22720,8 @@
             "value" : "按品牌搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByCategoryDots" : {
       "comment" : "Placeholder for searching products by category",
@@ -22640,7 +22730,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث حسب الفئة…"
+            "value" : "ابحث حسب الفئة…"
           }
         },
         "bg" : {
@@ -22700,7 +22790,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por categoría…"
+            "value" : "Buscar por categoría…"
           }
         },
         "es-419" : {
@@ -22718,7 +22808,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche par catégorie…"
+            "value" : "Rechercher par catégorie…"
           }
         },
         "fr-CA" : {
@@ -22883,7 +22973,8 @@
             "value" : "按類別搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByNameDots" : {
       "comment" : "Placeholder for searching products by name",
@@ -23029,13 +23120,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이름으로 검색…"
+            "value" : "이름으로 검색 중…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cari mengikut nama…"
+            "value" : "Mencari mengikut nama…"
           }
         },
         "nb" : {
@@ -23134,7 +23225,8 @@
             "value" : "按名稱搜索…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByPriceDots" : {
       "comment" : "Placeholder for searching products by price range",
@@ -23143,7 +23235,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث حسب السعر…"
+            "value" : "نام"
           }
         },
         "bg" : {
@@ -23203,7 +23295,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por precio…"
+            "value" : "Buscar por precio…"
           }
         },
         "es-419" : {
@@ -23221,7 +23313,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche par prix…"
+            "value" : "Rechercher par prix…"
           }
         },
         "fr-CA" : {
@@ -23311,7 +23403,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando por preço…"
+            "value" : "Buscar por preço…"
           }
         },
         "pt-PT" : {
@@ -23386,7 +23478,8 @@
             "value" : "按價格搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchProductsDots" : {
       "comment" : "Placeholder for searching products in the store",
@@ -23400,7 +23493,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси продукти…"
+            "value" : "Търсене на продукти..."
           }
         },
         "ca" : {
@@ -23586,7 +23679,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadať produkty…"
+            "value" : "Hľadaj produkty…"
           }
         },
         "sv" : {
@@ -23604,7 +23697,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ürünleri Ara…"
+            "value" : "Ürünleri ara…"
           }
         },
         "uk" : {
@@ -23616,7 +23709,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tìm sản phẩm…"
+            "value" : "Tìm kiếm sản phẩm…"
           }
         },
         "zh-Hans" : {
@@ -23637,7 +23730,8 @@
             "value" : "搜索產品…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.selectDeliveryDateDots" : {
       "comment" : "Placeholder for selecting a delivery date",
@@ -23889,7 +23983,8 @@
             "value" : "選擇送貨日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.selectPaymentMethodDots" : {
       "comment" : "Placeholder for selecting a payment method",
@@ -24141,7 +24236,8 @@
             "value" : "選擇付款方法…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.selectShippingMethodDots" : {
       "comment" : "Placeholder for selecting a shipping method",
@@ -24393,7 +24489,8 @@
             "value" : "選擇運送方式…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeAReviewDots" : {
       "comment" : "Placeholder for writing a review of a product",
@@ -24437,7 +24534,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψτε μία αξιολόγηση…"
+            "value" : "Γράψε μία αξιολόγηση…"
           }
         },
         "en" : {
@@ -24644,7 +24741,8 @@
             "value" : "撰写评论…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"
