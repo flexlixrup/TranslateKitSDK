@@ -6,12 +6,12 @@
 
 What SF Symbols is for Icons, TranslateKit is for Text!
 
-Eliminate localization overhead in your Swift apps with 1000+ pre-localized strings and semantic key generation. Make app localization simple, accurate, and delightful.
+Eliminate localization overhead in your Swift apps with 2000+ pre-localized strings and semantic key generation. Make app localization simple, accurate, and delightful.
 
 ## Key Features
 
 ### 1. Pre-localized Common Strings
-Access 1,000+ ready-to-use strings in ~40 Apple platform languages across four categories. Since these are pre-localized, they won't add entries to your String Catalog – just use them directly:
+Access 2,000+ ready-to-use strings in ~40 Apple platform languages across four categories. Since these are pre-localized, they won't add entries to your String Catalog – just use them directly:
 
 ```swift
 // Actions: Interactive UI elements
@@ -58,20 +58,20 @@ You can see in the image what the simple `#tk` macro call expands to, adding an 
 
 ### Core Strings & Category-Specific Extensions
 
-To keep TranslateKit lightweight while providing comprehensive coverage, the 1,000+ pre-localized strings are organized into two tiers:
+To keep TranslateKit lightweight while providing comprehensive coverage, the 2,000+ pre-localized strings are organized into two tiers:
 
 1. **Core Strings (250+):**  
    Included in the base `TranslateKit` package, these strings are commonly used across all kinds of apps, making them universally applicable.
 
-2. **Category-Specific Extensions (~50 per category):**  
-   Each of the **27 App Store categories** has an additional module with strings tailored to that category. For example:
+2. **Category-Specific Extensions (~100 per category):**  
+   Each of the **26 App Store categories** has an additional module with strings tailored to that category. For example:
    - **Finance apps:** `import TranslateKitFinance`
    - **Productivity apps:** `import TranslateKitProductivity`
    - **Health & Fitness apps:** `import TranslateKitHealthAndFitness`
    
    These modules also include the core strings, so you only need to import the one matching your app category.
 
-With this modular approach, TranslateKit remains lightweight, adding only ~1MB to your app, making it suitable for any project—big or small.
+With this modular approach, TranslateKit remains lightweight, adding only ~1MB to your app, making it suitable for any project – big or small.
 
 
 ## Swift Package Usage
