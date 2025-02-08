@@ -56,6 +56,24 @@ String Catalogs made it challenging to maintain best practices from the Strings-
 
 You can see in the image what the simple `#tk` macro call expands to, adding an auto-derived key. These semantic keys help group related translations and provide crucial context to translators and translation tools (like the [TranslateKit Mac app](https://translatekit.app)), leading to more accurate translations while making your localization files easier to maintain.
 
+### Core Strings & Category-Specific Extensions
+
+To keep TranslateKit lightweight while providing comprehensive coverage, the 1,000+ pre-localized strings are organized into two tiers:
+
+1. **Core Strings (250+):**  
+   Included in the base `TranslateKit` package, these strings are commonly used across all kinds of apps, making them universally applicable.
+
+2. **Category-Specific Extensions (~50 per category):**  
+   Each of the **27 App Store categories** has an additional module with strings tailored to that category. For example:
+   - **Finance apps:** `import TranslateKitFinance`
+   - **Productivity apps:** `import TranslateKitProductivity`
+   - **Health & Fitness apps:** `import TranslateKitHealthAndFitness`
+   
+   These modules also include the core strings, so you only need to import the one matching your app category.
+
+With this modular approach, TranslateKit remains lightweight, adding only ~1MB to your app, making it suitable for any project—big or small.
+
+
 ## Swift Package Usage
 
 For Swift packages, use `#tkm` instead of `#tk` to reference the correct String Catalog file:
