@@ -11,7 +11,9 @@ Eliminate localization overhead in your Swift apps with 2000+ pre-localized stri
 ## Key Features
 
 ### 1. Pre-localized Common Strings
-Access 2,000+ ready-to-use strings in ~40 Apple platform languages across four categories. Since these are pre-localized, they won't add entries to your String Catalog – just use them directly:
+Access 2,000+ ready-to-use strings in ~40 Apple platform languages across four categories. These match the [officially supported iOS system languages](https://www.apple.com/ios/feature-availability/#system-language-system-language) and utilize Apple's own translations where available, ensuring consistency with the system UI. 
+
+Since they are pre-localized, they won't add entries to your String Catalog – just use them directly:
 
 ```swift
 // Actions: Interactive UI elements
