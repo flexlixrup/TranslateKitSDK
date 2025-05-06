@@ -105,6 +105,10 @@ struct FormValidator {
 
 Common reasons to localize Swift packages are that they may contain UI elements (e.g. modularized apps) or that they might provide error descriptions, which should be localized in most cases.
 
+## Troubleshooting Macros
+
+If you're using Xcode Cloud or experiencing issues with macro trust, check out our guide [Solving Swift Macro Trust Issues in Xcode Cloud Builds](https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/). This article explains how to properly configure your build settings when CI systems don't automatically trust macro packages.
+
 ## Contributing
 
 Contributions – especially additions and corrections – are welcome!
