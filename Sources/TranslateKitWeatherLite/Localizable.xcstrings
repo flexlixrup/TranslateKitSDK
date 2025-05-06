@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.calibrate" : {
       "comment" : "Use for calibrating weather-related measurements or devices",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "校准"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkForecast" : {
       "comment" : "Use for checking the weather forecast",
@@ -503,8 +501,7 @@
             "value" : "檢查天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkForUpdates" : {
       "comment" : "Use for checking updates on weather data or alerts",
@@ -755,12 +752,10 @@
             "value" : "檢查更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing different weather conditions or forecasts",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1008,8 +1003,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enableWeatherAlerts" : {
       "comment" : "Use for enabling weather-related notifications or alerts",
@@ -1260,12 +1254,10 @@
             "value" : "啟用天氣通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.forecast" : {
       "comment" : "Use for accessing or displaying the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1513,8 +1505,7 @@
             "value" : "天气预报"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a weather report",
@@ -1765,12 +1756,10 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.getForecast" : {
       "comment" : "Use for retrieving a weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2018,12 +2007,10 @@
             "value" : "获取天气预报"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.measure" : {
       "comment" : "Use for measuring weather data such as temperature, humidity, etc.",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2271,12 +2258,10 @@
             "value" : "測距儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use for continuously monitoring weather conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2524,12 +2509,10 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.observe" : {
       "comment" : "Use for observing specific weather conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2777,8 +2760,7 @@
             "value" : "觀察"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use for recording weather data or conditions",
@@ -3029,8 +3011,7 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.refreshWeatherData" : {
       "comment" : "Use for refreshing or updating weather data",
@@ -3281,8 +3262,7 @@
             "value" : "刷新天氣數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportWeatherCondition" : {
       "comment" : "Use for reporting the current weather condition",
@@ -3533,12 +3513,10 @@
             "value" : "報告天氣情況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setLocation" : {
       "comment" : "Use for setting the location for weather information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3786,8 +3764,7 @@
             "value" : "設置位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setTemperatureUnit" : {
       "comment" : "Use for selecting the unit for temperature (Celsius or Fahrenheit)",
@@ -4038,12 +4015,10 @@
             "value" : "設定溫度單位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking weather events or conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4291,8 +4266,7 @@
             "value" : "Track"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackStorm" : {
       "comment" : "Use for tracking storms or severe weather events",
@@ -4543,8 +4517,7 @@
             "value" : "追蹤風暴"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the weather forecast for the upcoming hours",
@@ -4795,8 +4768,7 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weather forecast for the upcoming week",
@@ -5047,12 +5019,10 @@
             "value" : "查看每週天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airPressure" : {
       "comment" : "Use for displaying the air pressure measurement",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5300,8 +5270,7 @@
             "value" : "氣壓"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQuality" : {
       "comment" : "Use for displaying the air quality status",
@@ -5552,8 +5521,7 @@
             "value" : "空氣質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQualityIndex" : {
       "comment" : "Use for displaying the air quality index",
@@ -5804,12 +5772,10 @@
             "value" : "空氣質素指數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alerts" : {
       "comment" : "Use for displaying weather alerts or warnings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6057,12 +6023,10 @@
             "value" : "警報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.atmosphere" : {
       "comment" : "Use for displaying atmospheric conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6310,8 +6274,7 @@
             "value" : "氛围"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for displaying urgent weather-related news",
@@ -6562,12 +6525,10 @@
             "value" : "突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.clearSkies" : {
       "comment" : "Use for displaying clear weather conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6815,12 +6776,10 @@
             "value" : "晴朗的天空"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.clouds" : {
       "comment" : "Use for displaying cloud coverage information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7068,12 +7027,10 @@
             "value" : "雲層"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.conditions" : {
       "comment" : "Use for displaying current weather conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7321,8 +7278,7 @@
             "value" : "概況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentLocation" : {
       "comment" : "Use for displaying the current location's weather data",
@@ -7573,8 +7529,7 @@
             "value" : "目前位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentTemperature" : {
       "comment" : "Use for displaying the current temperature",
@@ -7825,8 +7780,7 @@
             "value" : "當前溫度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dewPoint" : {
       "comment" : "Use for displaying the dew point temperature",
@@ -8077,8 +8031,7 @@
             "value" : "露點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.feelsLike" : {
       "comment" : "Use for displaying the apparent temperature or 'feels like' temperature",
@@ -8329,12 +8282,10 @@
             "value" : "感覺像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.forecast" : {
       "comment" : "Use for displaying the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8582,12 +8533,10 @@
             "value" : "天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gusts" : {
       "comment" : "Use for displaying wind gust information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8835,12 +8784,10 @@
             "value" : "陣風"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.high" : {
       "comment" : "Use for displaying the high temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9088,8 +9035,7 @@
             "value" : "高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.humidity" : {
       "comment" : "Use for displaying the humidity level",
@@ -9340,8 +9286,7 @@
             "value" : "濕度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latitude" : {
       "comment" : "Use for displaying the latitude of a location",
@@ -9592,12 +9537,10 @@
             "value" : "緯度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lightning" : {
       "comment" : "Use for displaying lightning activity",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9845,12 +9788,10 @@
             "value" : "閃電"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.locationServices" : {
       "comment" : "Use for enabling or displaying location services",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10098,8 +10039,7 @@
             "value" : "定位服務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.longitude" : {
       "comment" : "Use for displaying the longitude of a location",
@@ -10350,12 +10290,10 @@
             "value" : "經度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.low" : {
       "comment" : "Use for displaying the low temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10603,12 +10541,10 @@
             "value" : "低"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.moonPhase" : {
       "comment" : "Use for displaying the current phase of the moon",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10856,8 +10792,7 @@
             "value" : "月相"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.precipitation" : {
       "comment" : "Use for displaying precipitation levels",
@@ -11108,12 +11043,10 @@
             "value" : "降水量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pressure" : {
       "comment" : "Use for displaying atmospheric pressure",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11361,12 +11294,10 @@
             "value" : "氣壓"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.radar" : {
       "comment" : "Use for displaying weather radar information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11614,12 +11545,10 @@
             "value" : "雷達"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rainfall" : {
       "comment" : "Use for displaying rainfall amounts",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11867,12 +11796,10 @@
             "value" : "降雨量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.satellite" : {
       "comment" : "Use for displaying satellite weather imagery",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12120,12 +12047,10 @@
             "value" : "衛星"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.snowfall" : {
       "comment" : "Use for displaying snowfall amounts",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12373,12 +12298,10 @@
             "value" : "降雪量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.storm" : {
       "comment" : "Use for displaying storm information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12626,11 +12549,23 @@
             "value" : "暴風雨"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.sunriseAndSunset" : {
+      "comment" : "Use for displaying sunrise and sunset times",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sunrise & Sunset"
+          }
+        }
+      }
     },
     "TK.Label.sunriseSunset" : {
       "comment" : "Use for displaying sunrise and sunset times",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12878,8 +12813,7 @@
             "value" : "日出與日落"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.temperature" : {
       "comment" : "Use for displaying the current temperature",
@@ -13130,8 +13064,7 @@
             "value" : "温度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.uvIndex" : {
       "comment" : "Use for displaying the ultraviolet index",
@@ -13382,8 +13315,7 @@
             "value" : "紫外線指數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.visibility" : {
       "comment" : "Use for displaying the visibility level",
@@ -13634,12 +13566,10 @@
             "value" : "可見度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.weather" : {
       "comment" : "Use for displaying general weather information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13887,12 +13817,10 @@
             "value" : "天氣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.weatherAlerts" : {
       "comment" : "Use for displaying weather alerts or warnings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14140,12 +14068,10 @@
             "value" : "天氣警報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.windDirection" : {
       "comment" : "Use for displaying the wind direction",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14393,12 +14319,10 @@
             "value" : "風向"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.windGusts" : {
       "comment" : "Use for displaying wind gust information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14646,8 +14570,7 @@
             "value" : "風速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.windSpeed" : {
       "comment" : "Use for displaying wind speed information",
@@ -14898,12 +14821,11 @@
             "value" : "風速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.airQualityIsUnhealthyToday" : {
       "comment" : "Message indicating poor air quality",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15151,12 +15073,23 @@
             "value" : "今日空氣質素不佳。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.airQualityIsUnhealthyTodayDot" : {
+      "comment" : "Message indicating poor air quality",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Air quality is unhealthy today."
+          }
+        }
+      }
     },
     "TK.Message.chanceOfPrecipitationIsHigh" : {
       "comment" : "Message indicating a high chance of rain",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15404,11 +15337,23 @@
             "value" : "降雨機率較高。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.chanceOfPrecipitationIsHighDot" : {
+      "comment" : "Message indicating a high chance of rain",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Chance of precipitation is high."
+          }
+        }
+      }
     },
     "TK.Message.clearSkiesExpectedToday" : {
       "comment" : "Message indicating clear weather for the day",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15656,12 +15601,23 @@
             "value" : "今天預期會有晴朗的天氣。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.clearSkiesExpectedTodayDot" : {
+      "comment" : "Message indicating clear weather for the day",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear skies expected today."
+          }
+        }
+      }
     },
     "TK.Message.frostWarningForYourLocation" : {
       "comment" : "Message indicating a frost warning in effect",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15909,12 +15865,23 @@
             "value" : "您所在地區有霜凍警告。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.frostWarningForYourLocationDot" : {
+      "comment" : "Message indicating a frost warning in effect",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Frost warning for your location."
+          }
+        }
+      }
     },
     "TK.Message.heavyRainExpectedLaterToday" : {
       "comment" : "Message indicating expected heavy rain",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16162,12 +16129,23 @@
             "value" : "稍後預期會有大雨。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.heavyRainExpectedLaterTodayDot" : {
+      "comment" : "Message indicating expected heavy rain",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Heavy rain expected later today."
+          }
+        }
+      }
     },
     "TK.Message.lightningDetectedInYourArea" : {
       "comment" : "Message indicating lightning in the area",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16415,12 +16393,23 @@
             "value" : "您的區域檢測到閃電。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.lightningDetectedInYourAreaDot" : {
+      "comment" : "Message indicating lightning in the area",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lightning detected in your area."
+          }
+        }
+      }
     },
     "TK.Message.noWeatherDataAvailableForThisLocation" : {
       "comment" : "Message indicating unavailable weather data",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16668,12 +16657,23 @@
             "value" : "此位置的天氣數據不可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noWeatherDataAvailableForThisLocationDot" : {
+      "comment" : "Message indicating unavailable weather data",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No weather data available for this location."
+          }
+        }
+      }
     },
     "TK.Message.rainExpectedInTheNextHour" : {
       "comment" : "Message indicating rain expected soon",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16921,11 +16921,23 @@
             "value" : "預計在下一小時內會下雨。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.rainExpectedInTheNextHourDot" : {
+      "comment" : "Message indicating rain expected soon",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rain expected in the next hour."
+          }
+        }
+      }
     },
     "TK.Message.severeWeatherAlertInYourArea" : {
       "comment" : "Message indicating a severe weather alert",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17173,11 +17185,23 @@
             "value" : "您所在區域的嚴重天氣警報！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.severeWeatherAlertInYourAreaDot" : {
+      "comment" : "Message indicating a severe weather alert",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Severe weather alert in your area!"
+          }
+        }
+      }
     },
     "TK.Message.snowstormWarningIssuedTravelMayBeAffected" : {
       "comment" : "Message indicating a snowstorm warning",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17425,12 +17449,23 @@
             "value" : "已發佈暴風雪警告。旅行可能會受到影響。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.snowstormWarningIssuedTravelMayBeAffectedDot" : {
+      "comment" : "Message indicating a snowstorm warning",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Snowstorm warning issued. Travel may be affected."
+          }
+        }
+      }
     },
     "TK.Message.stormApproachingYourArea" : {
       "comment" : "Message indicating an approaching storm",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17678,11 +17713,23 @@
             "value" : "暴風雨即將來臨。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.stormApproachingYourAreaDot" : {
+      "comment" : "Message indicating an approaching storm",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Storm approaching your area."
+          }
+        }
+      }
     },
     "TK.Message.temperatureDropExpectedOvernight" : {
       "comment" : "Message indicating an overnight temperature drop",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17930,12 +17977,23 @@
             "value" : "預計夜間氣溫將下降。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.temperatureDropExpectedOvernightDot" : {
+      "comment" : "Message indicating an overnight temperature drop",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temperature drop expected overnight."
+          }
+        }
+      }
     },
     "TK.Message.uvIndexIsVeryHighToday" : {
       "comment" : "Message indicating a very high UV index",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18183,12 +18241,23 @@
             "value" : "今天紫外線指數非常高。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.uvIndexIsVeryHighTodayDot" : {
+      "comment" : "Message indicating a very high UV index",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "UV index is very high today."
+          }
+        }
+      }
     },
     "TK.Message.weatherStationConnectionLost" : {
       "comment" : "Message indicating the weather station is offline",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18436,11 +18505,23 @@
             "value" : "氣象站連接丟失。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.weatherStationConnectionLostDot" : {
+      "comment" : "Message indicating the weather station is offline",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Weather station connection lost."
+          }
+        }
+      }
     },
     "TK.Message.windGustsExpectedToReachDangerousLevels" : {
       "comment" : "Message indicating dangerous wind gusts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18688,12 +18769,22 @@
             "value" : "預計風速將達到危險水平。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.windGustsExpectedToReachDangerousLevelsDot" : {
+      "comment" : "Message indicating dangerous wind gusts",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Wind gusts expected to reach dangerous levels."
+          }
+        }
+      }
     },
     "TK.Placeholder.analyzingWeatherDataDots" : {
       "comment" : "Placeholder when analyzing weather data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18941,12 +19032,10 @@
             "value" : "正在分析氣象數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingTemperatureDots" : {
       "comment" : "Placeholder when calculating the temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19194,8 +19283,7 @@
             "value" : "正在計算氣溫…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCityNameDots" : {
       "comment" : "Placeholder for entering a city name",
@@ -19446,12 +19534,10 @@
             "value" : "輸入城市名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCoordinatesDots" : {
       "comment" : "Placeholder for entering geographic coordinates",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19699,12 +19785,10 @@
             "value" : "輸入坐標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLocationDots" : {
       "comment" : "Placeholder for entering a location name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19952,12 +20036,10 @@
             "value" : "輸入位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPostalCodeDots" : {
       "comment" : "Placeholder for entering a postal code",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20205,8 +20287,7 @@
             "value" : "輸入郵政編碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterZIPCodeDots" : {
       "comment" : "Placeholder for entering a ZIP code",
@@ -20457,12 +20538,10 @@
             "value" : "輸入郵政編碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fetchingForecastDots" : {
       "comment" : "Placeholder when fetching the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20710,12 +20789,10 @@
             "value" : "正在獲取天氣預報…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fetchingRadarDataDots" : {
       "comment" : "Placeholder when fetching radar data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20963,12 +21040,10 @@
             "value" : "正在獲取雷達數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fetchingSatelliteDataDots" : {
       "comment" : "Placeholder when fetching satellite data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21216,12 +21291,10 @@
             "value" : "正在獲取衛星數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fetchingWeatherAlertsDots" : {
       "comment" : "Placeholder when fetching weather alerts",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21469,12 +21542,10 @@
             "value" : "正在獲取天氣警報…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fetchingWeatherDataDots" : {
       "comment" : "Placeholder when fetching weather data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21722,12 +21793,10 @@
             "value" : "正在獲取天氣數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingForecastDots" : {
       "comment" : "Placeholder when loading the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21975,12 +22044,10 @@
             "value" : "加載天氣預報中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingRadarDataDots" : {
       "comment" : "Placeholder when loading radar data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22228,12 +22295,10 @@
             "value" : "加載雷達數據中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingWeatherDataDots" : {
       "comment" : "Placeholder when loading weather data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22481,12 +22546,10 @@
             "value" : "加載天氣數據中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.locatingNearestStationDots" : {
       "comment" : "Placeholder when locating the nearest weather station",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22734,12 +22797,10 @@
             "value" : "定位最近的車站…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.measuringTemperatureDots" : {
       "comment" : "Placeholder when measuring temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22987,12 +23048,10 @@
             "value" : "測量溫度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.measuringWindSpeedDots" : {
       "comment" : "Placeholder when measuring wind speed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23240,12 +23299,10 @@
             "value" : "測量風速…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.scanningForStormsDots" : {
       "comment" : "Placeholder when scanning for storms",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23493,12 +23550,10 @@
             "value" : "正在掃描風暴…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingForecastDots" : {
       "comment" : "Placeholder when updating the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23746,8 +23801,7 @@
             "value" : "更新預報…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

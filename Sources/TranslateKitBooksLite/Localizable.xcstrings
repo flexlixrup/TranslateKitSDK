@@ -3,6 +3,7 @@
   "strings" : {
     "ISBN" : {
       "comment" : "Use when displaying the ISBN number of a book",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -250,12 +251,10 @@
             "value" : "ISBN"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addBookmark" : {
       "comment" : "Use when marking a specific page or position in a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -503,12 +502,10 @@
             "value" : "添加书签"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addNote" : {
       "comment" : "Use when creating a new annotation or comment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -756,8 +753,7 @@
             "value" : "添加注释"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when importing books into the user's collection",
@@ -1008,8 +1004,7 @@
             "value" : "加至圖庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when saving books for later reading",
@@ -1260,12 +1255,10 @@
             "value" : "加至閲讀列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.annotate" : {
       "comment" : "Use when adding notes or comments to text",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1513,8 +1506,7 @@
             "value" : "注释"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.archive" : {
       "comment" : "Use when moving books to long-term storage",
@@ -1765,8 +1757,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when marking a page for quick access",
@@ -2017,12 +2008,10 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.browseLibrary" : {
       "comment" : "Use when exploring the book collection",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2270,12 +2259,10 @@
             "value" : "浏览图书馆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.changeFont" : {
       "comment" : "Use when modifying text appearance settings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2523,12 +2510,10 @@
             "value" : "更改字体"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyQuote" : {
       "comment" : "Use when selecting and copying text passages",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2776,8 +2761,7 @@
             "value" : "複製引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use when saving books for offline access",
@@ -3028,12 +3012,10 @@
             "value" : "下載離線內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editBookmark" : {
       "comment" : "Use when modifying existing bookmark details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3281,12 +3263,10 @@
             "value" : "編輯書簽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editNote" : {
       "comment" : "Use when modifying existing annotations",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3534,12 +3514,10 @@
             "value" : "編輯便條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportHighlights" : {
       "comment" : "Use when saving highlighted passages",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3787,12 +3765,10 @@
             "value" : "導出重點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportNotes" : {
       "comment" : "Use when saving annotations and comments",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4040,12 +4016,10 @@
             "value" : "導出便條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.goToChapter" : {
       "comment" : "Use when navigating to specific book sections",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4293,12 +4267,10 @@
             "value" : "前往章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.goToPage" : {
       "comment" : "Use when jumping to specific page numbers",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4546,8 +4518,7 @@
             "value" : "前往页面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.highlight" : {
       "comment" : "Use when marking important text passages",
@@ -4798,12 +4769,10 @@
             "value" : "螢光標示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importBook" : {
       "comment" : "Use when adding new books to the library",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5051,8 +5020,7 @@
             "value" : "导入书籍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when completing a book",
@@ -5303,12 +5271,10 @@
             "value" : "標示為已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsUnread" : {
       "comment" : "Use when resetting book progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5556,12 +5522,10 @@
             "value" : "标记为未读"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pinBook" : {
       "comment" : "Use when keeping books easily accessible",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5809,12 +5773,10 @@
             "value" : "釘選書籍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rateBook" : {
       "comment" : "Use when providing book reviews or ratings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6062,12 +6024,10 @@
             "value" : "評分書籍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readNow" : {
       "comment" : "Use when starting to read immediately",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6315,12 +6275,10 @@
             "value" : "立即閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readOffline" : {
       "comment" : "Use when accessing downloaded books",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6568,12 +6526,10 @@
             "value" : "離線閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeBookmark" : {
       "comment" : "Use when deleting saved page markers",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6821,12 +6777,10 @@
             "value" : "移除書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeFromLibrary" : {
       "comment" : "Use when deleting books from collection",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7074,12 +7028,10 @@
             "value" : "從庫存中移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumeReading" : {
       "comment" : "Use when continuing from last position",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7327,12 +7279,10 @@
             "value" : "恢復閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveBookmark" : {
       "comment" : "Use when storing page positions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7580,12 +7530,10 @@
             "value" : "保存書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveQuote" : {
       "comment" : "Use when storing selected text passages",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7833,8 +7781,7 @@
             "value" : "保存引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when creating reading targets",
@@ -8085,8 +8032,7 @@
             "value" : "設定目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareProgress" : {
       "comment" : "Use when posting reading achievements",
@@ -8337,12 +8283,10 @@
             "value" : "分享進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startReading" : {
       "comment" : "Use when beginning a new book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8590,12 +8534,10 @@
             "value" : "開始閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.syncLibrary" : {
       "comment" : "Use when updating book collection across devices",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8843,12 +8785,10 @@
             "value" : "同步資料庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeNotes" : {
       "comment" : "Use when creating annotations while reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9096,12 +9036,10 @@
             "value" : "做筆記"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.toggleDarkMode" : {
       "comment" : "Use when switching between light and dark reading themes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9349,12 +9287,10 @@
             "value" : "切換暗黑模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewBookmarks" : {
       "comment" : "Use when accessing saved page positions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9602,12 +9538,10 @@
             "value" : "查看書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.annotations" : {
       "comment" : "Use when referring to the user's notes or highlights in a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9855,8 +9789,7 @@
             "value" : "註解"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a book",
@@ -10107,12 +10040,10 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averageRating" : {
       "comment" : "Use when showing the average user rating for a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10360,8 +10291,7 @@
             "value" : "平均评分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use when referring to top-selling books",
@@ -10612,8 +10542,7 @@
             "value" : "暢銷商品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to saved pages or sections in a book",
@@ -10864,12 +10793,10 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookTitle" : {
       "comment" : "Use when displaying the title of a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11117,8 +11044,7 @@
             "value" : "书名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
       "comment" : "Use when showing the various categories a book can belong to",
@@ -11369,12 +11295,10 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section in a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11622,12 +11546,10 @@
             "value" : "章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.collection" : {
       "comment" : "Use when referring to a user's library or book collection",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11875,12 +11797,10 @@
             "value" : "收藏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentChapter" : {
       "comment" : "Use when referring to the current chapter the user is reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12128,12 +12048,10 @@
             "value" : "當前章節"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentPage" : {
       "comment" : "Use when referring to the current page the user is on",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12381,12 +12299,10 @@
             "value" : "當前頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyProgress" : {
       "comment" : "Use when showing the user's reading progress for the day",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12634,12 +12550,10 @@
             "value" : "每日進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.darkTheme" : {
       "comment" : "Use when referring to a dark mode theme for reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12887,12 +12801,10 @@
             "value" : "黑暗主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dictionary" : {
       "comment" : "Use when providing a dictionary feature for looking up words",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13140,12 +13052,10 @@
             "value" : "辭典"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.edition" : {
       "comment" : "Use when referring to a specific version or publication of a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13393,8 +13303,7 @@
             "value" : "版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use when displaying the user's favorite books",
@@ -13645,8 +13554,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fontSize" : {
       "comment" : "Use when providing font size options for reading",
@@ -13897,8 +13805,7 @@
             "value" : "字型大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.genre" : {
       "comment" : "Use when referring to the category or genre of a book",
@@ -14149,12 +14056,23 @@
             "value" : "類型"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.isbn" : {
+      "comment" : "Use when displaying the ISBN number of a book",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ISBN"
+          }
+        }
+      }
     },
     "TK.Label.ISBN" : {
       "comment" : "Use when displaying the ISBN number of a book",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14402,12 +14320,10 @@
             "value" : "ISBN"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastRead" : {
       "comment" : "Use when showing the last time a book was read",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14655,8 +14571,7 @@
             "value" : "最後閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.library" : {
       "comment" : "Use when referring to a user's book collection or library",
@@ -14907,12 +14822,10 @@
             "value" : "資料庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lineSpacing" : {
       "comment" : "Use when adjusting the space between lines of text",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15160,8 +15073,7 @@
             "value" : "行距"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newReleases" : {
       "comment" : "Use when referring to newly released books",
@@ -15412,12 +15324,10 @@
             "value" : "新版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.nonFiction" : {
       "comment" : "Use when referring to non-fiction books",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15665,12 +15575,10 @@
             "value" : "非虛構"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to user-created notes or annotations in a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15918,8 +15826,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a specific page in a book",
@@ -16170,12 +16077,10 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pageCount" : {
       "comment" : "Use when displaying the total number of pages in a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16423,12 +16328,10 @@
             "value" : "頁數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.readingGoal" : {
       "comment" : "Use when referring to the user's reading target or goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16676,12 +16579,10 @@
             "value" : "閱讀目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.readingList" : {
       "comment" : "Use when referring to a list of books the user intends to read",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16929,12 +16830,10 @@
             "value" : "閱讀清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.readingProgress" : {
       "comment" : "Use when displaying the user's progress through a book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17182,8 +17081,7 @@
             "value" : "閱讀進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reviews" : {
       "comment" : "Use when displaying user reviews or feedback on books",
@@ -17434,12 +17332,11 @@
             "value" : "評價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.annotationSavedSuccessfully" : {
       "comment" : "Confirmation when a user saves an annotation",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17687,12 +17584,23 @@
             "value" : "註解已成功保存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.annotationSavedSuccessfullyDot" : {
+      "comment" : "Confirmation when a user saves an annotation",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Annotation saved successfully."
+          }
+        }
+      }
     },
     "TK.Message.bookAddedToLibrary" : {
       "comment" : "Confirmation when a book is added to the user's library",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17940,12 +17848,35 @@
             "value" : "書籍已添加到圖書館。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.bookAddedToLibraryDot" : {
+      "comment" : "Confirmation when a book is added to the user's library",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Book added to library."
+          }
+        }
+      }
+    },
+    "TK.Message.bookAvailableOfflineDot" : {
+      "comment" : "Notification when a book is available offline",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Book is now available offline."
+          }
+        }
+      }
     },
     "TK.Message.bookDeletedFromLibrary" : {
       "comment" : "Confirmation when a book is removed from the user's library",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18193,12 +18124,23 @@
             "value" : "書籍已從圖書館中刪除。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.bookDeletedFromLibraryDot" : {
+      "comment" : "Confirmation when a book is removed from the user's library",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Book deleted from library."
+          }
+        }
+      }
     },
     "TK.Message.bookDownloadedSuccessfully" : {
       "comment" : "Confirmation when a book has been downloaded",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18446,12 +18388,23 @@
             "value" : "書籍已成功下載。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.bookDownloadedSuccessfullyDot" : {
+      "comment" : "Confirmation when a book has been downloaded",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Book downloaded successfully."
+          }
+        }
+      }
     },
     "TK.Message.bookIsNowAvailableOffline" : {
       "comment" : "Notification when a book is available offline",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18699,12 +18652,11 @@
             "value" : "書籍現在可離線使用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.bookmarkAddedSuccessfully" : {
       "comment" : "Confirmation when a bookmark is saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18952,12 +18904,23 @@
             "value" : "已成功添加書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.bookmarkAddedSuccessfullyDot" : {
+      "comment" : "Confirmation when a bookmark is saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmark added successfully."
+          }
+        }
+      }
     },
     "TK.Message.librarySyncComplete" : {
       "comment" : "Confirmation when the user's library has been synchronized",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19205,12 +19168,23 @@
             "value" : "資料庫同步完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.librarySyncCompleteDot" : {
+      "comment" : "Confirmation when the user's library has been synchronized",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Library sync complete."
+          }
+        }
+      }
     },
     "TK.Message.noBookmarksFound" : {
       "comment" : "Message when no bookmarks are present",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19458,12 +19432,23 @@
             "value" : "未找到書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noBookmarksFoundDot" : {
+      "comment" : "Message when no bookmarks are present",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No bookmarks found."
+          }
+        }
+      }
     },
     "TK.Message.noBooksInLibrary" : {
       "comment" : "Message when the library has no books",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19711,12 +19696,23 @@
             "value" : "圖書館內沒有書籍。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noBooksInLibraryDot" : {
+      "comment" : "Message when the library has no books",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No books in library."
+          }
+        }
+      }
     },
     "TK.Message.noNotesFound" : {
       "comment" : "Message when no notes are present",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19964,12 +19960,23 @@
             "value" : "未找到筆記。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noNotesFoundDot" : {
+      "comment" : "Message when no notes are present",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No notes found."
+          }
+        }
+      }
     },
     "TK.Message.noteSavedSuccessfully" : {
       "comment" : "Confirmation when a note is saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20217,12 +20224,23 @@
             "value" : "筆記已成功保存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noteSavedSuccessfullyDot" : {
+      "comment" : "Confirmation when a note is saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note saved successfully."
+          }
+        }
+      }
     },
     "TK.Message.pageBookmarkedSuccessfully" : {
       "comment" : "Confirmation when a page is bookmarked",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20470,12 +20488,23 @@
             "value" : "頁面已成功加入書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.pageBookmarkedSuccessfullyDot" : {
+      "comment" : "Confirmation when a page is bookmarked",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Page bookmarked successfully."
+          }
+        }
+      }
     },
     "TK.Message.quoteCopiedToClipboard" : {
       "comment" : "Confirmation when a quote is copied to the clipboard",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20723,12 +20752,23 @@
             "value" : "報價已複製到剪貼板。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.quoteCopiedToClipboardDot" : {
+      "comment" : "Confirmation when a quote is copied to the clipboard",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quote copied to clipboard."
+          }
+        }
+      }
     },
     "TK.Message.readingGoalUpdatedSuccessfully" : {
       "comment" : "Confirmation when the reading goal is updated",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20976,12 +21016,23 @@
             "value" : "已成功更新閱讀目標。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.readingGoalUpdatedSuccessfullyDot" : {
+      "comment" : "Confirmation when the reading goal is updated",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading goal updated successfully."
+          }
+        }
+      }
     },
     "TK.Message.readingProgressSaved" : {
       "comment" : "Confirmation when the reading progress is saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21229,12 +21280,23 @@
             "value" : "已保存閱讀進度。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.readingProgressSavedDot" : {
+      "comment" : "Confirmation when the reading progress is saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading progress saved."
+          }
+        }
+      }
     },
     "TK.Placeholder.addABookmarkDots" : {
       "comment" : "Placeholder for adding a bookmark",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21482,12 +21544,11 @@
             "value" : "添加书签…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addANoteHereDots" : {
       "comment" : "Placeholder for adding a note",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21735,12 +21796,34 @@
             "value" : "在这里添加备注…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addBookmarkDots" : {
+      "comment" : "Placeholder for adding a bookmark",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a bookmark…"
+          }
+        }
+      }
+    },
+    "TK.Placeholder.addNoteHereDots" : {
+      "comment" : "Placeholder for adding a note",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a note here…"
+          }
+        }
+      }
     },
     "TK.Placeholder.addQuoteDots" : {
       "comment" : "Placeholder for adding a quote",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21988,12 +22071,10 @@
             "value" : "添加引文…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addReviewDots" : {
       "comment" : "Placeholder for adding a review",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22241,8 +22322,7 @@
             "value" : "添加評論…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTagsDots" : {
       "comment" : "Placeholder for adding tags",
@@ -22493,12 +22573,10 @@
             "value" : "新增標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAuthorNameDots" : {
       "comment" : "Placeholder for entering the author's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22746,12 +22824,10 @@
             "value" : "輸入作者名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBookTitleDots" : {
       "comment" : "Placeholder for entering the book title",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22999,12 +23075,10 @@
             "value" : "輸入書名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterChapterNameDots" : {
       "comment" : "Placeholder for entering the chapter name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23252,12 +23326,10 @@
             "value" : "輸入章節名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCollectionNameDots" : {
       "comment" : "Placeholder for entering the collection name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23505,12 +23577,10 @@
             "value" : "輸入收藏名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterGenreDots" : {
       "comment" : "Placeholder for entering the genre",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23758,12 +23828,23 @@
             "value" : "輸入類型…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterIsbnDots" : {
+      "comment" : "Placeholder for entering the ISBN",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter ISBN…"
+          }
+        }
+      }
     },
     "TK.Placeholder.enterISBNDots" : {
       "comment" : "Placeholder for entering the ISBN",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24011,12 +24092,10 @@
             "value" : "輸入ISBN…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPageNumberDots" : {
       "comment" : "Placeholder for entering the page number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24264,12 +24343,10 @@
             "value" : "輸入頁碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPublisherDots" : {
       "comment" : "Placeholder for entering the publisher's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24517,12 +24594,10 @@
             "value" : "輸入發布者…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterQuoteDots" : {
       "comment" : "Placeholder for entering a quote",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24770,12 +24845,10 @@
             "value" : "輸入引用…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterReadingGoalDots" : {
       "comment" : "Placeholder for entering a reading goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25023,12 +25096,10 @@
             "value" : "輸入閱讀目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAuthorDots" : {
       "comment" : "Placeholder for searching authors",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25276,12 +25347,10 @@
             "value" : "搜尋作者…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByGenreDots" : {
       "comment" : "Placeholder for searching by genre",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25529,12 +25598,23 @@
             "value" : "按類別搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.searchByIsbnDots" : {
+      "comment" : "Placeholder for searching by ISBN",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search by ISBN…"
+          }
+        }
+      }
     },
     "TK.Placeholder.searchByISBNDots" : {
       "comment" : "Placeholder for searching by ISBN",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25782,12 +25862,10 @@
             "value" : "按ISBN搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchLibraryDots" : {
       "comment" : "Placeholder for searching the library",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26035,11 +26113,11 @@
             "value" : "搜尋圖書館…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAReviewDots" : {
       "comment" : "Placeholder for writing a review",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26287,8 +26365,19 @@
             "value" : "撰写评论…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.writeReviewDots" : {
+      "comment" : "Placeholder for writing a review",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Write a review…"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

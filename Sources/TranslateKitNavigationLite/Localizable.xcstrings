@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.addFavorite" : {
       "comment" : "Use for adding a location to favorites",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,12 +250,10 @@
             "value" : "添加至收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addStop" : {
       "comment" : "Use for adding a stop to the current navigation route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -504,12 +501,10 @@
             "value" : "添加停靠点"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addWaypoint" : {
       "comment" : "Use for adding a waypoint to the navigation route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -757,12 +752,10 @@
             "value" : "添加航路点"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.avoidRoute" : {
       "comment" : "Use for avoiding a specific route or section",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1010,12 +1003,10 @@
             "value" : "避免路线"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.centerMap" : {
       "comment" : "Use for centering the map on the current location",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1263,8 +1254,7 @@
             "value" : "中心地图"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkForecast" : {
       "comment" : "Use for checking the weather forecast",
@@ -1515,12 +1505,10 @@
             "value" : "檢查天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkTrafficStatus" : {
       "comment" : "Use for checking the current traffic status",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1768,8 +1756,7 @@
             "value" : "检查交通状态"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enableWeatherAlerts" : {
       "comment" : "Use for enabling weather alerts during navigation",
@@ -2020,12 +2007,10 @@
             "value" : "啟用天氣通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endNavigation" : {
       "comment" : "Use for ending the navigation session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2273,8 +2258,7 @@
             "value" : "結束導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findNearby" : {
       "comment" : "Use for finding nearby locations or services",
@@ -2525,8 +2509,7 @@
             "value" : "查找附近"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findParking" : {
       "comment" : "Use for finding parking spaces nearby",
@@ -2777,12 +2760,10 @@
             "value" : "尋找停車位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.followRoute" : {
       "comment" : "Use for following the current route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3030,8 +3011,7 @@
             "value" : "跟随路线"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.getDirections" : {
       "comment" : "Use for getting directions to a destination",
@@ -3282,12 +3262,10 @@
             "value" : "獲取路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markLocation" : {
       "comment" : "Use for marking a specific location on the map",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3535,12 +3513,10 @@
             "value" : "標記位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.navigate" : {
       "comment" : "Use for starting navigation to a destination",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3788,8 +3764,7 @@
             "value" : "導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.planATrip" : {
       "comment" : "Use for planning a trip with multiple stops",
@@ -4040,12 +4015,10 @@
             "value" : "規劃旅行"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recalculate" : {
       "comment" : "Use for recalculating the route based on new inputs",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4293,12 +4266,10 @@
             "value" : "重新計算"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordRoute" : {
       "comment" : "Use for recording the current route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4546,8 +4517,7 @@
             "value" : "記錄路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use for reporting an issue during navigation",
@@ -4798,8 +4768,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportWeatherCondition" : {
       "comment" : "Use for reporting current weather conditions",
@@ -5050,12 +5019,10 @@
             "value" : "報告天氣情況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reroute" : {
       "comment" : "Use for rerouting the navigation path",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5303,8 +5270,7 @@
             "value" : "重新路由"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setDestination" : {
       "comment" : "Use for setting a destination on the map",
@@ -5555,12 +5521,10 @@
             "value" : "設定目的地"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setHome" : {
       "comment" : "Use for setting a home address",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5808,8 +5772,7 @@
             "value" : "設置主頁"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setTemperatureUnit" : {
       "comment" : "Use for setting the temperature unit (Celsius or Fahrenheit)",
@@ -6060,12 +6023,10 @@
             "value" : "設定溫度單位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setWork" : {
       "comment" : "Use for setting a work address",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6313,8 +6274,7 @@
             "value" : "設置工作地點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showNotifications" : {
       "comment" : "Use for showing notifications related to navigation",
@@ -6565,12 +6525,10 @@
             "value" : "顯示通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showTerrain" : {
       "comment" : "Use for displaying terrain information on the map",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6818,12 +6776,10 @@
             "value" : "顯示地形"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showTraffic" : {
       "comment" : "Use for displaying traffic information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7071,8 +7027,7 @@
             "value" : "顯示交通"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startNavigation" : {
       "comment" : "Use for beginning the navigation process",
@@ -7323,12 +7278,10 @@
             "value" : "開始導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.switchView" : {
       "comment" : "Use for switching the map view type",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7576,12 +7529,10 @@
             "value" : "切換視圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeDetour" : {
       "comment" : "Use for taking an alternate route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7829,8 +7780,7 @@
             "value" : "走另一條路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking progress along the route",
@@ -8081,8 +8031,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the weather forecast by hour",
@@ -8333,8 +8282,7 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weather forecast for the week",
@@ -8585,12 +8533,10 @@
             "value" : "查看每週天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alternativeRoutes" : {
       "comment" : "Use for displaying alternative navigation paths",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8838,12 +8784,10 @@
             "value" : "替代路徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.arrivalTime" : {
       "comment" : "Use for displaying the estimated time of arrival",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9091,12 +9035,10 @@
             "value" : "抵达时间"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.compass" : {
       "comment" : "Use for displaying the compass direction",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9344,8 +9286,7 @@
             "value" : "指南針"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for displaying the connection status (e.g., GPS, internet)",
@@ -9596,12 +9537,10 @@
             "value" : "連接狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentSpeed" : {
       "comment" : "Use for displaying the current speed of the vehicle",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9849,12 +9788,10 @@
             "value" : "當前速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.departureTime" : {
       "comment" : "Use for showing the time of departure",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10102,12 +10039,10 @@
             "value" : "出發時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.direction" : {
       "comment" : "Use for indicating the direction to follow",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10355,8 +10290,7 @@
             "value" : "方向"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use for displaying the distance to a destination",
@@ -10607,8 +10541,7 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.driver" : {
       "comment" : "Use for referring to the driver of the vehicle",
@@ -10859,8 +10792,7 @@
             "value" : "驅動程式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for showing the estimated travel time",
@@ -11111,12 +11043,10 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.elevation" : {
       "comment" : "Use for displaying the elevation of the current location",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11364,8 +11294,7 @@
             "value" : "海拔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for showing the estimated arrival time",
@@ -11616,12 +11545,10 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.eta" : {
       "comment" : "Use for showing the estimated time of arrival",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11869,12 +11796,10 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.highways" : {
       "comment" : "Use for referring to highways along the route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12122,12 +12047,10 @@
             "value" : "高速公路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.locationServices" : {
       "comment" : "Use for enabling or displaying location services",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12375,12 +12298,10 @@
             "value" : "定位服務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mapType" : {
       "comment" : "Use for switching between different map types (e.g., satellite, terrain)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12628,12 +12549,10 @@
             "value" : "地圖類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.navigationInstructions" : {
       "comment" : "Use for showing detailed navigation instructions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12881,12 +12800,10 @@
             "value" : "導航指示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.navigationMode" : {
       "comment" : "Use for setting the navigation mode (e.g., driving, walking)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13134,8 +13051,7 @@
             "value" : "導航模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pointsOfInterest" : {
       "comment" : "Use for showing nearby points of interest",
@@ -13386,8 +13302,7 @@
             "value" : "熱門景點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.publicTransport" : {
       "comment" : "Use for displaying public transport options",
@@ -13638,12 +13553,10 @@
             "value" : "公共交通"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.route" : {
       "comment" : "Use for referring to the navigation route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13891,12 +13804,10 @@
             "value" : "路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.routeGuidance" : {
       "comment" : "Use for providing route guidance instructions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14144,12 +14055,10 @@
             "value" : "路線指導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.signalStrength" : {
       "comment" : "Use for displaying the signal strength of GPS or internet",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14397,12 +14306,10 @@
             "value" : "信號強度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.speedLimit" : {
       "comment" : "Use for indicating the speed limit on the current road",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14650,12 +14557,10 @@
             "value" : "速度限制"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stops" : {
       "comment" : "Use for indicating the stops along the route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14903,8 +14808,7 @@
             "value" : "停靠點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tollRoads" : {
       "comment" : "Use for indicating toll roads along the route",
@@ -15155,8 +15059,7 @@
             "value" : "收費道路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trafficConditions" : {
       "comment" : "Use for displaying the traffic status on a route",
@@ -15407,12 +15310,10 @@
             "value" : "交通狀況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trafficCongestion" : {
       "comment" : "Use for displaying traffic congestion on the route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15660,12 +15561,10 @@
             "value" : "交通擠塞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.waypoint" : {
       "comment" : "Use for marking a waypoint in the navigation route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15913,12 +15812,11 @@
             "value" : "航向"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.gpsSignalLost" : {
       "comment" : "Message indicating that the GPS signal is lost",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16166,12 +16064,23 @@
             "value" : "GPS 信號丟失。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.gpsSignalLostDot" : {
+      "comment" : "Message indicating that the GPS signal is lost",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GPS signal lost."
+          }
+        }
+      }
     },
     "TK.Message.heavyTrafficAhead" : {
       "comment" : "Message warning about heavy traffic ahead",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16419,12 +16328,23 @@
             "value" : "前方交通繁忙。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.heavyTrafficAheadDot" : {
+      "comment" : "Message warning about heavy traffic ahead",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Heavy traffic ahead."
+          }
+        }
+      }
     },
     "TK.Message.locationAccessRequired" : {
       "comment" : "Message informing the user that location access is needed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16672,12 +16592,23 @@
             "value" : "需要位置訪問。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.locationAccessRequiredDot" : {
+      "comment" : "Message informing the user that location access is needed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location access required."
+          }
+        }
+      }
     },
     "TK.Message.navigationWillContinueWhenSignalImproves" : {
       "comment" : "Message informing that navigation will resume once the signal improves",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16925,12 +16856,23 @@
             "value" : "導航將在信號改善時繼續。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.navigationWillContinueWhenSignalImprovesDot" : {
+      "comment" : "Message informing that navigation will resume once the signal improves",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Navigation will continue when signal improves."
+          }
+        }
+      }
     },
     "TK.Message.newTrafficIncidentReported" : {
       "comment" : "Message indicating a new traffic incident has been reported",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17178,12 +17120,23 @@
             "value" : "報告新的交通事件。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.newTrafficIncidentReportedDot" : {
+      "comment" : "Message indicating a new traffic incident has been reported",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New traffic incident reported."
+          }
+        }
+      }
     },
     "TK.Message.noGPSSignal" : {
       "comment" : "Message indicating that the GPS signal is unavailable",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17431,12 +17384,23 @@
             "value" : "GPS 信號不可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noGPSSignalDot" : {
+      "comment" : "Message indicating that the GPS signal is unavailable",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No GPS signal."
+          }
+        }
+      }
     },
     "TK.Message.noRoutesAvailableForThisDestination" : {
       "comment" : "Message indicating no available routes for the destination",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17684,12 +17648,23 @@
             "value" : "該目的地無可用路線。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noRoutesAvailableForThisDestinationDot" : {
+      "comment" : "Message indicating no available routes for the destination",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No routes available for this destination."
+          }
+        }
+      }
     },
     "TK.Message.routeCalculationCompleted" : {
       "comment" : "Message indicating that route calculation is complete",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17937,12 +17912,23 @@
             "value" : "路線計算已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.routeCalculationCompletedDot" : {
+      "comment" : "Message indicating that route calculation is complete",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Route calculation completed."
+          }
+        }
+      }
     },
     "TK.Message.routeGuidanceWillResumeShortly" : {
       "comment" : "Message indicating that route guidance will continue soon",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18190,12 +18176,23 @@
             "value" : "路線指引將會很快恢復。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.routeGuidanceWillResumeShortlyDot" : {
+      "comment" : "Message indicating that route guidance will continue soon",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Route guidance will resume shortly."
+          }
+        }
+      }
     },
     "TK.Message.routeOptimizationComplete" : {
       "comment" : "Message indicating that the route optimization has finished",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18443,12 +18440,23 @@
             "value" : "路徑優化已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.routeOptimizationCompleteDot" : {
+      "comment" : "Message indicating that the route optimization has finished",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Route optimization complete."
+          }
+        }
+      }
     },
     "TK.Message.speedLimitChanged" : {
       "comment" : "Message indicating that the speed limit has changed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18696,12 +18704,23 @@
             "value" : "速度限制已更改。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.speedLimitChangedDot" : {
+      "comment" : "Message indicating that the speed limit has changed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Speed limit changed."
+          }
+        }
+      }
     },
     "TK.Message.takingAFasterRoute" : {
       "comment" : "Message indicating that a faster route is being selected",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18949,12 +18968,23 @@
             "value" : "正在選擇更快的路線。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.takingAFasterRouteDot" : {
+      "comment" : "Message indicating that a faster route is being selected",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Taking a faster route."
+          }
+        }
+      }
     },
     "TK.Message.trafficDelayDetected" : {
       "comment" : "Message warning about a traffic delay on the route",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19202,12 +19232,23 @@
             "value" : "檢測到交通延誤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.trafficDelayDetectedDot" : {
+      "comment" : "Message warning about a traffic delay on the route",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Traffic delay detected."
+          }
+        }
+      }
     },
     "TK.Message.turnByTurnNavigationPaused" : {
       "comment" : "Message indicating that turn-by-turn navigation has been paused",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19455,11 +19496,23 @@
             "value" : "逐程導航已暫停。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.turnByTurnNavigationPausedDot" : {
+      "comment" : "Message indicating that turn-by-turn navigation has been paused",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turn-by-turn navigation paused."
+          }
+        }
+      }
     },
     "TK.Message.youHaveArrivedAtYourDestination" : {
       "comment" : "Message indicating that the destination has been reached",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19707,12 +19760,22 @@
             "value" : "你已到達目的地。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.youHaveArrivedAtYourDestinationDot" : {
+      "comment" : "Message indicating that the destination has been reached",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have arrived at your destination."
+          }
+        }
+      }
     },
     "TK.Placeholder.calculatingAlternativesDots" : {
       "comment" : "Placeholder for calculating alternative routes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19960,12 +20023,10 @@
             "value" : "正在計算替代方案…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkingTrafficConditionsDots" : {
       "comment" : "Placeholder for checking traffic conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20213,12 +20274,10 @@
             "value" : "正在檢查交通情況…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.detectingLocationDots" : {
       "comment" : "Placeholder for detecting the user's location",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20466,8 +20525,7 @@
             "value" : "正在檢測位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDestinationDots" : {
       "comment" : "Placeholder for entering a destination",
@@ -20718,12 +20776,10 @@
             "value" : "輸入目的地…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterStopNameDots" : {
       "comment" : "Placeholder for entering a stop name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20971,12 +21027,10 @@
             "value" : "輸入站名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingChargingStationsDots" : {
       "comment" : "Placeholder for finding charging stations",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21224,12 +21278,10 @@
             "value" : "尋找充電站…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingFastestRouteDots" : {
       "comment" : "Placeholder for finding the fastest route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21477,12 +21529,10 @@
             "value" : "尋找最快路線…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingGasStationsDots" : {
       "comment" : "Placeholder for finding nearby gas stations",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21730,12 +21780,10 @@
             "value" : "尋找加油站…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingParkingSpotsDots" : {
       "comment" : "Placeholder for finding available parking spots",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21983,12 +22031,10 @@
             "value" : "尋找停車位…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingRestAreasDots" : {
       "comment" : "Placeholder for finding nearby rest areas",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22236,12 +22282,10 @@
             "value" : "尋找休息區…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingYourLocationDots" : {
       "comment" : "Placeholder for finding the user's location",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22489,12 +22533,10 @@
             "value" : "尋找您所在的位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.gettingTurnByTurnDirectionsDots" : {
       "comment" : "Placeholder for fetching turn-by-turn directions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22742,12 +22784,10 @@
             "value" : "獲取逐步指示中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.gettingWeatherConditionsDots" : {
       "comment" : "Placeholder for retrieving weather conditions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22995,12 +23035,10 @@
             "value" : "獲取天氣狀況中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingMapDataDots" : {
       "comment" : "Placeholder for loading map data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23248,12 +23286,10 @@
             "value" : "加載地圖數據中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.locatingNearestExitDots" : {
       "comment" : "Placeholder for locating the nearest exit",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23501,12 +23537,10 @@
             "value" : "尋找最近出口中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.optimizingRouteDots" : {
       "comment" : "Placeholder for optimizing the navigation route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23754,12 +23788,10 @@
             "value" : "優化路徑…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAlongRouteDots" : {
       "comment" : "Placeholder for searching along the current route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24007,12 +24039,10 @@
             "value" : "沿路搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchingNearbyDots" : {
       "comment" : "Placeholder for searching nearby locations",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24260,8 +24290,7 @@
             "value" : "正在搜尋附近…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchLocationsDots" : {
       "comment" : "Placeholder for searching specific locations",
@@ -24512,12 +24541,10 @@
             "value" : "搜索地點…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingTrafficDataDots" : {
       "comment" : "Placeholder for updating traffic data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24765,8 +24792,7 @@
             "value" : "更新交通數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

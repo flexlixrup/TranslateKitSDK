@@ -250,12 +250,10 @@
             "value" : "加至圖庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToPlaylist" : {
       "comment" : "Use for adding music to a playlist",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -503,8 +501,7 @@
             "value" : "添加至播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToQueue" : {
       "comment" : "Use for adding music to a playback queue",
@@ -755,12 +752,10 @@
             "value" : "添加到隊列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.convertFormat" : {
       "comment" : "Use for converting music file formats",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1008,12 +1003,10 @@
             "value" : "轉換格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.countIn" : {
       "comment" : "Use for counting in before starting to play",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1261,12 +1254,10 @@
             "value" : "數到"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.followScore" : {
       "comment" : "Use when following a musical score",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1514,12 +1505,10 @@
             "value" : "跟随乐谱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.harmonize" : {
       "comment" : "Use when adding harmonies to a musical piece",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1767,12 +1756,10 @@
             "value" : "和声化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.loop" : {
       "comment" : "Use when repeating a section of music or audio",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2020,12 +2007,10 @@
             "value" : "Loop"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.metronome" : {
       "comment" : "Use for starting a metronome",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2273,12 +2258,10 @@
             "value" : "节拍器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mix" : {
       "comment" : "Use when adjusting the audio mix",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2526,12 +2509,10 @@
             "value" : "混合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.normalize" : {
       "comment" : "Use for adjusting the volume levels of music",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2779,8 +2760,7 @@
             "value" : "正常化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.playNow" : {
       "comment" : "Use for playing music immediately",
@@ -3031,12 +3011,10 @@
             "value" : "立即播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use when starting a practice session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3284,12 +3262,10 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quantize" : {
       "comment" : "Use when adjusting timing in music to a grid",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3537,8 +3513,7 @@
             "value" : "量化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when starting to record audio or music",
@@ -3789,8 +3764,7 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeat" : {
       "comment" : "Use when repeating a song or section",
@@ -4041,8 +4015,7 @@
             "value" : "重複"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumePlaying" : {
       "comment" : "Use when resuming playback from a pause",
@@ -4293,8 +4266,7 @@
             "value" : "繼續播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareProgress" : {
       "comment" : "Use for sharing your progress in music practice",
@@ -4545,8 +4517,7 @@
             "value" : "分享進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showHint" : {
       "comment" : "Use for showing a hint during music practice or lessons",
@@ -4797,8 +4768,7 @@
             "value" : "顯示提示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shufflePlay" : {
       "comment" : "Use for playing music in random order",
@@ -5049,8 +5019,7 @@
             "value" : "隨機播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping the intro of a song or album",
@@ -5301,12 +5270,10 @@
             "value" : "跳過介紹"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.solo" : {
       "comment" : "Use when isolating a specific audio track",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5554,8 +5521,7 @@
             "value" : "單音軌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when starting a music exercise",
@@ -5806,8 +5772,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startLesson" : {
       "comment" : "Use when starting a music lesson",
@@ -6058,8 +6023,7 @@
             "value" : "開始課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startOver" : {
       "comment" : "Use for restarting music or practice session",
@@ -6310,8 +6274,7 @@
             "value" : "重新開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use for subscribing to music content or channels",
@@ -6562,8 +6525,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeQuiz" : {
       "comment" : "Use when taking a music-related quiz",
@@ -6814,12 +6776,10 @@
             "value" : "參加測驗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tempoDown" : {
       "comment" : "Use when decreasing the tempo of music",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7067,12 +7027,10 @@
             "value" : "放慢速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tempoUp" : {
       "comment" : "Use when increasing the tempo of music",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7320,8 +7278,7 @@
             "value" : "加快速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for monitoring progress in music practice or lessons",
@@ -7572,12 +7529,10 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transpose" : {
       "comment" : "Use when changing the key of the music",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7825,12 +7780,10 @@
             "value" : "移調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transposeDown" : {
       "comment" : "Use when shifting the music key down",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8078,12 +8031,10 @@
             "value" : "降調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transposeUp" : {
       "comment" : "Use when shifting the music key up",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8331,12 +8282,10 @@
             "value" : "升調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tune" : {
       "comment" : "Use when adjusting the tuning of an instrument",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8584,8 +8533,7 @@
             "value" : "調音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use for uploading a music file",
@@ -8836,11 +8784,11 @@
             "value" : "上載文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accessibility" : {
       "comment" : "Use for options related to assistive technologies",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9088,11 +9036,11 @@
             "value" : "輔助使用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accessibilityOptions" : {
       "comment" : "Use for settings related to accessibility features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9340,11 +9288,11 @@
             "value" : "輔助使用選項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.account" : {
       "comment" : "Use to label sections related to user accounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9592,11 +9540,11 @@
             "value" : "帳户"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accountRecovery" : {
       "comment" : "Use for options that help users recover their accounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9844,11 +9792,11 @@
             "value" : "帳户還原"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accounts" : {
       "comment" : "Use when referring to multiple user accounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10096,11 +10044,11 @@
             "value" : "帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accountSettings" : {
       "comment" : "Use for sections that manage account preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10348,11 +10296,11 @@
             "value" : "帳户設定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.achievementPoints" : {
       "comment" : "Reward metrics",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10600,11 +10548,11 @@
             "value" : "成就點數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.achievements" : {
       "comment" : "Use when displaying completed milestones or challenges",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10852,11 +10800,11 @@
             "value" : "成就"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.active" : {
       "comment" : "Use for status indicators showing an active state",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11104,11 +11052,11 @@
             "value" : "已啟用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Use when showing how many minutes were spent in active movement",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11356,11 +11304,11 @@
             "value" : "活躍分鐘數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeSessions" : {
       "comment" : "Current login sessions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11608,11 +11556,11 @@
             "value" : "活躍會話"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activities" : {
       "comment" : "Use for sections related to recent or ongoing actions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11860,11 +11808,11 @@
             "value" : "活動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activity" : {
       "comment" : "Use to describe a single event or logged action",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12112,11 +12060,11 @@
             "value" : "健身記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.advertisement" : {
       "comment" : "Use to label ad-related sections or banners",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12364,11 +12312,11 @@
             "value" : "廣吿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying a user's or an item's age",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12616,11 +12564,11 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airplaneMode" : {
       "comment" : "Use to label toggles or settings related to airplane mode",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12868,11 +12816,11 @@
             "value" : "飛行模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQuality" : {
       "comment" : "Use for environmental monitoring or weather apps",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13120,11 +13068,11 @@
             "value" : "空氣質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQualityIndex" : {
       "comment" : "Use when displaying air pollution levels",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13372,11 +13320,11 @@
             "value" : "空氣質素指數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alert" : {
       "comment" : "Use for warning messages or critical notifications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13624,11 +13572,11 @@
             "value" : "提示聲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.all" : {
       "comment" : "Use when displaying everything in a given category",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13876,11 +13824,11 @@
             "value" : "全部"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.allApps" : {
       "comment" : "Use for showing a complete list of applications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14128,11 +14076,11 @@
             "value" : "所有App"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alwaysOn" : {
       "comment" : "Use for features that remain enabled continuously",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14380,11 +14328,11 @@
             "value" : "總是開啟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alwaysOnDisplay" : {
       "comment" : "Use for device screens that never fully turn off",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14632,11 +14580,11 @@
             "value" : "隨時顯示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.amount" : {
       "comment" : "Use when displaying numerical values, such as prices or balances",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14884,11 +14832,11 @@
             "value" : "金額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.analytics" : {
       "comment" : "Use for sections providing insights or tracking data",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15136,11 +15084,11 @@
             "value" : "分析"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.app" : {
       "comment" : "Use when referring to an application generically",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15388,11 +15336,11 @@
             "value" : "App"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appearance" : {
       "comment" : "Use for display settings or theme-related options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15640,11 +15588,11 @@
             "value" : "外觀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.approvalChain" : {
       "comment" : "Authorization flow",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15892,11 +15840,11 @@
             "value" : "批准鏈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.apps" : {
       "comment" : "Use when referring to multiple applications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16144,11 +16092,11 @@
             "value" : "Apps"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appStore" : {
       "comment" : "Use for links or buttons directing users to an app marketplace",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16396,11 +16344,11 @@
             "value" : "App Store"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appSwitcher" : {
       "comment" : "Use to describe the multitasking interface",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16648,11 +16596,23 @@
             "value" : "App切換器"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.archives" : {
+      "comment" : "Use for sections containing past issues or content",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Archives"
+          }
+        }
+      }
     },
     "TK.Label.arrangement" : {
       "comment" : "Use when describing customizable layouts or positions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16900,11 +16860,11 @@
             "value" : "排列方式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.arrived" : {
       "comment" : "Use to indicate arrival status in tracking or navigation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17152,11 +17112,23 @@
             "value" : "已抵達"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.article" : {
+      "comment" : "Use when referring to a single piece of content or news",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Article"
+          }
+        }
+      }
     },
     "TK.Label.articles" : {
       "comment" : "Use for news or content-based sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17404,11 +17376,11 @@
             "value" : "文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.aspectRatio" : {
       "comment" : "Use when adjusting the proportions of an image or video",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17656,11 +17628,10 @@
             "value" : "比例"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
-      "comment" : "Use when displaying the name of content creators",
+      "comment" : "Use when indicating the creator or writer of content",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17908,11 +17879,11 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.automatic" : {
       "comment" : "Use to label features that function without manual input",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18160,11 +18131,11 @@
             "value" : "自動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.automaticDownloads" : {
       "comment" : "Use for settings that enable automatic content downloads",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18412,11 +18383,11 @@
             "value" : "自動下載"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.automaticUpdates" : {
       "comment" : "Use for toggles related to app or system updates",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18664,11 +18635,11 @@
             "value" : "自動更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.available" : {
       "comment" : "Use when indicating availability of items or users",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18916,11 +18887,11 @@
             "value" : "可用空間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.availableFunds" : {
       "comment" : "Use when showing the amount of money that can be spent",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19168,11 +19139,11 @@
             "value" : "可用資金"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.availableRides" : {
       "comment" : "Use when listing available taxi or rideshare services",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19420,11 +19391,11 @@
             "value" : "可用乘車服務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.average" : {
       "comment" : "Use for statistical values or calculated means",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19672,11 +19643,11 @@
             "value" : "平均"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averagePace" : {
       "comment" : "Use for fitness apps tracking running or walking speed",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19924,11 +19895,11 @@
             "value" : "平均配速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averageSpeed" : {
       "comment" : "Use when displaying the mean speed over time",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20176,11 +20147,11 @@
             "value" : "平均速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.background" : {
       "comment" : "Use for display or app activity settings related to background processes",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20428,11 +20399,11 @@
             "value" : "背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundActivity" : {
       "comment" : "Background process status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20680,11 +20651,11 @@
             "value" : "背景活動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundBlur" : {
       "comment" : "Use when referring to depth-of-field effects in images or videos",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20932,11 +20903,11 @@
             "value" : "背景模糊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundSounds" : {
       "comment" : "Use for white noise or ambient sound settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21184,11 +21155,11 @@
             "value" : "背景聲音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backup" : {
       "comment" : "Use for settings related to data backup and storage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21436,11 +21407,11 @@
             "value" : "備份"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.balance" : {
       "comment" : "Use when displaying the current account balance",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21688,11 +21659,11 @@
             "value" : "餘額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bank" : {
       "comment" : "Use for banking or financial institution references",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21940,11 +21911,11 @@
             "value" : "Bank"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.battery" : {
       "comment" : "Use for battery status indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22192,11 +22163,11 @@
             "value" : "電池"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.batteryLevel" : {
       "comment" : "Use when displaying remaining battery percentage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22444,11 +22415,11 @@
             "value" : "電池電量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.battlePass" : {
       "comment" : "Use when referring to a seasonal progression system",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22696,11 +22667,11 @@
             "value" : "挑戰通行證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.becauseYouWatched" : {
       "comment" : "Recommendations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22948,11 +22919,11 @@
             "value" : "因為你觀看過"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bedtime" : {
       "comment" : "Use for sleep schedule settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23200,11 +23171,10 @@
             "value" : "就寢時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bestSellers" : {
-      "comment" : "Use when listing popular or frequently purchased items",
+      "comment" : "Use for top-selling books, magazines, or products",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23452,11 +23422,11 @@
             "value" : "暢銷商品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.billingStatus" : {
       "comment" : "Payment state",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23704,11 +23674,11 @@
             "value" : "帳單狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.birthday" : {
       "comment" : "Use when displaying a date of birth",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23956,11 +23926,11 @@
             "value" : "生日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.birthdays" : {
       "comment" : "Use for sections listing multiple birthdays",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24208,11 +24178,11 @@
             "value" : "生日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.blockedUsers" : {
       "comment" : "Use when listing restricted accounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24460,11 +24430,11 @@
             "value" : "已屏蔽用戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bluetooth" : {
       "comment" : "Use for device connectivity settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24712,11 +24682,11 @@
             "value" : "藍牙"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bluetoothDevices" : {
       "comment" : "Use when listing connected Bluetooth accessories",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24964,11 +24934,11 @@
             "value" : "藍牙設備"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.body" : {
       "comment" : "Use when referring to body measurements or body-related settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25216,11 +25186,11 @@
             "value" : "內文"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyMassIndexBMI" : {
       "comment" : "Use when showing BMI calculation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25468,11 +25438,11 @@
             "value" : "身體質量指數 (BMI)"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.boldText" : {
       "comment" : "Use for font settings that adjust text weight",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25720,11 +25690,11 @@
             "value" : "粗體文字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmark" : {
       "comment" : "Use to label saved content or quick access items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25972,11 +25942,10 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
-      "comment" : "Use when listing multiple saved items",
+      "comment" : "Use when referring to saved or favorite items",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26224,11 +26193,11 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bottom" : {
       "comment" : "Use for positioning elements at the lower part of the screen",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26476,11 +26445,11 @@
             "value" : "底部"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bottomLeft" : {
       "comment" : "Use to indicate lower-left alignment",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26728,11 +26697,11 @@
             "value" : "左下"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bottomRight" : {
       "comment" : "Use to indicate lower-right alignment",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26980,11 +26949,10 @@
             "value" : "右下"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breakingNews" : {
-      "comment" : "Use when highlighting urgent, real-time news updates",
+      "comment" : "Use for urgent or important news updates",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -27232,11 +27200,11 @@
             "value" : "突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.business" : {
       "comment" : "Use for work-related categories or settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -27484,11 +27452,23 @@
             "value" : "商務"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.businessAndEconomy" : {
+      "comment" : "Use for content related to business and financial topics",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Business & Economy"
+          }
+        }
+      }
     },
     "TK.Label.businessEconomy" : {
       "comment" : "Use when categorizing financial news",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -27736,11 +27716,11 @@
             "value" : "商業與經濟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.busy" : {
       "comment" : "Use to show current availability status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -27988,11 +27968,11 @@
             "value" : "忙碌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calendar" : {
       "comment" : "Use for date and scheduling features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -28240,11 +28220,11 @@
             "value" : "日曆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calendars" : {
       "comment" : "Use when managing multiple calendars",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -28492,11 +28472,11 @@
             "value" : "日曆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calls" : {
       "comment" : "Use for phone or video call history",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -28744,11 +28724,11 @@
             "value" : "通話"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calories" : {
       "comment" : "Use for nutritional or fitness tracking",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -28996,11 +28976,11 @@
             "value" : "卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when displaying calories burned from activities",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -29248,11 +29228,11 @@
             "value" : "已燃燒卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.camera" : {
       "comment" : "Use for camera access and settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -29500,11 +29480,11 @@
             "value" : "相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cameraRoll" : {
       "comment" : "Use when showing all stored media files",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -29752,11 +29732,11 @@
             "value" : "相片庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.canceled" : {
       "comment" : "Use for showing a canceled status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -30004,11 +29984,11 @@
             "value" : "已取消"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardDetails" : {
       "comment" : "Use for payment or ID information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -30256,11 +30236,11 @@
             "value" : "卡的詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardioFitness" : {
       "comment" : "Use for tracking heart-related fitness levels",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -30508,11 +30488,11 @@
             "value" : "心適能"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardNumber" : {
       "comment" : "Use for credit or debit card fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -30760,11 +30740,11 @@
             "value" : "卡號"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.carrier" : {
       "comment" : "Use for mobile network information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -31012,11 +30992,11 @@
             "value" : "電訊商"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.castCrew" : {
       "comment" : "Production team",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -31264,11 +31244,10 @@
             "value" : "演出陣容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
-      "comment" : "Use when organizing content into groups",
+      "comment" : "Use when organizing content into different types or themes",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -31516,11 +31495,11 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.category" : {
       "comment" : "Use for a single classification of content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -31768,11 +31747,11 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cellular" : {
       "comment" : "Use for mobile data settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -32020,11 +31999,11 @@
             "value" : "流動網絡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cellularData" : {
       "comment" : "Use for toggling mobile internet usage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -32272,11 +32251,11 @@
             "value" : "流動數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.center" : {
       "comment" : "Use for positioning elements in the middle of the screen",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -32524,11 +32503,11 @@
             "value" : "中央"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.characters" : {
       "comment" : "Use for counting text input length",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -32776,11 +32755,11 @@
             "value" : "字元"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.charging" : {
       "comment" : "Use for battery charging indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -33028,11 +33007,11 @@
             "value" : "充電中"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.child" : {
       "comment" : "Use for parental control settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -33280,11 +33259,11 @@
             "value" : "兒童"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.city" : {
       "comment" : "Use for geographical locations or addresses",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -33532,11 +33511,11 @@
             "value" : "城市"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.classic" : {
       "comment" : "Use for settings that revert to an older style",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -33784,11 +33763,11 @@
             "value" : "經典"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.classicInvert" : {
       "comment" : "Use for accessibility color inversion settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -34036,11 +34015,11 @@
             "value" : "經典反轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.clipboard" : {
       "comment" : "Use when referring to copied content storage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -34288,11 +34267,11 @@
             "value" : "剪貼板"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.clock" : {
       "comment" : "Use for time and alarm settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -34540,11 +34519,11 @@
             "value" : "時鐘"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.closed" : {
       "comment" : "Use for indicating status of items that are shut or inactive",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -34792,11 +34771,11 @@
             "value" : "已關"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.color" : {
       "comment" : "Use for settings that modify colors",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -35044,11 +35023,11 @@
             "value" : "顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.colorFilters" : {
       "comment" : "Use for accessibility color enhancements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -35296,11 +35275,11 @@
             "value" : "顏色濾鏡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.colors" : {
       "comment" : "Use when displaying multiple color options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -35548,11 +35527,11 @@
             "value" : "顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comment" : {
       "comment" : "Use for labeling text input fields for feedback or discussion",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -35800,11 +35779,10 @@
             "value" : "註解"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
-      "comment" : "Use for sections displaying user discussions",
+      "comment" : "Use for sections where users can post feedback or thoughts",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -36052,11 +36030,11 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.company" : {
       "comment" : "Use for organizational profiles and business information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -36304,11 +36282,11 @@
             "value" : "公司"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completed" : {
       "comment" : "Use when marking tasks or projects as done",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -36556,11 +36534,11 @@
             "value" : "已完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completionCertificate" : {
       "comment" : "Achievement proof",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -36808,11 +36786,11 @@
             "value" : "完成證書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completionDate" : {
       "comment" : "Use when displaying deadlines or finished task timestamps",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -37060,11 +37038,11 @@
             "value" : "完成日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.compliance" : {
       "comment" : "Use when listing legal compliance documents",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -37312,11 +37290,11 @@
             "value" : "遵從性"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.configuration" : {
       "comment" : "Use for system or app settings options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -37564,11 +37542,11 @@
             "value" : "配置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connectionLost" : {
       "comment" : "Network connectivity error label",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -37816,11 +37794,11 @@
             "value" : "連接丟失"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connections" : {
       "comment" : "Use when showing linked accounts, devices, or networks",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -38068,11 +38046,11 @@
             "value" : "連接"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Network status header",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -38320,11 +38298,11 @@
             "value" : "連接狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.content" : {
       "comment" : "Use when referring to general media or textual elements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -38572,11 +38550,11 @@
             "value" : "內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.continueWatching" : {
       "comment" : "Viewing history",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -38824,11 +38802,11 @@
             "value" : "繼續觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contrast" : {
       "comment" : "Use for accessibility settings affecting visual contrast",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -39076,11 +39054,11 @@
             "value" : "對比度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.controlCenter" : {
       "comment" : "Use for quick-access device settings and controls",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -39328,11 +39306,11 @@
             "value" : "控制中心"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.controls" : {
       "comment" : "Use for UI elements that allow user interaction",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -39580,11 +39558,11 @@
             "value" : "控制"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cookies" : {
       "comment" : "Use for browser or app privacy settings regarding stored data",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -39832,11 +39810,11 @@
             "value" : "Cookies"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cookiesTracking" : {
       "comment" : "Use when referring to cookie policies and tracking preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -40084,11 +40062,11 @@
             "value" : "Cookies & 追踪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.correctAnswers" : {
       "comment" : "Success rate",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -40336,11 +40314,11 @@
             "value" : "正確答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.country" : {
       "comment" : "Use for address fields or location settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -40588,11 +40566,11 @@
             "value" : "國家/地區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.courseProgress" : {
       "comment" : "Learning advancement",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -40840,11 +40818,11 @@
             "value" : "課程進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cpuUsage" : {
       "comment" : "Use for performance monitoring and diagnostics",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -41092,11 +41070,11 @@
             "value" : "CPU 使用率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.createDate" : {
       "comment" : "Use for timestamps when an item was first generated",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -41344,11 +41322,11 @@
             "value" : "創建日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.createdBy" : {
       "comment" : "Use to attribute content to an author or user",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -41596,11 +41574,11 @@
             "value" : "創建者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creditCard" : {
       "comment" : "Use for payment information fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -41848,11 +41826,11 @@
             "value" : "信用卡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creditLimit" : {
       "comment" : "Use when showing the available credit on a credit card",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -42100,11 +42078,11 @@
             "value" : "信用額度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currency" : {
       "comment" : "Use for monetary values or financial settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -42352,11 +42330,11 @@
             "value" : "貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentLocation" : {
       "comment" : "Use when displaying the user's present location",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -42604,11 +42582,11 @@
             "value" : "目前位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentModule" : {
       "comment" : "Active section",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -42856,11 +42834,11 @@
             "value" : "當前模塊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentRank" : {
       "comment" : "Use when displaying a player's standing in a competition",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -43108,11 +43086,11 @@
             "value" : "當前排名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentTemperature" : {
       "comment" : "Use when displaying the real-time temperature",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -43360,11 +43338,11 @@
             "value" : "當前溫度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentTime" : {
       "comment" : "Use when displaying live time or timestamps",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -43612,11 +43590,11 @@
             "value" : "當前時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.customerReviews" : {
       "comment" : "Use when displaying user-generated feedback and ratings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -43864,11 +43842,11 @@
             "value" : "客戶評價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.customerSupport" : {
       "comment" : "Use for contact or help-related sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -44116,11 +44094,10 @@
             "value" : "客戶支持"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyBriefing" : {
-      "comment" : "Use when summarizing the most important daily news",
+      "comment" : "Use for a summary of important news or updates",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -44368,11 +44345,11 @@
             "value" : "每日簡報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyChallenges" : {
       "comment" : "Use for limited-time tasks that refresh each day",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -44620,11 +44597,23 @@
             "value" : "每日挑戰"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.dailyDigest" : {
+      "comment" : "Use for a daily collection or summary of content",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily Digest"
+          }
+        }
+      }
     },
     "TK.Label.dailyPlanner" : {
       "comment" : "Use when labeling a section for day-to-day scheduling",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -44872,11 +44861,11 @@
             "value" : "每日計劃"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.darkMode" : {
       "comment" : "Use for theme selection settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -45124,11 +45113,11 @@
             "value" : "黑暗模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dataProtection" : {
       "comment" : "Use when referring to user privacy and security settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -45376,11 +45365,11 @@
             "value" : "數據保護"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dataUsage" : {
       "comment" : "Use when showing mobile or Wi-Fi data consumption",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -45628,11 +45617,11 @@
             "value" : "數據使用量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dateAdded" : {
       "comment" : "Use for sorting or filtering items by creation date",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -45880,11 +45869,11 @@
             "value" : "加入的日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dateOfBirth" : {
       "comment" : "Use for personal information forms",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -46132,11 +46121,11 @@
             "value" : "出生日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deadlines" : {
       "comment" : "Use when listing important due dates",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -46384,11 +46373,11 @@
             "value" : "截止日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.debugMode" : {
       "comment" : "Use for development or troubleshooting features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -46636,11 +46625,11 @@
             "value" : "調試模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.default" : {
       "comment" : "Use when resetting to original settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -46888,11 +46877,11 @@
             "value" : "預設值"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryStatus" : {
       "comment" : "Use for tracking shipments or messages",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -47140,11 +47129,11 @@
             "value" : "派送狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryTime" : {
       "comment" : "Use when estimating the time for food or package deliveries",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -47392,11 +47381,11 @@
             "value" : "派送時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.department" : {
       "comment" : "Organizational unit",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -47644,11 +47633,11 @@
             "value" : "部門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.description" : {
       "comment" : "Use for brief explanations or details about an item",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -47896,11 +47885,11 @@
             "value" : "描述"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.details" : {
       "comment" : "Item information section",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -48148,11 +48137,11 @@
             "value" : "詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.device" : {
       "comment" : "Use when referring to hardware settings or specifications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -48400,11 +48389,11 @@
             "value" : "裝置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deviceInfo" : {
       "comment" : "Use when displaying hardware and software specifications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -48652,11 +48641,11 @@
             "value" : "設備信息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deviceName" : {
       "comment" : "Use for personalized device identification",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -48904,11 +48893,11 @@
             "value" : "設備名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deviceStatus" : {
       "comment" : "Use for monitoring health and connectivity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -49156,11 +49145,11 @@
             "value" : "設備狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dewPoint" : {
       "comment" : "Use when showing the temperature at which condensation begins",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -49408,11 +49397,11 @@
             "value" : "露點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.diagnostics" : {
       "comment" : "Use for troubleshooting and error reporting tools",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -49660,11 +49649,11 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.difficultyLevel" : {
       "comment" : "Content complexity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -49912,11 +49901,11 @@
             "value" : "難度級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.directMessages" : {
       "comment" : "Use when displaying private messages",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -50164,11 +50153,11 @@
             "value" : "直接信息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.discountsDeals" : {
       "comment" : "Use when displaying promotions or discounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -50416,11 +50405,11 @@
             "value" : "折扣及優惠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.display" : {
       "comment" : "Use for screen-related settings and adjustments",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -50668,11 +50657,11 @@
             "value" : "螢幕"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use when displaying the distance between locations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -50920,11 +50909,11 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.documentStatus" : {
       "comment" : "File state",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -51172,11 +51161,11 @@
             "value" : "文件狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.downloads" : {
       "comment" : "Offline content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -51424,11 +51413,11 @@
             "value" : "下載項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.downloadSpeed" : {
       "comment" : "Use for network performance indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -51676,11 +51665,11 @@
             "value" : "下載速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.downloadStatus" : {
       "comment" : "Use for progress updates on file downloads",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -51928,11 +51917,11 @@
             "value" : "下載狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.driver" : {
       "comment" : "Use for hardware driver management and updates",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -52180,11 +52169,11 @@
             "value" : "驅動程式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dueDate" : {
       "comment" : "Task deadline",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -52432,11 +52421,11 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying time spans or length of events",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -52684,11 +52673,10 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.editorsPicks" : {
-      "comment" : "Use when showcasing curated content from editors",
+      "comment" : "Use for curated content selected by editors",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -52936,11 +52924,11 @@
             "value" : "編輯特選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.email" : {
       "comment" : "Use for email address fields or contact sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -53188,11 +53176,11 @@
             "value" : "電郵"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.emailVerification" : {
       "comment" : "Use for email confirmation processes",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -53440,11 +53428,11 @@
             "value" : "電子郵件驗證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.emergencyContacts" : {
       "comment" : "Use for listing important emergency contacts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -53692,11 +53680,11 @@
             "value" : "緊急聯絡人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.enabled" : {
       "comment" : "Use to indicate when a feature is turned on",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -53944,11 +53932,11 @@
             "value" : "已啟用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.end" : {
       "comment" : "Use when indicating the end of something",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -54196,11 +54184,11 @@
             "value" : "結束"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.endDate" : {
       "comment" : "Use when setting or displaying deadlines",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -54448,11 +54436,11 @@
             "value" : "結束日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.endUserLicenseAgreement" : {
       "comment" : "Use when referring to software license terms",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -54700,11 +54688,11 @@
             "value" : "最終用戶許可協議"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.error" : {
       "comment" : "Use for error messages or alerts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -54952,11 +54940,11 @@
             "value" : "錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use when showing the expected arrival time at a destination",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -55204,11 +55192,11 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedDelivery" : {
       "comment" : "Use when displaying an expected delivery timeframe",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -55456,11 +55444,11 @@
             "value" : "預計派送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.events" : {
       "comment" : "Use for listing scheduled activities or appointments",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -55708,11 +55696,11 @@
             "value" : "行程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exchangeRate" : {
       "comment" : "Use when showing the conversion rate between currencies",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -55960,11 +55948,11 @@
             "value" : "匯率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exclusiveDeals" : {
       "comment" : "Use when showcasing time-limited promotions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -56212,11 +56200,11 @@
             "value" : "獨家優惠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.experiences" : {
       "comment" : "Use when referring to lifestyle-related activities like travel, dining, or wellness",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -56464,11 +56452,11 @@
             "value" : "體驗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exposure" : {
       "comment" : "Use when adjusting brightness and contrast",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -56716,11 +56704,11 @@
             "value" : "曝光度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fashionTrends" : {
       "comment" : "Use when referring to current fashion styles",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -56968,11 +56956,10 @@
             "value" : "時尚潮流"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
-      "comment" : "Use for marking or listing favorite items",
+      "comment" : "Use for saved or preferred content",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57220,11 +57207,23 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.featured" : {
+      "comment" : "Use for content highlighted as important or interesting",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Featured"
+          }
+        }
+      }
     },
     "TK.Label.featuredListings" : {
       "comment" : "Use when emphasizing selected property or rental options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57472,11 +57471,11 @@
             "value" : "精選房源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.feedback" : {
       "comment" : "Use for sections where users can provide comments or reviews",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57724,11 +57723,11 @@
             "value" : "反饋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.feelsLike" : {
       "comment" : "Use when showing perceived temperature based on humidity and wind",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -57976,11 +57975,11 @@
             "value" : "感覺像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileName" : {
       "comment" : "Use for displaying the name of a document or media file",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -58228,11 +58227,11 @@
             "value" : "文件名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.files" : {
       "comment" : "Document section header",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -58480,11 +58479,11 @@
             "value" : "檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.filesDocuments" : {
       "comment" : "Use when referring to a section for stored files",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -58732,11 +58731,11 @@
             "value" : "檔案和文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileSize" : {
       "comment" : "Use for displaying the storage size of a file",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -58984,11 +58983,11 @@
             "value" : "檔案大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.filters" : {
       "comment" : "Use when referring to available visual effects for media",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -59236,11 +59235,11 @@
             "value" : "濾鏡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.firstName" : {
       "comment" : "Use for personal name fields in forms",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -59488,11 +59487,11 @@
             "value" : "名字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fitnessScore" : {
       "comment" : "Use when rating a user's fitness level",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -59740,11 +59739,11 @@
             "value" : "健身分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.flightStatus" : {
       "comment" : "Use when displaying real-time updates on flight departures and arrivals",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -59992,11 +59991,11 @@
             "value" : "航班狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.followers" : {
       "comment" : "Use when showing a list of subscribed users",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -60244,11 +60243,11 @@
             "value" : "追隨者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.following" : {
       "comment" : "Use when displaying the list of followed accounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -60496,11 +60495,11 @@
             "value" : "正在關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fontSize" : {
       "comment" : "Use for text customization settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -60748,11 +60747,11 @@
             "value" : "字型大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.format" : {
       "comment" : "Use for defining or changing data structure",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -61000,11 +60999,11 @@
             "value" : "格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.frameRate" : {
       "comment" : "Use when displaying video frame rate settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -61252,11 +61251,11 @@
             "value" : "幀速率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.frequency" : {
       "comment" : "Use for settings involving time intervals or repeated actions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -61504,11 +61503,11 @@
             "value" : "頻率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.friends" : {
       "comment" : "Use when displaying a user's social connections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -61756,11 +61755,11 @@
             "value" : "朋友"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gallery" : {
       "comment" : "Use when referring to the collection of stored images and videos",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -62008,11 +62007,11 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gameMode" : {
       "comment" : "Use when selecting different styles of play",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -62260,11 +62259,11 @@
             "value" : "遊戲模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gender" : {
       "comment" : "Use for demographic or personal profile settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -62512,11 +62511,11 @@
             "value" : "性別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.general" : {
       "comment" : "Use for broad or miscellaneous settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -62764,11 +62763,11 @@
             "value" : "一般"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.genre" : {
       "comment" : "Content category",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -63016,11 +63015,11 @@
             "value" : "類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gps" : {
       "comment" : "Use for location services and tracking features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -63268,11 +63267,11 @@
             "value" : "GPS"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.group" : {
       "comment" : "Use for categorizing or managing multiple items together",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -63520,11 +63519,11 @@
             "value" : "群組"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.groups" : {
       "comment" : "Use when referring to communities or group chats",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -63772,11 +63771,11 @@
             "value" : "群組"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.guest" : {
       "comment" : "Use for temporary or anonymous user modes",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -64024,11 +64023,11 @@
             "value" : "訪客"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.haptics" : {
       "comment" : "Use for tactile feedback settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -64276,11 +64275,11 @@
             "value" : "觸覺回報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hardware" : {
       "comment" : "Use for device specifications and settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -64528,11 +64527,23 @@
             "value" : "硬件"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.headlines" : {
+      "comment" : "Use for the most important or prominent news stories",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Headlines"
+          }
+        }
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying a user's current heart rate",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -64780,11 +64791,11 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.height" : {
       "comment" : "Use for measurement settings or personal statistics",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -65032,11 +65043,11 @@
             "value" : "身高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.help" : {
       "comment" : "Use for customer support or instructional sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -65284,11 +65295,11 @@
             "value" : "幫助"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hidden" : {
       "comment" : "Use for indicating hidden elements or features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -65536,11 +65547,11 @@
             "value" : "隱藏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.highScore" : {
       "comment" : "Use when showing the highest score achieved",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -65788,11 +65799,11 @@
             "value" : "最高分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to past actions, transactions, or records",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -66040,11 +66051,11 @@
             "value" : "瀏覽記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.home" : {
       "comment" : "Use for navigation to the main dashboard or landing screen",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -66292,11 +66303,11 @@
             "value" : "主頁"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hotelAvailability" : {
       "comment" : "Use when checking which hotels have open rooms",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -66544,11 +66555,11 @@
             "value" : "酒店可用性"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.humidity" : {
       "comment" : "Use when displaying the percentage of atmospheric moisture",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -66796,11 +66807,11 @@
             "value" : "濕度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hydration" : {
       "comment" : "Use when displaying water intake levels",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -67048,11 +67059,11 @@
             "value" : "水分補充"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.id" : {
       "comment" : "Use for unique user or object identification labels",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -67300,11 +67311,11 @@
             "value" : "識別碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.image" : {
       "comment" : "Use for sections containing pictures or graphics",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -67552,11 +67563,11 @@
             "value" : "影像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inbox" : {
       "comment" : "Use when referring to a workspace for incoming tasks, emails, or messages",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -67804,11 +67815,11 @@
             "value" : "收件箱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.input" : {
       "comment" : "Use for form fields where users can enter data",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -68056,11 +68067,11 @@
             "value" : "輸入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.install" : {
       "comment" : "Use for indicating software or app installation status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -68308,11 +68319,11 @@
             "value" : "安裝"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inStock" : {
       "comment" : "Use when an item is available for purchase",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -68560,11 +68571,11 @@
             "value" : "有存貨"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.interestRate" : {
       "comment" : "Use for financial products with an interest component",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -68812,11 +68823,11 @@
             "value" : "利率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.interiorDesign" : {
       "comment" : "Use when categorizing home decor and design content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -69064,11 +69075,11 @@
             "value" : "室內設計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.internet" : {
       "comment" : "Use for network connectivity indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -69316,11 +69327,11 @@
             "value" : "互聯網"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inventory" : {
       "comment" : "Use when displaying collected in-game items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -69568,11 +69579,11 @@
             "value" : "庫存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.invitation" : {
       "comment" : "Use for pending user invitations or event invites",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -69820,11 +69831,11 @@
             "value" : "邀請"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.ipAddress" : {
       "comment" : "Use when displaying the user's device IP address",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -70072,11 +70083,23 @@
             "value" : "IP 地址"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.issue" : {
+      "comment" : "Use for a specific edition of a publication or magazine",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Issue"
+          }
+        }
+      }
     },
     "TK.Label.item" : {
       "comment" : "Use for individual product, document, or entity labels",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -70324,11 +70347,11 @@
             "value" : "項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.keyboard" : {
       "comment" : "Use for device input method settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -70576,11 +70599,11 @@
             "value" : "鍵盤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.language" : {
       "comment" : "Use for localization or translation preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -70828,11 +70851,11 @@
             "value" : "語言"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastModified" : {
       "comment" : "Timestamp label",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -71080,11 +71103,11 @@
             "value" : "最後修改時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastName" : {
       "comment" : "Use for surname fields in forms",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -71332,11 +71355,11 @@
             "value" : "姓氏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastUpdated" : {
       "comment" : "Timestamp description",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -71584,11 +71607,22 @@
             "value" : "最近更新"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.latest" : {
+      "comment" : "Use for the most recent content or updates",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Latest"
+          }
+        }
+      }
     },
     "TK.Label.latestHeadlines" : {
-      "comment" : "Use when listing the most recent articles",
+      "comment" : "Use for the most recent important news stories",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -71836,11 +71870,11 @@
             "value" : "最新頭條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latitude" : {
       "comment" : "Use for geolocation data representation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -72088,11 +72122,11 @@
             "value" : "緯度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.leaderboard" : {
       "comment" : "Use when displaying rankings of top players",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -72340,11 +72374,11 @@
             "value" : "排行榜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningPath" : {
       "comment" : "Educational journey",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -72592,11 +72626,11 @@
             "value" : "學習路徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningStreak" : {
       "comment" : "Consecutive days",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -72844,11 +72878,11 @@
             "value" : "學習連續天數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.legalNotice" : {
       "comment" : "Use when referring to legal disclaimers or copyright statements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -73096,11 +73130,11 @@
             "value" : "法律聲明"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.level" : {
       "comment" : "Use when indicating a player's progress in the game",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -73348,11 +73382,11 @@
             "value" : "水平儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.library" : {
       "comment" : "Use for collections of stored content like books or media",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -73600,11 +73634,11 @@
             "value" : "資料庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.light" : {
       "comment" : "Use for brightness or theme settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -73852,11 +73886,11 @@
             "value" : "光"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.link" : {
       "comment" : "Use for clickable text leading to other content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -74104,11 +74138,11 @@
             "value" : "連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.list" : {
       "comment" : "Use for structured lists of data or items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -74356,11 +74390,11 @@
             "value" : "列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.loading" : {
       "comment" : "Use for indicating progress before content is fully available",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -74608,11 +74642,11 @@
             "value" : "正在載入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.location" : {
       "comment" : "Use for GPS or user-specified place tracking",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -74860,11 +74894,11 @@
             "value" : "位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.longitude" : {
       "comment" : "Use for geolocation data representation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -75112,11 +75146,23 @@
             "value" : "經度"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.magazine" : {
+      "comment" : "Use when referring to a publication, typically in print or digital format",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Magazine"
+          }
+        }
+      }
     },
     "TK.Label.mail" : {
       "comment" : "Use for email-related services",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -75364,11 +75410,11 @@
             "value" : "郵件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.map" : {
       "comment" : "Use for geographic visualization or route navigation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -75616,11 +75662,11 @@
             "value" : "地圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.matchmaking" : {
       "comment" : "Use when searching for online players to compete with",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -75868,11 +75914,11 @@
             "value" : "配對功能"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.media" : {
       "comment" : "Use for sections containing audio, video, or images",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -76120,11 +76166,11 @@
             "value" : "媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meetingDuration" : {
       "comment" : "Time allocation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -76372,11 +76418,11 @@
             "value" : "會議持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meetingNotes" : {
       "comment" : "Use when labeling a section for recording meeting information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -76624,11 +76670,11 @@
             "value" : "會議筆記"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.memory" : {
       "comment" : "Use for device storage or performance monitoring",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -76876,11 +76922,11 @@
             "value" : "記憶體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mentions" : {
       "comment" : "Use when listing instances where a user was tagged",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -77128,11 +77174,11 @@
             "value" : "提及"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.message" : {
       "comment" : "Use for communication or chat-related interfaces",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -77380,11 +77426,11 @@
             "value" : "訊息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.messages" : {
       "comment" : "Use for sections displaying multiple conversations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -77632,11 +77678,11 @@
             "value" : "訊息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.microphone" : {
       "comment" : "Use for audio input settings or permissions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -77884,11 +77930,11 @@
             "value" : "咪高風"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mindfulness" : {
       "comment" : "Use when referring to meditation and relaxation exercises",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -78136,11 +78182,11 @@
             "value" : "靜觀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.minutes" : {
       "comment" : "Use for time-based measurements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -78388,11 +78434,11 @@
             "value" : "分鐘"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mobileData" : {
       "comment" : "Use for cellular internet usage settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -78640,11 +78686,11 @@
             "value" : "流動數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mode" : {
       "comment" : "Use for selecting different configurations or presets",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -78892,11 +78938,11 @@
             "value" : "模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.monitor" : {
       "comment" : "Use for tracking performance or device activity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -79144,11 +79190,11 @@
             "value" : "監控"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.month" : {
       "comment" : "Use for date selection or time filtering",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -79396,11 +79442,11 @@
             "value" : "月"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.multiSelect" : {
       "comment" : "Use for labeling mode where multiple items can be selected",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -79648,11 +79694,11 @@
             "value" : "多選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mute" : {
       "comment" : "Use for sound control or notification preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -79900,11 +79946,11 @@
             "value" : "靜音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mutedAccounts" : {
       "comment" : "Use when displaying a list of accounts the user has muted",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -80152,11 +80198,23 @@
             "value" : "靜音帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.myLibrary" : {
+      "comment" : "Use for a personal collection of saved or owned content",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My Library"
+          }
+        }
+      }
     },
     "TK.Label.myLists" : {
       "comment" : "User collections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -80404,11 +80462,11 @@
             "value" : "我的清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.name" : {
       "comment" : "Use for input fields where users provide personal identification",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -80656,11 +80714,11 @@
             "value" : "名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.navigation" : {
       "comment" : "Use for guiding users through different sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -80908,11 +80966,11 @@
             "value" : "導覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.neighborhood" : {
       "comment" : "Use when referring to localized areas in real estate apps",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -81160,11 +81218,11 @@
             "value" : "社區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.network" : {
       "comment" : "Use for internet or connectivity-related settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -81412,11 +81470,11 @@
             "value" : "網絡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.networkType" : {
       "comment" : "Connection type indicator",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -81664,11 +81722,11 @@
             "value" : "網絡類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.netWorth" : {
       "comment" : "Use when displaying a user's total financial standing",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -81916,11 +81974,11 @@
             "value" : "淨資產"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.new" : {
       "comment" : "Use for marking recently added items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -82168,11 +82226,11 @@
             "value" : "新增"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newArrivals" : {
       "comment" : "Use when displaying recently added products",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -82420,11 +82478,11 @@
             "value" : "新到貨品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newReleases" : {
       "comment" : "Latest content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -82672,11 +82730,23 @@
             "value" : "新版本"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.newsletter" : {
+      "comment" : "Use for a regular email or publication sent to subscribers",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Newsletter"
+          }
+        }
+      }
     },
     "TK.Label.nightMode" : {
       "comment" : "Use for dark theme settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -82924,11 +82994,11 @@
             "value" : "夜間模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.no" : {
       "comment" : "Use for negative confirmations or dismissals",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -83176,11 +83246,11 @@
             "value" : "否"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.noiseCancellation" : {
       "comment" : "Use for audio enhancement features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -83428,11 +83498,11 @@
             "value" : "消噪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.noItemsFound" : {
       "comment" : "Empty state message",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -83680,11 +83750,11 @@
             "value" : "未找到項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.noResults" : {
       "comment" : "Use when a search or filter returns no items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -83932,11 +84002,11 @@
             "value" : "沒有結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notifications" : {
       "comment" : "Use when referring to system or app alerts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -84184,11 +84254,11 @@
             "value" : "通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.number" : {
       "comment" : "Use for numerical data fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -84436,11 +84506,11 @@
             "value" : "數字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.offline" : {
       "comment" : "Use for indicators showing lack of internet connectivity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -84688,11 +84758,11 @@
             "value" : "離線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.online" : {
       "comment" : "Use for status indicators showing internet connectivity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -84940,11 +85010,10 @@
             "value" : "在線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opinion" : {
-      "comment" : "Use when categorizing opinion pieces",
+      "comment" : "Use when referring to editorial or opinion-based content",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -85192,11 +85261,11 @@
             "value" : "意見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.options" : {
       "comment" : "Use for configurable settings or preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -85444,11 +85513,11 @@
             "value" : "選項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use when listing a user's past orders",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -85696,11 +85765,11 @@
             "value" : "訂單歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.outOfStock" : {
       "comment" : "Use when an item is unavailable for purchase",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -85948,11 +86017,11 @@
             "value" : "缺貨"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.overview" : {
       "comment" : "Use when summarizing content or features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -86200,11 +86269,10 @@
             "value" : "概覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
-      "comment" : "Use for indicating sections in a document or application",
+      "comment" : "Use for individual pages of a publication or content item",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -86452,11 +86520,11 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.password" : {
       "comment" : "Use for authentication or security fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -86704,11 +86772,11 @@
             "value" : "密碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paused" : {
       "comment" : "Use for indicating that an action or process is on hold",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -86956,11 +87024,11 @@
             "value" : "已暫停"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentMethods" : {
       "comment" : "Use when displaying available payment options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -87208,11 +87276,11 @@
             "value" : "付款方法"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pendingTasks" : {
       "comment" : "Use when listing unfinished tasks",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -87460,11 +87528,11 @@
             "value" : "待辦任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pendingTransactions" : {
       "comment" : "Use for transactions that are not yet finalized",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -87712,11 +87780,11 @@
             "value" : "待處理交易"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.permissions" : {
       "comment" : "Use when managing access rights for features or data",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -87964,11 +88032,11 @@
             "value" : "權限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.personal" : {
       "comment" : "Use for labeling sections related to user information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -88216,11 +88284,11 @@
             "value" : "個人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.phone" : {
       "comment" : "Use for telephone numbers or call-related settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -88468,11 +88536,11 @@
             "value" : "電話"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.photos" : {
       "comment" : "Use for image libraries or camera roll sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -88720,11 +88788,11 @@
             "value" : "相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pin" : {
       "comment" : "Use for saved or favorite items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -88972,11 +89040,11 @@
             "value" : "釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playback" : {
       "comment" : "Use for media control features",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -89224,11 +89292,11 @@
             "value" : "播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playbackSpeed" : {
       "comment" : "Use when referring to video speed settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -89476,11 +89544,11 @@
             "value" : "播放速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playlist" : {
       "comment" : "Use for collections of media items such as songs or videos",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -89728,11 +89796,11 @@
             "value" : "播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pointsOfInterest" : {
       "comment" : "Use when listing landmarks, attractions, or popular spots",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -89980,11 +90048,10 @@
             "value" : "熱門景點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.politics" : {
-      "comment" : "Use when categorizing political news",
+      "comment" : "Use for content related to government, elections, and political affairs",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -90232,11 +90299,23 @@
             "value" : "政治"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.popular" : {
+      "comment" : "Use for content that is widely viewed or discussed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Popular"
+          }
+        }
+      }
     },
     "TK.Label.popularCategories" : {
       "comment" : "Content grouping",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -90484,11 +90563,11 @@
             "value" : "熱門類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popularDestinations" : {
       "comment" : "Use when showcasing well-liked travel spots",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -90736,11 +90815,11 @@
             "value" : "熱門目的地"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.practiceExercises" : {
       "comment" : "Training units",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -90988,11 +91067,11 @@
             "value" : "練習題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.precipitation" : {
       "comment" : "Use when showing expected rain or snow amounts",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -91240,11 +91319,11 @@
             "value" : "降水量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.privacy" : {
       "comment" : "Use when referring to data protection or access controls",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -91492,11 +91571,11 @@
             "value" : "私隱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.privacyPolicy" : {
       "comment" : "Use when referring to the data privacy document",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -91744,11 +91823,11 @@
             "value" : "私隱政策"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.profile" : {
       "comment" : "Use when referring to a user's personal page",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -91996,11 +92075,11 @@
             "value" : "描述檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use for status updates or completion indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -92248,11 +92327,11 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.projectBudget" : {
       "comment" : "Financial resources",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -92500,11 +92579,11 @@
             "value" : "項目預算"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.projectOverview" : {
       "comment" : "Use when summarizing project details and progress",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -92752,11 +92831,11 @@
             "value" : "項目概覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.projectStatus" : {
       "comment" : "Project progress indicator",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -93004,11 +93083,11 @@
             "value" : "項目狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.projectTimeline" : {
       "comment" : "Schedule view",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -93256,11 +93335,11 @@
             "value" : "項目時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.public" : {
       "comment" : "Use to label content that is visible to all users",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -93508,11 +93587,11 @@
             "value" : "公開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.publicTransport" : {
       "comment" : "Use when referring to buses, trains, and metro options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -93760,11 +93839,23 @@
             "value" : "公共交通"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.published" : {
+      "comment" : "Use when indicating when content was made available to the public",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Published"
+          }
+        }
+      }
     },
     "TK.Label.quality" : {
       "comment" : "Use for settings related to resolution or performance",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -94012,11 +94103,11 @@
             "value" : "質量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.queue" : {
       "comment" : "Use for lists of pending tasks or media playback",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -94264,11 +94355,11 @@
             "value" : "佇列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.quizScore" : {
       "comment" : "Assessment result",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -94516,11 +94607,23 @@
             "value" : "測驗分數"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.readingList" : {
+      "comment" : "Use for a list of articles or books to read",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reading List"
+          }
+        }
+      }
     },
     "TK.Label.recent" : {
       "comment" : "Use for items or activities that were accessed recently",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -94768,11 +94871,11 @@
             "value" : "最近玩家"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recentActivity" : {
       "comment" : "Use when listing the latest interactions or changes",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -95020,11 +95123,11 @@
             "value" : "最近活動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recentPhotos" : {
       "comment" : "Use when displaying the latest captured or saved images",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -95272,11 +95375,11 @@
             "value" : "最近照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recurring" : {
       "comment" : "Use for events or actions that repeat over time",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -95524,11 +95627,11 @@
             "value" : "循環"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recurringPayments" : {
       "comment" : "Use for scheduled payments that repeat",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -95776,11 +95879,11 @@
             "value" : "循環付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.registration" : {
       "comment" : "Use for sign-up or account creation processes",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -96028,11 +96131,11 @@
             "value" : "登記"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.releaseDate" : {
       "comment" : "Content information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -96280,11 +96383,11 @@
             "value" : "發行日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reminder" : {
       "comment" : "Use for alerts or notifications about upcoming events",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -96532,11 +96635,11 @@
             "value" : "提醒事項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.remote" : {
       "comment" : "Use for features involving remote control or connections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -96784,11 +96887,11 @@
             "value" : "遙控器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.required" : {
       "comment" : "Use for fields or inputs that must be completed",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -97036,11 +97139,11 @@
             "value" : "必填"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resolution" : {
       "comment" : "Use when showing the quality of a photo or video",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -97288,11 +97391,11 @@
             "value" : "分辨率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resourceAllocation" : {
       "comment" : "Asset distribution",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -97540,11 +97643,11 @@
             "value" : "資源分配"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resources" : {
       "comment" : "Use for educational or informational material sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -97792,11 +97895,11 @@
             "value" : "資源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.restricted" : {
       "comment" : "Use for content with limited access permissions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -98044,11 +98147,11 @@
             "value" : "受限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.review" : {
       "comment" : "Use for feedback sections or evaluating content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -98296,11 +98399,11 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reviews" : {
       "comment" : "Use when displaying user feedback for services or products",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -98548,11 +98651,11 @@
             "value" : "評價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.role" : {
       "comment" : "Use for user roles or access level settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -98800,11 +98903,11 @@
             "value" : "角色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rowCount" : {
       "comment" : "Use for displaying number of items in a list",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -99052,11 +99155,23 @@
             "value" : "行數計算"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.savedArticles" : {
+      "comment" : "Use for content that has been saved for future reading",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saved Articles"
+          }
+        }
+      }
     },
     "TK.Label.schedule" : {
       "comment" : "Use for calendar events or time-based tasks",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -99304,11 +99419,23 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.scienceAndTechnology" : {
+      "comment" : "Use for content related to scientific advancements and tech",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Science & Technology"
+          }
+        }
+      }
     },
     "TK.Label.scienceTechnology" : {
       "comment" : "Use when categorizing tech-related news",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -99556,11 +99683,11 @@
             "value" : "科學與技術"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.screen" : {
       "comment" : "Use for device display or screen-related settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -99808,11 +99935,11 @@
             "value" : "螢幕"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.screenshot" : {
       "comment" : "Use for capturing an image of the screen",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -100060,11 +100187,11 @@
             "value" : "螢幕截圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.scroll" : {
       "comment" : "Use for navigational actions involving scrolling",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -100312,11 +100439,11 @@
             "value" : "滾動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.search" : {
       "comment" : "Use for input fields related to finding content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -100564,11 +100691,23 @@
             "value" : "搜尋"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.section" : {
+      "comment" : "Use for different categories or parts within a publication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Section"
+          }
+        }
+      }
     },
     "TK.Label.security" : {
       "comment" : "Use when displaying security settings or warnings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -100816,11 +100955,11 @@
             "value" : "保安"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.securitySettings" : {
       "comment" : "Use when referring to privacy and security configurations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -101068,11 +101207,11 @@
             "value" : "安全設置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.server" : {
       "comment" : "Use for backend or cloud service settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -101320,11 +101459,11 @@
             "value" : "伺服器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.settings" : {
       "comment" : "Use when referring to configuration or app preferences",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -101572,11 +101711,11 @@
             "value" : "設定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sharedWithMe" : {
       "comment" : "Use when referring to files or tasks assigned by others",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -101824,11 +101963,11 @@
             "value" : "與我共享"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shippingAddress" : {
       "comment" : "Use when showing a saved or selected shipping address",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -102076,11 +102215,11 @@
             "value" : "送貨地址"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shoppingCart" : {
       "comment" : "Use when displaying the cart containing selected items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -102328,11 +102467,11 @@
             "value" : "購物車"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shortcut" : {
       "comment" : "Use for quick access buttons or key combinations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -102580,11 +102719,11 @@
             "value" : "捷徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shutdown" : {
       "comment" : "Use for powering down a device or application",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -102832,11 +102971,11 @@
             "value" : "關閉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.signal" : {
       "comment" : "Use for network strength indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -103084,11 +103223,11 @@
             "value" : "信號"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.similarContent" : {
       "comment" : "Related items",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -103336,11 +103475,11 @@
             "value" : "相似內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.size" : {
       "comment" : "Use for dimensions or file size indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -103588,11 +103727,11 @@
             "value" : "大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleep" : {
       "comment" : "Use for power-saving or sleep mode settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -103840,11 +103979,11 @@
             "value" : "睡眠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleepDuration" : {
       "comment" : "Use when showing how long the user has slept",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -104092,11 +104231,11 @@
             "value" : "睡眠時長"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.source" : {
       "comment" : "Use for content origin or data input sources",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -104344,11 +104483,11 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.speed" : {
       "comment" : "Use for network or performance speed indicators",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -104596,11 +104735,11 @@
             "value" : "速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.statistics" : {
       "comment" : "Data analysis section",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -104848,11 +104987,11 @@
             "value" : "統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.status" : {
       "comment" : "Use when indicating the current state of an item or process",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -105100,11 +105239,11 @@
             "value" : "狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.steps" : {
       "comment" : "Use when showing the number of steps taken",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -105352,11 +105491,11 @@
             "value" : "步數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.storage" : {
       "comment" : "Use for available space or memory usage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -105604,11 +105743,11 @@
             "value" : "儲存空間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.storageSpace" : {
       "comment" : "Available storage indicator",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -105856,11 +105995,11 @@
             "value" : "儲存空間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.storageUsage" : {
       "comment" : "Use when showing how much storage is being used",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -106108,11 +106247,11 @@
             "value" : "儲存用量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.streaming" : {
       "comment" : "Use for media content being played in real-time",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -106360,11 +106499,11 @@
             "value" : "串流"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.streamingQuality" : {
       "comment" : "Playback quality",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -106612,11 +106751,11 @@
             "value" : "串流質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyMaterials" : {
       "comment" : "Learning resources",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -106864,11 +107003,11 @@
             "value" : "學習資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studySessions" : {
       "comment" : "Learning periods",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -107116,11 +107255,11 @@
             "value" : "學習時段"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyTime" : {
       "comment" : "Learning duration",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -107368,11 +107507,11 @@
             "value" : "學習時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.submit" : {
       "comment" : "Use for confirming form inputs or actions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -107620,11 +107759,11 @@
             "value" : "送出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subscription" : {
       "comment" : "Use for recurring service payment information",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -107872,11 +108011,23 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.subscriptions" : {
+      "comment" : "Use for managing or subscribing to content or services",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscriptions"
+          }
+        }
+      }
     },
     "TK.Label.success" : {
       "comment" : "Use for indicating a successful action",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -108124,11 +108275,11 @@
             "value" : "成功"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sunriseSunset" : {
       "comment" : "Use when indicating the times for the sun’s appearance and disappearance",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -108376,11 +108527,11 @@
             "value" : "日出與日落"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.support" : {
       "comment" : "Use for help desk or customer service sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -108628,11 +108779,11 @@
             "value" : "支援"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.syncStatus" : {
       "comment" : "Data synchronization state",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -108880,11 +109031,11 @@
             "value" : "同步狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.system" : {
       "comment" : "Use for system-wide settings and configurations",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -109132,11 +109283,11 @@
             "value" : "系統"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.systemLogs" : {
       "comment" : "Use when displaying recorded system events and errors",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -109384,11 +109535,23 @@
             "value" : "系統日誌"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.tableOfContents" : {
+      "comment" : "Use for the list of sections or articles in a publication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table of Contents"
+          }
+        }
+      }
     },
     "TK.Label.tag" : {
       "comment" : "Use for categorization and metadata labeling",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -109636,11 +109799,11 @@
             "value" : "標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.taskDependencies" : {
       "comment" : "Work requirements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -109888,11 +110051,11 @@
             "value" : "任務依賴"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.taskPriority" : {
       "comment" : "Work importance level",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -110140,11 +110303,11 @@
             "value" : "任務優先次序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.teamMembers" : {
       "comment" : "Collaboration group",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -110392,11 +110555,11 @@
             "value" : "團隊成員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.temperature" : {
       "comment" : "Use for weather and device heat monitoring",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -110644,11 +110807,11 @@
             "value" : "温度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.termsConditions" : {
       "comment" : "Use for legal agreements and policy sections",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -110896,11 +111059,11 @@
             "value" : "條款與條件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.termsOfService" : {
       "comment" : "Use when referring to the terms and conditions document",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -111148,11 +111311,11 @@
             "value" : "服務條款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.test" : {
       "comment" : "Use for testing features or sample data",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -111400,11 +111563,11 @@
             "value" : "測試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.text" : {
       "comment" : "Use for content fields and typography settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -111652,11 +111815,11 @@
             "value" : "文字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.theme" : {
       "comment" : "Use for UI appearance customization",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -111904,11 +112067,11 @@
             "value" : "主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.thirdPartyServices" : {
       "comment" : "Use when referring to external integrations or services",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -112156,11 +112319,11 @@
             "value" : "第三方服務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.time" : {
       "comment" : "Use for time display and selection",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -112408,11 +112571,11 @@
             "value" : "時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.timeTracked" : {
       "comment" : "Work duration",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -112660,11 +112823,11 @@
             "value" : "追蹤時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.timezone" : {
       "comment" : "Use for configuring regional time settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -112912,11 +113075,11 @@
             "value" : "時區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.title" : {
       "comment" : "Use for headlines and label elements",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -113164,11 +113327,11 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.toDo" : {
       "comment" : "Use for task management and scheduling",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -113416,11 +113579,11 @@
             "value" : "待辦事項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tollRoads" : {
       "comment" : "Use when warning about routes with tolls",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -113668,11 +113831,11 @@
             "value" : "收費道路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tools" : {
       "comment" : "Use for feature-rich sections with utilities",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -113920,11 +114083,11 @@
             "value" : "工具"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.top" : {
       "comment" : "Use for positioning and hierarchy indications",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -114172,11 +114335,11 @@
             "value" : "上"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topRated" : {
       "comment" : "Highly rated content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -114424,11 +114587,23 @@
             "value" : "最高評價"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.topStories" : {
+      "comment" : "Use for the most important news or content",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Top Stories"
+          }
+        }
+      }
     },
     "TK.Label.total" : {
       "comment" : "Use for displaying sum or overall values",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -114676,11 +114851,11 @@
             "value" : "總計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.totalDebt" : {
       "comment" : "Use when showing a user’s outstanding liabilities",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -114928,11 +115103,11 @@
             "value" : "總債務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tracking" : {
       "comment" : "Use for monitoring processes and progress",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -115180,11 +115355,11 @@
             "value" : "追蹤中"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.traffic" : {
       "comment" : "Use for network usage and real-time monitoring",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -115432,11 +115607,11 @@
             "value" : "網絡流量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trafficConditions" : {
       "comment" : "Use when indicating real-time traffic updates",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -115684,11 +115859,11 @@
             "value" : "交通狀況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transactionHistory" : {
       "comment" : "Use for listing past transactions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -115936,11 +116111,11 @@
             "value" : "交易歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.translation" : {
       "comment" : "Use for language and localization services",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -116188,11 +116363,11 @@
             "value" : "翻譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trash" : {
       "comment" : "Use for deleted items or temporary storage",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -116440,11 +116615,10 @@
             "value" : "垃圾桶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
-      "comment" : "Use when showcasing popular content",
+      "comment" : "Use for popular or widely discussed topics",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -116692,11 +116866,11 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trendingNow" : {
       "comment" : "Popular content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -116944,11 +117118,11 @@
             "value" : "目前熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trendingStories" : {
       "comment" : "Use when displaying popular articles",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -117196,11 +117370,11 @@
             "value" : "熱門故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutorAvailable" : {
       "comment" : "Help status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -117448,11 +117622,11 @@
             "value" : "可用導師"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutorial" : {
       "comment" : "Use for instructional content and guides",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -117700,11 +117874,11 @@
             "value" : "教程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.unknown" : {
       "comment" : "Use when the state or identity is not clear or available",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -117952,11 +118126,11 @@
             "value" : "未知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.unread" : {
       "comment" : "Use for marking content that hasn't been viewed",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -118204,11 +118378,11 @@
             "value" : "未讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.usage" : {
       "comment" : "Use for monitoring resource consumption",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -118456,11 +118630,11 @@
             "value" : "用量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.usageStatistics" : {
       "comment" : "App usage metrics",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -118708,11 +118882,11 @@
             "value" : "使用統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.user" : {
       "comment" : "Use for identifying individual accounts or profiles",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -118960,11 +119134,11 @@
             "value" : "用户"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.userAgreements" : {
       "comment" : "Use when listing various agreements between the user and the company",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -119212,11 +119386,11 @@
             "value" : "用戶協議"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.username" : {
       "comment" : "Use for user account identification fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -119464,11 +119638,11 @@
             "value" : "用户名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.uvIndex" : {
       "comment" : "Use when showing UV radiation levels for sun exposure risks",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -119716,11 +119890,11 @@
             "value" : "紫外線指數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.validation" : {
       "comment" : "Use for input verification and error handling",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -119968,11 +120142,11 @@
             "value" : "驗證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.verification" : {
       "comment" : "Use for confirming identity or data integrity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -120220,11 +120394,11 @@
             "value" : "認證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.version" : {
       "comment" : "Use for software version details",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -120472,11 +120646,11 @@
             "value" : "版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.video" : {
       "comment" : "Use for multimedia content and playback",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -120724,11 +120898,11 @@
             "value" : "影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.viewingHistory" : {
       "comment" : "Watch record",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -120976,11 +121150,11 @@
             "value" : "觀看歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.visibility" : {
       "comment" : "Use when indicating how far ahead conditions allow you to see",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -121228,11 +121402,11 @@
             "value" : "可見度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.voice" : {
       "comment" : "Use for speech recognition and accessibility options",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -121480,11 +121654,11 @@
             "value" : "語音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.voiceAssistant" : {
       "comment" : "Use for AI-driven voice command services",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -121732,11 +121906,11 @@
             "value" : "語音助手"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.volume" : {
       "comment" : "Use for sound control settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -121984,11 +122158,11 @@
             "value" : "音量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.warning" : {
       "comment" : "Use for alerts and caution messages",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -122236,11 +122410,11 @@
             "value" : "警告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.watchLater" : {
       "comment" : "Saved content",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -122488,11 +122662,11 @@
             "value" : "稍後觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.weeklyGoals" : {
       "comment" : "Learning targets",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -122740,11 +122914,11 @@
             "value" : "每週目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.weeklySummary" : {
       "comment" : "Use when displaying a report of the week's activity",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -122992,11 +123166,11 @@
             "value" : "每週摘要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.wiFi" : {
       "comment" : "Use for wireless network settings",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -123244,11 +123418,11 @@
             "value" : "Wi-Fi"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.wiFiNetwork" : {
       "comment" : "Use when referring to the currently connected Wi-Fi network",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -123496,11 +123670,11 @@
             "value" : "Wi-Fi 網絡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.window" : {
       "comment" : "Use for application UI management",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -123748,11 +123922,11 @@
             "value" : "窗戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.windSpeed" : {
       "comment" : "Use when indicating how fast the wind is moving",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -124000,11 +124174,11 @@
             "value" : "風速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.work" : {
       "comment" : "Use for categorizing tasks, contacts, or events related to work",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -124252,11 +124426,11 @@
             "value" : "工作"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workHours" : {
       "comment" : "Time tracking",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -124504,11 +124678,11 @@
             "value" : "工作時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workout" : {
       "comment" : "Use for fitness and activity tracking",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -124756,11 +124930,11 @@
             "value" : "體能訓練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workoutIntensity" : {
       "comment" : "Use when measuring the level of effort during exercise",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -125008,11 +125182,11 @@
             "value" : "健身強度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workspaces" : {
       "comment" : "Use when referring to collaborative or personal work environments",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -125260,11 +125434,10 @@
             "value" : "工作區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.worldNews" : {
-      "comment" : "Use when referring to global news coverage",
+      "comment" : "Use for international or global news updates",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -125512,11 +125685,11 @@
             "value" : "全球新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.xp" : {
       "comment" : "Use when showing a player's experience points",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -125764,11 +125937,11 @@
             "value" : "XP"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.year" : {
       "comment" : "Use for date selection and filtering",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -126016,11 +126189,11 @@
             "value" : "年"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.zipCode" : {
       "comment" : "Use for postal code input fields",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -126268,12 +126441,11 @@
             "value" : "郵遞區號"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.audioLevelsAreTooHigh" : {
       "comment" : "Warning when audio levels exceed safe thresholds",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -126521,11 +126693,23 @@
             "value" : "音量過高。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.audioLevelsAreTooHighDot" : {
+      "comment" : "Warning when audio levels exceed safe thresholds",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Audio levels are too high."
+          }
+        }
+      }
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Message when content is restricted based on region",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -126773,12 +126957,23 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contentNotAvailableInYourRegionDot" : {
+      "comment" : "Message when content is restricted based on region",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content not available in your region."
+          }
+        }
+      }
     },
     "TK.Message.maximumTrackCountReached" : {
       "comment" : "Message when the maximum number of tracks is reached",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -127026,12 +127221,23 @@
             "value" : "達到最大音軌數量。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.maximumTrackCountReachedDot" : {
+      "comment" : "Message when the maximum number of tracks is reached",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum track count reached."
+          }
+        }
+      }
     },
     "TK.Message.metronomeIsNowActive" : {
       "comment" : "Confirmation message when the metronome is turned on",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -127279,12 +127485,23 @@
             "value" : "拍子器現已啟動。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.metronomeIsNowActiveDot" : {
+      "comment" : "Confirmation message when the metronome is turned on",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Metronome is now active."
+          }
+        }
+      }
     },
     "TK.Message.noAudioInputDetected" : {
       "comment" : "Message when no audio input is found",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -127532,12 +127749,23 @@
             "value" : "未檢測到音訊輸入。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noAudioInputDetectedDot" : {
+      "comment" : "Message when no audio input is found",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No audio input detected."
+          }
+        }
+      }
     },
     "TK.Message.outOfTuneAdjustHigher" : {
       "comment" : "Message when the audio is out of tune and needs to be adjusted higher",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -127785,12 +128013,23 @@
             "value" : "音調不準 - 請調高。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.outOfTuneAdjustHigherDot" : {
+      "comment" : "Message when the audio is out of tune and needs to be adjusted higher",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Out of tune - adjust higher."
+          }
+        }
+      }
     },
     "TK.Message.outOfTuneAdjustLower" : {
       "comment" : "Message when the audio is out of tune and needs to be adjusted lower",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -128038,11 +128277,23 @@
             "value" : "音調不準 - 請調低。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.outOfTuneAdjustLowerDot" : {
+      "comment" : "Message when the audio is out of tune and needs to be adjusted lower",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Out of tune - adjust lower."
+          }
+        }
+      }
     },
     "TK.Message.practiceMakesPerfect" : {
       "comment" : "Motivational message for practice",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -128290,12 +128541,23 @@
             "value" : "熟能生巧"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.practiceMakesPerfectDot" : {
+      "comment" : "Motivational message for practice",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Practice makes perfect."
+          }
+        }
+      }
     },
     "TK.Message.practiceSessionCompleted" : {
       "comment" : "Message when a practice session is finished",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -128543,12 +128805,23 @@
             "value" : "練習會話已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.practiceSessionCompletedDot" : {
+      "comment" : "Message when a practice session is finished",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Practice session completed."
+          }
+        }
+      }
     },
     "TK.Message.progressSavedSuccessfully" : {
       "comment" : "Confirmation message when progress is saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -128796,12 +129069,23 @@
             "value" : "進度已成功儲存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.progressSavedSuccessfullyDot" : {
+      "comment" : "Confirmation message when progress is saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progress saved successfully."
+          }
+        }
+      }
     },
     "TK.Message.recordingAlreadyInProgress" : {
       "comment" : "Message when trying to record while another recording is already ongoing",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -129049,12 +129333,23 @@
             "value" : "錄音已在進行中。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.recordingAlreadyInProgressDot" : {
+      "comment" : "Message when trying to record while another recording is already ongoing",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recording already in progress."
+          }
+        }
+      }
     },
     "TK.Message.sheetMusicImportedSuccessfully" : {
       "comment" : "Confirmation message when sheet music is imported",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -129302,12 +129597,23 @@
             "value" : "樂譜已成功導入。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.sheetMusicImportedSuccessfullyDot" : {
+      "comment" : "Confirmation message when sheet music is imported",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sheet music imported successfully."
+          }
+        }
+      }
     },
     "TK.Message.tuningCompletedSuccessfully" : {
       "comment" : "Confirmation message when tuning is completed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -129555,12 +129861,23 @@
             "value" : "調整已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.tuningCompletedSuccessfullyDot" : {
+      "comment" : "Confirmation message when tuning is completed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tuning completed successfully."
+          }
+        }
+      }
     },
     "TK.Message.yourDailyStreakAchieved" : {
       "comment" : "Confirmation message when a daily streak is completed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -129808,12 +130125,23 @@
             "value" : "你已达成每日记录！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourDailyStreakAchievedDot" : {
+      "comment" : "Confirmation message when a daily streak is completed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your daily streak achieved!"
+          }
+        }
+      }
     },
     "TK.Message.yourRecordingHasBeenSaved" : {
       "comment" : "Confirmation message when a recording is saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -130061,12 +130389,22 @@
             "value" : "你的录音已保存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourRecordingHasBeenSavedDot" : {
+      "comment" : "Confirmation message when a recording is saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your recording has been saved."
+          }
+        }
+      }
     },
     "TK.Placeholder.analyzingTempoDots" : {
       "comment" : "Placeholder while analyzing the tempo of a track",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -130314,12 +130652,10 @@
             "value" : "正在分析節拍…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseInstrumentDots" : {
       "comment" : "Placeholder for selecting an instrument",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -130567,12 +130903,10 @@
             "value" : "選擇樂器…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.detectingPitchDots" : {
       "comment" : "Placeholder while detecting the pitch of a note",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -130820,12 +131154,10 @@
             "value" : "正在檢測音高…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.eG120BPM" : {
       "comment" : "Example of a beats per minute value (e.g. 120 BPM)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -131073,12 +131405,11 @@
             "value" : "例如 120 BPM"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.egcMajor" : {
       "comment" : "Example of a chord or key (e.g. C Major)",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -131326,8 +131657,19 @@
             "value" : "例如 C 大調"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.eGCmajor" : {
+      "comment" : "Example of a chord or key (e.g. C Major)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "e.g. C Major"
+          }
+        }
+      }
     },
     "TK.Placeholder.enterAlbumNameDots" : {
       "comment" : "Placeholder for entering the album name",
@@ -131578,12 +131920,10 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterArtistNameDots" : {
       "comment" : "Placeholder for entering the artist's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -131831,12 +132171,10 @@
             "value" : "輸入藝術家名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBPMDots" : {
       "comment" : "Placeholder for entering the beats per minute (BPM)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -132084,12 +132422,10 @@
             "value" : "輸入BPM…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterChordProgressionDots" : {
       "comment" : "Placeholder for entering a chord progression",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -132337,12 +132673,10 @@
             "value" : "輸入和弦進行…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLyricsHereDots" : {
       "comment" : "Placeholder for entering song lyrics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -132590,12 +132924,10 @@
             "value" : "輸入歌詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSongTitleDots" : {
       "comment" : "Placeholder for entering the song title",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -132843,12 +133175,10 @@
             "value" : "輸入歌曲標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTimeSignatureDots" : {
       "comment" : "Placeholder for entering the time signature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -133096,12 +133426,10 @@
             "value" : "輸入拍子記號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingHarmonyDots" : {
       "comment" : "Placeholder while finding harmony in music",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -133349,12 +133677,10 @@
             "value" : "尋找和諧…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.identifyingKeyDots" : {
       "comment" : "Placeholder while identifying the key of the song",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -133602,12 +133928,10 @@
             "value" : "識別歌曲的調..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.logPracticeTimeDots" : {
       "comment" : "Placeholder for logging practice time",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -133855,12 +134179,10 @@
             "value" : "記錄練習時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.recordingAudioDots" : {
       "comment" : "Placeholder while recording audio",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -134108,8 +134430,7 @@
             "value" : "錄製音頻…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchArtistsDots" : {
       "comment" : "Placeholder for searching artists",
@@ -134360,8 +134681,7 @@
             "value" : "搜索藝術家⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPlaylistsDots" : {
       "comment" : "Placeholder for searching playlists",
@@ -134612,12 +134932,10 @@
             "value" : "搜索播放列表…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setPracticeGoalDots" : {
       "comment" : "Placeholder for setting a practice goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -134865,12 +135183,23 @@
             "value" : "設置練習目標…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.tuningToA4Dots" : {
+      "comment" : "Placeholder while tuning to A4",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tuning to A4 (440 Hz)…"
+          }
+        }
+      }
     },
     "TK.Placeholder.tuningToA4440HzDots" : {
       "comment" : "Placeholder while tuning to A4",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -135118,8 +135447,7 @@
             "value" : "調音至A4 (440 Hz)…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

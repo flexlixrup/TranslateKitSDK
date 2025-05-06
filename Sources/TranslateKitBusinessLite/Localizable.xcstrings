@@ -250,12 +250,10 @@
             "value" : "批准"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.assign" : {
       "comment" : "Use when assigning a task or responsibility to someone",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -503,8 +501,7 @@
             "value" : "分配"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.attachFile" : {
       "comment" : "Use when adding a file to a message, task, or document",
@@ -755,8 +752,7 @@
             "value" : "附加檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.backupData" : {
       "comment" : "Use when backing up important data or files",
@@ -1007,12 +1003,10 @@
             "value" : "備份數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bill" : {
       "comment" : "Use when generating a billing statement or invoice",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1260,8 +1254,7 @@
             "value" : "账单"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when scheduling or confirming a reservation",
@@ -1512,12 +1505,10 @@
             "value" : "立即預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.calculate" : {
       "comment" : "Use when performing a calculation or estimation",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1765,12 +1756,10 @@
             "value" : "计算"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clockIn" : {
       "comment" : "Use when starting work or logging in for a shift",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2018,12 +2007,10 @@
             "value" : "打卡上班"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clockOut" : {
       "comment" : "Use when finishing work or logging out after a shift",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2271,8 +2258,7 @@
             "value" : "打卡下班"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createInvoice" : {
       "comment" : "Use when generating a new invoice for a customer",
@@ -2523,8 +2509,7 @@
             "value" : "創建發票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new task or to-do item",
@@ -2775,8 +2760,7 @@
             "value" : "創建任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deposit" : {
       "comment" : "Use when depositing funds into an account or system",
@@ -3027,8 +3011,7 @@
             "value" : "存款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportData" : {
       "comment" : "Use when exporting data to an external format or file",
@@ -3279,8 +3262,7 @@
             "value" : "導出數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting a document or report as a PDF file",
@@ -3531,12 +3513,10 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.finalize" : {
       "comment" : "Use when completing or finalizing a process or task",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3784,8 +3764,7 @@
             "value" : "完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateInvoice" : {
       "comment" : "Use when automatically generating an invoice",
@@ -4036,8 +4015,7 @@
             "value" : "生成發票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when creating a detailed report or summary",
@@ -4288,12 +4266,10 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.invoice" : {
       "comment" : "Use when creating or referencing an invoice",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4541,12 +4517,10 @@
             "value" : "发票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logHours" : {
       "comment" : "Use when recording worked hours or time spent on tasks",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4794,8 +4768,7 @@
             "value" : "记录工时"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use when indicating that a task or project is finished",
@@ -5046,12 +5019,10 @@
             "value" : "標記為完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsPaid" : {
       "comment" : "Use when marking a bill or invoice as paid",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5299,8 +5270,7 @@
             "value" : "标记为已付"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.print" : {
       "comment" : "Use when printing documents, reports, or invoices",
@@ -5551,12 +5521,10 @@
             "value" : "列印"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.processPayment" : {
       "comment" : "Use when handling or processing a payment transaction",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5804,12 +5772,10 @@
             "value" : "處理付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quote" : {
       "comment" : "Use when generating or referencing a price estimate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6057,12 +6023,10 @@
             "value" : "報價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordExpense" : {
       "comment" : "Use when logging or tracking an expense",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6310,8 +6274,7 @@
             "value" : "記錄開支"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestApproval" : {
       "comment" : "Use when submitting a task or project for approval",
@@ -6562,8 +6525,7 @@
             "value" : "請求批准"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestMoney" : {
       "comment" : "Use when asking for a payment or funds",
@@ -6814,8 +6776,7 @@
             "value" : "請求付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleMeeting" : {
       "comment" : "Use when organizing a meeting or appointment",
@@ -7066,8 +7027,7 @@
             "value" : "安排會議"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendInvitation" : {
       "comment" : "Use when sending an invitation to join a meeting or event",
@@ -7318,8 +7278,7 @@
             "value" : "發送邀請"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendMoney" : {
       "comment" : "Use when transferring funds to another party",
@@ -7570,8 +7529,7 @@
             "value" : "發送金錢"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendReminder" : {
       "comment" : "Use when sending a notification or reminder",
@@ -7822,8 +7780,7 @@
             "value" : "發送提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setDeadline" : {
       "comment" : "Use when establishing a deadline for a task or project",
@@ -8074,12 +8031,10 @@
             "value" : "設定最後期限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.signContract" : {
       "comment" : "Use when signing an agreement or contract",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8327,12 +8282,10 @@
             "value" : "簽署合約"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitReport" : {
       "comment" : "Use when submitting a report or document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8580,12 +8533,10 @@
             "value" : "提交報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackTime" : {
       "comment" : "Use when monitoring or tracking time spent on tasks",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8833,8 +8784,7 @@
             "value" : "追蹤時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use when uploading a file to a system or service",
@@ -9085,12 +9035,10 @@
             "value" : "上載文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.verifyIdentity" : {
       "comment" : "Use when confirming the identity of a user or client",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9338,12 +9286,10 @@
             "value" : "驗證身份"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.address" : {
       "comment" : "Use for address fields or location information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9591,8 +9537,7 @@
             "value" : "地址"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.balance" : {
       "comment" : "Use for showing financial balance information",
@@ -9843,12 +9788,10 @@
             "value" : "餘額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.balanceDue" : {
       "comment" : "Use when indicating an outstanding balance",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10096,12 +10039,10 @@
             "value" : "餘額到期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bankAccount" : {
       "comment" : "Use for bank account details or settings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10349,12 +10290,10 @@
             "value" : "银行账户"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.billableHours" : {
       "comment" : "Use when tracking hours that are billable to a client",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10602,8 +10541,7 @@
             "value" : "可计费小时"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.billingStatus" : {
       "comment" : "Use when showing the payment or billing status",
@@ -10854,12 +10792,10 @@
             "value" : "帳單狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.businessHours" : {
       "comment" : "Use for specifying the hours a business is open",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11107,8 +11043,7 @@
             "value" : "营业时间"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardDetails" : {
       "comment" : "Use for payment card information",
@@ -11359,12 +11294,10 @@
             "value" : "卡的詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.client" : {
       "comment" : "Use when referring to a single customer or business partner",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11612,12 +11545,10 @@
             "value" : "客戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.clients" : {
       "comment" : "Use when referring to multiple customers or business partners",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11865,8 +11796,7 @@
             "value" : "客戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.company" : {
       "comment" : "Use for organizational or business information",
@@ -12117,8 +12047,7 @@
             "value" : "公司"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completionDate" : {
       "comment" : "Use when showing the date a project or task is due to be completed",
@@ -12369,12 +12298,10 @@
             "value" : "完成日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contract" : {
       "comment" : "Use for a formal agreement or business contract",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12622,8 +12549,7 @@
             "value" : "合約"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creditCard" : {
       "comment" : "Use when referring to payment information via credit card",
@@ -12874,8 +12800,7 @@
             "value" : "信用卡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currency" : {
       "comment" : "Use when showing the monetary unit or currency type",
@@ -13126,12 +13051,10 @@
             "value" : "貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.customer" : {
       "comment" : "Use when referring to a customer or client",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13379,8 +13302,7 @@
             "value" : "客戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dueDate" : {
       "comment" : "Use when showing the date by which a task or payment is due",
@@ -13631,12 +13553,10 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.employee" : {
       "comment" : "Use when referring to a single employee",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13884,12 +13804,10 @@
             "value" : "員工"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.employees" : {
       "comment" : "Use when referring to multiple employees",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14137,12 +14055,10 @@
             "value" : "員工"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.expense" : {
       "comment" : "Use when referring to a single business-related expense",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14390,12 +14306,10 @@
             "value" : "支出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.expenses" : {
       "comment" : "Use when referring to multiple business-related expenses",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14643,12 +14557,10 @@
             "value" : "開支"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.invoiceNumber" : {
       "comment" : "Use for referencing the unique identifier of an invoice",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14896,12 +14808,10 @@
             "value" : "發票號碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.jobTitle" : {
       "comment" : "Use when referring to a person's job position or role",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15149,12 +15059,10 @@
             "value" : "職位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meeting" : {
       "comment" : "Use for a scheduled business meeting or appointment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15402,12 +15310,10 @@
             "value" : "會議"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.organization" : {
       "comment" : "Use for company or group organization details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15655,12 +15561,10 @@
             "value" : "機構"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentMethod" : {
       "comment" : "Use for selecting or displaying payment method options",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15908,12 +15812,10 @@
             "value" : "付款方式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentStatus" : {
       "comment" : "Use when indicating the status of a payment (e.g., paid, pending)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16161,8 +16063,7 @@
             "value" : "付款狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.projectStatus" : {
       "comment" : "Use when showing the current status of a project",
@@ -16413,12 +16314,10 @@
             "value" : "項目狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.revenue" : {
       "comment" : "Use for displaying the income or earnings of a business",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16666,8 +16565,7 @@
             "value" : "收入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transactionHistory" : {
       "comment" : "Use for showing past financial transactions or records",
@@ -16918,12 +16816,10 @@
             "value" : "交易歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.vendor" : {
       "comment" : "Use for referring to a supplier or service provider",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17171,12 +17067,11 @@
             "value" : "供應商"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accountBalanceIsOverdue" : {
       "comment" : "Notification for overdue account payments",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17424,11 +17319,23 @@
             "value" : "帳戶餘額已逾期。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.accountBalanceOverdueDot" : {
+      "comment" : "Notification for overdue account payments",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account balance is overdue."
+          }
+        }
+      }
     },
     "TK.Message.budgetLimitExceeded" : {
       "comment" : "Notification for exceeding the budget limit",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17676,12 +17583,23 @@
             "value" : "超出預算限制"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.budgetLimitExceededDot" : {
+      "comment" : "Notification for exceeding the budget limit",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Budget limit exceeded."
+          }
+        }
+      }
     },
     "TK.Message.changesHaveBeenSavedToCloudStorage" : {
       "comment" : "Confirmation for cloud storage updates",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17929,12 +17847,23 @@
             "value" : "更改已儲存到雲端儲存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.changesSavedToCloudDot" : {
+      "comment" : "Confirmation for cloud storage updates",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Changes have been saved to cloud storage."
+          }
+        }
+      }
     },
     "TK.Message.clientInformationUpdatedSuccessfully" : {
       "comment" : "Confirmation for client data update",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18182,11 +18111,23 @@
             "value" : "客戶資料已成功更新。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.clientInfoUpdatedDot" : {
+      "comment" : "Confirmation for client data update",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Client information updated successfully."
+          }
+        }
+      }
     },
     "TK.Message.documentRequiresApproval" : {
       "comment" : "Notification for documents awaiting approval",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18434,11 +18375,23 @@
             "value" : "文檔需要批准"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.documentRequiresApprovalDot" : {
+      "comment" : "Notification for documents awaiting approval",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Document requires approval."
+          }
+        }
+      }
     },
     "TK.Message.expenseApprovalPending" : {
       "comment" : "Notification for pending expense approval",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18686,12 +18639,35 @@
             "value" : "費用批准待定"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.expenseApprovalPendingDot" : {
+      "comment" : "Notification for pending expense approval",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expense approval pending."
+          }
+        }
+      }
+    },
+    "TK.Message.expenseReportSubmittedDot" : {
+      "comment" : "Confirmation for submitted expense report",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expense report submitted for review."
+          }
+        }
+      }
     },
     "TK.Message.expenseReportSubmittedForReview" : {
       "comment" : "Confirmation for submitted expense report",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18939,12 +18915,11 @@
             "value" : "開支報告已提交審核。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invoiceHasBeenSent" : {
       "comment" : "Confirmation for invoice dispatch",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19192,12 +19167,23 @@
             "value" : "發票已發送。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.invoiceSentDot" : {
+      "comment" : "Confirmation for invoice dispatch",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invoice has been sent."
+          }
+        }
+      }
     },
     "TK.Message.paymentDeclinedByBank" : {
       "comment" : "Notification for payment rejection by the bank",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19445,12 +19431,35 @@
             "value" : "支付被銀行拒絕。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.paymentDeclinedByBankDot" : {
+      "comment" : "Notification for payment rejection by the bank",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payment declined by bank."
+          }
+        }
+      }
+    },
+    "TK.Message.paymentProcessedDot" : {
+      "comment" : "Confirmation for successful payment processing",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payment processed successfully."
+          }
+        }
+      }
     },
     "TK.Message.paymentProcessedSuccessfully" : {
       "comment" : "Confirmation for successful payment processing",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19698,11 +19707,23 @@
             "value" : "支付已成功處理。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.paymentProcessedSuccessfullyDot" : {
+      "comment" : "Confirmation for successful payment processing",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your payment has been processed successfully."
+          }
+        }
+      }
     },
     "TK.Message.projectDeadlineApproaching" : {
       "comment" : "Reminder for upcoming project deadlines",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19950,11 +19971,23 @@
             "value" : "项目截止日期临近"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.projectDeadlineApproachingDot" : {
+      "comment" : "Reminder for upcoming project deadlines",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Project deadline approaching."
+          }
+        }
+      }
     },
     "TK.Message.reportGenerationComplete" : {
       "comment" : "Notification for completed report generation",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20202,11 +20235,23 @@
             "value" : "報告生成完成"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.reportGenerationCompleteDot" : {
+      "comment" : "Notification for completed report generation",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Report generation complete."
+          }
+        }
+      }
     },
     "TK.Message.taskDependenciesUnmet" : {
       "comment" : "Notification for unmet task dependencies",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20454,11 +20499,23 @@
             "value" : "任務依賴未滿足"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.taskDependenciesUnmetDot" : {
+      "comment" : "Notification for unmet task dependencies",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Task dependencies unmet."
+          }
+        }
+      }
     },
     "TK.Message.transactionPending" : {
       "comment" : "Notification for pending transaction status",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20706,11 +20763,23 @@
             "value" : "交易待處理"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.transactionPendingDot" : {
+      "comment" : "Notification for pending transaction status",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transaction pending."
+          }
+        }
+      }
     },
     "TK.Message.yourPaymentHasBeenProcessedSuccessfully" : {
       "comment" : "Confirmation for successful payment processing",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20958,12 +21027,10 @@
             "value" : "你的付款已成功處理。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addClientDetailsDots" : {
       "comment" : "Placeholder for entering client-related information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21211,12 +21278,10 @@
             "value" : "添加客户详情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addCompanyNameDots" : {
       "comment" : "Placeholder for entering company name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21464,8 +21529,7 @@
             "value" : "添加公司名称…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addExpenseDetailsDots" : {
       "comment" : "Placeholder for entering details of an expense",
@@ -21716,12 +21780,10 @@
             "value" : "新增開支詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addInvoiceNumberDots" : {
       "comment" : "Placeholder for entering an invoice number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21969,12 +22031,10 @@
             "value" : "添加發票號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addJobTitleDots" : {
       "comment" : "Placeholder for entering a job title",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22222,8 +22282,7 @@
             "value" : "添加職位名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addMeetingAgendaDots" : {
       "comment" : "Placeholder for entering a meeting agenda",
@@ -22474,8 +22533,7 @@
             "value" : "新增會議議程…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addMilestoneDescriptionDots" : {
       "comment" : "Placeholder for entering a milestone description",
@@ -22726,12 +22784,10 @@
             "value" : "新增里程碑描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addPaymentNoteDots" : {
       "comment" : "Placeholder for entering payment-related notes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22979,8 +23035,7 @@
             "value" : "添加付款備註…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addProjectDetailsDots" : {
       "comment" : "Placeholder for entering project details",
@@ -23231,8 +23286,7 @@
             "value" : "新增項目詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTaskDescriptionDots" : {
       "comment" : "Placeholder for entering a task description",
@@ -23483,8 +23537,7 @@
             "value" : "新增任務描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAmountDots" : {
       "comment" : "Placeholder for entering a monetary amount",
@@ -23735,8 +23788,7 @@
             "value" : "輸入金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBankAccountNumberDots" : {
       "comment" : "Placeholder for entering a bank account number",
@@ -23987,8 +24039,7 @@
             "value" : "輸入銀行賬戶號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterClientNameDots" : {
       "comment" : "Placeholder for entering a client's name",
@@ -24239,12 +24290,10 @@
             "value" : "輸入客戶名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCompanyNameDots" : {
       "comment" : "Placeholder for entering a company's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24492,8 +24541,7 @@
             "value" : "輸入公司名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterInvoiceNumberDots" : {
       "comment" : "Placeholder for entering an invoice number",
@@ -24744,12 +24792,10 @@
             "value" : "輸入發票號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPaymentNoteDots" : {
       "comment" : "Placeholder for entering payment-related notes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24997,12 +25043,10 @@
             "value" : "輸入付款備註…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterProjectNameDots" : {
       "comment" : "Placeholder for entering a project name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25250,8 +25294,7 @@
             "value" : "輸入項目名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRecipientsNameDots" : {
       "comment" : "Placeholder for entering the recipient's name",
@@ -25502,12 +25545,10 @@
             "value" : "輸入收件人姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTaxIDDots" : {
       "comment" : "Placeholder for entering a tax identification number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25755,8 +25796,7 @@
             "value" : "輸入稅號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchDocumentsDots" : {
       "comment" : "Placeholder for searching documents",
@@ -26007,8 +26047,7 @@
             "value" : "搜索文件…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

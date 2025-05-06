@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.addNote" : {
       "comment" : "Use when adding a new note or annotation",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "添加注释"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when adding a document to the user's library",
@@ -503,8 +501,7 @@
             "value" : "加至圖庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when adding a document to a reading list",
@@ -755,8 +752,7 @@
             "value" : "加至閲讀列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving a page or section for quick access",
@@ -1007,8 +1003,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.browse" : {
       "comment" : "Use when browsing through available documents or materials",
@@ -1259,12 +1254,10 @@
             "value" : "瀏覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cite" : {
       "comment" : "Use when citing a document or resource",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1512,12 +1505,10 @@
             "value" : "引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing two or more documents or sections",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1765,8 +1756,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyLink" : {
       "comment" : "Use when copying a link to a document or resource",
@@ -2017,8 +2007,7 @@
             "value" : "複製連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createNew" : {
       "comment" : "Use when creating a new document or resource",
@@ -2269,12 +2258,10 @@
             "value" : "創建新項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.define" : {
       "comment" : "Use when defining a term or concept",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2522,8 +2509,7 @@
             "value" : "定義"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use when downloading materials for offline use",
@@ -2774,8 +2760,7 @@
             "value" : "下載資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting the current document as a PDF",
@@ -3026,8 +3011,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a report from a document or data",
@@ -3278,8 +3262,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.goBack" : {
       "comment" : "Use when navigating back to the previous page or section",
@@ -3530,8 +3513,7 @@
             "value" : "返回"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.highlight" : {
       "comment" : "Use when highlighting text or sections in a document",
@@ -3782,12 +3764,10 @@
             "value" : "螢光標示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.index" : {
       "comment" : "Use when indexing or searching for specific content in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4035,12 +4015,10 @@
             "value" : "索引"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.lookUp" : {
       "comment" : "Use when looking up a specific term or reference",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4288,8 +4266,7 @@
             "value" : "查找"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when marking a document or section as read",
@@ -4540,8 +4517,7 @@
             "value" : "標示為已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a document or link in a browser",
@@ -4792,12 +4768,10 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.organize" : {
       "comment" : "Use when organizing documents or resources into folders",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5045,8 +5019,7 @@
             "value" : "組織"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.print" : {
       "comment" : "Use when printing a document or resource",
@@ -5297,12 +5270,10 @@
             "value" : "列印"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quickLook" : {
       "comment" : "Use when previewing a document or content quickly",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5550,8 +5521,7 @@
             "value" : "快速查看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when reading a full article or document",
@@ -5802,12 +5772,10 @@
             "value" : "閱讀文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reference" : {
       "comment" : "Use when referencing a document or source",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6055,8 +6023,7 @@
             "value" : "參考"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeAll" : {
       "comment" : "Use when removing all documents or items from a list",
@@ -6307,12 +6274,10 @@
             "value" : "全部移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.research" : {
       "comment" : "Use when conducting research or looking up sources",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6560,8 +6525,7 @@
             "value" : "研究"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.review" : {
       "comment" : "Use when reviewing a document or material",
@@ -6812,8 +6776,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving a document for future reference",
@@ -7064,8 +7027,7 @@
             "value" : "稍後保存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToFavorites" : {
       "comment" : "Use when saving a document to favorites",
@@ -7316,8 +7278,7 @@
             "value" : "保存到收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.searchInFiles" : {
       "comment" : "Use when searching for documents or items in files",
@@ -7568,8 +7529,7 @@
             "value" : "在檔案中搜尋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document or resource",
@@ -7820,8 +7780,7 @@
             "value" : "分享文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showHint" : {
       "comment" : "Use when showing a helpful hint or suggestion",
@@ -8072,12 +8031,10 @@
             "value" : "顯示提示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.study" : {
       "comment" : "Use when studying or reviewing content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8325,8 +8282,7 @@
             "value" : "學習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to updates or newsletters",
@@ -8577,12 +8533,10 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating text or documents",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8830,8 +8784,7 @@
             "value" : "翻譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing additional details or information",
@@ -9082,12 +9035,10 @@
             "value" : "檢視詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.abbreviation" : {
       "comment" : "Use when referring to an abbreviation or shortened form of a word or phrase",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9335,12 +9286,10 @@
             "value" : "縮寫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.audioVersion" : {
       "comment" : "Use when referring to the audio format of a book or document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9588,8 +9537,7 @@
             "value" : "音频版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a document or book",
@@ -9840,12 +9788,10 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bibliography" : {
       "comment" : "Use when referring to the list of sources used in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10093,8 +10039,7 @@
             "value" : "参考书目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmark" : {
       "comment" : "Use when referring to a saved location in a document",
@@ -10345,8 +10290,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to multiple saved locations in a document",
@@ -10597,8 +10541,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
       "comment" : "Use when displaying or organizing documents by category",
@@ -10849,12 +10792,10 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section of a book or document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11102,12 +11043,10 @@
             "value" : "章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.citation" : {
       "comment" : "Use when referring to a source reference in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11355,12 +11294,10 @@
             "value" : "引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contents" : {
       "comment" : "Use when displaying the table of contents in a document or book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11608,12 +11545,10 @@
             "value" : "目錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.definition" : {
       "comment" : "Use when displaying the meaning of a term or concept",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11861,8 +11796,7 @@
             "value" : "定義"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.downloads" : {
       "comment" : "Use when referring to available download options",
@@ -12113,12 +12047,10 @@
             "value" : "下載項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.encyclopedia" : {
       "comment" : "Use when referring to an encyclopedia or reference book",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12366,12 +12298,10 @@
             "value" : "百科全書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.entry" : {
       "comment" : "Use when referring to an individual item or definition in a reference work",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12619,12 +12549,10 @@
             "value" : "條目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.examples" : {
       "comment" : "Use when providing examples of terms or concepts",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12872,8 +12800,7 @@
             "value" : "例子"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use when referring to the user's favorite documents or resources",
@@ -13124,12 +13051,10 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.glossary" : {
       "comment" : "Use when referring to a list of terms and definitions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13377,8 +13302,7 @@
             "value" : "詞彙表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to the history or past activities of the user",
@@ -13629,12 +13553,10 @@
             "value" : "瀏覽記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.index" : {
       "comment" : "Use when referring to the alphabetical list of topics in a book or document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13882,12 +13804,10 @@
             "value" : "索引"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.keywords" : {
       "comment" : "Use when referring to important terms or topics in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14135,8 +14055,7 @@
             "value" : "關鍵字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.language" : {
       "comment" : "Use when referring to the language of the document or content",
@@ -14387,8 +14306,7 @@
             "value" : "語言"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastUpdated" : {
       "comment" : "Use when displaying the last update date of a document",
@@ -14639,12 +14557,10 @@
             "value" : "最近更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meaning" : {
       "comment" : "Use when referring to the definition or significance of a term",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14892,12 +14808,10 @@
             "value" : "意思"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to additional comments or annotations",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15145,8 +15059,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a single page in a document",
@@ -15397,12 +15310,10 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pageNumber" : {
       "comment" : "Use when displaying the page number in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15650,12 +15561,10 @@
             "value" : "頁碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.references" : {
       "comment" : "Use when referring to the list of sources cited in a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15903,8 +15812,7 @@
             "value" : "參考文獻"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resources" : {
       "comment" : "Use when referring to materials or sources for further reading",
@@ -16155,12 +16063,10 @@
             "value" : "資源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.searchHistory" : {
       "comment" : "Use when referring to the history of searches made by the user",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16408,8 +16314,7 @@
             "value" : "搜索歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.source" : {
       "comment" : "Use when referring to the original source of a document or information",
@@ -16660,12 +16565,10 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.summary" : {
       "comment" : "Use when providing a brief overview or summary of a document",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16913,12 +16816,11 @@
             "value" : "摘要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.addToFavoritesForQuickAccessLater" : {
       "comment" : "Confirmation when adding an item to favorites",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17166,12 +17068,23 @@
             "value" : "加入收藏以便日後快速訪問。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.addToFavoritesForQuickAccessLaterDot" : {
+      "comment" : "Confirmation when adding an item to favorites",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add to favorites for quick access later."
+          }
+        }
+      }
     },
     "TK.Message.articleHasBeenSavedForOfflineReading" : {
       "comment" : "Message when an article is saved for offline use",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17419,12 +17332,23 @@
             "value" : "文章已被保存以供離線閱讀。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.articleSavedForOfflineReadingDot" : {
+      "comment" : "Message when an article is saved for offline use",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Article has been saved for offline reading."
+          }
+        }
+      }
     },
     "TK.Message.bookmarkAddedSuccessfully" : {
       "comment" : "Confirmation when a bookmark is added",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17672,12 +17596,23 @@
             "value" : "已成功添加書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.bookmarkAddedSuccessfullyDot" : {
+      "comment" : "Confirmation when a bookmark is added",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmark added successfully."
+          }
+        }
+      }
     },
     "TK.Message.citationCopiedToClipboard" : {
       "comment" : "Confirmation when a citation is copied",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17925,11 +17860,23 @@
             "value" : "引用已複製到剪貼簿。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.citationCopiedToClipboardDot" : {
+      "comment" : "Confirmation when a citation is copied",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Citation copied to clipboard."
+          }
+        }
+      }
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Message when content is unavailable in a region",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18177,12 +18124,23 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contentNotAvailableInYourRegionDot" : {
+      "comment" : "Message when content is unavailable in a region",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content not available in your region."
+          }
+        }
+      }
     },
     "TK.Message.definitionNotFoundInOfflineMode" : {
       "comment" : "Message when the definition is unavailable offline",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18430,11 +18388,23 @@
             "value" : "離線模式下找不到定義。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.definitionNotFoundOfflineDot" : {
+      "comment" : "Message when the definition is unavailable offline",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Definition not found in offline mode."
+          }
+        }
+      }
     },
     "TK.Message.downloadComplete" : {
       "comment" : "Confirmation when the download is finished",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18682,12 +18652,23 @@
             "value" : "下載完成"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.downloadCompleteDot" : {
+      "comment" : "Confirmation when the download is finished",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download complete."
+          }
+        }
+      }
     },
     "TK.Message.entryHasBeenUpdatedWithLatestInformation" : {
       "comment" : "Confirmation when an entry is updated",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18935,11 +18916,23 @@
             "value" : "條目已更新，包含最新信息。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.entryUpdatedWithLatestInfoDot" : {
+      "comment" : "Confirmation when an entry is updated",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entry has been updated with latest information."
+          }
+        }
+      }
     },
     "TK.Message.featureNotAvailableOffline" : {
       "comment" : "Message when a feature is unavailable offline",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19187,12 +19180,35 @@
             "value" : "該功能在離線狀態下不可用"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.featureNotAvailableOfflineDot" : {
+      "comment" : "Message when a feature is unavailable offline",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feature not available offline."
+          }
+        }
+      }
+    },
+    "TK.Message.noMatchesFoundForTermDot" : {
+      "comment" : "Message when a search term has no results",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No matches found for this term."
+          }
+        }
+      }
     },
     "TK.Message.noMatchesFoundForThisTerm" : {
       "comment" : "Message when a search term has no results",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19440,12 +19456,11 @@
             "value" : "未找到此條目相關的配對。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.notesSavedSuccessfully" : {
       "comment" : "Confirmation when notes are saved",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19693,12 +19708,23 @@
             "value" : "筆記已成功保存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.notesSavedSuccessfullyDot" : {
+      "comment" : "Confirmation when notes are saved",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notes saved successfully."
+          }
+        }
+      }
     },
     "TK.Message.referenceMaterialsAreDownloading" : {
       "comment" : "Message when reference materials are being downloaded",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19946,12 +19972,23 @@
             "value" : "參考資料正在下載中。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.referenceMaterialsDownloadingDot" : {
+      "comment" : "Message when reference materials are being downloaded",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reference materials are downloading."
+          }
+        }
+      }
     },
     "TK.Message.searchHistoryCleared" : {
       "comment" : "Confirmation when search history is cleared",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20199,12 +20236,23 @@
             "value" : "搜尋歷史已清除。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.searchHistoryClearedDot" : {
+      "comment" : "Confirmation when search history is cleared",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search history cleared."
+          }
+        }
+      }
     },
     "TK.Message.textCopiedToClipboard" : {
       "comment" : "Confirmation when text is copied",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20452,11 +20500,23 @@
             "value" : "文本已複製到剪貼板。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.textCopiedToClipboardDot" : {
+      "comment" : "Confirmation when text is copied",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text copied to clipboard."
+          }
+        }
+      }
     },
     "TK.Message.unableToLoadData" : {
       "comment" : "Message when data cannot be loaded",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20704,12 +20764,23 @@
             "value" : "無法載入數據"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.unableToLoadDataDot" : {
+      "comment" : "Message when data cannot be loaded",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to load data."
+          }
+        }
+      }
     },
     "TK.Placeholder.addANoteDots" : {
       "comment" : "Placeholder for adding a new note",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20957,12 +21028,22 @@
             "value" : "添加备注…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addNoteDots" : {
+      "comment" : "Placeholder for adding a new note",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a note…"
+          }
+        }
+      }
     },
     "TK.Placeholder.addReferenceDots" : {
       "comment" : "Placeholder for adding a reference or source",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21210,12 +21291,10 @@
             "value" : "添加參考…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addStudyNoteDots" : {
       "comment" : "Placeholder for adding a study-related note",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21463,12 +21542,10 @@
             "value" : "添加學習筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.browseByCategoryDots" : {
       "comment" : "Placeholder for browsing by category",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21716,12 +21793,10 @@
             "value" : "按類別瀏覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.browseTopicsDots" : {
       "comment" : "Placeholder for browsing topics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21969,11 +22044,11 @@
             "value" : "按主題瀏覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseACategoryDots" : {
       "comment" : "Placeholder for selecting a category",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22221,12 +22296,22 @@
             "value" : "選擇類別…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.chooseCategoryDots" : {
+      "comment" : "Placeholder for selecting a category",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose a category…"
+          }
+        }
+      }
     },
     "TK.Placeholder.citeThisEntryDots" : {
       "comment" : "Placeholder for citing the current entry",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22474,12 +22559,10 @@
             "value" : "引用此條目…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.defineTermDots" : {
       "comment" : "Placeholder for defining a term",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22727,12 +22810,10 @@
             "value" : "定義術語…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterKeywordsDots" : {
       "comment" : "Placeholder for entering search keywords",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22980,12 +23061,10 @@
             "value" : "輸入關鍵詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSearchTermDots" : {
       "comment" : "Placeholder for entering a search term",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23233,8 +23312,7 @@
             "value" : "輸入搜尋詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a topic or keyword",
@@ -23485,8 +23563,7 @@
             "value" : "輸入主題或關鍵字…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -23737,12 +23814,10 @@
             "value" : "過濾結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within an article",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23990,12 +24065,10 @@
             "value" : "在文章中查找…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.lookUpWordDots" : {
       "comment" : "Placeholder for looking up a word or term",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24243,8 +24316,7 @@
             "value" : "查詢單詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no search results are found",
@@ -24495,12 +24567,10 @@
             "value" : "未找到結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.quickSearchDots" : {
       "comment" : "Placeholder for quick searching",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24748,12 +24818,10 @@
             "value" : "快速搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByKeywordDots" : {
       "comment" : "Placeholder for searching by keyword",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25001,12 +25069,10 @@
             "value" : "按關鍵字搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchEncyclopediaDots" : {
       "comment" : "Placeholder for searching an encyclopedia",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25254,12 +25320,10 @@
             "value" : "搜索百科全书…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchReferencesDots" : {
       "comment" : "Placeholder for searching references",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25507,12 +25571,10 @@
             "value" : "搜尋參考資料…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeToSearchDots" : {
       "comment" : "Placeholder to indicate the user can type to search",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25760,8 +25822,7 @@
             "value" : "輸入搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

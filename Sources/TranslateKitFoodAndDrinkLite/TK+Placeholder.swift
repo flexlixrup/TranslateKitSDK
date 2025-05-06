@@ -1,94 +1,94 @@
 import Foundation
-@_exported import TranslateKit
+@_exported import TranslateKitLite
 
 extension TK.Placeholder {
    /// "Add delivery instructions…" - Placeholder for adding special instructions for delivery
    public static var addDeliveryInstructionsDots: String {
-      #tkm("Add delivery instructions…", c: "Placeholder for adding special instructions for delivery")
+      String(localized: "TK.Placeholder.addDeliveryInstructionsDots", defaultValue: "Add delivery instructions…", bundle: .module, comment: "Placeholder for adding special instructions for delivery")
    }
 
    /// "Add dietary restrictions…" - Placeholder for adding dietary restrictions
    public static var addDietaryRestrictionsDots: String {
-      #tkm("Add dietary restrictions…", c: "Placeholder for adding dietary restrictions")
+      String(localized: "TK.Placeholder.addDietaryRestrictionsDots", defaultValue: "Add dietary restrictions…", bundle: .module, comment: "Placeholder for adding dietary restrictions")
    }
 
    /// "Add recipe description…" - Placeholder for adding a description to a recipe
    public static var addRecipeDescriptionDots: String {
-      #tkm("Add recipe description…", c: "Placeholder for adding a description to a recipe")
+      String(localized: "TK.Placeholder.addRecipeDescriptionDots", defaultValue: "Add recipe description…", bundle: .module, comment: "Placeholder for adding a description to a recipe")
    }
 
    /// "Enter address for delivery…" - Placeholder for entering delivery address
    public static var enterAddressForDeliveryDots: String {
-      #tkm("Enter address for delivery…", c: "Placeholder for entering delivery address")
+      String(localized: "TK.Placeholder.enterAddressForDeliveryDots", defaultValue: "Enter address for delivery…", bundle: .module, comment: "Placeholder for entering delivery address")
    }
 
    /// "Enter delivery note…" - Placeholder for adding a note for the delivery
    public static var enterDeliveryNoteDots: String {
-      #tkm("Enter delivery note…", c: "Placeholder for adding a note for the delivery")
+      String(localized: "TK.Placeholder.enterDeliveryNoteDots", defaultValue: "Enter delivery note…", bundle: .module, comment: "Placeholder for adding a note for the delivery")
    }
 
    /// "Enter number of guests…" - Placeholder for entering the number of guests
    public static var enterNumberOfGuestsDots: String {
-      #tkm("Enter number of guests…", c: "Placeholder for entering the number of guests")
+      String(localized: "TK.Placeholder.enterNumberOfGuestsDots", defaultValue: "Enter number of guests…", bundle: .module, comment: "Placeholder for entering the number of guests")
    }
 
    /// "Enter promo code…" - Placeholder for entering a promo code
    public static var enterPromoCodeDots: String {
-      #tkm("Enter promo code…", c: "Placeholder for entering a promo code")
+      String(localized: "TK.Placeholder.enterPromoCodeDots", defaultValue: "Enter promo code…", bundle: .module, comment: "Placeholder for entering a promo code")
    }
 
    /// "Find ingredients…" - Placeholder for searching ingredients
    public static var findIngredientsDots: String {
-      #tkm("Find ingredients…", c: "Placeholder for searching ingredients")
+      String(localized: "TK.Placeholder.findIngredientsDots", defaultValue: "Find ingredients…", bundle: .module, comment: "Placeholder for searching ingredients")
    }
 
    /// "Find nearby restaurants…" - Placeholder for searching nearby restaurants
    public static var findNearbyRestaurantsDots: String {
-      #tkm("Find nearby restaurants…", c: "Placeholder for searching nearby restaurants")
+      String(localized: "TK.Placeholder.findNearbyRestaurantsDots", defaultValue: "Find nearby restaurants…", bundle: .module, comment: "Placeholder for searching nearby restaurants")
    }
 
    /// "Find recipes…" - Placeholder for searching recipes
    public static var findRecipesDots: String {
-      #tkm("Find recipes…", c: "Placeholder for searching recipes")
+      String(localized: "TK.Placeholder.findRecipesDots", defaultValue: "Find recipes…", bundle: .module, comment: "Placeholder for searching recipes")
    }
 
    /// "Rate your experience…" - Placeholder for rating the user experience
    public static var rateYourExperienceDots: String {
-      #tkm("Rate your experience…", c: "Placeholder for rating the user experience")
+      String(localized: "TK.Placeholder.rateYourExperienceDots", defaultValue: "Rate your experience…", bundle: .module, comment: "Placeholder for rating the user experience")
    }
 
    /// "Search by cuisine…" - Placeholder for searching dishes by cuisine
    public static var searchByCuisineDots: String {
-      #tkm("Search by cuisine…", c: "Placeholder for searching dishes by cuisine")
+      String(localized: "TK.Placeholder.searchByCuisineDots", defaultValue: "Search by cuisine…", bundle: .module, comment: "Placeholder for searching dishes by cuisine")
    }
 
    /// "Search dishes…" - Placeholder for searching specific dishes
    public static var searchDishesDots: String {
-      #tkm("Search dishes…", c: "Placeholder for searching specific dishes")
+      String(localized: "TK.Placeholder.searchDishesDots", defaultValue: "Search dishes…", bundle: .module, comment: "Placeholder for searching specific dishes")
    }
 
    /// "Search menu…" - Placeholder for searching menu items
    public static var searchMenuDots: String {
-      #tkm("Search menu…", c: "Placeholder for searching menu items")
+      String(localized: "TK.Placeholder.searchMenuDots", defaultValue: "Search menu…", bundle: .module, comment: "Placeholder for searching menu items")
    }
 
    /// "Search recipes…" - Placeholder for searching recipes
    public static var searchRecipesDots: String {
-      #tkm("Search recipes…", c: "Placeholder for searching recipes")
+      String(localized: "TK.Placeholder.searchRecipesDots", defaultValue: "Search recipes…", bundle: .module, comment: "Placeholder for searching recipes")
    }
 
    /// "Select cuisine type…" - Placeholder for selecting a type of cuisine
    public static var selectCuisineTypeDots: String {
-      #tkm("Select cuisine type…", c: "Placeholder for selecting a type of cuisine")
+      String(localized: "TK.Placeholder.selectCuisineTypeDots", defaultValue: "Select cuisine type…", bundle: .module, comment: "Placeholder for selecting a type of cuisine")
    }
 
    /// "Select delivery time…" - Placeholder for selecting a delivery time
    public static var selectDeliveryTimeDots: String {
-      #tkm("Select delivery time…", c: "Placeholder for selecting a delivery time")
+      String(localized: "TK.Placeholder.selectDeliveryTimeDots", defaultValue: "Select delivery time…", bundle: .module, comment: "Placeholder for selecting a delivery time")
    }
 
    /// "Write review…" - Placeholder for writing a review
    public static var writeReviewDots: String {
-      #tkm("Write review…", c: "Placeholder for writing a review")
+      String(localized: "TK.Placeholder.writeReviewDots", defaultValue: "Write review…", bundle: .module, comment: "Placeholder for writing a review")
    }
 }

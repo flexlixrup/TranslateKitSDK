@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.analyze" : {
       "comment" : "Use for analyzing medical data or results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "分析"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a report or record",
@@ -503,12 +501,10 @@
             "value" : "附加檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -756,12 +752,10 @@
             "value" : "预约"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compareResults" : {
       "comment" : "Use for comparing different medical results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1009,12 +1003,10 @@
             "value" : "比較結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.contactDoctor" : {
       "comment" : "Use for initiating contact with a doctor",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1262,8 +1254,7 @@
             "value" : "聯絡醫生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.contactSupport" : {
       "comment" : "Use for reaching out to customer support",
@@ -1514,12 +1505,10 @@
             "value" : "聯絡支援"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deleteReport" : {
       "comment" : "Use for removing a medical report from the system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1767,12 +1756,10 @@
             "value" : "刪除報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.diagnose" : {
       "comment" : "Use for diagnosing a medical condition",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2020,8 +2007,7 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportData" : {
       "comment" : "Use for exporting medical data",
@@ -2272,8 +2258,7 @@
             "value" : "導出數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting a medical report as a PDF",
@@ -2524,12 +2509,10 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportResults" : {
       "comment" : "Use for exporting medical test or analysis results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2777,8 +2760,7 @@
             "value" : "導出結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a medical report",
@@ -3029,12 +3011,10 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing medical data into the system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3282,12 +3262,10 @@
             "value" : "导入数据"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logMeasurement" : {
       "comment" : "Use for recording medical measurements",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3535,12 +3513,10 @@
             "value" : "记录测量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logSymptom" : {
       "comment" : "Use for documenting medical symptoms",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3788,8 +3764,7 @@
             "value" : "记录症状"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use for marking a task or report as complete",
@@ -4040,12 +4015,10 @@
             "value" : "標記為完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.measure" : {
       "comment" : "Use for taking a medical measurement",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4293,12 +4266,10 @@
             "value" : "測距儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use for monitoring health conditions or progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4546,12 +4517,10 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.printReport" : {
       "comment" : "Use for printing a medical report",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4799,8 +4768,7 @@
             "value" : "列印報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use for recording medical data or information",
@@ -5051,12 +5019,10 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordResult" : {
       "comment" : "Use for recording the result of a medical test",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5304,12 +5270,10 @@
             "value" : "記錄結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordValue" : {
       "comment" : "Use for recording a value from a medical measurement",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5557,12 +5521,10 @@
             "value" : "記錄數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestAppointment" : {
       "comment" : "Use for requesting a medical appointment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5810,12 +5772,10 @@
             "value" : "要求約見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestData" : {
       "comment" : "Use for requesting medical data or records",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6063,12 +6023,10 @@
             "value" : "要求資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestRefill" : {
       "comment" : "Use for requesting a prescription refill",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6316,12 +6274,10 @@
             "value" : "要求補充處方"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewResults" : {
       "comment" : "Use for reviewing medical test or analysis results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6569,12 +6525,10 @@
             "value" : "檢閱結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling a medical event or appointment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6822,12 +6776,10 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7075,12 +7027,10 @@
             "value" : "安排約見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareReport" : {
       "comment" : "Use for sharing a medical report",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7328,12 +7278,10 @@
             "value" : "分享報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareResults" : {
       "comment" : "Use for sharing the results of a medical test or analysis",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7581,12 +7529,10 @@
             "value" : "分享結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startMeasurement" : {
       "comment" : "Use for starting a measurement process",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7834,12 +7780,10 @@
             "value" : "開始測量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting a recording session for data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8087,12 +8031,10 @@
             "value" : "開始錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitReport" : {
       "comment" : "Use for submitting a medical report",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8340,12 +8282,10 @@
             "value" : "提交報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeReading" : {
       "comment" : "Use for taking a reading, such as blood pressure or temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8593,12 +8533,10 @@
             "value" : "進行讀取"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking medical conditions or health metrics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8846,12 +8784,10 @@
             "value" : "Track"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.verifyReading" : {
       "comment" : "Use for verifying the accuracy of a medical reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9099,12 +9035,10 @@
             "value" : "驗證讀數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.address" : {
       "comment" : "Use for labeling address fields",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9352,8 +9286,7 @@
             "value" : "地址"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use for labeling age-related information",
@@ -9604,12 +9537,10 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.allergies" : {
       "comment" : "Use for labeling allergy information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9857,12 +9788,10 @@
             "value" : "過敏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appointments" : {
       "comment" : "Use for listing medical appointments",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10110,12 +10039,10 @@
             "value" : "約會"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use for tracking blood pressure readings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10363,12 +10290,10 @@
             "value" : "血压"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodSugar" : {
       "comment" : "Use for tracking blood sugar levels",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10616,12 +10541,10 @@
             "value" : "血糖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyTemperature" : {
       "comment" : "Use for recording body temperature readings",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10869,12 +10792,10 @@
             "value" : "体温"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.diagnosis" : {
       "comment" : "Use for labeling a diagnosis",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11122,12 +11043,10 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.doctor" : {
       "comment" : "Use for referring to a healthcare professional",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11375,12 +11294,10 @@
             "value" : "醫生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.documentation" : {
       "comment" : "Use for referring to medical documentation",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11628,12 +11545,10 @@
             "value" : "文檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dosage" : {
       "comment" : "Use for referring to prescribed medication dosage",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11881,12 +11796,10 @@
             "value" : "劑量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.emergencyContact" : {
       "comment" : "Use for labeling emergency contact information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12134,12 +12047,10 @@
             "value" : "緊急聯絡人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.expirationDate" : {
       "comment" : "Use for labeling medication expiration dates",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12387,8 +12298,7 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gender" : {
       "comment" : "Use for labeling gender information",
@@ -12639,8 +12549,7 @@
             "value" : "性別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking heart rate readings",
@@ -12891,12 +12800,10 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hospital" : {
       "comment" : "Use for labeling hospital or medical facility information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13144,8 +13051,7 @@
             "value" : "醫院"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.id" : {
       "comment" : "Use for labeling identification information",
@@ -13396,12 +13302,10 @@
             "value" : "識別碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.insurance" : {
       "comment" : "Use for referring to insurance details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13649,12 +13553,10 @@
             "value" : "保險"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.labResults" : {
       "comment" : "Use for referring to laboratory test results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13902,12 +13804,10 @@
             "value" : "化驗結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.measurement" : {
       "comment" : "Use for referring to medical measurements",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14155,12 +14055,10 @@
             "value" : "測量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.medicalHistory" : {
       "comment" : "Use for referring to a patient's medical history",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14408,12 +14306,10 @@
             "value" : "病歷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.medication" : {
       "comment" : "Use for referring to prescribed medications",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14661,8 +14557,7 @@
             "value" : "藥物"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.name" : {
       "comment" : "Use for labeling name fields",
@@ -14913,12 +14808,10 @@
             "value" : "名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.patient" : {
       "comment" : "Use for referring to a patient",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15166,12 +15059,10 @@
             "value" : "病人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pharmacy" : {
       "comment" : "Use for labeling pharmacy or prescription information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15419,12 +15310,10 @@
             "value" : "藥房"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.prescription" : {
       "comment" : "Use for referring to a medical prescription",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15672,12 +15561,10 @@
             "value" : "處方"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.provider" : {
       "comment" : "Use for referring to a healthcare provider",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15925,12 +15812,10 @@
             "value" : "提供者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pulse" : {
       "comment" : "Use for tracking pulse rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16178,12 +16063,10 @@
             "value" : "脈搏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.results" : {
       "comment" : "Use for referring to medical test or report results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16431,12 +16314,10 @@
             "value" : "結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.symptoms" : {
       "comment" : "Use for referring to symptoms reported by the patient",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16684,12 +16565,10 @@
             "value" : "症狀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.treatment" : {
       "comment" : "Use for referring to medical treatment options",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16937,12 +16816,11 @@
             "value" : "治療"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.abnormalReadingDetected" : {
       "comment" : "Use to notify of an abnormal medical reading",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17190,12 +17068,23 @@
             "value" : "檢測到異常讀數。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.abnormalReadingDetectedDot" : {
+      "comment" : "Use to notify of an abnormal medical reading",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Abnormal reading detected."
+          }
+        }
+      }
     },
     "TK.Message.appointmentBookingConfirmed" : {
       "comment" : "Use to confirm appointment booking",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17443,12 +17332,35 @@
             "value" : "預約已確認。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.appointmentBookingConfirmedDot" : {
+      "comment" : "Use to confirm appointment booking",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Appointment booking confirmed."
+          }
+        }
+      }
+    },
+    "TK.Message.appointmentConfirmedDot" : {
+      "comment" : "Confirmation that an appointment is scheduled",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your appointment has been confirmed."
+          }
+        }
+      }
     },
     "TK.Message.contactEmergencyServicesImmediately" : {
       "comment" : "Urgent message to contact emergency services",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17696,12 +17608,35 @@
             "value" : "請立即聯絡緊急服務。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contactEmergencyServicesImmediatelyDot" : {
+      "comment" : "Urgent message to contact emergency services",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact emergency services immediately."
+          }
+        }
+      }
+    },
+    "TK.Message.dataSuccessfullyUploadedDot" : {
+      "comment" : "Confirmation of data upload to a provider",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Data successfully uploaded to your healthcare provider."
+          }
+        }
+      }
     },
     "TK.Message.dataSuccessfullyUploadedToYourHealthcareProvider" : {
       "comment" : "Confirmation of data upload to a provider",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17949,12 +17884,23 @@
             "value" : "數據已成功上傳到您的醫療服務提供者。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.documentSuccessfullyUploadedDot" : {
+      "comment" : "Confirmation that a document has been uploaded to records",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Document successfully uploaded to your records."
+          }
+        }
+      }
     },
     "TK.Message.documentSuccessfullyUploadedToYourRecords" : {
       "comment" : "Confirmation that a document has been uploaded to records",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18202,12 +18148,11 @@
             "value" : "文件已成功上傳到您的檔案。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.emergencyContactHasBeenNotified" : {
       "comment" : "Notification that emergency contact has been alerted",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18455,12 +18400,23 @@
             "value" : "緊急聯絡人已被通知。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.emergencyContactNotifiedDot" : {
+      "comment" : "Notification that emergency contact has been alerted",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Emergency contact has been notified."
+          }
+        }
+      }
     },
     "TK.Message.labResultsAreNowAvailable" : {
       "comment" : "Notification that lab results are ready",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18708,12 +18664,23 @@
             "value" : "實驗室結果現已可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.labResultsAvailableDot" : {
+      "comment" : "Notification that lab results are ready",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lab results are now available."
+          }
+        }
+      }
     },
     "TK.Message.measurementComplete" : {
       "comment" : "Confirmation that a measurement has been completed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18961,12 +18928,23 @@
             "value" : "測量已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.measurementCompleteDot" : {
+      "comment" : "Confirmation that a measurement has been completed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Measurement complete."
+          }
+        }
+      }
     },
     "TK.Message.medicalHistoryHasBeenUpdated" : {
       "comment" : "Confirmation that medical history has been updated",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19214,12 +19192,35 @@
             "value" : "醫療歷史已更新。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.medicalHistoryUpdatedDot" : {
+      "comment" : "Confirmation that medical history has been updated",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medical history has been updated."
+          }
+        }
+      }
+    },
+    "TK.Message.reminderTakeMedicationDot" : {
+      "comment" : "Reminder to take prescribed medication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reminder: Take your medication."
+          }
+        }
+      }
     },
     "TK.Message.reminderTakeYourMedication" : {
       "comment" : "Reminder to take prescribed medication",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19467,12 +19468,11 @@
             "value" : "提醒：請服用您的藥物。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reportHasBeenSentToYourDoctor" : {
       "comment" : "Confirmation that a report has been sent to the doctor",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19720,12 +19720,23 @@
             "value" : "報告已發送至您的醫生。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.reportSentToDoctorDot" : {
+      "comment" : "Confirmation that a report has been sent to the doctor",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Report has been sent to your doctor."
+          }
+        }
+      }
     },
     "TK.Message.resultsHaveBeenSaved" : {
       "comment" : "Confirmation that results have been stored",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19973,12 +19984,23 @@
             "value" : "結果已保存。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.resultsSavedDot" : {
+      "comment" : "Confirmation that results have been stored",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Results have been saved."
+          }
+        }
+      }
     },
     "TK.Message.testCompletedSuccessfully" : {
       "comment" : "Confirmation that a medical test was successful",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20226,12 +20248,35 @@
             "value" : "測試已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.testCompletedSuccessfullyDot" : {
+      "comment" : "Confirmation that a medical test was successful",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Test completed successfully."
+          }
+        }
+      }
+    },
+    "TK.Message.timeForNextDoseDot" : {
+      "comment" : "Reminder for the next medication dose",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time for your next dose."
+          }
+        }
+      }
     },
     "TK.Message.timeForYourNextDose" : {
       "comment" : "Reminder for the next medication dose",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20479,12 +20524,11 @@
             "value" : "是時候服用下一劑了。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourAppointmentHasBeenConfirmed" : {
       "comment" : "Confirmation that an appointment is scheduled",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20732,12 +20776,10 @@
             "value" : "你的预约已确认。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20985,12 +21027,10 @@
             "value" : "添加症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.bloodPressureReadingDots" : {
       "comment" : "Placeholder for entering a blood pressure reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21238,12 +21278,10 @@
             "value" : "血壓讀數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.bodyTemperatureDots" : {
       "comment" : "Placeholder for entering body temperature",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21491,12 +21529,10 @@
             "value" : "體溫…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.describeSymptomsDots" : {
       "comment" : "Placeholder for describing symptoms",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21744,12 +21780,10 @@
             "value" : "描述症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.doctorsNameDots" : {
       "comment" : "Placeholder for entering the doctor's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21997,12 +22031,10 @@
             "value" : "醫生的名字…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAllergiesDots" : {
       "comment" : "Placeholder for entering allergies",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22250,12 +22282,10 @@
             "value" : "輸入過敏…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBloodSugarLevelDots" : {
       "comment" : "Placeholder for entering blood sugar level",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22503,12 +22533,10 @@
             "value" : "輸入血糖水平…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDiagnosisDots" : {
       "comment" : "Placeholder for entering a diagnosis",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22756,12 +22784,10 @@
             "value" : "輸入診斷…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterEmergencyContactDots" : {
       "comment" : "Placeholder for entering emergency contact details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23009,12 +23035,10 @@
             "value" : "輸入緊急聯絡人…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMedicalHistoryDots" : {
       "comment" : "Placeholder for entering medical history",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23262,12 +23286,10 @@
             "value" : "輸入病歷…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMedicationNameDots" : {
       "comment" : "Placeholder for entering medication name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23515,12 +23537,10 @@
             "value" : "輸入藥物名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPatientIDDots" : {
       "comment" : "Placeholder for entering patient ID",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23768,12 +23788,10 @@
             "value" : "輸入病人ID…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPharmacyDetailsDots" : {
       "comment" : "Placeholder for entering pharmacy details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24021,12 +24039,10 @@
             "value" : "輸入藥房詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPrescriptionNumberDots" : {
       "comment" : "Placeholder for entering prescription number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24274,12 +24290,10 @@
             "value" : "輸入處方號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterProviderNameDots" : {
       "comment" : "Placeholder for entering healthcare provider's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24527,12 +24541,10 @@
             "value" : "輸入提供者名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24780,12 +24792,10 @@
             "value" : "輸入症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTreatmentNotesDots" : {
       "comment" : "Placeholder for entering treatment notes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25033,12 +25043,10 @@
             "value" : "輸入治療記錄…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.heartRateDots" : {
       "comment" : "Placeholder for entering heart rate reading",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25286,12 +25294,10 @@
             "value" : "心率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.insuranceIDDots" : {
       "comment" : "Placeholder for entering insurance ID",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25539,12 +25545,10 @@
             "value" : "保險證號..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.patientNameDots" : {
       "comment" : "Placeholder for entering patient's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25792,8 +25796,7 @@
             "value" : "病人姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

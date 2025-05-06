@@ -1,104 +1,104 @@
 import Foundation
-@_exported import TranslateKit
+@_exported import TranslateKitLite
 
 extension TK.Placeholder {
    /// "Add a description…" - Placeholder text for adding a description to a task or project
    public static var addADescriptionDots: String {
-      #tkm("Add a description…", c: "Placeholder text for adding a description to a task or project")
+      String(localized: "TK.Placeholder.addADescriptionDots", defaultValue: "Add a description…", bundle: .module, comment: "Placeholder text for adding a description to a task or project")
    }
 
    /// "Add a note…" - Placeholder text for adding a note
    public static var addANoteDots: String {
-      #tkm("Add a note…", c: "Placeholder text for adding a note")
+      String(localized: "TK.Placeholder.addANoteDots", defaultValue: "Add a note…", bundle: .module, comment: "Placeholder text for adding a note")
    }
 
    /// "Add a tag…" - Placeholder text for adding a tag to a task or project
    public static var addATagDots: String {
-      #tkm("Add a tag…", c: "Placeholder text for adding a tag to a task or project")
+      String(localized: "TK.Placeholder.addATagDots", defaultValue: "Add a tag…", bundle: .module, comment: "Placeholder text for adding a tag to a task or project")
    }
 
    /// "Add subtask…" - Placeholder text for adding a subtask to a project
    public static var addSubtaskDots: String {
-      #tkm("Add subtask…", c: "Placeholder text for adding a subtask to a project")
+      String(localized: "TK.Placeholder.addSubtaskDots", defaultValue: "Add subtask…", bundle: .module, comment: "Placeholder text for adding a subtask to a project")
    }
 
    /// "Add task details…" - Placeholder text for adding task-specific details
    public static var addTaskDetailsDots: String {
-      #tkm("Add task details…", c: "Placeholder text for adding task-specific details")
+      String(localized: "TK.Placeholder.addTaskDetailsDots", defaultValue: "Add task details…", bundle: .module, comment: "Placeholder text for adding task-specific details")
    }
 
    /// "Create new folder…" - Placeholder text for creating a new folder
    public static var createNewFolderDots: String {
-      #tkm("Create new folder…", c: "Placeholder text for creating a new folder")
+      String(localized: "TK.Placeholder.createNewFolderDots", defaultValue: "Create new folder…", bundle: .module, comment: "Placeholder text for creating a new folder")
    }
 
    /// "Create new project…" - Placeholder text for creating a new project
    public static var createNewProjectDots: String {
-      #tkm("Create new project…", c: "Placeholder text for creating a new project")
+      String(localized: "TK.Placeholder.createNewProjectDots", defaultValue: "Create new project…", bundle: .module, comment: "Placeholder text for creating a new project")
    }
 
    /// "Describe your task…" - Placeholder text for describing a task
    public static var describeYourTaskDots: String {
-      #tkm("Describe your task…", c: "Placeholder text for describing a task")
+      String(localized: "TK.Placeholder.describeYourTaskDots", defaultValue: "Describe your task…", bundle: .module, comment: "Placeholder text for describing a task")
    }
 
    /// "Enter deadline…" - Placeholder text for entering the deadline of a task
    public static var enterDeadlineDots: String {
-      #tkm("Enter deadline…", c: "Placeholder text for entering the deadline of a task")
+      String(localized: "TK.Placeholder.enterDeadlineDots", defaultValue: "Enter deadline…", bundle: .module, comment: "Placeholder text for entering the deadline of a task")
    }
 
    /// "Enter due date…" - Placeholder text for entering the due date of a task
    public static var enterDueDateDots: String {
-      #tkm("Enter due date…", c: "Placeholder text for entering the due date of a task")
+      String(localized: "TK.Placeholder.enterDueDateDots", defaultValue: "Enter due date…", bundle: .module, comment: "Placeholder text for entering the due date of a task")
    }
 
    /// "Enter project name…" - Placeholder text for entering the project name
    public static var enterProjectNameDots: String {
-      #tkm("Enter project name…", c: "Placeholder text for entering the project name")
+      String(localized: "TK.Placeholder.enterProjectNameDots", defaultValue: "Enter project name…", bundle: .module, comment: "Placeholder text for entering the project name")
    }
 
    /// "Enter task description…" - Placeholder text for entering a task description
    public static var enterTaskDescriptionDots: String {
-      #tkm("Enter task description…", c: "Placeholder text for entering a task description")
+      String(localized: "TK.Placeholder.enterTaskDescriptionDots", defaultValue: "Enter task description…", bundle: .module, comment: "Placeholder text for entering a task description")
    }
 
    /// "Enter task title…" - Placeholder text for entering a task title
    public static var enterTaskTitleDots: String {
-      #tkm("Enter task title…", c: "Placeholder text for entering a task title")
+      String(localized: "TK.Placeholder.enterTaskTitleDots", defaultValue: "Enter task title…", bundle: .module, comment: "Placeholder text for entering a task title")
    }
 
    /// "Enter time spent…" - Placeholder text for entering the time spent on a task
    public static var enterTimeSpentDots: String {
-      #tkm("Enter time spent…", c: "Placeholder text for entering the time spent on a task")
+      String(localized: "TK.Placeholder.enterTimeSpentDots", defaultValue: "Enter time spent…", bundle: .module, comment: "Placeholder text for entering the time spent on a task")
    }
 
    /// "New folder name…" - Placeholder text for naming a new folder
    public static var newFolderNameDots: String {
-      #tkm("New folder name…", c: "Placeholder text for naming a new folder")
+      String(localized: "TK.Placeholder.newFolderNameDots", defaultValue: "New folder name…", bundle: .module, comment: "Placeholder text for naming a new folder")
    }
 
    /// "New project name…" - Placeholder text for naming a new project
    public static var newProjectNameDots: String {
-      #tkm("New project name…", c: "Placeholder text for naming a new project")
+      String(localized: "TK.Placeholder.newProjectNameDots", defaultValue: "New project name…", bundle: .module, comment: "Placeholder text for naming a new project")
    }
 
    /// "New task name…" - Placeholder text for naming a new task
    public static var newTaskNameDots: String {
-      #tkm("New task name…", c: "Placeholder text for naming a new task")
+      String(localized: "TK.Placeholder.newTaskNameDots", defaultValue: "New task name…", bundle: .module, comment: "Placeholder text for naming a new task")
    }
 
    /// "No tasks found…" - Placeholder text indicating no tasks are available
    public static var noTasksFoundDots: String {
-      #tkm("No tasks found…", c: "Placeholder text indicating no tasks are available")
+      String(localized: "TK.Placeholder.noTasksFoundDots", defaultValue: "No tasks found…", bundle: .module, comment: "Placeholder text indicating no tasks are available")
    }
 
    /// "Search tasks…" - Placeholder text for searching tasks
    public static var searchTasksDots: String {
-      #tkm("Search tasks…", c: "Placeholder text for searching tasks")
+      String(localized: "TK.Placeholder.searchTasksDots", defaultValue: "Search tasks…", bundle: .module, comment: "Placeholder text for searching tasks")
    }
 
    /// "Set reminder time…" - Placeholder text for setting a reminder time
    public static var setReminderTimeDots: String {
-      #tkm("Set reminder time…", c: "Placeholder text for setting a reminder time")
+      String(localized: "TK.Placeholder.setReminderTimeDots", defaultValue: "Set reminder time…", bundle: .module, comment: "Placeholder text for setting a reminder time")
    }
 }

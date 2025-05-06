@@ -1,164 +1,164 @@
 import Foundation
-@_exported import TranslateKit
+@_exported import TranslateKitLite
 
 extension TK.Label {
    /// "Article" - Use for labeling a single piece of content or article
    public static var article: String {
-      #tkm("Article", c: "Use for labeling a single piece of content or article")
+      String(localized: "TK.Label.article", defaultValue: "Article", bundle: .module, comment: "Use for labeling a single piece of content or article")
    }
 
    /// "Author" - Use for referring to the creator or writer of the article
    public static var author: String {
-      #tkm("Author", c: "Use for referring to the creator or writer of the article")
+      String(localized: "TK.Label.author", defaultValue: "Author", bundle: .module, comment: "Use for referring to the creator or writer of the article")
    }
 
    /// "Breaking News" - Use for highlighting the latest breaking news
    public static var breakingNews: String {
-      #tkm("Breaking News", c: "Use for highlighting the latest breaking news")
+      String(localized: "TK.Label.breakingNews", defaultValue: "Breaking News", bundle: .module, comment: "Use for highlighting the latest breaking news")
    }
 
    /// "Category" - Use for grouping content into specific categories
    public static var category: String {
-      #tkm("Category", c: "Use for grouping content into specific categories")
+      String(localized: "TK.Label.category", defaultValue: "Category", bundle: .module, comment: "Use for grouping content into specific categories")
    }
 
    /// "Comment" - Use for a single comment or user input
    public static var comment: String {
-      #tkm("Comment", c: "Use for a single comment or user input")
+      String(localized: "TK.Label.comment", defaultValue: "Comment", bundle: .module, comment: "Use for a single comment or user input")
    }
 
    /// "Comments" - Use for multiple comments or user feedback
    public static var comments: String {
-      #tkm("Comments", c: "Use for multiple comments or user feedback")
+      String(localized: "TK.Label.comments", defaultValue: "Comments", bundle: .module, comment: "Use for multiple comments or user feedback")
    }
 
    /// "Content" - Use for general content or body of an article
    public static var content: String {
-      #tkm("Content", c: "Use for general content or body of an article")
+      String(localized: "TK.Label.content", defaultValue: "Content", bundle: .module, comment: "Use for general content or body of an article")
    }
 
    /// "Coverage" - Use for the extent or scope of news coverage
    public static var coverage: String {
-      #tkm("Coverage", c: "Use for the extent or scope of news coverage")
+      String(localized: "TK.Label.coverage", defaultValue: "Coverage", bundle: .module, comment: "Use for the extent or scope of news coverage")
    }
 
    /// "Editorial" - Use for articles or sections related to editorial opinions
    public static var editorial: String {
-      #tkm("Editorial", c: "Use for articles or sections related to editorial opinions")
+      String(localized: "TK.Label.editorial", defaultValue: "Editorial", bundle: .module, comment: "Use for articles or sections related to editorial opinions")
    }
 
    /// "Editor's Picks" - Use for articles selected by the editor
    public static var editorsPicks: String {
-      #tkm("Editor's Picks", c: "Use for articles selected by the editor")
+      String(localized: "TK.Label.editorsPicks", defaultValue: "Editor's Picks", bundle: .module, comment: "Use for articles selected by the editor")
    }
 
    /// "Featured" - Use for highlighting featured or spotlight content
    public static var featured: String {
-      #tkm("Featured", c: "Use for highlighting featured or spotlight content")
+      String(localized: "TK.Label.featured", defaultValue: "Featured", bundle: .module, comment: "Use for highlighting featured or spotlight content")
    }
 
    /// "Featured Stories" - Use for displaying important or highlighted stories
    public static var featuredStories: String {
-      #tkm("Featured Stories", c: "Use for displaying important or highlighted stories")
+      String(localized: "TK.Label.featuredStories", defaultValue: "Featured Stories", bundle: .module, comment: "Use for displaying important or highlighted stories")
    }
 
    /// "Headlines" - Use for the main or most important news titles
    public static var headlines: String {
-      #tkm("Headlines", c: "Use for the main or most important news titles")
+      String(localized: "TK.Label.headlines", defaultValue: "Headlines", bundle: .module, comment: "Use for the main or most important news titles")
    }
 
    /// "International" - Use for news or content with an international scope
    public static var international: String {
-      #tkm("International", c: "Use for news or content with an international scope")
+      String(localized: "TK.Label.international", defaultValue: "International", bundle: .module, comment: "Use for news or content with an international scope")
    }
 
    /// "Latest" - Use for the most recent content or news
    public static var latest: String {
-      #tkm("Latest", c: "Use for the most recent content or news")
+      String(localized: "TK.Label.latest", defaultValue: "Latest", bundle: .module, comment: "Use for the most recent content or news")
    }
 
    /// "Latest Headlines" - Use for the most recent and important headlines
    public static var latestHeadlines: String {
-      #tkm("Latest Headlines", c: "Use for the most recent and important headlines")
+      String(localized: "TK.Label.latestHeadlines", defaultValue: "Latest Headlines", bundle: .module, comment: "Use for the most recent and important headlines")
    }
 
    /// "Local News" - Use for news related to local events or areas
    public static var localNews: String {
-      #tkm("Local News", c: "Use for news related to local events or areas")
+      String(localized: "TK.Label.localNews", defaultValue: "Local News", bundle: .module, comment: "Use for news related to local events or areas")
    }
 
    /// "Media" - Use for the general term for news outlets or platforms
    public static var media: String {
-      #tkm("Media", c: "Use for the general term for news outlets or platforms")
+      String(localized: "TK.Label.media", defaultValue: "Media", bundle: .module, comment: "Use for the general term for news outlets or platforms")
    }
 
    /// "Opinion" - Use for opinion-based articles or commentary
    public static var opinion: String {
-      #tkm("Opinion", c: "Use for opinion-based articles or commentary")
+      String(localized: "TK.Label.opinion", defaultValue: "Opinion", bundle: .module, comment: "Use for opinion-based articles or commentary")
    }
 
    /// "Publication" - Use for the name or title of a publication
    public static var publication: String {
-      #tkm("Publication", c: "Use for the name or title of a publication")
+      String(localized: "TK.Label.publication", defaultValue: "Publication", bundle: .module, comment: "Use for the name or title of a publication")
    }
 
    /// "Publisher" - Use for the entity responsible for publishing the content
    public static var publisher: String {
-      #tkm("Publisher", c: "Use for the entity responsible for publishing the content")
+      String(localized: "TK.Label.publisher", defaultValue: "Publisher", bundle: .module, comment: "Use for the entity responsible for publishing the content")
    }
 
    /// "Regional" - Use for news related to a specific region
    public static var regional: String {
-      #tkm("Regional", c: "Use for news related to a specific region")
+      String(localized: "TK.Label.regional", defaultValue: "Regional", bundle: .module, comment: "Use for news related to a specific region")
    }
 
    /// "Reviews" - Use for user or critic reviews of content or products
    public static var reviews: String {
-      #tkm("Reviews", c: "Use for user or critic reviews of content or products")
+      String(localized: "TK.Label.reviews", defaultValue: "Reviews", bundle: .module, comment: "Use for user or critic reviews of content or products")
    }
 
    /// "Science & Technology" - Use for content related to science and technology
    public static var scienceAndTechnology: String {
-      #tkm("Science & Technology", c: "Use for content related to science and technology")
+      String(localized: "TK.Label.scienceAndTechnology", defaultValue: "Science & Technology", bundle: .module, comment: "Use for content related to science and technology")
    }
 
    /// "Source" - Use for the origin or provider of information
    public static var source: String {
-      #tkm("Source", c: "Use for the origin or provider of information")
+      String(localized: "TK.Label.source", defaultValue: "Source", bundle: .module, comment: "Use for the origin or provider of information")
    }
 
    /// "Sources" - Use for multiple sources of information or content
    public static var sources: String {
-      #tkm("Sources", c: "Use for multiple sources of information or content")
+      String(localized: "TK.Label.sources", defaultValue: "Sources", bundle: .module, comment: "Use for multiple sources of information or content")
    }
 
    /// "Story" - Use for an individual article or narrative
    public static var story: String {
-      #tkm("Story", c: "Use for an individual article or narrative")
+      String(localized: "TK.Label.story", defaultValue: "Story", bundle: .module, comment: "Use for an individual article or narrative")
    }
 
    /// "Subscription" - Use for subscribing to content or services
    public static var subscription: String {
-      #tkm("Subscription", c: "Use for subscribing to content or services")
+      String(localized: "TK.Label.subscription", defaultValue: "Subscription", bundle: .module, comment: "Use for subscribing to content or services")
    }
 
    /// "Trending" - Use for displaying popular or trending content
    public static var trending: String {
-      #tkm("Trending", c: "Use for displaying popular or trending content")
+      String(localized: "TK.Label.trending", defaultValue: "Trending", bundle: .module, comment: "Use for displaying popular or trending content")
    }
 
    /// "Trending Stories" - Use for displaying the most popular stories at the moment
    public static var trendingStories: String {
-      #tkm("Trending Stories", c: "Use for displaying the most popular stories at the moment")
+      String(localized: "TK.Label.trendingStories", defaultValue: "Trending Stories", bundle: .module, comment: "Use for displaying the most popular stories at the moment")
    }
 
    /// "Topics" - Use for categorizing content by subject or theme
    public static var topics: String {
-      #tkm("Topics", c: "Use for categorizing content by subject or theme")
+      String(localized: "TK.Label.topics", defaultValue: "Topics", bundle: .module, comment: "Use for categorizing content by subject or theme")
    }
 
    /// "World News" - Use for global news or content with a worldwide scope
    public static var worldNews: String {
-      #tkm("World News", c: "Use for global news or content with a worldwide scope")
+      String(localized: "TK.Label.worldNews", defaultValue: "World News", bundle: .module, comment: "Use for global news or content with a worldwide scope")
    }
 }

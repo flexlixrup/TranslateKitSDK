@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.attack" : {
       "comment" : "Use for initiating an attack action",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,12 +250,10 @@
             "value" : "攻击"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.battle" : {
       "comment" : "Use for starting a battle or combat",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -504,12 +501,10 @@
             "value" : "战斗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.blockPlayer" : {
       "comment" : "Use for blocking a player",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -757,12 +752,10 @@
             "value" : "封锁玩家"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.challenge" : {
       "comment" : "Use for initiating a challenge to another player",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1010,12 +1003,10 @@
             "value" : "挑戰"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.claim" : {
       "comment" : "Use for claiming a reward or prize",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1263,12 +1254,10 @@
             "value" : "领养"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.collect" : {
       "comment" : "Use for collecting items or rewards",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1516,12 +1505,10 @@
             "value" : "收集"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.defend" : {
       "comment" : "Use for initiating a defense action",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1769,8 +1756,7 @@
             "value" : "防禦"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.equipItem" : {
       "comment" : "Use for equipping an item to the player",
@@ -2021,12 +2007,10 @@
             "value" : "裝備物品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.fight" : {
       "comment" : "Use for engaging in combat or a fight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2274,8 +2258,7 @@
             "value" : "戰鬥"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findOpponent" : {
       "comment" : "Use for searching for an opponent to play against",
@@ -2526,12 +2509,10 @@
             "value" : "查找對手"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.forfeit" : {
       "comment" : "Use when quitting or surrendering a game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2779,12 +2760,10 @@
             "value" : "放弃"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.invite" : {
       "comment" : "Use for inviting others to join a game or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3032,8 +3011,7 @@
             "value" : "邀请"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.join" : {
       "comment" : "Use for joining a game or event",
@@ -3284,8 +3262,7 @@
             "value" : "加入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinChallenge" : {
       "comment" : "Use for participating in a challenge",
@@ -3536,8 +3513,7 @@
             "value" : "參加挑戰"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinMatch" : {
       "comment" : "Use for joining an active match",
@@ -3788,12 +3764,10 @@
             "value" : "加入比賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.levelUp" : {
       "comment" : "Use for advancing to a higher level",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4041,8 +4015,7 @@
             "value" : "升级"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.multiSelect" : {
       "comment" : "Use for selecting multiple items or options",
@@ -4293,8 +4266,7 @@
             "value" : "多選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.playNow" : {
       "comment" : "Use when starting gameplay immediately",
@@ -4545,12 +4517,10 @@
             "value" : "立即播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use for practicing skills or techniques",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4798,12 +4768,10 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rematch" : {
       "comment" : "Use for starting a rematch with an opponent",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5051,12 +5019,10 @@
             "value" : "再賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportPlayer" : {
       "comment" : "Use for reporting a player for inappropriate behavior",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5304,8 +5270,7 @@
             "value" : "舉報玩家"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.respawn" : {
       "comment" : "Use for respawning after a death or defeat",
@@ -5556,8 +5521,7 @@
             "value" : "重生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.restart" : {
       "comment" : "Use for restarting a game or level",
@@ -5808,8 +5772,7 @@
             "value" : "重新啟動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resume" : {
       "comment" : "Use when continuing a paused game or activity",
@@ -6060,8 +6023,7 @@
             "value" : "恢復"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping the introductory sequence",
@@ -6312,12 +6274,10 @@
             "value" : "跳過介紹"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipTutorial" : {
       "comment" : "Use for skipping the tutorial section",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6565,12 +6525,10 @@
             "value" : "跳過教程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.spectate" : {
       "comment" : "Use for spectating a game or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6818,12 +6776,10 @@
             "value" : "旁觀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.surrender" : {
       "comment" : "Use for surrendering during a game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7071,8 +7027,7 @@
             "value" : "投降"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking game or challenge progress",
@@ -7323,12 +7278,10 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.train" : {
       "comment" : "Use for starting a training session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7576,12 +7529,10 @@
             "value" : "訓練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tutorial" : {
       "comment" : "Use for starting the tutorial section",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7829,8 +7780,7 @@
             "value" : "教程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.upgrade" : {
       "comment" : "Use for upgrading a character, item, or skill",
@@ -8081,8 +8031,7 @@
             "value" : "升級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.usePowerUp" : {
       "comment" : "Use for activating a power-up during a game",
@@ -8333,8 +8282,7 @@
             "value" : "使用增強道具"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.watch" : {
       "comment" : "Use for observing a game or event",
@@ -8585,8 +8533,7 @@
             "value" : "Watch"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.achievements" : {
       "comment" : "Use for displaying the player's achievements",
@@ -8837,8 +8784,7 @@
             "value" : "成就"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.battlePass" : {
       "comment" : "Use for displaying battle pass options or benefits",
@@ -9089,12 +9035,10 @@
             "value" : "挑戰通行證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.battleStats" : {
       "comment" : "Use for displaying battle performance statistics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9342,12 +9286,10 @@
             "value" : "战斗统计"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.challenges" : {
       "comment" : "Use for displaying available challenges",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9595,8 +9537,7 @@
             "value" : "挑战"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.characters" : {
       "comment" : "Use for displaying the available characters in the game",
@@ -9847,12 +9788,10 @@
             "value" : "字元"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.characterStats" : {
       "comment" : "Use for displaying character statistics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10100,12 +10039,10 @@
             "value" : "角色统计"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.coins" : {
       "comment" : "Use for displaying the number of in-game coins",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10353,8 +10290,7 @@
             "value" : "硬幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currency" : {
       "comment" : "Use for displaying in-game currency",
@@ -10605,12 +10541,10 @@
             "value" : "貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyRewards" : {
       "comment" : "Use for displaying daily reward options",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10858,12 +10792,10 @@
             "value" : "每日獎勵"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.difficulty" : {
       "comment" : "Use for displaying the game's difficulty level",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11111,12 +11043,10 @@
             "value" : "難度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.energy" : {
       "comment" : "Use for displaying the player's energy or stamina",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11364,8 +11294,7 @@
             "value" : "能量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gameMode" : {
       "comment" : "Use for displaying the selected game mode",
@@ -11616,12 +11545,10 @@
             "value" : "遊戲模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gems" : {
       "comment" : "Use for displaying the number of in-game gems",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11869,12 +11796,10 @@
             "value" : "寶石"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.health" : {
       "comment" : "Use for displaying the player's health status",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12122,8 +12047,7 @@
             "value" : "健康"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.highScore" : {
       "comment" : "Use for displaying the highest score achieved",
@@ -12374,8 +12298,7 @@
             "value" : "最高分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inventory" : {
       "comment" : "Use for displaying the player's inventory",
@@ -12626,8 +12549,7 @@
             "value" : "庫存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.leaderboard" : {
       "comment" : "Use for displaying the leaderboard rankings",
@@ -12878,8 +12800,7 @@
             "value" : "排行榜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.level" : {
       "comment" : "Use for displaying the current level or stage",
@@ -13130,12 +13051,10 @@
             "value" : "水平儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lives" : {
       "comment" : "Use for displaying the number of remaining lives",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13383,12 +13302,10 @@
             "value" : "生命"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.matchHistory" : {
       "comment" : "Use for displaying past game results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13636,12 +13553,10 @@
             "value" : "比賽歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.missions" : {
       "comment" : "Use for displaying available or ongoing missions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13889,12 +13804,10 @@
             "value" : "任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playersOnline" : {
       "comment" : "Use for displaying the number of players online",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14142,12 +14055,10 @@
             "value" : "在線球員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.power" : {
       "comment" : "Use for displaying the player's power or strength",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14395,12 +14306,10 @@
             "value" : "電源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.quests" : {
       "comment" : "Use for displaying available or active quests",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14648,12 +14557,10 @@
             "value" : "任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rank" : {
       "comment" : "Use for displaying the player's rank or position",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14901,12 +14808,10 @@
             "value" : "排名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.score" : {
       "comment" : "Use for displaying current score in a game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15154,12 +15059,10 @@
             "value" : "分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.seasonPass" : {
       "comment" : "Use for displaying season pass options or benefits",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15407,12 +15310,10 @@
             "value" : "季票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.team" : {
       "comment" : "Use for displaying the player's team or group",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15660,12 +15561,10 @@
             "value" : "隊伍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.winRate" : {
       "comment" : "Use for displaying the player's win rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15913,8 +15812,7 @@
             "value" : "勝率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.xp" : {
       "comment" : "Use for displaying experience points",
@@ -16165,8 +16063,7 @@
             "value" : "XP"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Message displayed when an achievement is unlocked",
@@ -16417,12 +16314,10 @@
             "value" : "成就已解鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.challengeComplete" : {
       "comment" : "Message displayed when a challenge is successfully completed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16670,12 +16565,11 @@
             "value" : "挑戰完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionLostDuringMatch" : {
       "comment" : "Message displayed when the connection is lost during a match",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16923,12 +16817,22 @@
             "value" : "比賽期間連接已丟失。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.connectionLostDuringMatchDot" : {
+      "comment" : "Message displayed when the connection is lost during a match",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection Lost During Match."
+          }
+        }
+      }
     },
     "TK.Message.dailyRewardAvailable" : {
       "comment" : "Message displayed when a daily reward is available",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17176,12 +17080,10 @@
             "value" : "每日獎勵可用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.energyRefilled" : {
       "comment" : "Message displayed when the player's energy is refilled",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17429,12 +17331,10 @@
             "value" : "能量已補充。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.gameOver" : {
       "comment" : "Message displayed when the game ends",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17682,12 +17582,10 @@
             "value" : "比賽結束"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.levelComplete" : {
       "comment" : "Message displayed when a level is successfully completed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17935,12 +17833,10 @@
             "value" : "關卡完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.matchFound" : {
       "comment" : "Message displayed when a match is found with an opponent",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18188,12 +18084,10 @@
             "value" : "找到對手"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.matchStartingSoon" : {
       "comment" : "Message displayed when a match is about to begin",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18441,12 +18335,10 @@
             "value" : "比賽即將開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newHighScore" : {
       "comment" : "Message displayed when a new high score is achieved",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18694,8 +18586,7 @@
             "value" : "新高分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newLevelUnlocked" : {
       "comment" : "Message displayed when a new level is unlocked",
@@ -18946,12 +18837,10 @@
             "value" : "新关卡解锁"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.notEnoughCurrency" : {
       "comment" : "Message displayed when there is insufficient currency",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19199,12 +19088,10 @@
             "value" : "貨幣不足。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.opponentDisconnected" : {
       "comment" : "Message displayed when the opponent disconnects",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19452,12 +19339,10 @@
             "value" : "對手已斷線。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.tutorialComplete" : {
       "comment" : "Message displayed when the tutorial is completed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19705,11 +19590,11 @@
             "value" : "教程完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.victoryYouWonTheMatch" : {
       "comment" : "Message displayed when the player wins the match",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19957,12 +19842,22 @@
             "value" : "勝利！你贏得了比賽。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.victoryYouWonTheMatchDot" : {
+      "comment" : "Message displayed when the player wins the match",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Victory! You won the match!"
+          }
+        }
+      }
     },
     "TK.Placeholder.calculatingScoreDots" : {
       "comment" : "Shown when calculating the player's score",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20210,12 +20105,10 @@
             "value" : "正在計算得分…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkingRewardsDots" : {
       "comment" : "Shown when checking available rewards",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20463,12 +20356,10 @@
             "value" : "正在檢查獎勵…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.claimingRewardsDots" : {
       "comment" : "Shown when claiming rewards",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20716,12 +20607,10 @@
             "value" : "正在索取獎勵…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.connectingToServerDots" : {
       "comment" : "Shown when connecting to the server",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20969,12 +20858,10 @@
             "value" : "正在連接到伺服器…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.creatingRoomDots" : {
       "comment" : "Shown when creating a game room",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21222,12 +21109,10 @@
             "value" : "創建遊戲房間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterClanNameDots" : {
       "comment" : "Placeholder for entering a clan name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21475,12 +21360,10 @@
             "value" : "輸入戰隊名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterGamerTagDots" : {
       "comment" : "Placeholder for entering a gamer tag",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21728,12 +21611,10 @@
             "value" : "輸入遊戲玩家標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPlayerNameDots" : {
       "comment" : "Placeholder for entering a player's name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21981,12 +21862,10 @@
             "value" : "輸入玩家名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingOpponentDots" : {
       "comment" : "Shown when searching for an opponent",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22234,12 +22113,10 @@
             "value" : "尋找對手…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingTeamDots" : {
       "comment" : "Shown when searching for a team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22487,12 +22364,10 @@
             "value" : "尋找隊伍…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.generatingWorldDots" : {
       "comment" : "Shown when generating a game world",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22740,12 +22615,10 @@
             "value" : "生成世界中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.joiningMatchDots" : {
       "comment" : "Shown when joining an existing match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22993,12 +22866,10 @@
             "value" : "加入對戰中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingLevelDots" : {
       "comment" : "Shown when loading a new level",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23246,12 +23117,10 @@
             "value" : "加載關卡中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingResourcesDots" : {
       "comment" : "Shown when loading game resources",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23499,12 +23368,10 @@
             "value" : "加載資源中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingTutorialDots" : {
       "comment" : "Shown when loading the tutorial",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23752,12 +23619,10 @@
             "value" : "加載教程中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.matchmakingDots" : {
       "comment" : "Shown when searching for players or opponents",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24005,12 +23870,10 @@
             "value" : "匹配中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.respawningDots" : {
       "comment" : "Shown when respawning the player",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24258,12 +24121,10 @@
             "value" : "重生中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPlayersDots" : {
       "comment" : "Placeholder for searching players",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24511,12 +24372,10 @@
             "value" : "搜尋玩家…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.synchronizingGameStateDots" : {
       "comment" : "Shown when synchronizing game data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24764,12 +24623,10 @@
             "value" : "同步中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingLeaderboardDots" : {
       "comment" : "Shown when updating the leaderboard",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25017,8 +24874,7 @@
             "value" : "更新排行榜…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

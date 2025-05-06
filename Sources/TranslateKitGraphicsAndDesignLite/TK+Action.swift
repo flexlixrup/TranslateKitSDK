@@ -1,119 +1,119 @@
 import Foundation
-@_exported import TranslateKit
+@_exported import TranslateKitLite
 
 extension TK.Action {
    /// "Align" - Use for aligning elements in a design
    public static var align: String {
-      #tkm("Align", c: "Use for aligning elements in a design")
+      String(localized: "TK.Action.align", defaultValue: "Align", bundle: .module, comment: "Use for aligning elements in a design")
    }
 
    /// "Arrange" - Use for rearranging elements in a design
    public static var arrange: String {
-      #tkm("Arrange", c: "Use for rearranging elements in a design")
+      String(localized: "TK.Action.arrange", defaultValue: "Arrange", bundle: .module, comment: "Use for rearranging elements in a design")
    }
 
    /// "Blend" - Use for blending layers or colors
    public static var blend: String {
-      #tkm("Blend", c: "Use for blending layers or colors")
+      String(localized: "TK.Action.blend", defaultValue: "Blend", bundle: .module, comment: "Use for blending layers or colors")
    }
 
    /// "Crop" - Use for trimming an image or content
    public static var crop: String {
-      #tkm("Crop", c: "Use for trimming an image or content")
+      String(localized: "TK.Action.crop", defaultValue: "Crop", bundle: .module, comment: "Use for trimming an image or content")
    }
 
    /// "Customize" - Use when modifying a design or template
    public static var customize: String {
-      #tkm("Customize", c: "Use when modifying a design or template")
+      String(localized: "TK.Action.customize", defaultValue: "Customize", bundle: .module, comment: "Use when modifying a design or template")
    }
 
    /// "Duplicate" - Use for creating a copy of an element
    public static var duplicate: String {
-      #tkm("Duplicate", c: "Use for creating a copy of an element")
+      String(localized: "TK.Action.duplicate", defaultValue: "Duplicate", bundle: .module, comment: "Use for creating a copy of an element")
    }
 
    /// "Fill" - Use for filling shapes or areas with color or patterns
    public static var fill: String {
-      #tkm("Fill", c: "Use for filling shapes or areas with color or patterns")
+      String(localized: "TK.Action.fill", defaultValue: "Fill", bundle: .module, comment: "Use for filling shapes or areas with color or patterns")
    }
 
    /// "Flip" - Use for flipping an element horizontally or vertically
    public static var flip: String {
-      #tkm("Flip", c: "Use for flipping an element horizontally or vertically")
+      String(localized: "TK.Action.flip", defaultValue: "Flip", bundle: .module, comment: "Use for flipping an element horizontally or vertically")
    }
 
    /// "Group" - Use for grouping multiple elements together
    public static var group: String {
-      #tkm("Group", c: "Use for grouping multiple elements together")
+      String(localized: "TK.Action.group", defaultValue: "Group", bundle: .module, comment: "Use for grouping multiple elements together")
    }
 
    /// "Mask" - Use for masking parts of an image or element
    public static var mask: String {
-      #tkm("Mask", c: "Use for masking parts of an image or element")
+      String(localized: "TK.Action.mask", defaultValue: "Mask", bundle: .module, comment: "Use for masking parts of an image or element")
    }
 
    /// "Mirror" - Use for mirroring an element along an axis
    public static var mirror: String {
-      #tkm("Mirror", c: "Use for mirroring an element along an axis")
+      String(localized: "TK.Action.mirror", defaultValue: "Mirror", bundle: .module, comment: "Use for mirroring an element along an axis")
    }
 
    /// "Order" - Use for changing the stacking order of elements
    public static var order: String {
-      #tkm("Order", c: "Use for changing the stacking order of elements")
+      String(localized: "TK.Action.order", defaultValue: "Order", bundle: .module, comment: "Use for changing the stacking order of elements")
    }
 
    /// "Paste" - Use for pasting copied content into the workspace
    public static var paste: String {
-      #tkm("Paste", c: "Use for pasting copied content into the workspace")
+      String(localized: "TK.Action.paste", defaultValue: "Paste", bundle: .module, comment: "Use for pasting copied content into the workspace")
    }
 
    /// "Print" - Use for printing the design or document
    public static var print: String {
-      #tkm("Print", c: "Use for printing the design or document")
+      String(localized: "TK.Action.print", defaultValue: "Print", bundle: .module, comment: "Use for printing the design or document")
    }
 
    /// "Resize" - Use for changing the dimensions of an element
    public static var resize: String {
-      #tkm("Resize", c: "Use for changing the dimensions of an element")
+      String(localized: "TK.Action.resize", defaultValue: "Resize", bundle: .module, comment: "Use for changing the dimensions of an element")
    }
 
    /// "Rotate" - Use for rotating an element by a specified angle
    public static var rotate: String {
-      #tkm("Rotate", c: "Use for rotating an element by a specified angle")
+      String(localized: "TK.Action.rotate", defaultValue: "Rotate", bundle: .module, comment: "Use for rotating an element by a specified angle")
    }
 
    /// "Scale" - Use for adjusting the size of an element while maintaining proportions
    public static var scale: String {
-      #tkm("Scale", c: "Use for adjusting the size of an element while maintaining proportions")
+      String(localized: "TK.Action.scale", defaultValue: "Scale", bundle: .module, comment: "Use for adjusting the size of an element while maintaining proportions")
    }
 
    /// "Set Color" - Use for setting the color of an element
    public static var setColor: String {
-      #tkm("Set Color", c: "Use for setting the color of an element")
+      String(localized: "TK.Action.setColor", defaultValue: "Set Color", bundle: .module, comment: "Use for setting the color of an element")
    }
 
    /// "Sketch" - Use for drawing or sketching elements
    public static var sketch: String {
-      #tkm("Sketch", c: "Use for drawing or sketching elements")
+      String(localized: "TK.Action.sketch", defaultValue: "Sketch", bundle: .module, comment: "Use for drawing or sketching elements")
    }
 
    /// "Stroke" - Use for applying a stroke to an element or shape
    public static var stroke: String {
-      #tkm("Stroke", c: "Use for applying a stroke to an element or shape")
+      String(localized: "TK.Action.stroke", defaultValue: "Stroke", bundle: .module, comment: "Use for applying a stroke to an element or shape")
    }
 
    /// "Transform" - Use for transforming an element's position or shape
    public static var transform: String {
-      #tkm("Transform", c: "Use for transforming an element's position or shape")
+      String(localized: "TK.Action.transform", defaultValue: "Transform", bundle: .module, comment: "Use for transforming an element's position or shape")
    }
 
    /// "Trim" - Use for trimming or cropping elements
    public static var trim: String {
-      #tkm("Trim", c: "Use for trimming or cropping elements")
+      String(localized: "TK.Action.trim", defaultValue: "Trim", bundle: .module, comment: "Use for trimming or cropping elements")
    }
 
    /// "Ungroup" - Use for separating grouped elements
    public static var ungroup: String {
-      #tkm("Ungroup", c: "Use for separating grouped elements")
+      String(localized: "TK.Action.ungroup", defaultValue: "Ungroup", bundle: .module, comment: "Use for separating grouped elements")
    }
 }

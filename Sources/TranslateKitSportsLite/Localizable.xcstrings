@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.addScore" : {
       "comment" : "Use for adding a score to a game or match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,12 +250,10 @@
             "value" : "添加分数"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addTeamMember" : {
       "comment" : "Use for adding a member to a sports team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -504,12 +501,10 @@
             "value" : "添加队员"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkIn" : {
       "comment" : "Use for checking into a game or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -757,12 +752,10 @@
             "value" : "签到"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compareStats" : {
       "comment" : "Use for comparing statistics between players or teams",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1010,12 +1003,10 @@
             "value" : "比較統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTournament" : {
       "comment" : "Use for creating a sports tournament",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1263,12 +1254,10 @@
             "value" : "創建比賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endGame" : {
       "comment" : "Use for ending a sports game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1516,12 +1505,10 @@
             "value" : "結束遊戲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportStats" : {
       "comment" : "Use for exporting sports statistics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1769,12 +1756,10 @@
             "value" : "導出統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.followTeam" : {
       "comment" : "Use for following a sports team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2022,8 +2007,7 @@
             "value" : "跟随球队"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating sports performance or game reports",
@@ -2274,12 +2258,10 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.invitePlayers" : {
       "comment" : "Use for inviting players to join a team or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2527,12 +2509,10 @@
             "value" : "邀请玩家"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinEvent" : {
       "comment" : "Use for joining a sports event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2780,12 +2760,10 @@
             "value" : "加入活动"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinLeague" : {
       "comment" : "Use for joining a sports league",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3033,12 +3011,10 @@
             "value" : "加入联赛"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinTeam" : {
       "comment" : "Use for joining a sports team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3286,12 +3262,10 @@
             "value" : "加入球队"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.manageTeam" : {
       "comment" : "Use for managing the details of a sports team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3539,8 +3513,7 @@
             "value" : "管理团队"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.postUpdate" : {
       "comment" : "Use for posting updates related to a sports event or team",
@@ -3791,12 +3764,10 @@
             "value" : "發佈更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.ratePlayer" : {
       "comment" : "Use for rating the performance of a player",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4044,8 +4015,7 @@
             "value" : "評分球員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use for recording sports performance or game details",
@@ -4296,12 +4266,10 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.registerTeam" : {
       "comment" : "Use for registering a sports team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4549,12 +4517,10 @@
             "value" : "註冊隊伍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumeGame" : {
       "comment" : "Use for resuming a paused game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4802,12 +4768,10 @@
             "value" : "恢復遊戲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveGame" : {
       "comment" : "Use for saving a game in progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5055,12 +5019,10 @@
             "value" : "保存遊戲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleMatch" : {
       "comment" : "Use for scheduling a sports match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5308,8 +5270,7 @@
             "value" : "安排比賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setGoal" : {
       "comment" : "Use for setting a performance goal in a game or match",
@@ -5560,12 +5521,10 @@
             "value" : "設定目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareHighlight" : {
       "comment" : "Use for sharing a sports highlight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5813,8 +5772,7 @@
             "value" : "分享亮點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startGame" : {
       "comment" : "Use for starting a sports game",
@@ -6065,12 +6023,10 @@
             "value" : "開始遊戲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitScore" : {
       "comment" : "Use for submitting a score after a game or match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6318,12 +6274,10 @@
             "value" : "提交分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.syncData" : {
       "comment" : "Use for syncing sports data across devices",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6571,12 +6525,10 @@
             "value" : "同步數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking sports performance or statistics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6824,12 +6776,10 @@
             "value" : "Track"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackPerformance" : {
       "comment" : "Use for tracking the performance of a player or team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7077,8 +7027,7 @@
             "value" : "追蹤表現"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use for unfollowing a sports team",
@@ -7329,12 +7278,10 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.updateProfile" : {
       "comment" : "Use for updating the player's or team's profile",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7582,12 +7529,10 @@
             "value" : "更新個人資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewLeaderboard" : {
       "comment" : "Use for viewing the leaderboard in a sports event or league",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7835,12 +7780,10 @@
             "value" : "查看排行榜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewSchedule" : {
       "comment" : "Use for viewing the schedule of upcoming matches or events",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8088,12 +8031,10 @@
             "value" : "查看時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewStats" : {
       "comment" : "Use for viewing statistics of a player or team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8341,12 +8282,10 @@
             "value" : "查看統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.watchLive" : {
       "comment" : "Use for watching a live sports event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8594,12 +8533,10 @@
             "value" : "直播觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.watchReplay" : {
       "comment" : "Use for watching a replay of a game or match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8847,8 +8784,7 @@
             "value" : "重播觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.achievements" : {
       "comment" : "Use for referring to accomplishments or awards in sports",
@@ -9099,8 +9035,7 @@
             "value" : "成就"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averagePace" : {
       "comment" : "Use for tracking the average pace of a player or team",
@@ -9351,8 +9286,7 @@
             "value" : "平均配速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averageSpeed" : {
       "comment" : "Use for tracking the average speed of a player or team",
@@ -9603,12 +9537,10 @@
             "value" : "平均速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.awayTeam" : {
       "comment" : "Use for referring to the away team in a match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9856,12 +9788,10 @@
             "value" : "客队"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.coach" : {
       "comment" : "Use for referring to a sports coach",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10109,8 +10039,7 @@
             "value" : "教練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fitnessScore" : {
       "comment" : "Use for displaying a player's or team's fitness score",
@@ -10361,12 +10290,10 @@
             "value" : "健身分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gameTime" : {
       "comment" : "Use for referring to the start time of a game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10614,8 +10541,7 @@
             "value" : "遊戲時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking the heart rate during sports activities",
@@ -10866,8 +10792,7 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.highScore" : {
       "comment" : "Use for displaying a player's highest score",
@@ -11118,12 +11043,10 @@
             "value" : "最高分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.homeTeam" : {
       "comment" : "Use for referring to the home team in a match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11371,8 +11294,7 @@
             "value" : "主場隊伍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.leaderboard" : {
       "comment" : "Use for displaying the leaderboard of a sports event",
@@ -11623,12 +11545,10 @@
             "value" : "排行榜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.league" : {
       "comment" : "Use for referring to a sports league",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11876,8 +11796,7 @@
             "value" : "聯盟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.level" : {
       "comment" : "Use for referring to a player's level in a sports game or event",
@@ -12128,12 +12047,10 @@
             "value" : "級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.match" : {
       "comment" : "Use for referring to a sports match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12381,12 +12298,10 @@
             "value" : "比賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.performance" : {
       "comment" : "Use for tracking player or team performance",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12634,12 +12549,10 @@
             "value" : "表現"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.players" : {
       "comment" : "Use for referring to sports players",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12887,12 +12800,10 @@
             "value" : "球員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.points" : {
       "comment" : "Use for displaying points earned in a game or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13140,12 +13051,10 @@
             "value" : "點數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rankings" : {
       "comment" : "Use for displaying the rankings of players or teams",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13393,12 +13302,10 @@
             "value" : "排名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.referee" : {
       "comment" : "Use for referring to the referee in a match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13646,12 +13553,10 @@
             "value" : "裁判"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.roster" : {
       "comment" : "Use for displaying a team roster",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13899,12 +13804,10 @@
             "value" : "名單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.score" : {
       "comment" : "Use for displaying the score in a game or match",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14152,12 +14055,10 @@
             "value" : "分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.season" : {
       "comment" : "Use for referring to a specific sports season",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14405,12 +14306,10 @@
             "value" : "賽季"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sessionDuration" : {
       "comment" : "Use for tracking the duration of a sports session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14658,12 +14557,10 @@
             "value" : "會話持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.standings" : {
       "comment" : "Use for displaying current standings in a tournament or league",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14911,12 +14808,10 @@
             "value" : "名次"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stats" : {
       "comment" : "Use for referring to sports statistics",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15164,8 +15059,7 @@
             "value" : "統計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.teamMembers" : {
       "comment" : "Use for displaying the members of a sports team",
@@ -15416,12 +15310,10 @@
             "value" : "團隊成員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.teams" : {
       "comment" : "Use for referring to sports teams",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15669,12 +15561,10 @@
             "value" : "隊伍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tournament" : {
       "comment" : "Use for referring to a sports tournament",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15922,12 +15812,10 @@
             "value" : "錦標賽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.venue" : {
       "comment" : "Use for referring to the location of a match or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16175,8 +16063,7 @@
             "value" : "場地"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.weeklyGoals" : {
       "comment" : "Use for displaying the weekly goals of a player or team",
@@ -16427,8 +16314,7 @@
             "value" : "每週目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Notification that a new achievement has been unlocked",
@@ -16679,8 +16565,7 @@
             "value" : "成就已解鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyStreakAchieved" : {
       "comment" : "Notification for completing a daily streak",
@@ -16931,12 +16816,10 @@
             "value" : "每日連續達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.gameInProgress" : {
       "comment" : "Notification that a game is currently in progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17184,12 +17067,10 @@
             "value" : "遊戲進行中"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.gameStartingSoon" : {
       "comment" : "Notification for an upcoming game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17437,12 +17318,10 @@
             "value" : "遊戲即將開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.leagueRegistrationOpen" : {
       "comment" : "Notification that league registration is now open",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17690,12 +17569,10 @@
             "value" : "聯盟註冊開放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.liveStreamEnded" : {
       "comment" : "Notification that the live stream has ended",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17943,12 +17820,10 @@
             "value" : "直播已結束"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.matchCancelled" : {
       "comment" : "Notification that a match has been cancelled",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18196,12 +18071,10 @@
             "value" : "比賽已取消"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.matchPostponed" : {
       "comment" : "Notification that a match has been postponed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18449,12 +18322,10 @@
             "value" : "比賽已推遲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newGameScheduled" : {
       "comment" : "Notification that a new game has been scheduled",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18702,12 +18573,10 @@
             "value" : "新遊戲已排期。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newPersonalRecord" : {
       "comment" : "Notification for achieving a new personal record",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18955,12 +18824,10 @@
             "value" : "新的個人紀錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.rankIncreased" : {
       "comment" : "Notification that the player's or team's rank has increased",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19208,12 +19075,10 @@
             "value" : "排名已提高。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.seasonHasEnded" : {
       "comment" : "Notification that the current season has ended",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19461,12 +19326,10 @@
             "value" : "本季已結束"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.tournamentRegistrationClosed" : {
       "comment" : "Notification that tournament registration has closed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19714,12 +19577,10 @@
             "value" : "比賽報名已關閉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.venueChanged" : {
       "comment" : "Notification that the venue for a match has changed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19967,12 +19828,10 @@
             "value" : "場地已變更"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.victoryAchieved" : {
       "comment" : "Notification for winning a match or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20220,12 +20079,10 @@
             "value" : "已獲勝"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLeagueNameDots" : {
       "comment" : "Placeholder for entering the name of a league",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20473,12 +20330,10 @@
             "value" : "輸入聯賽名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRosterSizeDots" : {
       "comment" : "Placeholder for entering the number of players on a team",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20726,12 +20581,10 @@
             "value" : "輸入名單大小…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterScoreDots" : {
       "comment" : "Placeholder for entering the score of a game",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20979,12 +20832,10 @@
             "value" : "輸入得分…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSeasonDatesDots" : {
       "comment" : "Placeholder for entering the start and end dates of a season",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21232,12 +21083,10 @@
             "value" : "輸入賽季日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTeamCodeDots" : {
       "comment" : "Placeholder for entering a team code",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21485,12 +21334,10 @@
             "value" : "輸入隊伍代碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTeamNameDots" : {
       "comment" : "Placeholder for entering a sports team name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21738,12 +21585,10 @@
             "value" : "輸入隊名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTournamentNameDots" : {
       "comment" : "Placeholder for entering the name of a tournament",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21991,12 +21836,10 @@
             "value" : "輸入錦標賽名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterVenueAddressDots" : {
       "comment" : "Placeholder for entering the venue address",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22244,12 +22087,10 @@
             "value" : "輸入場地地址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findAPlayerDots" : {
       "comment" : "Placeholder for finding a specific player",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22497,12 +22338,10 @@
             "value" : "找一位球員…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.logPerformanceDots" : {
       "comment" : "Placeholder for logging sports performance data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22750,12 +22589,10 @@
             "value" : "記錄表現…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAchievementsDots" : {
       "comment" : "Placeholder for searching sports achievements",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23003,12 +22840,10 @@
             "value" : "搜尋成就…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAthletesDots" : {
       "comment" : "Placeholder for searching athletes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23256,12 +23091,10 @@
             "value" : "搜尋運動員…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchLeaguesDots" : {
       "comment" : "Placeholder for searching sports leagues",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23509,12 +23342,10 @@
             "value" : "搜尋聯賽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchMatchesDots" : {
       "comment" : "Placeholder for searching sports matches",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23762,12 +23593,10 @@
             "value" : "搜尋比賽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPlayersDots" : {
       "comment" : "Placeholder for searching players",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24015,12 +23844,10 @@
             "value" : "搜尋玩家…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTeamsDots" : {
       "comment" : "Placeholder for searching sports teams",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24268,12 +24095,10 @@
             "value" : "搜尋球隊…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTournamentsDots" : {
       "comment" : "Placeholder for searching sports tournaments",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24521,12 +24346,10 @@
             "value" : "搜尋比賽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchVenuesDots" : {
       "comment" : "Placeholder for searching venues for matches or events",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24774,12 +24597,10 @@
             "value" : "搜尋場地…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setFitnessGoalDots" : {
       "comment" : "Placeholder for setting a fitness goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25027,12 +24848,10 @@
             "value" : "設置健身目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.trackWorkoutDots" : {
       "comment" : "Placeholder for tracking a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25280,8 +25099,7 @@
             "value" : "追蹤運動…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

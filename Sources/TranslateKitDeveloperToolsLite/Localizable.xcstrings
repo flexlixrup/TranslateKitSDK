@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.analyze" : {
       "comment" : "Use when performing analysis on a project or dataset",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "分析"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.attachFile" : {
       "comment" : "Use when attaching a file to a project or issue",
@@ -503,12 +501,10 @@
             "value" : "附加檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.build" : {
       "comment" : "Use when compiling or preparing the project for execution",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -756,12 +752,10 @@
             "value" : "构建"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clean" : {
       "comment" : "Use when cleaning the build or project workspace",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1009,12 +1003,10 @@
             "value" : "清理"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.clone" : {
       "comment" : "Use when duplicating a repository or project",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1262,12 +1254,10 @@
             "value" : "克隆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compile" : {
       "comment" : "Use when compiling the source code into an executable",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1515,8 +1505,7 @@
             "value" : "編譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.configure" : {
       "comment" : "Use when setting up configuration for a project or tool",
@@ -1767,12 +1756,10 @@
             "value" : "配置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.debug" : {
       "comment" : "Use when troubleshooting or debugging the project",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2020,12 +2007,10 @@
             "value" : "調試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deploy" : {
       "comment" : "Use when deploying a project or application to a server or device",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2273,8 +2258,7 @@
             "value" : "部署"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.encrypt" : {
       "comment" : "Use when encrypting files or data",
@@ -2525,12 +2509,10 @@
             "value" : "加密"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.format" : {
       "comment" : "Use when formatting code or files for consistency",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2778,12 +2760,10 @@
             "value" : "格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generate" : {
       "comment" : "Use when generating code, files, or reports",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3031,12 +3011,10 @@
             "value" : "生成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.index" : {
       "comment" : "Use when creating or updating an index for search or organization",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3284,12 +3262,10 @@
             "value" : "索引"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.inspect" : {
       "comment" : "Use when checking or reviewing code, configurations, or results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3537,8 +3513,7 @@
             "value" : "检查"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.install" : {
       "comment" : "Use when installing dependencies or software packages",
@@ -3789,12 +3764,10 @@
             "value" : "安裝"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.lint" : {
       "comment" : "Use when analyzing code for potential issues or errors",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4042,12 +4015,10 @@
             "value" : "分析代码"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.log" : {
       "comment" : "Use when recording or viewing log information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4295,8 +4266,7 @@
             "value" : "記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.merge" : {
       "comment" : "Use when combining code or data from multiple sources",
@@ -4547,12 +4517,10 @@
             "value" : "合併"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use when tracking the status or performance of a system or process",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4800,12 +4768,10 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.parse" : {
       "comment" : "Use when analyzing and converting data or code into a usable format",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5053,12 +5019,10 @@
             "value" : "解析"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.profile" : {
       "comment" : "Use when profiling the performance of code or a system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5306,12 +5270,10 @@
             "value" : "描述檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pull" : {
       "comment" : "Use when pulling the latest changes from a repository or server",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5559,12 +5521,10 @@
             "value" : "拉取"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.push" : {
       "comment" : "Use when pushing changes to a repository or server",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5812,8 +5772,7 @@
             "value" : "推送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when capturing or documenting data, events, or actions",
@@ -6064,8 +6023,7 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rename" : {
       "comment" : "Use when changing the name of a file, variable, or project",
@@ -6316,8 +6274,7 @@
             "value" : "重新命名"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.replace" : {
       "comment" : "Use when replacing elements in code or files",
@@ -6568,8 +6525,7 @@
             "value" : "取代"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when submitting or generating a bug report or issue",
@@ -6820,8 +6776,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resetProgress" : {
       "comment" : "Use when resetting the progress or state of a task or system",
@@ -7072,12 +7027,10 @@
             "value" : "重置進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.run" : {
       "comment" : "Use when executing a task, process, or script",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7325,8 +7278,7 @@
             "value" : "跑步"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scan" : {
       "comment" : "Use when scanning for issues, vulnerabilities, or items",
@@ -7577,8 +7529,7 @@
             "value" : "掃描"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.switch" : {
       "comment" : "Use when changing or toggling between options or states",
@@ -7829,12 +7780,10 @@
             "value" : "開關"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.test" : {
       "comment" : "Use when running tests to verify code functionality",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8082,8 +8031,7 @@
             "value" : "測試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uninstall" : {
       "comment" : "Use when removing software or packages",
@@ -8334,8 +8282,7 @@
             "value" : "卸載"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use when uploading a file to a server or system",
@@ -8586,12 +8533,10 @@
             "value" : "上載文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.validate" : {
       "comment" : "Use when verifying the correctness or validity of code or data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8839,12 +8784,10 @@
             "value" : "驗證"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.api" : {
       "comment" : "Use when referring to the Application Programming Interface",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9092,12 +9035,10 @@
             "value" : "應用程式介面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.architecture" : {
       "comment" : "Use when describing the structure or design of a system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9345,12 +9286,10 @@
             "value" : "架构"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assertions" : {
       "comment" : "Use for code that verifies assumptions during testing",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9598,12 +9537,10 @@
             "value" : "断言"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.branch" : {
       "comment" : "Use when referring to a version or feature branch in a repository",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9851,12 +9788,10 @@
             "value" : "分支"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.buildTime" : {
       "comment" : "Use for the duration it takes to build a project",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10104,12 +10039,10 @@
             "value" : "构建时间"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.certificates" : {
       "comment" : "Use when referring to security certificates in a project",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10357,12 +10290,10 @@
             "value" : "证书"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.class" : {
       "comment" : "Use when referring to a class in object-oriented programming",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10610,12 +10541,10 @@
             "value" : "类"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.codeCoverage" : {
       "comment" : "Use when measuring the percentage of code covered by tests",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10863,12 +10792,10 @@
             "value" : "代碼覆蓋率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.commits" : {
       "comment" : "Use when referring to changes committed to a version control system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11116,12 +11043,10 @@
             "value" : "提交"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.compiler" : {
       "comment" : "Use when referring to a program that converts code into executable form",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11369,8 +11294,7 @@
             "value" : "編譯器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.configuration" : {
       "comment" : "Use for system or application settings and preferences",
@@ -11621,12 +11545,10 @@
             "value" : "配置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.console" : {
       "comment" : "Use when referring to the command line or output window",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11874,8 +11796,7 @@
             "value" : "控制台"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cpuUsage" : {
       "comment" : "Use for tracking the processing power used by a system",
@@ -12126,12 +12047,10 @@
             "value" : "CPU 使用率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.debugLevel" : {
       "comment" : "Use when specifying the level of detail for debugging information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12379,12 +12298,10 @@
             "value" : "調試級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dependencies" : {
       "comment" : "Use when referring to external libraries or resources needed by a project",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12632,12 +12549,10 @@
             "value" : "依賴項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.devices" : {
       "comment" : "Use when referring to physical or virtual devices in development or testing",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12885,8 +12800,7 @@
             "value" : "裝置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.diagnostics" : {
       "comment" : "Use when referring to tools or procedures for identifying system issues",
@@ -13137,12 +13051,10 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.documentation" : {
       "comment" : "Use when referring to manuals, guides, or other written materials",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13390,12 +13302,10 @@
             "value" : "文檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.endpoint" : {
       "comment" : "Use when referring to a point of interaction in a web API or service",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13643,12 +13553,10 @@
             "value" : "端點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.environment" : {
       "comment" : "Use when referring to the system or setup where code runs",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13896,8 +13804,7 @@
             "value" : "環境"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.error" : {
       "comment" : "Use when indicating an issue or problem in the system or code",
@@ -14148,8 +14055,7 @@
             "value" : "錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.files" : {
       "comment" : "Use when referring to documents, scripts, or resources in a project",
@@ -14400,12 +14306,10 @@
             "value" : "檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.framework" : {
       "comment" : "Use when referring to a software framework used in development",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14653,12 +14557,10 @@
             "value" : "框架"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.logs" : {
       "comment" : "Use for records of system or application activities",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14906,12 +14808,10 @@
             "value" : "日誌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.memoryUsage" : {
       "comment" : "Use when tracking how much memory is used by the application or system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15159,8 +15059,7 @@
             "value" : "內存使用量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.network" : {
       "comment" : "Use when referring to communication systems, including internet or local networks",
@@ -15411,12 +15310,10 @@
             "value" : "網絡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.parameters" : {
       "comment" : "Use when specifying inputs or configuration options for functions or methods",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15664,8 +15561,7 @@
             "value" : "參數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.permissions" : {
       "comment" : "Use when referring to user or system access rights",
@@ -15916,12 +15812,10 @@
             "value" : "權限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.repository" : {
       "comment" : "Use when referring to a storage location for source code or project files",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16169,8 +16063,7 @@
             "value" : "代碼庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.settings" : {
       "comment" : "Use for user-configurable options and preferences",
@@ -16421,8 +16314,7 @@
             "value" : "設定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.version" : {
       "comment" : "Use when referring to the specific release or iteration of software",
@@ -16673,8 +16565,7 @@
             "value" : "版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accessDenied" : {
       "comment" : "Use when a user is not authorized to access a resource",
@@ -16925,8 +16816,7 @@
             "value" : "訪問被拒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.anErrorOccurred" : {
       "comment" : "Use when a general error has occurred",
@@ -17177,12 +17067,10 @@
             "value" : "發生錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.buildFailed" : {
       "comment" : "Use when a project build fails",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17430,12 +17318,10 @@
             "value" : "編譯失敗。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.buildSucceeded" : {
       "comment" : "Use when a project build is successful",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17683,12 +17569,10 @@
             "value" : "編譯成功。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionFailed" : {
       "comment" : "Use when a network or server connection fails",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17936,8 +17820,7 @@
             "value" : "連接失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionTimeout" : {
       "comment" : "Use when a connection attempt times out",
@@ -18188,12 +18071,10 @@
             "value" : "連接超時"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.deployFailed" : {
       "comment" : "Use when a project deployment fails",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18441,8 +18322,7 @@
             "value" : "部署失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fileNotFound" : {
       "comment" : "Use when a file cannot be located",
@@ -18693,8 +18573,7 @@
             "value" : "未找到文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.importFailed" : {
       "comment" : "Use when an import process fails",
@@ -18945,12 +18824,23 @@
             "value" : "导入失败"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.invalidApiKey" : {
+      "comment" : "Use when an API key is not valid or incorrect",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid API Key"
+          }
+        }
+      }
     },
     "TK.Message.invalidAPIKey" : {
       "comment" : "Use when an API key is not valid or incorrect",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19198,8 +19088,7 @@
             "value" : "無效的 API 密鑰"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invalidCredentials" : {
       "comment" : "Use when user credentials are invalid",
@@ -19450,8 +19339,7 @@
             "value" : "凭证无效"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noNetworkConnection" : {
       "comment" : "Use when there is no internet or network connection",
@@ -19702,12 +19590,10 @@
             "value" : "沒有網絡連接"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.testsFailed" : {
       "comment" : "Use when test results indicate failure",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19955,12 +19841,10 @@
             "value" : "測試失敗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.testsPassed" : {
       "comment" : "Use when test results indicate success",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20208,8 +20092,7 @@
             "value" : "測試通過"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.unableToConnect" : {
       "comment" : "Use when a connection cannot be established",
@@ -20460,11 +20343,11 @@
             "value" : "無法連接"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addADescriptionDots" : {
       "comment" : "Placeholder for entering a description of an item or feature",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20712,12 +20595,22 @@
             "value" : "新增描述…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addDescriptionDots" : {
+      "comment" : "Placeholder for entering a description of an item or feature",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add a description…"
+          }
+        }
+      }
     },
     "TK.Placeholder.analyzingCodeStructureDots" : {
       "comment" : "Placeholder during analysis of code structure",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20965,12 +20858,10 @@
             "value" : "正在分析代碼結構…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.buildingProjectDots" : {
       "comment" : "Placeholder during project build process",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21218,12 +21109,10 @@
             "value" : "正在建構項目…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.cleaningBuildFolderDots" : {
       "comment" : "Placeholder during the cleaning of the build folder",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21471,12 +21360,10 @@
             "value" : "正在清理建置資料夾…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.cloningRepositoryDots" : {
       "comment" : "Placeholder during repository cloning",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21724,12 +21611,10 @@
             "value" : "正在克隆儲存庫…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.compilingSourceFilesDots" : {
       "comment" : "Placeholder during the compilation of source files",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21977,12 +21862,23 @@
             "value" : "正在編譯源文件…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterApiEndpointDots" : {
+      "comment" : "Placeholder for entering the API endpoint URL",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter API endpoint…"
+          }
+        }
+      }
     },
     "TK.Placeholder.enterAPIEndpointDots" : {
       "comment" : "Placeholder for entering the API endpoint URL",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22230,12 +22126,23 @@
             "value" : "輸入 API 端點…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterApiKeyDots" : {
+      "comment" : "Placeholder for entering the API key for authentication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter API key…"
+          }
+        }
+      }
     },
     "TK.Placeholder.enterAPIKeyDots" : {
       "comment" : "Placeholder for entering the API key for authentication",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22483,12 +22390,10 @@
             "value" : "輸入 API 密鑰…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBranchNameDots" : {
       "comment" : "Placeholder for entering the branch name in a version control system",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22736,12 +22641,10 @@
             "value" : "輸入分支名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCommitMessageDots" : {
       "comment" : "Placeholder for entering a commit message",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22989,12 +22892,10 @@
             "value" : "輸入提交信息…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterFileNameDots" : {
       "comment" : "Placeholder for entering the name of a file",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23242,12 +23143,10 @@
             "value" : "輸入文件名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMethodNameDots" : {
       "comment" : "Placeholder for entering a method name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23495,12 +23394,10 @@
             "value" : "輸入方法名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterParametersDots" : {
       "comment" : "Placeholder for entering function or method parameters",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23748,12 +23645,10 @@
             "value" : "輸入參數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPortNumberDots" : {
       "comment" : "Placeholder for entering the port number for network configuration",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24001,12 +23896,23 @@
             "value" : "輸入埠號…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterRepositoryUrlDots" : {
+      "comment" : "Placeholder for entering the repository URL",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter repository URL…"
+          }
+        }
+      }
     },
     "TK.Placeholder.enterRepositoryURLDots" : {
       "comment" : "Placeholder for entering the repository URL",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24254,12 +24160,10 @@
             "value" : "輸入倉庫網址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.generatingDocumentationDots" : {
       "comment" : "Placeholder during documentation generation process",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24507,12 +24411,10 @@
             "value" : "正在生成文件…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.installingDependenciesDots" : {
       "comment" : "Placeholder during the installation of project dependencies",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24760,12 +24662,10 @@
             "value" : "安裝依賴中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.runningTestsDots" : {
       "comment" : "Placeholder during the execution of tests",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25013,12 +24913,10 @@
             "value" : "正在執行測試…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.scanningForIssuesDots" : {
       "comment" : "Placeholder while scanning code or a project for issues",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25266,12 +25164,10 @@
             "value" : "正在掃描問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingDependenciesDots" : {
       "comment" : "Placeholder while updating project dependencies",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25519,8 +25415,7 @@
             "value" : "更新依賴…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

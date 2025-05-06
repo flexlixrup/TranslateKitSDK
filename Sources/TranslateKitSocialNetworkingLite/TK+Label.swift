@@ -1,154 +1,154 @@
 import Foundation
-@_exported import TranslateKit
+@_exported import TranslateKitLite
 
 extension TK.Label {
    /// "Followers" - Use for a list of users following the account
    public static var followers: String {
-      #tkm("Followers", c: "Use for a list of users following the account")
+      String(localized: "TK.Label.followers", defaultValue: "Followers", bundle: .module, comment: "Use for a list of users following the account")
    }
 
    /// "Following" - Use for a list of users the account is following
    public static var following: String {
-      #tkm("Following", c: "Use for a list of users the account is following")
+      String(localized: "TK.Label.following", defaultValue: "Following", bundle: .module, comment: "Use for a list of users the account is following")
    }
 
    /// "Friends" - Use for users who are connected or have mutual interactions
    public static var friends: String {
-      #tkm("Friends", c: "Use for users who are connected or have mutual interactions")
+      String(localized: "TK.Label.friends", defaultValue: "Friends", bundle: .module, comment: "Use for users who are connected or have mutual interactions")
    }
 
    /// "Posts" - Use for content shared by the user or in a group
    public static var posts: String {
-      #tkm("Posts", c: "Use for content shared by the user or in a group")
+      String(localized: "TK.Label.posts", defaultValue: "Posts", bundle: .module, comment: "Use for content shared by the user or in a group")
    }
 
    /// "Comments" - Use for user feedback or responses on posts
    public static var comments: String {
-      #tkm("Comments", c: "Use for user feedback or responses on posts")
+      String(localized: "TK.Label.comments", defaultValue: "Comments", bundle: .module, comment: "Use for user feedback or responses on posts")
    }
 
    /// "Groups" - Use for communities or collections of users with shared interests
    public static var groups: String {
-      #tkm("Groups", c: "Use for communities or collections of users with shared interests")
+      String(localized: "TK.Label.groups", defaultValue: "Groups", bundle: .module, comment: "Use for communities or collections of users with shared interests")
    }
 
    /// "Mentions" - Use when referencing or tagging a user in content
    public static var mentions: String {
-      #tkm("Mentions", c: "Use when referencing or tagging a user in content")
+      String(localized: "TK.Label.mentions", defaultValue: "Mentions", bundle: .module, comment: "Use when referencing or tagging a user in content")
    }
 
    /// "Tags" - Use for labels or keywords assigned to content
    public static var tags: String {
-      #tkm("Tags", c: "Use for labels or keywords assigned to content")
+      String(localized: "TK.Label.tags", defaultValue: "Tags", bundle: .module, comment: "Use for labels or keywords assigned to content")
    }
 
    /// "Social Feed" - Use for a stream of posts or updates from others
    public static var socialFeed: String {
-      #tkm("Social Feed", c: "Use for a stream of posts or updates from others")
+      String(localized: "TK.Label.socialFeed", defaultValue: "Social Feed", bundle: .module, comment: "Use for a stream of posts or updates from others")
    }
 
    /// "Members" - Use for individuals belonging to a group or community
    public static var members: String {
-      #tkm("Members", c: "Use for individuals belonging to a group or community")
+      String(localized: "TK.Label.members", defaultValue: "Members", bundle: .module, comment: "Use for individuals belonging to a group or community")
    }
 
    /// "Connections" - Use for users who have a professional or social connection
    public static var connections: String {
-      #tkm("Connections", c: "Use for users who have a professional or social connection")
+      String(localized: "TK.Label.connections", defaultValue: "Connections", bundle: .module, comment: "Use for users who have a professional or social connection")
    }
 
    /// "Community" - Use for a group of individuals with common interests or activities
    public static var community: String {
-      #tkm("Community", c: "Use for a group of individuals with common interests or activities")
+      String(localized: "TK.Label.community", defaultValue: "Community", bundle: .module, comment: "Use for a group of individuals with common interests or activities")
    }
 
    /// "Blocked Users" - Use for users who are restricted from interacting with the account
    public static var blockedUsers: String {
-      #tkm("Blocked Users", c: "Use for users who are restricted from interacting with the account")
+      String(localized: "TK.Label.blockedUsers", defaultValue: "Blocked Users", bundle: .module, comment: "Use for users who are restricted from interacting with the account")
    }
 
    /// "Mutual Friends" - Use for friends that two users share in common
    public static var mutualFriends: String {
-      #tkm("Mutual Friends", c: "Use for friends that two users share in common")
+      String(localized: "TK.Label.mutualFriends", defaultValue: "Mutual Friends", bundle: .module, comment: "Use for friends that two users share in common")
    }
 
    /// "Activity Feed" - Use for a list of recent actions or updates by users
    public static var activityFeed: String {
-      #tkm("Activity Feed", c: "Use for a list of recent actions or updates by users")
+      String(localized: "TK.Label.activityFeed", defaultValue: "Activity Feed", bundle: .module, comment: "Use for a list of recent actions or updates by users")
    }
 
    /// "Trending" - Use for popular topics or content
    public static var trending: String {
-      #tkm("Trending", c: "Use for popular topics or content")
+      String(localized: "TK.Label.trending", defaultValue: "Trending", bundle: .module, comment: "Use for popular topics or content")
    }
 
    /// "Direct Messages" - Use for private messaging between users
    public static var directMessages: String {
-      #tkm("Direct Messages", c: "Use for private messaging between users")
+      String(localized: "TK.Label.directMessages", defaultValue: "Direct Messages", bundle: .module, comment: "Use for private messaging between users")
    }
 
    /// "Friend Requests" - Use for invitations to connect with other users
    public static var friendRequests: String {
-      #tkm("Friend Requests", c: "Use for invitations to connect with other users")
+      String(localized: "TK.Label.friendRequests", defaultValue: "Friend Requests", bundle: .module, comment: "Use for invitations to connect with other users")
    }
 
    /// "Online Status" - Use for indicating if a user is currently online or active
    public static var onlineStatus: String {
-      #tkm("Online Status", c: "Use for indicating if a user is currently online or active")
+      String(localized: "TK.Label.onlineStatus", defaultValue: "Online Status", bundle: .module, comment: "Use for indicating if a user is currently online or active")
    }
 
    /// "Shared Media" - Use for content like photos or videos shared by users
    public static var sharedMedia: String {
-      #tkm("Shared Media", c: "Use for content like photos or videos shared by users")
+      String(localized: "TK.Label.sharedMedia", defaultValue: "Shared Media", bundle: .module, comment: "Use for content like photos or videos shared by users")
    }
 
    /// "Last Active" - Use for displaying the last time a user was active
    public static var lastActive: String {
-      #tkm("Last Active", c: "Use for displaying the last time a user was active")
+      String(localized: "TK.Label.lastActive", defaultValue: "Last Active", bundle: .module, comment: "Use for displaying the last time a user was active")
    }
 
    /// "Content Type" - Use for categorizing the format or kind of content
    public static var contentType: String {
-      #tkm("Content Type", c: "Use for categorizing the format or kind of content")
+      String(localized: "TK.Label.contentType", defaultValue: "Content Type", bundle: .module, comment: "Use for categorizing the format or kind of content")
    }
 
    /// "Engagement" - Use for interactions like likes, comments, or shares
    public static var engagement: String {
-      #tkm("Engagement", c: "Use for interactions like likes, comments, or shares")
+      String(localized: "TK.Label.engagement", defaultValue: "Engagement", bundle: .module, comment: "Use for interactions like likes, comments, or shares")
    }
 
    /// "Visibility" - Use for settings that control who can view content
    public static var visibility: String {
-      #tkm("Visibility", c: "Use for settings that control who can view content")
+      String(localized: "TK.Label.visibility", defaultValue: "Visibility", bundle: .module, comment: "Use for settings that control who can view content")
    }
 
    /// "Notifications" - Use for alerts or updates about activity on the platform
    public static var notifications: String {
-      #tkm("Notifications", c: "Use for alerts or updates about activity on the platform")
+      String(localized: "TK.Label.notifications", defaultValue: "Notifications", bundle: .module, comment: "Use for alerts or updates about activity on the platform")
    }
 
    /// "Profile" - Use for viewing or editing a user's personal information
    public static var profile: String {
-      #tkm("Profile", c: "Use for viewing or editing a user's personal information")
+      String(localized: "TK.Label.profile", defaultValue: "Profile", bundle: .module, comment: "Use for viewing or editing a user's personal information")
    }
 
    /// "Reactions" - Use for emotional responses to content, such as like or dislike
    public static var reactions: String {
-      #tkm("Reactions", c: "Use for emotional responses to content, such as like or dislike")
+      String(localized: "TK.Label.reactions", defaultValue: "Reactions", bundle: .module, comment: "Use for emotional responses to content, such as like or dislike")
    }
 
    /// "Saved Posts" - Use for content that a user has bookmarked or saved
    public static var savedPosts: String {
-      #tkm("Saved Posts", c: "Use for content that a user has bookmarked or saved")
+      String(localized: "TK.Label.savedPosts", defaultValue: "Saved Posts", bundle: .module, comment: "Use for content that a user has bookmarked or saved")
    }
 
    /// "Stories" - Use for short-lived content, often in a slideshow format
    public static var stories: String {
-      #tkm("Stories", c: "Use for short-lived content, often in a slideshow format")
+      String(localized: "TK.Label.stories", defaultValue: "Stories", bundle: .module, comment: "Use for short-lived content, often in a slideshow format")
    }
 
    /// "Chat" - Use for direct communication between users in real time
    public static var chat: String {
-      #tkm("Chat", c: "Use for direct communication between users in real time")
+      String(localized: "TK.Label.chat", defaultValue: "Chat", bundle: .module, comment: "Use for direct communication between users in real time")
    }
 }

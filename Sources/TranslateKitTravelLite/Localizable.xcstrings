@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.book" : {
       "comment" : "Use for making a reservation or booking",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "書籍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookNow" : {
       "comment" : "Use for immediate booking of a service or item",
@@ -503,8 +501,7 @@
             "value" : "立即預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.browse" : {
       "comment" : "Use for browsing available services, items, or content",
@@ -755,8 +752,7 @@
             "value" : "瀏覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.call" : {
       "comment" : "Use for making a phone call",
@@ -1007,8 +1003,7 @@
             "value" : "通話"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkFlightStatus" : {
       "comment" : "Use for checking the status of a flight",
@@ -1259,12 +1254,10 @@
             "value" : "檢查航班狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkIn" : {
       "comment" : "Use for checking into a hotel, flight, or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1512,12 +1505,10 @@
             "value" : "签到"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkOut" : {
       "comment" : "Use for checking out from a hotel or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1765,12 +1756,10 @@
             "value" : "退房"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing options or prices",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2018,8 +2007,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadOfflineMap" : {
       "comment" : "Use for downloading a map for offline use",
@@ -2270,12 +2258,10 @@
             "value" : "下載離線地圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.explore" : {
       "comment" : "Use for exploring new locations or services",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2523,8 +2509,7 @@
             "value" : "探索"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.favorite" : {
       "comment" : "Use for marking an item or location as a favorite",
@@ -2775,12 +2760,10 @@
             "value" : "設為喜好"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.filterResults" : {
       "comment" : "Use for filtering search results based on criteria",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3028,8 +3011,7 @@
             "value" : "篩選結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findNearby" : {
       "comment" : "Use for finding nearby locations or services",
@@ -3280,8 +3262,7 @@
             "value" : "查找附近"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.getDirections" : {
       "comment" : "Use for getting directions to a destination",
@@ -3532,12 +3513,10 @@
             "value" : "獲取路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.navigate" : {
       "comment" : "Use for navigating to a destination",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3785,8 +3764,7 @@
             "value" : "导航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.planATrip" : {
       "comment" : "Use for planning a trip or travel route",
@@ -4037,12 +4015,10 @@
             "value" : "規劃旅行"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.printTicket" : {
       "comment" : "Use for printing a ticket for a service or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4290,8 +4266,7 @@
             "value" : "列印票據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rate" : {
       "comment" : "Use for rating a service, item, or experience",
@@ -4542,12 +4517,10 @@
             "value" : "評分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reserve" : {
       "comment" : "Use for reserving a service or item",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4795,8 +4768,7 @@
             "value" : "預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reserveATable" : {
       "comment" : "Use for reserving a table at a restaurant",
@@ -5047,8 +5019,7 @@
             "value" : "預訂桌位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reserveHotel" : {
       "comment" : "Use for reserving a hotel room",
@@ -5299,8 +5270,7 @@
             "value" : "預訂酒店"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.review" : {
       "comment" : "Use for leaving a review for a service or item",
@@ -5551,8 +5521,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning a code, document, or QR code",
@@ -5803,8 +5772,7 @@
             "value" : "掃描"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scanQRCode" : {
       "comment" : "Use for scanning a QR code",
@@ -6055,8 +6023,7 @@
             "value" : "掃描 QR 碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareLocation" : {
       "comment" : "Use for sharing your location with others",
@@ -6307,8 +6274,7 @@
             "value" : "分享位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startNavigation" : {
       "comment" : "Use for starting navigation to a destination",
@@ -6559,12 +6525,10 @@
             "value" : "開始導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackFlight" : {
       "comment" : "Use for tracking the status of a flight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6812,8 +6776,7 @@
             "value" : "追蹤航班"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use for tracking the status of an order",
@@ -7064,8 +7027,7 @@
             "value" : "追蹤訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking progress of a service or delivery",
@@ -7316,12 +7278,10 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.translate" : {
       "comment" : "Use for translating text or speech to another language",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7569,12 +7529,10 @@
             "value" : "翻譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfavorite" : {
       "comment" : "Use for removing an item or location from favorites",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7822,8 +7780,7 @@
             "value" : "從喜好項目中移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the hourly weather forecast",
@@ -8074,8 +8031,7 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewListings" : {
       "comment" : "Use for viewing available listings (e.g., hotels, flights)",
@@ -8326,8 +8282,7 @@
             "value" : "查看列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weekly weather forecast",
@@ -8578,12 +8533,10 @@
             "value" : "查看每週天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accommodation" : {
       "comment" : "Use for referring to places where one can stay (e.g., hotels, hostels)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8831,12 +8784,10 @@
             "value" : "住宿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airline" : {
       "comment" : "Use for referring to an airline company",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9084,12 +9035,10 @@
             "value" : "航空公司"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airport" : {
       "comment" : "Use for referring to an airport location",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9337,8 +9286,7 @@
             "value" : "機場"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQuality" : {
       "comment" : "Use for displaying air quality information",
@@ -9589,8 +9537,7 @@
             "value" : "空氣質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.airQualityIndex" : {
       "comment" : "Use for displaying the air quality index",
@@ -9841,12 +9788,10 @@
             "value" : "空氣質素指數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.arrival" : {
       "comment" : "Use for indicating arrival time or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10094,12 +10039,10 @@
             "value" : "抵达"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.baggage" : {
       "comment" : "Use for referring to personal luggage",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10347,12 +10290,10 @@
             "value" : "行李"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.boardingPass" : {
       "comment" : "Use for referring to a boarding pass for a flight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10600,12 +10541,10 @@
             "value" : "登机牌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.booking" : {
       "comment" : "Use for referring to a reservation made for a service",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10853,12 +10792,10 @@
             "value" : "预订"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.checkIn" : {
       "comment" : "Use for checking into a service, such as a flight or hotel",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11106,12 +11043,10 @@
             "value" : "签到"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.checkOut" : {
       "comment" : "Use for checking out from a service, such as a hotel",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11359,8 +11294,7 @@
             "value" : "退房"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for displaying the connection status (e.g., internet, GPS)",
@@ -11611,8 +11545,7 @@
             "value" : "連接狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currency" : {
       "comment" : "Use for referring to the type of currency being used or exchanged",
@@ -11863,8 +11796,7 @@
             "value" : "貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentLocation" : {
       "comment" : "Use for displaying the user's current location",
@@ -12115,8 +12047,7 @@
             "value" : "目前位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentTemperature" : {
       "comment" : "Use for displaying the current temperature",
@@ -12367,12 +12298,10 @@
             "value" : "當前溫度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.departure" : {
       "comment" : "Use for indicating the departure time or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12620,12 +12549,10 @@
             "value" : "出發"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.destination" : {
       "comment" : "Use for indicating the final location or goal of a trip",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12873,8 +12800,7 @@
             "value" : "目的地"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use for referring to the distance between two points",
@@ -13125,8 +13051,7 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.driver" : {
       "comment" : "Use for referring to the person operating a vehicle",
@@ -13377,8 +13302,7 @@
             "value" : "驅動程式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for indicating the time duration of an event or trip",
@@ -13629,8 +13553,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for displaying the estimated arrival time",
@@ -13881,8 +13804,7 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedDelivery" : {
       "comment" : "Use for showing the estimated delivery time of a product",
@@ -14133,12 +14055,10 @@
             "value" : "預計派送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.flight" : {
       "comment" : "Use for referring to a flight, either booked or planned",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14386,12 +14306,10 @@
             "value" : "航班"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gate" : {
       "comment" : "Use for referring to the gate of departure at an airport",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14639,12 +14557,10 @@
             "value" : "Gate"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hotel" : {
       "comment" : "Use for referring to a place of accommodation",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14892,12 +14808,10 @@
             "value" : "酒店"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.itinerary" : {
       "comment" : "Use for referring to a detailed plan for a trip",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15145,8 +15059,7 @@
             "value" : "行程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latitude" : {
       "comment" : "Use for displaying the latitude coordinate of a location",
@@ -15397,8 +15310,7 @@
             "value" : "緯度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.longitude" : {
       "comment" : "Use for displaying the longitude coordinate of a location",
@@ -15649,12 +15561,10 @@
             "value" : "經度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reservation" : {
       "comment" : "Use for referring to a confirmed booking or arrangement",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15902,12 +15812,10 @@
             "value" : "預約"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.route" : {
       "comment" : "Use for referring to the planned path or directions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16155,12 +16063,10 @@
             "value" : "路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transportation" : {
       "comment" : "Use for referring to the means of travel (e.g., bus, car, flight)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16408,12 +16314,10 @@
             "value" : "交通工具"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.traveler" : {
       "comment" : "Use for referring to the person traveling",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16661,12 +16565,11 @@
             "value" : "旅行者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.boardingPassAddedSuccessfully" : {
       "comment" : "Message indicating the boarding pass was successfully added",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16914,12 +16817,23 @@
             "value" : "登機證已成功添加。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.boardingPassAddedSuccessfullyDot" : {
+      "comment" : "Message indicating the boarding pass was successfully added",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Boarding pass added successfully."
+          }
+        }
+      }
     },
     "TK.Message.checkInIsNowAvailable" : {
       "comment" : "Message indicating that check-in is now open",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17167,12 +17081,23 @@
             "value" : "登記現已開放。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.checkInIsNowAvailableDot" : {
+      "comment" : "Message indicating that check-in is now open",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check-in is now available."
+          }
+        }
+      }
     },
     "TK.Message.destinationNotAvailableOffline" : {
       "comment" : "Message indicating that the destination is not available offline",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17420,12 +17345,23 @@
             "value" : "離線時目的地不可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.destinationNotAvailableOfflineDot" : {
+      "comment" : "Message indicating that the destination is not available offline",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Destination not available offline."
+          }
+        }
+      }
     },
     "TK.Message.flightStatusHasChanged" : {
       "comment" : "Message indicating that the flight status has been updated",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17673,12 +17609,23 @@
             "value" : "航班狀態已更改。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.flightStatusHasChangedDot" : {
+      "comment" : "Message indicating that the flight status has been updated",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Flight status has changed."
+          }
+        }
+      }
     },
     "TK.Message.internetRequiredForNavigation" : {
       "comment" : "Message informing the user that internet is needed for navigation",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17926,12 +17873,23 @@
             "value" : "導航需要連接互聯網。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.internetRequiredForNavigationDot" : {
+      "comment" : "Message informing the user that internet is needed for navigation",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Internet required for navigation."
+          }
+        }
+      }
     },
     "TK.Message.locationAccessRequiredForNavigation" : {
       "comment" : "Message informing the user that location access is required for navigation",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18179,12 +18137,23 @@
             "value" : "導航需要位置訪問。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.locationAccessRequiredForNavigationDot" : {
+      "comment" : "Message informing the user that location access is required for navigation",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location access required for navigation."
+          }
+        }
+      }
     },
     "TK.Message.noAvailableRoomsFound" : {
       "comment" : "Message indicating no available rooms could be found",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18432,12 +18401,23 @@
             "value" : "未找到可用的房間。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noAvailableRoomsFoundDot" : {
+      "comment" : "Message indicating no available rooms could be found",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No available rooms found."
+          }
+        }
+      }
     },
     "TK.Message.noFlightsFoundForTheseDates" : {
       "comment" : "Message indicating no flights are available for the selected dates",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18685,12 +18665,23 @@
             "value" : "這些日期未找到航班。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noFlightsFoundForTheseDatesDot" : {
+      "comment" : "Message indicating no flights are available for the selected dates",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No flights found for these dates."
+          }
+        }
+      }
     },
     "TK.Message.reservationConfirmedSuccessfully" : {
       "comment" : "Message confirming the reservation has been successfully made",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18938,12 +18929,23 @@
             "value" : "預訂已成功確認。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.reservationConfirmedSuccessfullyDot" : {
+      "comment" : "Message confirming the reservation has been successfully made",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reservation confirmed successfully."
+          }
+        }
+      }
     },
     "TK.Message.routeCannotBeCalculatedOffline" : {
       "comment" : "Message informing the user that route calculation requires an internet connection",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19191,11 +19193,23 @@
             "value" : "路線無法在離線狀態下計算。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.routeCannotBeCalculatedOfflineDot" : {
+      "comment" : "Message informing the user that route calculation requires an internet connection",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Route cannot be calculated offline."
+          }
+        }
+      }
     },
     "TK.Message.severeWeatherAlertInYourArea" : {
       "comment" : "Message warning about severe weather conditions",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19443,11 +19457,23 @@
             "value" : "您所在區域的嚴重天氣警報！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.severeWeatherAlertInYourAreaDot" : {
+      "comment" : "Message warning about severe weather conditions",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Severe weather alert in your area."
+          }
+        }
+      }
     },
     "TK.Message.trafficCongestionAheadExpectDelays" : {
       "comment" : "Message warning about traffic congestion on the route",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19695,11 +19721,23 @@
             "value" : "前方交通擁堵。預計會延遲。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.trafficCongestionAheadExpectDelaysDot" : {
+      "comment" : "Message warning about traffic congestion on the route",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Traffic congestion ahead. Expect delays."
+          }
+        }
+      }
     },
     "TK.Message.yourBookingHasBeenConfirmed" : {
       "comment" : "Confirmation message indicating the booking has been confirmed",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19947,11 +19985,23 @@
             "value" : "你的預訂已確認。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourBookingHasBeenConfirmedDot" : {
+      "comment" : "Confirmation message indicating the booking has been confirmed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your booking has been confirmed."
+          }
+        }
+      }
     },
     "TK.Message.yourFlightHasBeenDelayed" : {
       "comment" : "Message indicating that the flight has been delayed",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20199,11 +20249,23 @@
             "value" : "你的航班已延遲。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourFlightHasBeenDelayedDot" : {
+      "comment" : "Message indicating that the flight has been delayed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your flight has been delayed."
+          }
+        }
+      }
     },
     "TK.Message.yourRideIsOnTheWay" : {
       "comment" : "Message informing the user that their ride is on the way",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20451,8 +20513,19 @@
             "value" : "你的車正在來的路上！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourRideIsOnTheWayDot" : {
+      "comment" : "Message informing the user that their ride is on the way",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your ride is on the way."
+          }
+        }
+      }
     },
     "TK.Placeholder.addADeliveryNoteDots" : {
       "comment" : "Placeholder for adding a delivery note",
@@ -20703,12 +20776,10 @@
             "value" : "新增配送說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingRouteDots" : {
       "comment" : "Placeholder for calculating a route",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20956,12 +21027,10 @@
             "value" : "正在計算路線…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkInDateDots" : {
       "comment" : "Placeholder for entering the check-in date",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21209,12 +21278,10 @@
             "value" : "入住日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkOutDateDots" : {
       "comment" : "Placeholder for entering the check-out date",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21462,8 +21529,7 @@
             "value" : "退房日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseACategoryDots" : {
       "comment" : "Placeholder for selecting a category",
@@ -21714,12 +21780,10 @@
             "value" : "選擇類別…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.destinationCityDots" : {
       "comment" : "Placeholder for entering the destination city",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21967,8 +22031,7 @@
             "value" : "目的地城市…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAddressDots" : {
       "comment" : "Placeholder for entering an address",
@@ -22219,8 +22282,7 @@
             "value" : "輸入地址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCityNameDots" : {
       "comment" : "Placeholder for entering a city name",
@@ -22471,8 +22533,7 @@
             "value" : "輸入城市名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCityOrNeighborhoodDots" : {
       "comment" : "Placeholder for entering a city or neighborhood name",
@@ -22723,12 +22784,10 @@
             "value" : "輸入城市或地區…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterConfirmationNumberDots" : {
       "comment" : "Placeholder for entering a confirmation number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22976,8 +23035,7 @@
             "value" : "輸入確認編號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDestinationDots" : {
       "comment" : "Placeholder for entering a destination",
@@ -23228,8 +23286,7 @@
             "value" : "輸入目的地…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterFlightNumberDots" : {
       "comment" : "Placeholder for entering a flight number",
@@ -23480,12 +23537,10 @@
             "value" : "輸入航班號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHotelNameDots" : {
       "comment" : "Placeholder for entering a hotel name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23733,12 +23788,10 @@
             "value" : "輸入酒店名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPassportNumberDots" : {
       "comment" : "Placeholder for entering a passport number",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23986,12 +24039,10 @@
             "value" : "輸入護照號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTravelDatesDots" : {
       "comment" : "Placeholder for entering travel dates",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24239,12 +24290,10 @@
             "value" : "輸入旅行日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingBestRoutesDots" : {
       "comment" : "Placeholder for finding the best routes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24492,8 +24541,7 @@
             "value" : "尋找最佳路線…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findNearbyRestaurantsDots" : {
       "comment" : "Placeholder for finding nearby restaurants",
@@ -24744,12 +24792,10 @@
             "value" : "尋找附近的餐廳…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingNearbyPlacesDots" : {
       "comment" : "Placeholder for loading nearby places",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24997,12 +25043,10 @@
             "value" : "加載附近地方中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingWeatherForecastDots" : {
       "comment" : "Placeholder for loading the weather forecast",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25250,12 +25294,10 @@
             "value" : "加載氣象預報中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.numberOfGuestsDots" : {
       "comment" : "Placeholder for entering the number of guests",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25503,8 +25545,7 @@
             "value" : "客人數量…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

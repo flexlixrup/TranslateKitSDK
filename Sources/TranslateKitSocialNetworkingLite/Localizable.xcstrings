@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.acceptInvite" : {
       "comment" : "Use when accepting an invitation to join a group or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,12 +250,10 @@
             "value" : "接受邀请"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addFriend" : {
       "comment" : "Use when sending a friend request to someone",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -504,8 +501,7 @@
             "value" : "添加好友"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.approve" : {
       "comment" : "Use when accepting or allowing something or someone",
@@ -756,8 +752,7 @@
             "value" : "批准"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.archive" : {
       "comment" : "Use when storing content for later access or review",
@@ -1008,8 +1003,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.block" : {
       "comment" : "Use when restricting someone from interacting with you or your content",
@@ -1260,8 +1254,7 @@
             "value" : "封鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.comment" : {
       "comment" : "Use when adding feedback or a response to content",
@@ -1512,8 +1505,7 @@
             "value" : "註解"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.connect" : {
       "comment" : "Use when establishing a link or interaction with someone or something",
@@ -1764,12 +1756,10 @@
             "value" : "連線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.declineInvite" : {
       "comment" : "Use when declining an invitation to join a group or event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2017,8 +2007,7 @@
             "value" : "拒絕邀請"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.delete" : {
       "comment" : "Use when permanently removing content or interactions",
@@ -2269,8 +2258,7 @@
             "value" : "刪除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.disconnect" : {
       "comment" : "Use when severing a connection or interaction",
@@ -2521,8 +2509,7 @@
             "value" : "中斷連線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.edit" : {
       "comment" : "Use when modifying content or settings",
@@ -2773,8 +2760,7 @@
             "value" : "編輯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flag" : {
       "comment" : "Use when marking content as inappropriate or needing attention",
@@ -3025,8 +3011,7 @@
             "value" : "加上旗標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.follow" : {
       "comment" : "Use when subscribing to updates from a user or content",
@@ -3277,8 +3262,7 @@
             "value" : "關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.hide" : {
       "comment" : "Use when making content invisible or unviewable",
@@ -3529,8 +3513,7 @@
             "value" : "隱藏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.join" : {
       "comment" : "Use when becoming a member of a group or community",
@@ -3781,8 +3764,7 @@
             "value" : "加入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.leave" : {
       "comment" : "Use when exiting a group or community",
@@ -4033,8 +4015,7 @@
             "value" : "離開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.like" : {
       "comment" : "Use when expressing approval or appreciation for content",
@@ -4285,12 +4266,10 @@
             "value" : "喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mention" : {
       "comment" : "Use when referring to someone in content or a conversation",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4538,12 +4517,10 @@
             "value" : "提及"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.muteUser" : {
       "comment" : "Use when silencing notifications from a specific user",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4791,8 +4768,7 @@
             "value" : "靜音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pin" : {
       "comment" : "Use when marking content to remain at the top or important",
@@ -5043,8 +5019,7 @@
             "value" : "釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.post" : {
       "comment" : "Use when sharing content publicly or privately",
@@ -5295,12 +5270,10 @@
             "value" : "發佈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.react" : {
       "comment" : "Use when expressing an emotion or response to content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5548,8 +5521,7 @@
             "value" : "回應"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reply" : {
       "comment" : "Use when responding to a post, message, or comment",
@@ -5800,8 +5772,7 @@
             "value" : "回覆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportContent" : {
       "comment" : "Use when reporting content for violations or issues",
@@ -6052,12 +6023,10 @@
             "value" : "舉報內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repost" : {
       "comment" : "Use when sharing content again on your own profile or feed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6305,8 +6274,7 @@
             "value" : "重新分享"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestAccess" : {
       "comment" : "Use when asking for permission to access a resource or group",
@@ -6557,8 +6525,7 @@
             "value" : "請求訪問"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.save" : {
       "comment" : "Use when bookmarking or storing content for later use",
@@ -6809,8 +6776,7 @@
             "value" : "儲存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendMessage" : {
       "comment" : "Use when sending a message to a user or group",
@@ -7061,8 +7027,7 @@
             "value" : "傳送訊息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.share" : {
       "comment" : "Use when sharing content with others",
@@ -7313,12 +7278,10 @@
             "value" : "分享"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tag" : {
       "comment" : "Use when labeling content with specific keywords or identifiers",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7566,8 +7529,7 @@
             "value" : "標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unblock" : {
       "comment" : "Use when removing a block and allowing interaction again",
@@ -7818,8 +7780,7 @@
             "value" : "解除封鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unsubscribing from updates from a user or content",
@@ -8070,12 +8031,10 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unlike" : {
       "comment" : "Use when retracting a like or approval for content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8323,8 +8282,7 @@
             "value" : "不喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unpin" : {
       "comment" : "Use when removing a pin from content",
@@ -8575,12 +8533,10 @@
             "value" : "取消釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewProfile" : {
       "comment" : "Use when accessing a user's profile page",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8828,12 +8784,10 @@
             "value" : "檢視個人檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activityFeed" : {
       "comment" : "Use for a list of recent actions or updates by users",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9081,8 +9035,7 @@
             "value" : "活動動態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.blockedUsers" : {
       "comment" : "Use for users who are restricted from interacting with the account",
@@ -9333,12 +9286,10 @@
             "value" : "已屏蔽用戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chat" : {
       "comment" : "Use for direct communication between users in real time",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9586,8 +9537,7 @@
             "value" : "聊天"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
       "comment" : "Use for user feedback or responses on posts",
@@ -9838,12 +9788,10 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.community" : {
       "comment" : "Use for a group of individuals with common interests or activities",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10091,8 +10039,7 @@
             "value" : "社區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connections" : {
       "comment" : "Use for users who have a professional or social connection",
@@ -10343,12 +10290,10 @@
             "value" : "連接"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contentType" : {
       "comment" : "Use for categorizing the format or kind of content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10596,8 +10541,7 @@
             "value" : "內容類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.directMessages" : {
       "comment" : "Use for private messaging between users",
@@ -10848,12 +10792,10 @@
             "value" : "直接信息"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.engagement" : {
       "comment" : "Use for interactions like likes, comments, or shares",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11101,8 +11043,7 @@
             "value" : "參與度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.followers" : {
       "comment" : "Use for a list of users following the account",
@@ -11353,8 +11294,7 @@
             "value" : "追隨者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.following" : {
       "comment" : "Use for a list of users the account is following",
@@ -11605,12 +11545,10 @@
             "value" : "正在關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.friendRequests" : {
       "comment" : "Use for invitations to connect with other users",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11858,8 +11796,7 @@
             "value" : "好友請求"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.friends" : {
       "comment" : "Use for users who are connected or have mutual interactions",
@@ -12110,8 +12047,7 @@
             "value" : "朋友"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.groups" : {
       "comment" : "Use for communities or collections of users with shared interests",
@@ -12362,12 +12298,10 @@
             "value" : "群組"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastActive" : {
       "comment" : "Use for displaying the last time a user was active",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12615,12 +12549,10 @@
             "value" : "最後活躍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.members" : {
       "comment" : "Use for individuals belonging to a group or community",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12868,8 +12800,7 @@
             "value" : "成員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mentions" : {
       "comment" : "Use when referencing or tagging a user in content",
@@ -13120,12 +13051,10 @@
             "value" : "提及"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mutualFriends" : {
       "comment" : "Use for friends that two users share in common",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13373,8 +13302,7 @@
             "value" : "共同朋友"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notifications" : {
       "comment" : "Use for alerts or updates about activity on the platform",
@@ -13625,12 +13553,10 @@
             "value" : "通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.onlineStatus" : {
       "comment" : "Use for indicating if a user is currently online or active",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13878,12 +13804,10 @@
             "value" : "在線狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.posts" : {
       "comment" : "Use for content shared by the user or in a group",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14131,8 +14055,7 @@
             "value" : "帖子"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.profile" : {
       "comment" : "Use for viewing or editing a user's personal information",
@@ -14383,12 +14306,10 @@
             "value" : "描述檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reactions" : {
       "comment" : "Use for emotional responses to content, such as like or dislike",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14636,12 +14557,10 @@
             "value" : "反應"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.savedPosts" : {
       "comment" : "Use for content that a user has bookmarked or saved",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14889,12 +14808,10 @@
             "value" : "已保存帖子"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sharedMedia" : {
       "comment" : "Use for content like photos or videos shared by users",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15142,12 +15059,10 @@
             "value" : "共享媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.socialFeed" : {
       "comment" : "Use for a stream of posts or updates from others",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15395,12 +15310,10 @@
             "value" : "社交動態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stories" : {
       "comment" : "Use for short-lived content, often in a slideshow format",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15648,12 +15561,10 @@
             "value" : "故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tags" : {
       "comment" : "Use for labels or keywords assigned to content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15901,8 +15812,7 @@
             "value" : "標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
       "comment" : "Use for popular topics or content",
@@ -16153,8 +16063,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.visibility" : {
       "comment" : "Use for settings that control who can view content",
@@ -16405,12 +16314,11 @@
             "value" : "可見度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accountHasBeenBlocked" : {
       "comment" : "Notification when an account is blocked",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16658,12 +16566,23 @@
             "value" : "帳戶已被封鎖。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.accountHasBeenBlockedDot" : {
+      "comment" : "Notification when an account is blocked",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account has been blocked."
+          }
+        }
+      }
     },
     "TK.Message.commentAddedSuccessfully" : {
       "comment" : "Confirmation when a comment is successfully added",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16911,12 +16830,23 @@
             "value" : "評論已成功添加。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.commentAddedSuccessfullyDot" : {
+      "comment" : "Confirmation when a comment is successfully added",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comment added successfully."
+          }
+        }
+      }
     },
     "TK.Message.contentReportedSuccessfully" : {
       "comment" : "Confirmation when content is successfully reported",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17164,12 +17094,23 @@
             "value" : "內容已成功舉報。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contentReportedSuccessfullyDot" : {
+      "comment" : "Confirmation when content is successfully reported",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content reported successfully."
+          }
+        }
+      }
     },
     "TK.Message.friendRequestAccepted" : {
       "comment" : "Notification when a friend request is accepted",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17417,12 +17358,23 @@
             "value" : "好友請求已被接受。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.friendRequestAcceptedDot" : {
+      "comment" : "Notification when a friend request is accepted",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Friend request accepted."
+          }
+        }
+      }
     },
     "TK.Message.liveStreamEnded" : {
       "comment" : "Notification when a live stream ends",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17670,12 +17622,23 @@
             "value" : "直播已結束。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.liveStreamEndedDot" : {
+      "comment" : "Notification when a live stream ends",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Live stream ended."
+          }
+        }
+      }
     },
     "TK.Message.postHasBeenRemoved" : {
       "comment" : "Notification when a post is removed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17923,12 +17886,23 @@
             "value" : "帖子已被移除。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.postHasBeenRemovedDot" : {
+      "comment" : "Notification when a post is removed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Post has been removed."
+          }
+        }
+      }
     },
     "TK.Message.postSavedToBookmarks" : {
       "comment" : "Confirmation when a post is saved to bookmarks",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18176,12 +18150,23 @@
             "value" : "帖子已儲存至書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.postSavedToBookmarksDot" : {
+      "comment" : "Confirmation when a post is saved to bookmarks",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Post saved to bookmarks."
+          }
+        }
+      }
     },
     "TK.Message.profileUpdatedSuccessfully" : {
       "comment" : "Confirmation when a user's profile is successfully updated",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18429,12 +18414,23 @@
             "value" : "個人檔案已成功更新！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.profileUpdatedSuccessfullyDot" : {
+      "comment" : "Confirmation when a user's profile is successfully updated",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Profile updated successfully!"
+          }
+        }
+      }
     },
     "TK.Message.thisAccountIsPrivate" : {
       "comment" : "Notification when trying to view a private account",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18682,12 +18678,23 @@
             "value" : "該帳戶是私人的。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.thisAccountIsPrivateDot" : {
+      "comment" : "Notification when trying to view a private account",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This account is private."
+          }
+        }
+      }
     },
     "TK.Message.thisContentIsNoLongerAvailable" : {
       "comment" : "Notification when content is no longer accessible",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18935,12 +18942,23 @@
             "value" : "該內容不再可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.thisContentIsNoLongerAvailableDot" : {
+      "comment" : "Notification when content is no longer accessible",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This content is no longer available."
+          }
+        }
+      }
     },
     "TK.Message.youAreNowFollowingThisAccount" : {
       "comment" : "Notification when a user starts following an account",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19188,12 +19206,23 @@
             "value" : "你現在正在關注這個帳號。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.youAreNowFollowingThisAccountDot" : {
+      "comment" : "Notification when a user starts following an account",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are now following this account."
+          }
+        }
+      }
     },
     "TK.Message.yourCommentWasDeleted" : {
       "comment" : "Notification when a comment is deleted",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19441,12 +19470,23 @@
             "value" : "你的评论已被删除。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourCommentWasDeletedDot" : {
+      "comment" : "Notification when a comment is deleted",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your comment was deleted."
+          }
+        }
+      }
     },
     "TK.Message.yourMessageWasDelivered" : {
       "comment" : "Confirmation when a message is successfully delivered",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19694,12 +19734,23 @@
             "value" : "你的消息已送达。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourMessageWasDeliveredDot" : {
+      "comment" : "Confirmation when a message is successfully delivered",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your message was delivered."
+          }
+        }
+      }
     },
     "TK.Message.yourPostWasPublishedSuccessfully" : {
       "comment" : "Confirmation when a post is successfully published",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19947,12 +19998,23 @@
             "value" : "你的帖子已成功发布！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourPostWasPublishedSuccessfullyDot" : {
+      "comment" : "Confirmation when a post is successfully published",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your post was published successfully!"
+          }
+        }
+      }
     },
     "TK.Message.youveBeenMentionedInAPost" : {
       "comment" : "Notification when a user is mentioned in a post",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20200,8 +20262,19 @@
             "value" : "你在帖子中被提及。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.youveBeenMentionedInAPostDot" : {
+      "comment" : "Notification when a user is mentioned in a post",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You've been mentioned in a post."
+          }
+        }
+      }
     },
     "TK.Placeholder.addACaptionDots" : {
       "comment" : "Placeholder for adding a caption to media",
@@ -20452,12 +20525,10 @@
             "value" : "新增說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addAReactionDots" : {
       "comment" : "Placeholder for reacting to content with an emoji or response",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20705,12 +20776,10 @@
             "value" : "添加反应…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addEventDetailsDots" : {
       "comment" : "Placeholder for adding details about an event",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20958,12 +21027,10 @@
             "value" : "添加活动详情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addLocationDots" : {
       "comment" : "Placeholder for adding location to a post or content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21211,12 +21278,10 @@
             "value" : "添加位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTopicsDots" : {
       "comment" : "Placeholder for adding topics to categorize content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21464,12 +21529,10 @@
             "value" : "添加主題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.createPollQuestionDots" : {
       "comment" : "Placeholder for creating a poll question",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21717,12 +21780,10 @@
             "value" : "創建投票問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterGroupDescriptionDots" : {
       "comment" : "Placeholder for typing a description for a group",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21970,12 +22031,10 @@
             "value" : "輸入群組描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterGroupNameDots" : {
       "comment" : "Placeholder for typing the name of a group",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22223,12 +22282,10 @@
             "value" : "輸入群組名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHashtagDots" : {
       "comment" : "Placeholder for typing a hashtag for search",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22476,12 +22533,10 @@
             "value" : "輸入話題標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByUsernameDots" : {
       "comment" : "Placeholder for searching by a specific username",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22729,12 +22784,10 @@
             "value" : "按用戶名搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchForFriendsDots" : {
       "comment" : "Placeholder for searching friends or connections",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22982,12 +23035,10 @@
             "value" : "搜尋朋友…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchInGroupDots" : {
       "comment" : "Placeholder for searching content within a group",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23235,12 +23286,10 @@
             "value" : "在群組中搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.shareYourStoryDots" : {
       "comment" : "Placeholder for sharing a personal story or experience",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23488,12 +23537,10 @@
             "value" : "分享你的故事…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.shareYourThoughtsDots" : {
       "comment" : "Placeholder for sharing personal thoughts or opinions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23741,12 +23788,10 @@
             "value" : "分享你的想法…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.tagPeopleDots" : {
       "comment" : "Placeholder for tagging people in content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23994,12 +24039,10 @@
             "value" : "標記人員…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.tagYourLocationDots" : {
       "comment" : "Placeholder for tagging your location in a post",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24247,12 +24290,10 @@
             "value" : "標記你的位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.whatsOnYourMindDots" : {
       "comment" : "Placeholder for entering status or update",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24500,12 +24541,10 @@
             "value" : "你在想什麼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeACommentDots" : {
       "comment" : "Placeholder for adding a comment to a post",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24753,12 +24792,10 @@
             "value" : "撰寫評論…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAMessageDots" : {
       "comment" : "Placeholder for typing a message to someone",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25006,8 +25043,7 @@
             "value" : "撰寫訊息…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAPostDots" : {
       "comment" : "Placeholder for writing a new post or status",
@@ -25258,8 +25294,7 @@
             "value" : "撰寫评论…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

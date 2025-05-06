@@ -250,8 +250,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.block" : {
       "comment" : "Use for blocking a user or source",
@@ -502,8 +501,7 @@
             "value" : "封鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use for bookmarking an article for later reading",
@@ -754,8 +752,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyLink" : {
       "comment" : "Use for copying the article's link",
@@ -1006,8 +1003,7 @@
             "value" : "複製連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.dismissArticle" : {
       "comment" : "Use for dismissing or closing an article",
@@ -1258,8 +1254,7 @@
             "value" : "關閉文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use for downloading the article for offline reading",
@@ -1510,12 +1505,10 @@
             "value" : "下載離線內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.factCheck" : {
       "comment" : "Use for fact-checking the content of an article",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1763,8 +1756,7 @@
             "value" : "事實核查"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flag" : {
       "comment" : "Use for flagging inappropriate or incorrect content",
@@ -2015,8 +2007,7 @@
             "value" : "加上旗標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.follow" : {
       "comment" : "Use for following a source or author for updates",
@@ -2267,8 +2258,7 @@
             "value" : "關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.like" : {
       "comment" : "Use for liking an article or post",
@@ -2519,8 +2509,7 @@
             "value" : "喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.listenToArticle" : {
       "comment" : "Use for listening to an audio version of the article",
@@ -2771,8 +2760,7 @@
             "value" : "收聽文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.post" : {
       "comment" : "Use for posting a comment or content",
@@ -3023,8 +3011,7 @@
             "value" : "發佈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readArticle" : {
       "comment" : "Use for opening and reading an article",
@@ -3275,12 +3262,10 @@
             "value" : "閱讀文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readLater" : {
       "comment" : "Use for saving an article to read later",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3528,12 +3513,10 @@
             "value" : "稍後閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readMore" : {
       "comment" : "Use for expanding an article or content to read more",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3781,8 +3764,7 @@
             "value" : "閱讀更多"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.report" : {
       "comment" : "Use for reporting an issue or inappropriate content",
@@ -4033,8 +4015,7 @@
             "value" : "報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareStory" : {
       "comment" : "Use for sharing the article or story with others",
@@ -4285,8 +4266,7 @@
             "value" : "分享故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use for subscribing to a newsletter or updates",
@@ -4537,12 +4517,10 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.summarize" : {
       "comment" : "Use for summarizing the content of an article",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4790,8 +4768,7 @@
             "value" : "總結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unblock" : {
       "comment" : "Use for unblocking a previously blocked user or source",
@@ -5042,8 +5019,7 @@
             "value" : "解除封鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use for unfollowing a source or author",
@@ -5294,12 +5270,10 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unsubscribe" : {
       "comment" : "Use for unsubscribing from a newsletter or updates",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5547,8 +5521,7 @@
             "value" : "取消訂閲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewBreakingNews" : {
       "comment" : "Use for viewing the latest breaking news",
@@ -5799,12 +5772,10 @@
             "value" : "查看突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.article" : {
       "comment" : "Use for labeling a single piece of content or article",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6052,8 +6023,7 @@
             "value" : "文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use for referring to the creator or writer of the article",
@@ -6304,8 +6274,7 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for highlighting the latest breaking news",
@@ -6556,8 +6525,7 @@
             "value" : "突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.category" : {
       "comment" : "Use for grouping content into specific categories",
@@ -6808,8 +6776,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comment" : {
       "comment" : "Use for a single comment or user input",
@@ -7060,8 +7027,7 @@
             "value" : "註解"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
       "comment" : "Use for multiple comments or user feedback",
@@ -7312,8 +7278,7 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.content" : {
       "comment" : "Use for general content or body of an article",
@@ -7564,12 +7529,10 @@
             "value" : "內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.coverage" : {
       "comment" : "Use for the extent or scope of news coverage",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7817,12 +7780,10 @@
             "value" : "報導範圍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.editorial" : {
       "comment" : "Use for articles or sections related to editorial opinions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8070,8 +8031,7 @@
             "value" : "社论"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.editorsPicks" : {
       "comment" : "Use for articles selected by the editor",
@@ -8322,12 +8282,10 @@
             "value" : "編輯特選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featured" : {
       "comment" : "Use for highlighting featured or spotlight content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8575,12 +8533,10 @@
             "value" : "精選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featuredStories" : {
       "comment" : "Use for displaying important or highlighted stories",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8828,12 +8784,10 @@
             "value" : "特色故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.headlines" : {
       "comment" : "Use for the main or most important news titles",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9081,12 +9035,10 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.international" : {
       "comment" : "Use for news or content with an international scope",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9334,12 +9286,10 @@
             "value" : "國際的"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latest" : {
       "comment" : "Use for the most recent content or news",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9587,8 +9537,7 @@
             "value" : "最新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latestHeadlines" : {
       "comment" : "Use for the most recent and important headlines",
@@ -9839,12 +9788,10 @@
             "value" : "最新頭條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.localNews" : {
       "comment" : "Use for news related to local events or areas",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10092,8 +10039,7 @@
             "value" : "本地新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.media" : {
       "comment" : "Use for the general term for news outlets or platforms",
@@ -10344,8 +10290,7 @@
             "value" : "媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opinion" : {
       "comment" : "Use for opinion-based articles or commentary",
@@ -10596,12 +10541,10 @@
             "value" : "意見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.publication" : {
       "comment" : "Use for the name or title of a publication",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10849,12 +10792,10 @@
             "value" : "出版物"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.publisher" : {
       "comment" : "Use for the entity responsible for publishing the content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11102,12 +11043,10 @@
             "value" : "發行者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.regional" : {
       "comment" : "Use for news related to a specific region",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11355,8 +11294,7 @@
             "value" : "地區"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reviews" : {
       "comment" : "Use for user or critic reviews of content or products",
@@ -11607,11 +11545,23 @@
             "value" : "評價"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.scienceAndTechnology" : {
+      "comment" : "Use for content related to science and technology",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Science & Technology"
+          }
+        }
+      }
     },
     "TK.Label.scienceTechnology" : {
       "comment" : "Use for content related to science and technology",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11859,8 +11809,7 @@
             "value" : "科學與技術"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.source" : {
       "comment" : "Use for the origin or provider of information",
@@ -12111,12 +12060,10 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sources" : {
       "comment" : "Use for multiple sources of information or content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12364,12 +12311,10 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.story" : {
       "comment" : "Use for an individual article or narrative",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12617,8 +12562,7 @@
             "value" : "故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subscription" : {
       "comment" : "Use for subscribing to content or services",
@@ -12869,12 +12813,10 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topics" : {
       "comment" : "Use for categorizing content by subject or theme",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13122,8 +13064,7 @@
             "value" : "主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
       "comment" : "Use for displaying popular or trending content",
@@ -13374,8 +13315,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trendingStories" : {
       "comment" : "Use for displaying the most popular stories at the moment",
@@ -13626,8 +13566,7 @@
             "value" : "熱門故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.worldNews" : {
       "comment" : "Use for global news or content with a worldwide scope",
@@ -13878,11 +13817,11 @@
             "value" : "全球新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleAddedToYourBookmarks" : {
       "comment" : "Confirmation when an article is added to bookmarks",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14130,12 +14069,23 @@
             "value" : "文章已添加到你的書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.articleAddedToYourBookmarksDot" : {
+      "comment" : "Confirmation when an article is added to bookmarks",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Article added to your bookmarks."
+          }
+        }
+      }
     },
     "TK.Message.articleHasBeenArchived" : {
       "comment" : "Notification when an article is archived",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14383,12 +14333,23 @@
             "value" : "文章已被存檔。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.articleHasBeenArchivedDot" : {
+      "comment" : "Notification when an article is archived",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Article has been archived."
+          }
+        }
+      }
     },
     "TK.Message.articleUnavailableInYourRegion" : {
       "comment" : "Message when the article is restricted by region",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14636,12 +14597,23 @@
             "value" : "文章在你的地區不可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.articleUnavailableInYourRegionDot" : {
+      "comment" : "Message when the article is restricted by region",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Article unavailable in your region."
+          }
+        }
+      }
     },
     "TK.Message.breakingNewsAlert" : {
       "comment" : "Notification for breaking news",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14889,12 +14861,23 @@
             "value" : "突發新聞提醒。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.breakingNewsAlertDot" : {
+      "comment" : "Notification for breaking news",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Breaking news alert."
+          }
+        }
+      }
     },
     "TK.Message.contentIsBehindAPaywall" : {
       "comment" : "Message indicating content requires payment",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15142,11 +15125,23 @@
             "value" : "內容受限於付費牆。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contentIsBehindAPaywallDot" : {
+      "comment" : "Message indicating content requires payment",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content is behind a paywall."
+          }
+        }
+      }
     },
     "TK.Message.contentNotAvailableInYourRegion" : {
       "comment" : "Message when content is region-locked",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15394,12 +15389,23 @@
             "value" : "該內容在你的區域不可用"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.contentNotAvailableInYourRegionDot" : {
+      "comment" : "Message when content is region-locked",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Content not available in your region."
+          }
+        }
+      }
     },
     "TK.Message.dailyBriefingIsReady" : {
       "comment" : "Notification when the daily briefing is ready to view",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15647,12 +15653,23 @@
             "value" : "每日簡報已準備好。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.dailyBriefingIsReadyDot" : {
+      "comment" : "Notification when the daily briefing is ready to view",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily briefing is ready."
+          }
+        }
+      }
     },
     "TK.Message.latestHeadlinesUpdated" : {
       "comment" : "Notification when the latest headlines are refreshed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15900,12 +15917,23 @@
             "value" : "最新頭條已更新。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.latestHeadlinesUpdatedDot" : {
+      "comment" : "Notification when the latest headlines are refreshed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Latest headlines updated."
+          }
+        }
+      }
     },
     "TK.Message.newArticlesAvailable" : {
       "comment" : "Notification when new articles are published",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16153,12 +16181,23 @@
             "value" : "有新文章可供查看。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.newArticlesAvailableDot" : {
+      "comment" : "Notification when new articles are published",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New articles available."
+          }
+        }
+      }
     },
     "TK.Message.newsFeedUpdated" : {
       "comment" : "Message when the news feed has been refreshed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16406,12 +16445,23 @@
             "value" : "新聞動態已更新。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.newsFeedUpdatedDot" : {
+      "comment" : "Message when the news feed has been refreshed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "News feed updated."
+          }
+        }
+      }
     },
     "TK.Message.noNewArticlesAvailable" : {
       "comment" : "Message when no new articles are present",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16659,12 +16709,23 @@
             "value" : "沒有新的文章可用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noNewArticlesAvailableDot" : {
+      "comment" : "Message when no new articles are present",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No new articles available."
+          }
+        }
+      }
     },
     "TK.Message.premiumContentOnly" : {
       "comment" : "Message indicating that content is premium and exclusive",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16912,12 +16973,23 @@
             "value" : "僅限付費內容。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.premiumContentOnlyDot" : {
+      "comment" : "Message indicating that content is premium and exclusive",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Premium content only."
+          }
+        }
+      }
     },
     "TK.Message.subscribeToAccessFullContent" : {
       "comment" : "Prompt to subscribe for full content access",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17165,12 +17237,23 @@
             "value" : "訂閱以獲取完整內容。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.subscribeToAccessFullContentDot" : {
+      "comment" : "Prompt to subscribe for full content access",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscribe to access full content."
+          }
+        }
+      }
     },
     "TK.Message.unableToLoadNews" : {
       "comment" : "Error message when news content cannot be loaded",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17418,12 +17501,23 @@
             "value" : "無法加載新聞。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.unableToLoadNewsDot" : {
+      "comment" : "Error message when news content cannot be loaded",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unable to load news."
+          }
+        }
+      }
     },
     "TK.Message.yourNewsFeedIsUpToDate" : {
       "comment" : "Confirmation when the news feed is current",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17671,8 +17765,19 @@
             "value" : "你的新闻动态是最新的。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.yourNewsFeedIsUpToDateDot" : {
+      "comment" : "Confirmation when the news feed is current",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your news feed is up to date."
+          }
+        }
+      }
     },
     "TK.Placeholder.addACommentDots" : {
       "comment" : "Placeholder for adding a comment to an article or post",
@@ -17923,8 +18028,7 @@
             "value" : "新增評論…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a search topic or keyword",
@@ -18175,8 +18279,7 @@
             "value" : "輸入主題或關鍵字…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -18427,12 +18530,10 @@
             "value" : "過濾結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingHeadlinesDots" : {
       "comment" : "Placeholder when loading headlines or main stories",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18680,12 +18781,10 @@
             "value" : "加載頭條新聞中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingNextStoryDots" : {
       "comment" : "Placeholder when loading the next story in a sequence",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18933,8 +19032,7 @@
             "value" : "加載下一個故事中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noArticlesAvailableDots" : {
       "comment" : "Placeholder when no articles are available for the search",
@@ -19185,8 +19283,7 @@
             "value" : "沒有可用的文章…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no results match the search query",
@@ -19437,8 +19534,7 @@
             "value" : "未找到結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchNewsDots" : {
       "comment" : "Placeholder for searching news articles",
@@ -19689,8 +19785,7 @@
             "value" : "搜索新聞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTrendingTopicsDots" : {
       "comment" : "Placeholder for searching trending topics",
@@ -19941,8 +20036,7 @@
             "value" : "搜索热门话题…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeACommentDots" : {
       "comment" : "Placeholder for typing a comment",
@@ -20193,12 +20287,10 @@
             "value" : "输入评论…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.verifyingSourceDots" : {
       "comment" : "Placeholder while verifying the source of the article or content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20446,8 +20538,7 @@
             "value" : "驗證來源…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAReplyDots" : {
       "comment" : "Placeholder for writing a reply to a comment or article",
@@ -20698,8 +20789,7 @@
             "value" : "撰写回复…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeYourOpinionDots" : {
       "comment" : "Placeholder for writing an opinion or review",
@@ -20950,8 +21040,7 @@
             "value" : "設好你的意見…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

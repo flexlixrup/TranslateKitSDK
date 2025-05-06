@@ -3,7 +3,6 @@
   "strings" : {
     "TK.Action.answerQuestions" : {
       "comment" : "Use for answering quiz or review questions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +250,7 @@
             "value" : "回答问题"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use for saving content for future reference",
@@ -503,12 +501,10 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkAnswer" : {
       "comment" : "Use when reviewing the correctness of an answer",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -756,11 +752,10 @@
             "value" : "检查答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkSolution" : {
-      "comment" : "Use for checking the answer to a problem\nUse for reviewing the correct solution to a problem",
+      "comment" : "Use for reviewing the correct solution to a problem",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1008,12 +1003,22 @@
             "value" : "檢查解決方案"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Action.checkSolutionAgain" : {
+      "comment" : "Use for checking the answer to a problem",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Solution"
+          }
+        }
+      }
     },
     "TK.Action.completeLesson" : {
       "comment" : "Use when finishing a lesson or module",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1261,8 +1266,7 @@
             "value" : "完成課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use for downloading educational materials",
@@ -1513,12 +1517,10 @@
             "value" : "下載資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.explain" : {
       "comment" : "Use for providing an explanation or clarification",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1766,12 +1768,10 @@
             "value" : "解釋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exploreTopic" : {
       "comment" : "Use for discovering additional content on a topic",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2019,8 +2019,7 @@
             "value" : "探索主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.focusMode" : {
       "comment" : "Use for enabling a distraction-free learning environment",
@@ -2271,8 +2270,7 @@
             "value" : "專注模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a progress or performance report",
@@ -2523,12 +2521,10 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.grade" : {
       "comment" : "Use for grading or assessing performance",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2776,8 +2772,7 @@
             "value" : "评分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.highlight" : {
       "comment" : "Use for marking important information",
@@ -3028,12 +3023,10 @@
             "value" : "螢光標示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.listen" : {
       "comment" : "Use for audio learning or listening to instructions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3281,8 +3274,7 @@
             "value" : "收听"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when completing a task or lesson",
@@ -3533,12 +3525,10 @@
             "value" : "標記完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.memorize" : {
       "comment" : "Use for committing information to memory",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3786,12 +3776,10 @@
             "value" : "记忆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use for engaging in learning exercises",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4039,12 +4027,10 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quiz" : {
       "comment" : "Use for taking a quiz",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4292,12 +4278,10 @@
             "value" : "測驗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.read" : {
       "comment" : "Use for reading learning material",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4545,12 +4529,10 @@
             "value" : "已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordAnswer" : {
       "comment" : "Use for recording your response or answer",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4798,12 +4780,10 @@
             "value" : "記錄答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use for repeating an exercise or activity",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5051,12 +5031,10 @@
             "value" : "重複練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportMistakes" : {
       "comment" : "Use for reporting errors or mistakes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5304,8 +5282,7 @@
             "value" : "報告錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.review" : {
       "comment" : "Use for going over learned material",
@@ -5556,8 +5533,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleTutoring" : {
       "comment" : "Use for scheduling a tutoring session",
@@ -5808,12 +5784,10 @@
             "value" : "安排輔導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipChapter" : {
       "comment" : "Use for bypassing a chapter or section",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6061,12 +6035,10 @@
             "value" : "跳過章節"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.solve" : {
       "comment" : "Use for solving problems or exercises",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6314,8 +6286,7 @@
             "value" : "解決"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use for initiating a learning activity",
@@ -6566,8 +6537,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startLesson" : {
       "comment" : "Use for beginning a lesson",
@@ -6818,12 +6788,10 @@
             "value" : "開始課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startTutoring" : {
       "comment" : "Use for beginning a tutoring session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7071,12 +7039,10 @@
             "value" : "開始輔導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.study" : {
       "comment" : "Use for engaging in study activities",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7324,8 +7290,7 @@
             "value" : "學習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitAnswer" : {
       "comment" : "Use when submitting an answer to a question",
@@ -7576,12 +7541,10 @@
             "value" : "提交答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeNotes" : {
       "comment" : "Use for writing down important points",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7829,12 +7792,10 @@
             "value" : "做筆記"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.testYourself" : {
       "comment" : "Use for self-assessment activities",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8082,8 +8043,7 @@
             "value" : "自我測試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for monitoring learning or task progress",
@@ -8334,8 +8294,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewProgress" : {
       "comment" : "Use for viewing learning progress",
@@ -8586,12 +8545,10 @@
             "value" : "查看進展"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.writeReflection" : {
       "comment" : "Use for writing a reflective thought or summary",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8839,12 +8796,10 @@
             "value" : "寫反思"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assignment" : {
       "comment" : "Use for labeling a task or homework to be completed",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9092,12 +9047,10 @@
             "value" : "作业"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chapter" : {
       "comment" : "Use for dividing content into distinct sections",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9345,8 +9298,7 @@
             "value" : "章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completionCertificate" : {
       "comment" : "Use for awarding a certificate upon course completion",
@@ -9597,8 +9549,7 @@
             "value" : "完成證書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.correctAnswers" : {
       "comment" : "Use for counting or showing correct responses in quizzes",
@@ -9849,12 +9800,10 @@
             "value" : "正確答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.course" : {
       "comment" : "Use to label an educational program or series of lessons",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10102,8 +10051,7 @@
             "value" : "課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.courseProgress" : {
       "comment" : "Use for tracking progress through a course",
@@ -10354,12 +10302,10 @@
             "value" : "課程進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.curriculum" : {
       "comment" : "Use for the complete set of educational content",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10607,8 +10553,7 @@
             "value" : "課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.difficultyLevel" : {
       "comment" : "Use for indicating the complexity of content or tasks",
@@ -10859,12 +10804,10 @@
             "value" : "難度級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exam" : {
       "comment" : "Use for labeling assessments or tests",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11112,12 +11055,10 @@
             "value" : "考試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exercise" : {
       "comment" : "Use for labeling practice activities or tasks",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11365,12 +11306,10 @@
             "value" : "運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.flashcards" : {
       "comment" : "Use for interactive learning tools in a question-answer format",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11618,12 +11557,10 @@
             "value" : "抽認卡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gradeLevel" : {
       "comment" : "Use for categorizing content based on educational stages",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11871,12 +11808,10 @@
             "value" : "年級等級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.knowledgePoints" : {
       "comment" : "Use for awarding points based on learning achievements",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12124,8 +12059,7 @@
             "value" : "知識點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningPath" : {
       "comment" : "Use for a structured sequence of lessons or activities",
@@ -12376,8 +12310,7 @@
             "value" : "學習路徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningStreak" : {
       "comment" : "Use for tracking consecutive days or sessions of learning",
@@ -12628,12 +12561,10 @@
             "value" : "學習連續天數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lesson" : {
       "comment" : "Use for individual instructional sessions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12881,12 +12812,10 @@
             "value" : "課堂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use for personal annotations or study material",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13134,8 +13063,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.practiceExercises" : {
       "comment" : "Use for exercises designed to reinforce learning",
@@ -13386,12 +13314,10 @@
             "value" : "練習題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.quizResults" : {
       "comment" : "Use for showing the outcomes of a quiz",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13639,12 +13565,10 @@
             "value" : "測驗結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.score" : {
       "comment" : "Use for labeling a user's performance or results",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13892,12 +13816,10 @@
             "value" : "分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.student" : {
       "comment" : "Use to refer to a person engaged in learning",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14145,8 +14067,7 @@
             "value" : "學生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyMaterials" : {
       "comment" : "Use for resources used in studying",
@@ -14397,8 +14318,7 @@
             "value" : "學習資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studySessions" : {
       "comment" : "Use for tracking individual study sessions",
@@ -14649,8 +14569,7 @@
             "value" : "學習時段"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyTime" : {
       "comment" : "Use for tracking the amount of time spent studying",
@@ -14901,12 +14820,10 @@
             "value" : "學習時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subject" : {
       "comment" : "Use to categorize topics or disciplines of study",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15154,12 +15071,10 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.teacher" : {
       "comment" : "Use to refer to a person providing instruction",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15407,12 +15322,10 @@
             "value" : "教師"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.testScore" : {
       "comment" : "Use for showing the results of a test",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15660,12 +15573,10 @@
             "value" : "考試成績"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topic" : {
       "comment" : "Use for specific areas of focus within a subject",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15913,12 +15824,10 @@
             "value" : "主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutor" : {
       "comment" : "Use for a person providing one-on-one educational assistance",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16166,8 +16075,7 @@
             "value" : "導師"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutorial" : {
       "comment" : "Use for instructional content or guides",
@@ -16418,8 +16326,7 @@
             "value" : "教程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.xp" : {
       "comment" : "Use for experience points earned through activities or tasks",
@@ -16670,11 +16577,11 @@
             "value" : "XP"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Use to notify the user of an unlocked achievement",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16922,12 +16829,35 @@
             "value" : "成就已解鎖"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.achievementUnlockedDot" : {
+      "comment" : "Use to notify the user of an unlocked achievement",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Achievement unlocked!"
+          }
+        }
+      }
+    },
+    "TK.Message.answerCorrectDot" : {
+      "comment" : "Confirmation that the user's answer is right",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your answer is correct!"
+          }
+        }
+      }
     },
     "TK.Message.answerNeedsImprovement" : {
       "comment" : "Feedback for an incorrect or suboptimal answer",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17175,12 +17105,23 @@
             "value" : "答案需要改進。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.answerNeedsImprovementDot" : {
+      "comment" : "Feedback for an incorrect or suboptimal answer",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Answer needs improvement."
+          }
+        }
+      }
     },
     "TK.Message.dailyStreakMaintained" : {
       "comment" : "Use to congratulate maintaining a study streak",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17428,12 +17369,23 @@
             "value" : "每日連續學習已維持！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.dailyStreakMaintainedDot" : {
+      "comment" : "Use to congratulate maintaining a study streak",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily streak maintained!"
+          }
+        }
+      }
     },
     "TK.Message.greatJob" : {
       "comment" : "Use for praising a user's achievement",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17681,12 +17633,23 @@
             "value" : "幹得好！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.greatJobDot" : {
+      "comment" : "Use for praising a user's achievement",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Great job!"
+          }
+        }
+      }
     },
     "TK.Message.keepPracticing" : {
       "comment" : "Motivational message to encourage continued practice",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17934,12 +17897,23 @@
             "value" : "繼續練習！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.keepPracticingDot" : {
+      "comment" : "Motivational message to encourage continued practice",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keep practicing!"
+          }
+        }
+      }
     },
     "TK.Message.newLessonAvailable" : {
       "comment" : "Notification for a new lesson being available",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18187,12 +18161,35 @@
             "value" : "有新課程可用！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.newLessonAvailableDot" : {
+      "comment" : "Notification for a new lesson being available",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New lesson available!"
+          }
+        }
+      }
+    },
+    "TK.Message.readyForNextLessonDot" : {
+      "comment" : "Use to prompt users to move to the next lesson",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ready for the next lesson?"
+          }
+        }
+      }
     },
     "TK.Message.readyForTheNextLesson" : {
       "comment" : "Use to prompt users to move to the next lesson",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18440,12 +18437,11 @@
             "value" : "準備好下個課程了嗎？"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.rememberToTakeNotes" : {
       "comment" : "Reminder to take notes while studying",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18693,12 +18689,23 @@
             "value" : "記得做筆記！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.rememberToTakeNotesDot" : {
+      "comment" : "Reminder to take notes while studying",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remember to take notes!"
+          }
+        }
+      }
     },
     "TK.Message.studyGoalAchieved" : {
       "comment" : "Use to confirm the achievement of a study goal",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18946,12 +18953,23 @@
             "value" : "學習目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.studyGoalAchievedDot" : {
+      "comment" : "Use to confirm the achievement of a study goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Study goal achieved!"
+          }
+        }
+      }
     },
     "TK.Message.studySessionComplete" : {
       "comment" : "Confirmation that the study session has ended",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19199,12 +19217,23 @@
             "value" : "學習時段已完成！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.studySessionCompleteDot" : {
+      "comment" : "Confirmation that the study session has ended",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Study session complete!"
+          }
+        }
+      }
     },
     "TK.Message.takeAShortBreak" : {
       "comment" : "Use to suggest a break after studying",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19452,12 +19481,23 @@
             "value" : "休息一下！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.takeAShortBreakDot" : {
+      "comment" : "Use to suggest a break after studying",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Take a short break!"
+          }
+        }
+      }
     },
     "TK.Message.timeForAQuiz" : {
       "comment" : "Use to prompt the user to take a quiz",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19705,12 +19745,23 @@
             "value" : "是時候進行測驗了！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.timeForQuizDot" : {
+      "comment" : "Use to prompt the user to take a quiz",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time for a quiz!"
+          }
+        }
+      }
     },
     "TK.Message.timeToReview" : {
       "comment" : "Use to prompt the user to review material",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19958,12 +20009,23 @@
             "value" : "是時候復習了！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.timeToReviewDot" : {
+      "comment" : "Use to prompt the user to review material",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time to review!"
+          }
+        }
+      }
     },
     "TK.Message.timeToTestYourKnowledge" : {
       "comment" : "Prompt for a knowledge testing activity",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20211,12 +20273,23 @@
             "value" : "是時候考考你的知識了！"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.timeToTestYourKnowledgeDot" : {
+      "comment" : "Prompt for a knowledge testing activity",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time to test your knowledge!"
+          }
+        }
+      }
     },
     "TK.Message.yourAnswerIsCorrect" : {
       "comment" : "Confirmation that the user's answer is right",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20464,8 +20537,7 @@
             "value" : "你的答案是正确的！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addStudyNotesDots" : {
       "comment" : "Placeholder for adding study notes",
@@ -20716,12 +20788,10 @@
             "value" : "新增學習筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.courseProgressDots" : {
       "comment" : "Placeholder for tracking course progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20969,12 +21039,10 @@
             "value" : "課程進度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.currentChapterDots" : {
       "comment" : "Placeholder for indicating the current chapter",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21222,8 +21290,7 @@
             "value" : "當前章節…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAnswerDots" : {
       "comment" : "Placeholder for answer input fields",
@@ -21474,12 +21541,10 @@
             "value" : "輸入答案…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterFormulaDots" : {
       "comment" : "Placeholder for entering a formula",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21727,12 +21792,10 @@
             "value" : "輸入公式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterQuestionHereDots" : {
       "comment" : "Placeholder for entering a question",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21980,12 +22043,10 @@
             "value" : "在此輸入問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTopicToStudyDots" : {
       "comment" : "Placeholder for entering a study topic",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22233,12 +22294,10 @@
             "value" : "輸入學習主題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.nameYourFlashcardDots" : {
       "comment" : "Placeholder for naming a flashcard",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22486,12 +22545,10 @@
             "value" : "命名你的抽認卡…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchExercisesDots" : {
       "comment" : "Placeholder for searching exercises",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22739,12 +22796,10 @@
             "value" : "搜尋練習…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchForLessonsDots" : {
       "comment" : "Placeholder for searching lessons",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22992,8 +23047,7 @@
             "value" : "搜尋課堂…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTutorsDots" : {
       "comment" : "Placeholder for searching tutors",
@@ -23244,12 +23298,10 @@
             "value" : "搜索家教…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.studyGoalForTodayDots" : {
       "comment" : "Placeholder for today's study goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23497,12 +23549,10 @@
             "value" : "今天的學習目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.studySessionDurationDots" : {
       "comment" : "Placeholder for tracking the study session duration",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23750,12 +23800,10 @@
             "value" : "學習時段時長…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.timeSpentStudyingDots" : {
       "comment" : "Placeholder for tracking study time",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24003,12 +24051,10 @@
             "value" : "學習時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeDefinitionDots" : {
       "comment" : "Placeholder for typing a definition",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24256,12 +24302,10 @@
             "value" : "輸入定義…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeYourQuestionDots" : {
       "comment" : "Placeholder for typing a question",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24509,12 +24553,10 @@
             "value" : "輸入你的問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.whatDidYouLearnDots" : {
       "comment" : "Placeholder for summarizing learned material",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24762,12 +24804,10 @@
             "value" : "你學到了什麼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeNotesHereDots" : {
       "comment" : "Placeholder for writing notes",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25015,12 +25055,10 @@
             "value" : "在這裡寫下筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeSummaryDots" : {
       "comment" : "Placeholder for writing a summary",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25268,12 +25306,10 @@
             "value" : "撰寫總結…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.yourAnswerHereDots" : {
       "comment" : "Placeholder for entering an answer",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25521,8 +25557,7 @@
             "value" : "在這裡輸入你的答案…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

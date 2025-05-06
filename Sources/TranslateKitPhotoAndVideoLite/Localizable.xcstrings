@@ -250,8 +250,7 @@
             "value" : "調整"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use for applying a filter to a photo or video",
@@ -502,8 +501,7 @@
             "value" : "套用過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.choosePhoto" : {
       "comment" : "Use for selecting a photo from the library",
@@ -754,12 +752,10 @@
             "value" : "選擇"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing different photos or videos",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1007,8 +1003,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyLink" : {
       "comment" : "Use for copying a link to the clipboard",
@@ -1259,8 +1254,7 @@
             "value" : "複製連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.crop" : {
       "comment" : "Use for cropping a photo or video",
@@ -1511,8 +1505,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deletePermanently" : {
       "comment" : "Use for permanently deleting a photo or video",
@@ -1763,8 +1756,7 @@
             "value" : "永久刪除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editPhoto" : {
       "comment" : "Use for editing a photo",
@@ -2015,12 +2007,10 @@
             "value" : "編輯照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enableCamera" : {
       "comment" : "Use for enabling the camera to take photos or videos",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2268,8 +2258,7 @@
             "value" : "啟用相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting content as a PDF",
@@ -2520,12 +2509,10 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flip" : {
       "comment" : "Use for flipping a photo or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2773,12 +2760,10 @@
             "value" : "翻转"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importPhotos" : {
       "comment" : "Use for importing photos into the app",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3026,12 +3011,10 @@
             "value" : "导入照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsFavorite" : {
       "comment" : "Use for marking a photo or video as a favorite",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3279,8 +3262,7 @@
             "value" : "标记为最爱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mergeClips" : {
       "comment" : "Use for merging video clips",
@@ -3531,8 +3513,7 @@
             "value" : "合併片段"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use for opening content in an external browser",
@@ -3783,8 +3764,7 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.playNow" : {
       "comment" : "Use for starting video playback immediately",
@@ -4035,8 +4015,7 @@
             "value" : "立即播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordVideo" : {
       "comment" : "Use for starting video recording",
@@ -4287,12 +4266,10 @@
             "value" : "錄製視頻"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeBackground" : {
       "comment" : "Use for removing the background from an image",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4540,8 +4517,7 @@
             "value" : "移除背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.replace" : {
       "comment" : "Use for replacing a photo or video",
@@ -4792,8 +4768,7 @@
             "value" : "取代"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resize" : {
       "comment" : "Use for resizing a photo or video",
@@ -5044,8 +5019,7 @@
             "value" : "調整大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.revert" : {
       "comment" : "Use for reverting changes made to a photo or video",
@@ -5296,12 +5270,10 @@
             "value" : "回復"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rotate" : {
       "comment" : "Use for rotating a photo or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5549,8 +5521,7 @@
             "value" : "旋轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToPhotos" : {
       "comment" : "Use for saving a photo or video to the photo library",
@@ -5801,8 +5772,7 @@
             "value" : "儲存至「相片」"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use for saving a video to the library",
@@ -6053,8 +6023,7 @@
             "value" : "儲存影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning a photo or document",
@@ -6305,12 +6274,10 @@
             "value" : "掃描"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setAsDefault" : {
       "comment" : "Use for setting a photo or video as the default",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6558,8 +6525,7 @@
             "value" : "設置為默認"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use for sharing a document",
@@ -6810,12 +6776,10 @@
             "value" : "分享文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.split" : {
       "comment" : "Use for splitting a video into segments",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7063,12 +7027,10 @@
             "value" : "分割"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting the recording",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7316,12 +7278,10 @@
             "value" : "開始錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stopRecording" : {
       "comment" : "Use for stopping the video recording",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7569,8 +7529,7 @@
             "value" : "停止錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takePhoto" : {
       "comment" : "Use for taking a photo",
@@ -7821,12 +7780,10 @@
             "value" : "影相"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.toggleGrid" : {
       "comment" : "Use for toggling the grid view",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8074,12 +8031,10 @@
             "value" : "切換網格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming a photo or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8327,8 +8282,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trimVideo" : {
       "comment" : "Use for trimming a video",
@@ -8579,12 +8533,10 @@
             "value" : "剪輯影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.undoChanges" : {
       "comment" : "Use for undoing changes made to a photo or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8832,12 +8784,10 @@
             "value" : "撤銷更改"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadPhoto" : {
       "comment" : "Use for uploading a photo to the platform",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9085,12 +9035,10 @@
             "value" : "上傳照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.useCamera" : {
       "comment" : "Use for activating the camera to capture a photo or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9338,8 +9286,7 @@
             "value" : "使用相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.zoomIn" : {
       "comment" : "Use for zooming into a photo or video",
@@ -9590,8 +9537,7 @@
             "value" : "放大"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.zoomOut" : {
       "comment" : "Use for zooming out of a photo or video",
@@ -9842,12 +9788,10 @@
             "value" : "縮小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.albums" : {
       "comment" : "Use for displaying photo albums",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10095,12 +10039,10 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.aperture" : {
       "comment" : "Use for displaying the aperture setting for a camera",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10348,8 +10290,7 @@
             "value" : "光圈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.aspectRatio" : {
       "comment" : "Use for displaying the aspect ratio of an image or video",
@@ -10600,8 +10541,7 @@
             "value" : "比例"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundBlur" : {
       "comment" : "Use for displaying the background blur setting of an image or video",
@@ -10852,12 +10792,10 @@
             "value" : "背景模糊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.brightness" : {
       "comment" : "Use for adjusting the brightness of an image or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11105,8 +11043,7 @@
             "value" : "亮度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.camera" : {
       "comment" : "Use for displaying the camera or camera-related settings",
@@ -11357,8 +11294,7 @@
             "value" : "相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cameraRoll" : {
       "comment" : "Use for accessing the camera roll or photo library",
@@ -11609,8 +11545,7 @@
             "value" : "相片庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.color" : {
       "comment" : "Use for adjusting the color properties of an image or video",
@@ -11861,8 +11796,7 @@
             "value" : "顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contrast" : {
       "comment" : "Use for adjusting the contrast of an image or video",
@@ -12113,12 +12047,10 @@
             "value" : "對比度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.createdDate" : {
       "comment" : "Use for displaying the date when the photo or video was created",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12366,8 +12298,7 @@
             "value" : "創建日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for displaying the duration of a video or media clip",
@@ -12618,12 +12549,10 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.effects" : {
       "comment" : "Use for applying effects to an image or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12871,8 +12800,7 @@
             "value" : "效果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exposure" : {
       "comment" : "Use for adjusting the exposure of an image or video",
@@ -13123,12 +13051,10 @@
             "value" : "曝光度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for displaying the file format of a media file",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13376,8 +13302,7 @@
             "value" : "文件格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileName" : {
       "comment" : "Use for displaying the file name of a media file",
@@ -13628,8 +13553,7 @@
             "value" : "文件名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileSize" : {
       "comment" : "Use for displaying the size of a media file",
@@ -13880,8 +13804,7 @@
             "value" : "檔案大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.filters" : {
       "comment" : "Use for applying filters to an image or video",
@@ -14132,8 +14055,7 @@
             "value" : "濾鏡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gallery" : {
       "comment" : "Use for accessing the photo or video gallery",
@@ -14384,8 +14306,7 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.height" : {
       "comment" : "Use for displaying the height of an image or video",
@@ -14636,8 +14557,7 @@
             "value" : "身高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.image" : {
       "comment" : "Use for displaying or selecting an image",
@@ -14888,8 +14808,7 @@
             "value" : "影像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.library" : {
       "comment" : "Use for accessing the media library",
@@ -15140,8 +15059,7 @@
             "value" : "資料庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.media" : {
       "comment" : "Use for referring to media files (photos, videos, etc.)",
@@ -15392,8 +15310,7 @@
             "value" : "媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mode" : {
       "comment" : "Use for selecting different modes or settings",
@@ -15644,8 +15561,7 @@
             "value" : "模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.photos" : {
       "comment" : "Use for displaying photos or photo-related content",
@@ -15896,8 +15812,7 @@
             "value" : "相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playback" : {
       "comment" : "Use for controlling media playback",
@@ -16148,8 +16063,7 @@
             "value" : "播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playbackSpeed" : {
       "comment" : "Use for adjusting the speed of media playback",
@@ -16400,12 +16314,10 @@
             "value" : "播放速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.preview" : {
       "comment" : "Use for previewing a photo, video, or effect",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16653,8 +16565,7 @@
             "value" : "預覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resolution" : {
       "comment" : "Use for displaying or adjusting media resolution",
@@ -16905,12 +16816,10 @@
             "value" : "分辨率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.saturation" : {
       "comment" : "Use for adjusting the saturation of an image or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17158,8 +17067,7 @@
             "value" : "飽和度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.screenshot" : {
       "comment" : "Use for capturing a screenshot of the screen or media",
@@ -17410,8 +17318,7 @@
             "value" : "螢幕截圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.size" : {
       "comment" : "Use for displaying the size of an image or video",
@@ -17662,12 +17569,10 @@
             "value" : "大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.timeline" : {
       "comment" : "Use for displaying or interacting with the timeline of a video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17915,12 +17820,10 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.width" : {
       "comment" : "Use for displaying the width of an image or video",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18168,12 +18071,11 @@
             "value" : "闊度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accessToYourCameraIsRequired" : {
       "comment" : "Message displayed when camera access is needed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18421,12 +18323,23 @@
             "value" : "需要訪問你的相機。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.accessToYourCameraIsRequiredDot" : {
+      "comment" : "Message displayed when camera access is needed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Access to your camera is required."
+          }
+        }
+      }
     },
     "TK.Message.accessToYourPhotosIsRequired" : {
       "comment" : "Message displayed when photo access is needed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18674,12 +18587,23 @@
             "value" : "需要訪問你的照片。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.accessToYourPhotosIsRequiredDot" : {
+      "comment" : "Message displayed when photo access is needed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Access to your photos is required."
+          }
+        }
+      }
     },
     "TK.Message.changesHaveBeenSavedToYourDevice" : {
       "comment" : "Message displayed after saving changes",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18927,12 +18851,23 @@
             "value" : "更改已儲存到您的設備。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.changesHaveBeenSavedToYourDeviceDot" : {
+      "comment" : "Message displayed after saving changes",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Changes have been saved to your device."
+          }
+        }
+      }
     },
     "TK.Message.convertingFileFormat" : {
       "comment" : "Message displayed when a file format is being converted",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19180,12 +19115,23 @@
             "value" : "正在轉換文件格式..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.convertingFileFormatDots" : {
+      "comment" : "Message displayed when a file format is being converted",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Converting file format..."
+          }
+        }
+      }
     },
     "TK.Message.editingInProgress" : {
       "comment" : "Message displayed while editing is in progress",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19433,12 +19379,23 @@
             "value" : "正在編輯…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.editingInProgressDots" : {
+      "comment" : "Message displayed while editing is in progress",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing in progress..."
+          }
+        }
+      }
     },
     "TK.Message.effectAppliedSuccessfully" : {
       "comment" : "Message displayed when an effect is successfully applied",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19686,12 +19643,23 @@
             "value" : "效果已成功應用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.effectAppliedSuccessfullyDot" : {
+      "comment" : "Message displayed when an effect is successfully applied",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Effect applied successfully."
+          }
+        }
+      }
     },
     "TK.Message.exportCompletedSuccessfully" : {
       "comment" : "Message displayed after a successful export",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19939,12 +19907,23 @@
             "value" : "導出已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.exportCompletedSuccessfullyDot" : {
+      "comment" : "Message displayed after a successful export",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Export completed successfully."
+          }
+        }
+      }
     },
     "TK.Message.fileIsTooLargeToProcess" : {
       "comment" : "Message displayed when a file exceeds size limits",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20192,12 +20171,23 @@
             "value" : "檔案太大而無法處理。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.fileIsTooLargeToProcessDot" : {
+      "comment" : "Message displayed when a file exceeds size limits",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File is too large to process."
+          }
+        }
+      }
     },
     "TK.Message.filterAppliedSuccessfully" : {
       "comment" : "Message displayed when a filter is successfully applied",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20445,12 +20435,23 @@
             "value" : "過濾器已成功應用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.filterAppliedSuccessfullyDot" : {
+      "comment" : "Message displayed when a filter is successfully applied",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter applied successfully."
+          }
+        }
+      }
     },
     "TK.Message.imageHasBeenSavedToYourLibrary" : {
       "comment" : "Message displayed when an image is saved to the library",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20698,12 +20699,23 @@
             "value" : "圖片已保存到你的庫存中。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.imageHasBeenSavedToYourLibraryDot" : {
+      "comment" : "Message displayed when an image is saved to the library",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Image has been saved to your library."
+          }
+        }
+      }
     },
     "TK.Message.importCompletedSuccessfully" : {
       "comment" : "Message displayed after a successful import",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20951,12 +20963,23 @@
             "value" : "導入成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.importCompletedSuccessfullyDot" : {
+      "comment" : "Message displayed after a successful import",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Import completed successfully."
+          }
+        }
+      }
     },
     "TK.Message.noMediaFilesFound" : {
       "comment" : "Message displayed when no media files are found",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21204,12 +21227,23 @@
             "value" : "未找到媒體文件。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.noMediaFilesFoundDot" : {
+      "comment" : "Message displayed when no media files are found",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No media files found."
+          }
+        }
+      }
     },
     "TK.Message.processingLargeMediaFile" : {
       "comment" : "Message displayed while processing a large file",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21457,12 +21491,23 @@
             "value" : "正在處理大型媒體文件..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.processingLargeMediaFileDots" : {
+      "comment" : "Message displayed while processing a large file",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Processing large media file..."
+          }
+        }
+      }
     },
     "TK.Message.theDevicesCameraIsNotAvailable" : {
       "comment" : "Message displayed when the camera is unavailable",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21710,12 +21755,23 @@
             "value" : "設備的相機無法使用。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.theDevicesCameraIsNotAvailableDot" : {
+      "comment" : "Message displayed when the camera is unavailable",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The device's camera is not available."
+          }
+        }
+      }
     },
     "TK.Message.videoExportComplete" : {
       "comment" : "Message displayed when video export is completed",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21963,12 +22019,23 @@
             "value" : "視頻導出完成。"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Message.videoExportCompleteDot" : {
+      "comment" : "Message displayed when video export is completed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Video export complete."
+          }
+        }
+      }
     },
     "TK.Placeholder.addCaption" : {
       "comment" : "Placeholder for adding a caption to an image or video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22216,12 +22283,23 @@
             "value" : "添加说明..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addCaptionDots" : {
+      "comment" : "Placeholder for adding a caption to an image or video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add caption..."
+          }
+        }
+      }
     },
     "TK.Placeholder.addPhotoDescription" : {
       "comment" : "Placeholder for adding a description to a photo",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22469,12 +22547,23 @@
             "value" : "添加照片描述…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addPhotoDescriptionDots" : {
+      "comment" : "Placeholder for adding a description to a photo",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add photo description..."
+          }
+        }
+      }
     },
     "TK.Placeholder.addTags" : {
       "comment" : "Placeholder for adding tags to an image or video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22722,12 +22811,23 @@
             "value" : "添加標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addTagsDots" : {
+      "comment" : "Placeholder for adding tags to an image or video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add tags..."
+          }
+        }
+      }
     },
     "TK.Placeholder.addVideoTitle" : {
       "comment" : "Placeholder for adding a title to a video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22975,12 +23075,23 @@
             "value" : "添加視頻標題…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.addVideoTitleDots" : {
+      "comment" : "Placeholder for adding a title to a video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add video title..."
+          }
+        }
+      }
     },
     "TK.Placeholder.adjustingColors" : {
       "comment" : "Placeholder when adjusting color settings",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23228,12 +23339,23 @@
             "value" : "調整顏色中…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.adjustingColorsDots" : {
+      "comment" : "Placeholder when adjusting color settings",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adjusting colors..."
+          }
+        }
+      }
     },
     "TK.Placeholder.adjustingExposure" : {
       "comment" : "Placeholder when adjusting exposure settings",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23481,12 +23603,23 @@
             "value" : "調整曝光中…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.adjustingExposureDots" : {
+      "comment" : "Placeholder when adjusting exposure settings",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adjusting exposure..."
+          }
+        }
+      }
     },
     "TK.Placeholder.analyzingImage" : {
       "comment" : "Placeholder when analyzing an image",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23734,12 +23867,23 @@
             "value" : "正在分析圖像…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.analyzingImageDots" : {
+      "comment" : "Placeholder when analyzing an image",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Analyzing image..."
+          }
+        }
+      }
     },
     "TK.Placeholder.applyingFilters" : {
       "comment" : "Placeholder when applying filters to an image or video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23987,12 +24131,23 @@
             "value" : "正在應用濾鏡…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.applyingFiltersDots" : {
+      "comment" : "Placeholder when applying filters to an image or video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Applying filters..."
+          }
+        }
+      }
     },
     "TK.Placeholder.creatingPreview" : {
       "comment" : "Placeholder when creating a preview of the media",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24240,12 +24395,23 @@
             "value" : "創建預覽…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.creatingPreviewDots" : {
+      "comment" : "Placeholder when creating a preview of the media",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Creating preview..."
+          }
+        }
+      }
     },
     "TK.Placeholder.enterAlbumName" : {
       "comment" : "Placeholder for entering an album name",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24493,12 +24659,23 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterAlbumNameDots" : {
+      "comment" : "Placeholder for entering an album name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter album name..."
+          }
+        }
+      }
     },
     "TK.Placeholder.enterDescription" : {
       "comment" : "Placeholder for entering a description",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24746,12 +24923,23 @@
             "value" : "輸入描述…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.enterDescriptionDots" : {
+      "comment" : "Placeholder for entering a description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter description..."
+          }
+        }
+      }
     },
     "TK.Placeholder.exportingVideo" : {
       "comment" : "Placeholder when exporting a video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24999,12 +25187,23 @@
             "value" : "正導出影片…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.exportingVideoDots" : {
+      "comment" : "Placeholder when exporting a video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Exporting video..."
+          }
+        }
+      }
     },
     "TK.Placeholder.generatingPreview" : {
       "comment" : "Placeholder when generating a preview of media",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25252,12 +25451,23 @@
             "value" : "生成預覽中..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.generatingPreviewDots" : {
+      "comment" : "Placeholder when generating a preview of media",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Generating preview..."
+          }
+        }
+      }
     },
     "TK.Placeholder.loadingFilters" : {
       "comment" : "Placeholder when loading filters for an image or video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25505,12 +25715,23 @@
             "value" : "加載過濾器中..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.loadingFiltersDots" : {
+      "comment" : "Placeholder when loading filters for an image or video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Loading filters..."
+          }
+        }
+      }
     },
     "TK.Placeholder.processingImage" : {
       "comment" : "Placeholder when processing an image",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25758,12 +25979,23 @@
             "value" : "處理圖像…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.processingImageDots" : {
+      "comment" : "Placeholder when processing an image",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Processing image..."
+          }
+        }
+      }
     },
     "TK.Placeholder.processingVideo" : {
       "comment" : "Placeholder when processing a video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26011,12 +26243,23 @@
             "value" : "處理視頻…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.processingVideoDots" : {
+      "comment" : "Placeholder when processing a video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Processing video..."
+          }
+        }
+      }
     },
     "TK.Placeholder.renderingEffects" : {
       "comment" : "Placeholder when rendering effects for an image or video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26264,12 +26507,23 @@
             "value" : "渲染效果…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.renderingEffectsDots" : {
+      "comment" : "Placeholder when rendering effects for an image or video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rendering effects..."
+          }
+        }
+      }
     },
     "TK.Placeholder.renderingPreview" : {
       "comment" : "Placeholder when rendering a preview of media",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26517,12 +26771,23 @@
             "value" : "正在渲染預覽…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.renderingPreviewDots" : {
+      "comment" : "Placeholder when rendering a preview of media",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rendering preview..."
+          }
+        }
+      }
     },
     "TK.Placeholder.searchMedia" : {
       "comment" : "Placeholder for searching through media",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26770,12 +27035,23 @@
             "value" : "搜尋媒體..."
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.searchMediaDots" : {
+      "comment" : "Placeholder for searching through media",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search media..."
+          }
+        }
+      }
     },
     "TK.Placeholder.trimmingVideo" : {
       "comment" : "Placeholder when trimming a video",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -27023,8 +27299,19 @@
             "value" : "修剪影片…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Placeholder.trimmingVideoDots" : {
+      "comment" : "Placeholder when trimming a video",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trimming video..."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

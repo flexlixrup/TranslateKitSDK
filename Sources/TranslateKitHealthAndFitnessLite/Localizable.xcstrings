@@ -1,9 +1,200 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "achievementUnlockedDot" : {
+      "comment" : "Message when a user achieves a milestone or accomplishment",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Achievement unlocked!"
+          }
+        }
+      }
+    },
+    "activeMinutesGoalReachedDot" : {
+      "comment" : "Message when the user reaches their active minutes goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Active minutes goal reached!"
+          }
+        }
+      }
+    },
+    "almostThereDot" : {
+      "comment" : "Motivational message indicating progress towards a goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Almost there!"
+          }
+        }
+      }
+    },
+    "breatheDeeplyAndRelaxDot" : {
+      "comment" : "Message encouraging relaxation during exercise",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Breathe in deeply and relax."
+          }
+        }
+      }
+    },
+    "congratulationsOnCompletingWorkoutDot" : {
+      "comment" : "Message congratulating the user on completing a workout",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Congratulations on completing your workout!"
+          }
+        }
+      }
+    },
+    "dailyGoalAchievedDot" : {
+      "comment" : "Message when a user successfully reaches their daily goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily goal achieved!"
+          }
+        }
+      }
+    },
+    "dailyStepGoalAchievedDot" : {
+      "comment" : "Message when the user achieves their daily step goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily step goal achieved!"
+          }
+        }
+      }
+    },
+    "dailyStreakAchievedDot" : {
+      "comment" : "Confirmation of maintaining a daily streak",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Daily streak achieved!"
+          }
+        }
+      }
+    },
+    "drinkWaterToStayHydratedDot" : {
+      "comment" : "Reminder to drink water",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Drink water to stay hydrated."
+          }
+        }
+      }
+    },
+    "getReadyForWorkoutDot" : {
+      "comment" : "Message encouraging the user to prepare for their workout",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get ready for your workout."
+          }
+        }
+      }
+    },
+    "greatJobStayingActiveDot" : {
+      "comment" : "Positive reinforcement for staying active",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Great job staying active today!"
+          }
+        }
+      }
+    },
+    "itsTimeForYourWorkoutDot" : {
+      "comment" : "Reminder that it’s time to start the workout",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "It's time for your workout."
+          }
+        }
+      }
+    },
+    "keepUpTheGreatWorkDot" : {
+      "comment" : "Motivational message to encourage continued effort",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keep up the great work!"
+          }
+        }
+      }
+    },
+    "maintainProperFormDot" : {
+      "comment" : "Message reminding the user to focus on form",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maintain proper form during exercise."
+          }
+        }
+      }
+    },
+    "timeToDrinkSomeWaterDot" : {
+      "comment" : "Reminder to hydrate",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time to drink some water!"
+          }
+        }
+      }
+    },
+    "timeToGetActiveDot" : {
+      "comment" : "Encouragement to start exercising",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time to get active!"
+          }
+        }
+      }
+    },
     "TK.Action.addMeasurement" : {
       "comment" : "Use when adding a new measurement (e.g., weight, blood pressure)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -251,8 +442,7 @@
             "value" : "添加测量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addPhoto" : {
       "comment" : "Use when adding a photo (e.g., fitness progress picture)",
@@ -503,12 +693,10 @@
             "value" : "加入相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addWorkout" : {
       "comment" : "Use when adding a new workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -756,12 +944,10 @@
             "value" : "添加健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.beginWorkout" : {
       "comment" : "Use when starting a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1009,12 +1195,10 @@
             "value" : "开始健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cancelWorkout" : {
       "comment" : "Use when canceling a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1262,8 +1446,7 @@
             "value" : "取消健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.complete" : {
       "comment" : "Use when marking a task or workout as complete",
@@ -1514,8 +1697,7 @@
             "value" : "完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new health or fitness task",
@@ -1766,12 +1948,10 @@
             "value" : "創建任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endExercise" : {
       "comment" : "Use when ending a specific exercise",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2019,12 +2199,10 @@
             "value" : "結束運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endWorkout" : {
       "comment" : "Use when finishing a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2272,12 +2450,10 @@
             "value" : "結束健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enterWeight" : {
       "comment" : "Use when inputting weight data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2525,8 +2701,7 @@
             "value" : "輸入體重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a fitness or health progress report",
@@ -2777,8 +2952,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinChallenge" : {
       "comment" : "Use when joining a fitness challenge",
@@ -3029,8 +3203,7 @@
             "value" : "參加挑戰"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logMeal" : {
       "comment" : "Use when logging a meal",
@@ -3281,12 +3454,10 @@
             "value" : "記錄餐食"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logWater" : {
       "comment" : "Use when logging water intake",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3534,8 +3705,7 @@
             "value" : "记录水分摄入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when marking a workout or task as completed",
@@ -3786,12 +3956,10 @@
             "value" : "標記完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.measure" : {
       "comment" : "Use when measuring health data (e.g., heart rate, steps)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4039,12 +4207,10 @@
             "value" : "測距儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.meditate" : {
       "comment" : "Use when starting a meditation session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4292,12 +4458,10 @@
             "value" : "冥想"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use when monitoring health or fitness progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4545,12 +4709,10 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pauseWorkout" : {
       "comment" : "Use when pausing a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4798,8 +4960,7 @@
             "value" : "暫停訓練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when recording an exercise or workout session",
@@ -5050,12 +5211,10 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use when repeating an exercise in a workout",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5303,8 +5462,7 @@
             "value" : "重複練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when reporting an issue with health or fitness tracking",
@@ -5555,8 +5713,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestAccess" : {
       "comment" : "Use when requesting access to health data or features",
@@ -5807,8 +5964,7 @@
             "value" : "請求訪問"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resetProgress" : {
       "comment" : "Use when resetting health or fitness progress",
@@ -6059,12 +6215,10 @@
             "value" : "重置進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumeWorkout" : {
       "comment" : "Use when resuming a paused workout",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6312,12 +6466,10 @@
             "value" : "恢復鍛煉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewProgress" : {
       "comment" : "Use when reviewing fitness or health progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6565,8 +6717,7 @@
             "value" : "檢閱進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use when saving a workout or fitness video",
@@ -6817,8 +6968,7 @@
             "value" : "儲存影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when setting a health or fitness goal",
@@ -7069,8 +7219,7 @@
             "value" : "設定目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setReminder" : {
       "comment" : "Use when setting a health or fitness reminder",
@@ -7321,12 +7470,10 @@
             "value" : "設定提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipExercise" : {
       "comment" : "Use when skipping an exercise in a workout",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7574,8 +7721,7 @@
             "value" : "跳過練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when starting a specific exercise",
@@ -7826,8 +7972,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startWorkout" : {
       "comment" : "Use when starting a workout session",
@@ -8078,12 +8223,10 @@
             "value" : "開始鍛煉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stopExercise" : {
       "comment" : "Use when stopping a specific exercise",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8331,8 +8474,7 @@
             "value" : "停止練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackCalories" : {
       "comment" : "Use when tracking calories burned or consumed",
@@ -8583,12 +8725,10 @@
             "value" : "追蹤卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackSleep" : {
       "comment" : "Use when tracking sleep patterns or duration",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8836,12 +8976,10 @@
             "value" : "追蹤睡眠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackWeight" : {
       "comment" : "Use when tracking weight progress",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9089,12 +9227,10 @@
             "value" : "追踪體重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeCalories" : {
       "comment" : "Use when displaying the number of calories burned through activity",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9342,8 +9478,7 @@
             "value" : "活動卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Use when displaying the amount of time spent in physical activity",
@@ -9594,12 +9729,10 @@
             "value" : "活躍分鐘數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activityLevel" : {
       "comment" : "Use when showing the intensity of physical activity",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9847,8 +9980,7 @@
             "value" : "活動水平"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying the user's age",
@@ -10099,8 +10231,7 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averagePace" : {
       "comment" : "Use when displaying the user's average speed during an exercise",
@@ -10351,12 +10482,10 @@
             "value" : "平均配速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use when displaying a user's blood pressure data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10604,12 +10733,10 @@
             "value" : "血压"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyFat" : {
       "comment" : "Use when displaying the percentage of body fat",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10857,11 +10984,23 @@
             "value" : "体脂肪"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "TK.Label.bodyMassIndex" : {
+      "comment" : "Use when displaying the user's BMI",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Body Mass Index (BMI)"
+          }
+        }
+      }
     },
     "TK.Label.bodyMassIndexBMI" : {
       "comment" : "Use when displaying the user's BMI",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11109,12 +11248,10 @@
             "value" : "身體質量指數 (BMI)"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyWeight" : {
       "comment" : "Use when displaying the user's body weight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11362,12 +11499,10 @@
             "value" : "体重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breathingRate" : {
       "comment" : "Use when displaying the user's breathing rate (breaths per minute)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11615,8 +11750,7 @@
             "value" : "呼吸速率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when showing the total calories burned during an exercise",
@@ -11867,8 +12001,7 @@
             "value" : "已燃燒卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardioFitness" : {
       "comment" : "Use when displaying the user's cardiovascular fitness level",
@@ -12119,12 +12252,10 @@
             "value" : "心適能"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentHeartRate" : {
       "comment" : "Use when showing the user's current heart rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12372,12 +12503,10 @@
             "value" : "當前心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyGoal" : {
       "comment" : "Use when displaying the user's health or fitness goal for the day",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12625,8 +12754,7 @@
             "value" : "每日目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use when showing the total distance traveled during an exercise",
@@ -12877,8 +13005,7 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying the total time spent on an activity or exercise",
@@ -13129,12 +13256,10 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exerciseType" : {
       "comment" : "Use when displaying the type of exercise (e.g., running, swimming)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13382,8 +13507,7 @@
             "value" : "運動類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying the user's heart rate",
@@ -13634,8 +13758,7 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.height" : {
       "comment" : "Use when displaying the user's height",
@@ -13886,8 +14009,7 @@
             "value" : "身高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hydration" : {
       "comment" : "Use when displaying the user's hydration status or water intake",
@@ -14138,12 +14260,10 @@
             "value" : "水分補充"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.intensityLevel" : {
       "comment" : "Use when displaying the intensity level of an exercise",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14391,12 +14511,10 @@
             "value" : "強度級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.maximumHeartRate" : {
       "comment" : "Use when displaying the user's maximum heart rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14644,12 +14762,10 @@
             "value" : "最大心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.measurements" : {
       "comment" : "Use when referring to health measurements (e.g., weight, heart rate)",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14897,12 +15013,10 @@
             "value" : "測量值"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meditationTime" : {
       "comment" : "Use when displaying the total time spent meditating",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15150,8 +15264,7 @@
             "value" : "冥想時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use when showing the user's progress towards their health or fitness goals",
@@ -15402,8 +15515,7 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleepDuration" : {
       "comment" : "Use when displaying the total duration of sleep",
@@ -15654,12 +15766,10 @@
             "value" : "睡眠時長"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleepQuality" : {
       "comment" : "Use when displaying the quality of the user's sleep",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15907,8 +16017,7 @@
             "value" : "睡眠質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.steps" : {
       "comment" : "Use when displaying the number of steps taken by the user",
@@ -16159,12 +16268,10 @@
             "value" : "步數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.targetHeartRate" : {
       "comment" : "Use when displaying the user's target heart rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16412,12 +16519,10 @@
             "value" : "目標心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workoutDuration" : {
       "comment" : "Use when displaying the total time spent on a workout",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16665,11 +16770,11 @@
             "value" : "鍛煉持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Message when a user achieves a milestone or accomplishment",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16917,12 +17022,11 @@
             "value" : "成就已解鎖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.activeMinutesGoalReached" : {
       "comment" : "Message when the user reaches their active minutes goal",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17170,11 +17274,11 @@
             "value" : "已達到活動分鐘目標！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.almostThere" : {
       "comment" : "Motivational message indicating progress towards a goal",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17422,12 +17526,11 @@
             "value" : "快到了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.breatheInDeeplyAndRelax" : {
       "comment" : "Message encouraging relaxation during exercise",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17675,12 +17778,11 @@
             "value" : "深呼吸並放鬆。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.congratulationsOnCompletingYourWorkout" : {
       "comment" : "Message congratulating the user on completing a workout",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17928,12 +18030,11 @@
             "value" : "恭喜您完成了鍛鍊！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyGoalAchieved" : {
       "comment" : "Message when a user successfully reaches their daily goal",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18181,12 +18282,11 @@
             "value" : "每日目標達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyStepGoalAchieved" : {
       "comment" : "Message when the user achieves their daily step goal",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18434,11 +18534,11 @@
             "value" : "每日步行目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyStreakAchieved" : {
       "comment" : "Confirmation of maintaining a daily streak",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18686,12 +18786,11 @@
             "value" : "每日連續達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.drinkWaterToStayHydrated" : {
       "comment" : "Reminder to drink water",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18939,12 +19038,11 @@
             "value" : "飲水保持水分。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.getReadyForYourWorkout" : {
       "comment" : "Message encouraging the user to prepare for their workout",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19192,12 +19290,11 @@
             "value" : "準備好你的運動吧。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.greatJobStayingActiveToday" : {
       "comment" : "Positive reinforcement for staying active",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19445,12 +19542,11 @@
             "value" : "今天保持活躍，幹得好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.itsTimeForYourWorkout" : {
       "comment" : "Reminder that it’s time to start the workout",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19698,12 +19794,11 @@
             "value" : "是時候進行你的運動了。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.keepUpTheGreatWork" : {
       "comment" : "Motivational message to encourage continued effort",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19951,12 +20046,11 @@
             "value" : "保持出色的表现！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.maintainProperFormDuringExercise" : {
       "comment" : "Message reminding the user to focus on form",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20204,11 +20298,11 @@
             "value" : "在運動中保持正確的姿勢。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToDrinkSomeWater" : {
       "comment" : "Reminder to hydrate",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20456,12 +20550,11 @@
             "value" : "是時候喝水了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToGetActive" : {
       "comment" : "Encouragement to start exercising",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20709,12 +20802,11 @@
             "value" : "是時候運動了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.wellDoneOnMeetingYourGoal" : {
       "comment" : "Congratulations for achieving a goal",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20962,12 +21054,11 @@
             "value" : "恭喜你達成目標！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.workoutComplete" : {
       "comment" : "Confirmation when a workout is finished",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21215,12 +21306,10 @@
             "value" : "鍛煉完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addWorkoutDetailsDots" : {
       "comment" : "Placeholder for entering workout details",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21468,12 +21557,10 @@
             "value" : "添加健身詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.analyzingWorkoutDots" : {
       "comment" : "Placeholder for analyzing workout data",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21721,12 +21808,10 @@
             "value" : "正在分析健身數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingCaloriesDots" : {
       "comment" : "Placeholder for calculating calories burned",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21974,12 +22059,10 @@
             "value" : "正在計算卡路里…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterActivityTypeDots" : {
       "comment" : "Placeholder for entering the type of activity",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22227,12 +22310,10 @@
             "value" : "輸入活動類型…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCurrentWeightDots" : {
       "comment" : "Placeholder for entering current weight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22480,12 +22561,10 @@
             "value" : "輸入當前體重…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDailyStepGoalDots" : {
       "comment" : "Placeholder for entering daily step goal",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22733,12 +22812,10 @@
             "value" : "輸入每日步行目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterExerciseDurationDots" : {
       "comment" : "Placeholder for entering exercise duration",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22986,12 +23063,10 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHeartRateDots" : {
       "comment" : "Placeholder for entering heart rate",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23239,12 +23314,10 @@
             "value" : "輸入心率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHeightDots" : {
       "comment" : "Placeholder for entering height",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23492,12 +23565,10 @@
             "value" : "輸入身高…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMealDetailsDots" : {
       "comment" : "Placeholder for entering meal information",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23745,12 +23816,10 @@
             "value" : "輸入餐點詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRepsDots" : {
       "comment" : "Placeholder for entering the number of repetitions",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -23998,12 +24067,10 @@
             "value" : "輸入重複次數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSetsDots" : {
       "comment" : "Placeholder for entering the number of sets",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24251,12 +24318,10 @@
             "value" : "輸入組數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTargetWeightDots" : {
       "comment" : "Placeholder for entering target weight",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24504,12 +24569,10 @@
             "value" : "輸入目標體重…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWaterAmountDots" : {
       "comment" : "Placeholder for entering water intake amount",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -24757,8 +24820,7 @@
             "value" : "輸入水量…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWorkoutDurationDots" : {
       "comment" : "Placeholder for entering workout duration",
@@ -25009,12 +25071,10 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findAnExerciseDots" : {
       "comment" : "Placeholder for searching an exercise",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25262,8 +25322,7 @@
             "value" : "找一個練習…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.logYourMealDots" : {
       "comment" : "Placeholder for logging a meal",
@@ -25514,12 +25573,10 @@
             "value" : "記錄你的餐點…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.recordingWorkoutDots" : {
       "comment" : "Placeholder for recording a workout session",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -25767,8 +25824,7 @@
             "value" : "錄製運動…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setAFitnessGoalDots" : {
       "comment" : "Placeholder for setting a fitness goal",
@@ -26019,12 +26075,10 @@
             "value" : "設置健身目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.trackingStepsDots" : {
       "comment" : "Placeholder for tracking the number of steps",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26272,8 +26326,31 @@
             "value" : "追蹤步數…"
           }
         }
-      },
-      "proofread" : true
+      }
+    },
+    "wellDoneOnMeetingGoalDot" : {
+      "comment" : "Congratulations for achieving a goal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Well done on meeting your goal!"
+          }
+        }
+      }
+    },
+    "workoutCompleteDot" : {
+      "comment" : "Confirmation when a workout is finished",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workout complete!"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
