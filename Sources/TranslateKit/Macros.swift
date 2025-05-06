@@ -1,4 +1,5 @@
 import Foundation
+@_exported import TranslateKitLite
 
 /// A localization macro that dynamically generates translation keys based on the code context.
 ///
