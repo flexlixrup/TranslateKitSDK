@@ -75,7 +75,6 @@ To keep TranslateKit lightweight while providing comprehensive coverage, the 2,0
 
 With this modular approach, TranslateKit remains lightweight, adding only ~1MB to your app, making it suitable for any project – big or small.
 
-
 ## Swift Package Usage
 
 For Swift packages, use `#tkm` instead of `#tk` to reference the correct String Catalog file:
@@ -105,9 +104,15 @@ struct FormValidator {
 
 Common reasons to localize Swift packages are that they may contain UI elements (e.g. modularized apps) or that they might provide error descriptions, which should be localized in most cases.
 
-## Troubleshooting Macros
+## Solving Macro Trust Issues in Xcode Cloud
 
 If you're using Xcode Cloud or experiencing issues with macro trust, check out our guide [Solving Swift Macro Trust Issues in Xcode Cloud Builds](https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/). This article explains how to properly configure your build settings when CI systems don't automatically trust macro packages.
+
+## Using TranslateKit without Macros
+
+If you don't want to use the `tk` macro but still profit from the community-driven common strings in your app, you can also opt for one of the `Lite` targets instead of the regular ones. For example, instead of adding and importing the `TranslateKit` target to your app, you can instead add & import `TranslateKitLite`. For category-specific variants, instead of something like `TranslateKitGames`, use `TranslateKitGamesLite`.
+
+The `Lite` variants of the targets ensure that Xcode (and CI workflows) won't ask you to "Trust & Enable" macros in TranslateKit. But they also lack the added context you get when using `#tk` macro. We include these macros by default because we recommend everyone using them, but the `Lite` targets give you a way to opt-out when needed.
 
 ## Contributing
 
