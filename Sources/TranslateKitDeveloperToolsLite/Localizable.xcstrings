@@ -250,7 +250,8 @@
             "value" : "分析"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.attachFile" : {
       "comment" : "Use when attaching a file to a project or issue",
@@ -501,7 +502,8 @@
             "value" : "附加檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.build" : {
       "comment" : "Use when compiling or preparing the project for execution",
@@ -653,7 +655,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "构建"
+            "value" : "Bina"
           }
         },
         "nb" : {
@@ -752,7 +754,8 @@
             "value" : "构建"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.clean" : {
       "comment" : "Use when cleaning the build or project workspace",
@@ -796,7 +799,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καθαριότητα"
+            "value" : "Καθαρισμός"
           }
         },
         "en" : {
@@ -1003,7 +1006,8 @@
             "value" : "清理"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.clone" : {
       "comment" : "Use when duplicating a repository or project",
@@ -1254,7 +1258,8 @@
             "value" : "克隆"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compile" : {
       "comment" : "Use when compiling the source code into an executable",
@@ -1505,7 +1510,8 @@
             "value" : "編譯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.configure" : {
       "comment" : "Use when setting up configuration for a project or tool",
@@ -1621,7 +1627,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beállítások konfigurálása"
+            "value" : "Beállítás"
           }
         },
         "id" : {
@@ -1756,7 +1762,8 @@
             "value" : "配置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.debug" : {
       "comment" : "Use when troubleshooting or debugging the project",
@@ -2007,7 +2014,8 @@
             "value" : "調試"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.deploy" : {
       "comment" : "Use when deploying a project or application to a server or device",
@@ -2258,7 +2266,8 @@
             "value" : "部署"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.encrypt" : {
       "comment" : "Use when encrypting files or data",
@@ -2509,7 +2518,8 @@
             "value" : "加密"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.format" : {
       "comment" : "Use when formatting code or files for consistency",
@@ -2760,7 +2770,8 @@
             "value" : "格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generate" : {
       "comment" : "Use when generating code, files, or reports",
@@ -2960,7 +2971,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generovať"
+            "value" : "Vygenerovať"
           }
         },
         "sv" : {
@@ -3011,7 +3022,8 @@
             "value" : "生成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.index" : {
       "comment" : "Use when creating or updating an index for search or organization",
@@ -3262,7 +3274,8 @@
             "value" : "索引"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.inspect" : {
       "comment" : "Use when checking or reviewing code, configurations, or results",
@@ -3456,7 +3469,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверить"
+            "value" : "Инспектировать"
           }
         },
         "sk" : {
@@ -3513,7 +3526,8 @@
             "value" : "检查"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.install" : {
       "comment" : "Use when installing dependencies or software packages",
@@ -3557,7 +3571,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εγκατάσταση"
+            "value" : "Ιnstall"
           }
         },
         "en" : {
@@ -3587,7 +3601,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Instalar"
+            "value" : "Inspeccionar"
           }
         },
         "fi" : {
@@ -3764,7 +3778,8 @@
             "value" : "安裝"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.lint" : {
       "comment" : "Use when analyzing code for potential issues or errors",
@@ -4015,7 +4030,8 @@
             "value" : "分析代码"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.log" : {
       "comment" : "Use when recording or viewing log information",
@@ -4266,7 +4282,8 @@
             "value" : "記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.merge" : {
       "comment" : "Use when combining code or data from multiple sources",
@@ -4370,7 +4387,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एअनुमान पूर्व यूरिट"
+            "value" : "मर्ज"
           }
         },
         "hr" : {
@@ -4466,7 +4483,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zlúčiť"
+            "value" : "Spájať"
           }
         },
         "sv" : {
@@ -4517,7 +4534,8 @@
             "value" : "合併"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.monitor" : {
       "comment" : "Use when tracking the status or performance of a system or process",
@@ -4615,7 +4633,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נשק"
+            "value" : "ניטור"
           }
         },
         "hi" : {
@@ -4768,7 +4786,8 @@
             "value" : "监测"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.parse" : {
       "comment" : "Use when analyzing and converting data or code into a usable format",
@@ -4884,7 +4903,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elemz"
+            "value" : "Elemzés"
           }
         },
         "id" : {
@@ -5019,7 +5038,8 @@
             "value" : "解析"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.profile" : {
       "comment" : "Use when profiling the performance of code or a system",
@@ -5165,7 +5185,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프로파일"
+            "value" : "프로필"
           }
         },
         "ms" : {
@@ -5249,7 +5269,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cấu hình hệ thống"
+            "value" : "Hiệu chỉnh"
           }
         },
         "zh-Hans" : {
@@ -5270,7 +5290,8 @@
             "value" : "描述檔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pull" : {
       "comment" : "Use when pulling the latest changes from a repository or server",
@@ -5470,7 +5491,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načať"
+            "value" : "Zadať"
           }
         },
         "sv" : {
@@ -5518,10 +5539,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "拉取"
+            "value" : "下載"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.push" : {
       "comment" : "Use when pushing changes to a repository or server",
@@ -5529,7 +5551,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الإشارات اللحظية"
+            "value" : "ادفع"
           }
         },
         "bg" : {
@@ -5715,7 +5737,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Push"
+            "value" : "Толкать"
           }
         },
         "sk" : {
@@ -5772,7 +5794,8 @@
             "value" : "推送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use when capturing or documenting data, events, or actions",
@@ -6023,7 +6046,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rename" : {
       "comment" : "Use when changing the name of a file, variable, or project",
@@ -6274,7 +6298,8 @@
             "value" : "重新命名"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.replace" : {
       "comment" : "Use when replacing elements in code or files",
@@ -6525,7 +6550,8 @@
             "value" : "取代"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when submitting or generating a bug report or issue",
@@ -6776,7 +6802,8 @@
             "value" : "舉報問題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resetProgress" : {
       "comment" : "Use when resetting the progress or state of a task or system",
@@ -6940,7 +6967,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voortgang Terugzetten"
+            "value" : "Voortgang Reset"
           }
         },
         "pl" : {
@@ -7027,7 +7054,8 @@
             "value" : "重置進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.run" : {
       "comment" : "Use when executing a task, process, or script",
@@ -7137,7 +7165,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trčanje"
+            "value" : "Pokreni"
           }
         },
         "hu" : {
@@ -7155,7 +7183,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Corsa"
+            "value" : "Esegui"
           }
         },
         "ja" : {
@@ -7233,7 +7261,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löpning"
+            "value" : "Kör"
           }
         },
         "th" : {
@@ -7278,7 +7306,8 @@
             "value" : "跑步"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scan" : {
       "comment" : "Use when scanning for issues, vulnerabilities, or items",
@@ -7529,7 +7558,8 @@
             "value" : "掃描"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.switch" : {
       "comment" : "Use when changing or toggling between options or states",
@@ -7639,7 +7669,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prekidač"
+            "value" : "Prebaci"
           }
         },
         "hu" : {
@@ -7657,7 +7687,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interruttore"
+            "value" : "Attiva"
           }
         },
         "ja" : {
@@ -7669,7 +7699,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауыстыру"
+            "value" : "Ауыстырып қосу"
           }
         },
         "ko" : {
@@ -7771,7 +7801,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開關"
+            "value" : "切換"
           }
         },
         "zh-HK" : {
@@ -7780,7 +7810,8 @@
             "value" : "開關"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.test" : {
       "comment" : "Use when running tests to verify code functionality",
@@ -8031,7 +8062,8 @@
             "value" : "測試"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.uninstall" : {
       "comment" : "Use when removing software or packages",
@@ -8282,7 +8314,8 @@
             "value" : "卸載"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use when uploading a file to a server or system",
@@ -8533,7 +8566,8 @@
             "value" : "上載文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.validate" : {
       "comment" : "Use when verifying the correctness or validity of code or data",
@@ -8784,7 +8818,8 @@
             "value" : "驗證"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.api" : {
       "comment" : "Use when referring to the Application Programming Interface",
@@ -9035,7 +9070,8 @@
             "value" : "應用程式介面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.architecture" : {
       "comment" : "Use when describing the structure or design of a system",
@@ -9286,7 +9322,8 @@
             "value" : "架构"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.assertions" : {
       "comment" : "Use for code that verifies assumptions during testing",
@@ -9537,7 +9574,8 @@
             "value" : "断言"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.branch" : {
       "comment" : "Use when referring to a version or feature branch in a repository",
@@ -9755,7 +9793,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dal"
+            "value" : "Şube"
           }
         },
         "uk" : {
@@ -9788,7 +9826,8 @@
             "value" : "分支"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.buildTime" : {
       "comment" : "Use for the duration it takes to build a project",
@@ -9910,7 +9949,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Waktu Pembangunan"
+            "value" : "Konstruksi"
           }
         },
         "it" : {
@@ -10039,7 +10078,8 @@
             "value" : "构建时间"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.certificates" : {
       "comment" : "Use when referring to security certificates in a project",
@@ -10290,7 +10330,8 @@
             "value" : "证书"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.class" : {
       "comment" : "Use when referring to a class in object-oriented programming",
@@ -10541,7 +10582,8 @@
             "value" : "类"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.codeCoverage" : {
       "comment" : "Use when measuring the percentage of code covered by tests",
@@ -10792,7 +10834,8 @@
             "value" : "代碼覆蓋率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.commits" : {
       "comment" : "Use when referring to changes committed to a version control system",
@@ -10818,7 +10861,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komenty"
+            "value" : "Commits"
           }
         },
         "da" : {
@@ -10878,13 +10921,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Engagements"
+            "value" : "Commit"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Engagements"
+            "value" : "Revers"
           }
         },
         "he" : {
@@ -11004,7 +11047,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลง"
+            "value" : "คอมมิต"
           }
         },
         "tr" : {
@@ -11022,7 +11065,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lần cập nhật"
+            "value" : "Những lần cập nhật"
           }
         },
         "zh-Hans" : {
@@ -11043,7 +11086,8 @@
             "value" : "提交"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.compiler" : {
       "comment" : "Use when referring to a program that converts code into executable form",
@@ -11075,7 +11119,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komplier"
+            "value" : "Compiler"
           }
         },
         "de" : {
@@ -11153,7 +11197,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prevoditelj"
+            "value" : "Kompajler"
           }
         },
         "hu" : {
@@ -11294,7 +11338,8 @@
             "value" : "編譯器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.configuration" : {
       "comment" : "Use for system or application settings and preferences",
@@ -11545,7 +11590,8 @@
             "value" : "配置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.console" : {
       "comment" : "Use when referring to the command line or output window",
@@ -11796,7 +11842,8 @@
             "value" : "控制台"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cpuUsage" : {
       "comment" : "Use for tracking the processing power used by a system",
@@ -12047,7 +12094,8 @@
             "value" : "CPU 使用率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.debugLevel" : {
       "comment" : "Use when specifying the level of detail for debugging information",
@@ -12298,7 +12346,8 @@
             "value" : "調試級別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dependencies" : {
       "comment" : "Use when referring to external libraries or resources needed by a project",
@@ -12549,7 +12598,8 @@
             "value" : "依賴項"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.devices" : {
       "comment" : "Use when referring to physical or virtual devices in development or testing",
@@ -12779,7 +12829,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thiết bị"
+            "value" : "Thiết bịs"
           }
         },
         "zh-Hans" : {
@@ -12800,7 +12850,8 @@
             "value" : "裝置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.diagnostics" : {
       "comment" : "Use when referring to tools or procedures for identifying system issues",
@@ -12838,7 +12889,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diagnose"
+            "value" : "Diagnosen"
           }
         },
         "el" : {
@@ -12904,7 +12955,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डायग्नॉस्टिक"
+            "value" : "डायग्नॉस्टिक्स"
           }
         },
         "hr" : {
@@ -13030,7 +13081,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chẩn đoán"
+            "value" : "Chẩn đoán hệ thống"
           }
         },
         "zh-Hans" : {
@@ -13051,7 +13102,8 @@
             "value" : "診斷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.documentation" : {
       "comment" : "Use when referring to manuals, guides, or other written materials",
@@ -13263,7 +13315,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เอกสาร"
+            "value" : "เอกสารคู่มือ"
           }
         },
         "tr" : {
@@ -13302,7 +13354,8 @@
             "value" : "文檔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.endpoint" : {
       "comment" : "Use when referring to a point of interaction in a web API or service",
@@ -13553,7 +13606,8 @@
             "value" : "端點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.environment" : {
       "comment" : "Use when referring to the system or setup where code runs",
@@ -13804,7 +13858,8 @@
             "value" : "環境"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.error" : {
       "comment" : "Use when indicating an issue or problem in the system or code",
@@ -14055,7 +14110,8 @@
             "value" : "錯誤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.files" : {
       "comment" : "Use when referring to documents, scripts, or resources in a project",
@@ -14177,7 +14233,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "File"
+            "value" : "File-file"
           }
         },
         "it" : {
@@ -14207,7 +14263,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fail"
+            "value" : "Fail-Fail"
           }
         },
         "nb" : {
@@ -14306,7 +14362,8 @@
             "value" : "檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.framework" : {
       "comment" : "Use when referring to a software framework used in development",
@@ -14554,10 +14611,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "框架"
+            "value" : "邊際"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.logs" : {
       "comment" : "Use for records of system or application activities",
@@ -14808,7 +14866,8 @@
             "value" : "日誌"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.memoryUsage" : {
       "comment" : "Use when tracking how much memory is used by the application or system",
@@ -15059,7 +15118,8 @@
             "value" : "內存使用量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.network" : {
       "comment" : "Use when referring to communication systems, including internet or local networks",
@@ -15310,7 +15370,8 @@
             "value" : "網絡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.parameters" : {
       "comment" : "Use when specifying inputs or configuration options for functions or methods",
@@ -15561,7 +15622,8 @@
             "value" : "參數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.permissions" : {
       "comment" : "Use when referring to user or system access rights",
@@ -15812,7 +15874,8 @@
             "value" : "權限"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.repository" : {
       "comment" : "Use when referring to a storage location for source code or project files",
@@ -15922,7 +15985,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skladište"
+            "value" : "Podružnica"
           }
         },
         "hu" : {
@@ -16063,7 +16126,8 @@
             "value" : "代碼庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.settings" : {
       "comment" : "Use for user-configurable options and preferences",
@@ -16314,7 +16378,8 @@
             "value" : "設定"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.version" : {
       "comment" : "Use when referring to the specific release or iteration of software",
@@ -16412,7 +16477,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "גירסה"
+            "value" : "גרסה"
           }
         },
         "hi" : {
@@ -16565,7 +16630,8 @@
             "value" : "版本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.accessDenied" : {
       "comment" : "Use when a user is not authorized to access a resource",
@@ -16816,7 +16882,8 @@
             "value" : "訪問被拒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.anErrorOccurred" : {
       "comment" : "Use when a general error has occurred",
@@ -17046,7 +17113,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã xảy ra lỗi"
+            "value" : "Có lỗi xảy ra"
           }
         },
         "zh-Hans" : {
@@ -17067,7 +17134,8 @@
             "value" : "發生錯誤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.buildFailed" : {
       "comment" : "Use when a project build fails",
@@ -17105,7 +17173,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Build fehlgeschlagen."
+            "value" : "Build fehlgeschlagen"
           }
         },
         "el" : {
@@ -17129,19 +17197,19 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Build Failed"
+            "value" : "Build Failed."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fallo en la compilación."
+            "value" : "Fallo en la compilación"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Error de compilación."
+            "value" : "Error de compilación"
           }
         },
         "fi" : {
@@ -17225,7 +17293,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bygging feilet."
+            "value" : "Kompileringen feilet."
           }
         },
         "nl" : {
@@ -17249,7 +17317,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compilação falhou"
+            "value" : "Compilação falhou."
           }
         },
         "ro" : {
@@ -17315,10 +17383,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "編譯失敗。"
+            "value" : "編譯失敗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.buildSucceeded" : {
       "comment" : "Use when a project build is successful",
@@ -17380,19 +17449,19 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Build Succeeded"
+            "value" : "Build Succeeded."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compilación exitosa."
+            "value" : "Compilación exitosa"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compilación exitosa."
+            "value" : "Compilación exitosa"
           }
         },
         "fi" : {
@@ -17476,7 +17545,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bygging lyktes."
+            "value" : "Kompileringen lyktes."
           }
         },
         "nl" : {
@@ -17569,7 +17638,8 @@
             "value" : "編譯成功。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.connectionFailed" : {
       "comment" : "Use when a network or server connection fails",
@@ -17643,7 +17713,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexión Fallida"
+            "value" : "Conexión fallida"
           }
         },
         "fi" : {
@@ -17673,7 +17743,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "संयोग टूट गया।"
+            "value" : "कनेक्शन विफल।"
           }
         },
         "hr" : {
@@ -17751,7 +17821,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Falha na conexão"
+            "value" : "Falha na conexão."
           }
         },
         "ro" : {
@@ -17781,7 +17851,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเชื่อมต่อล้มเหลว."
+            "value" : "เชื่อมต่อล้มเหลว"
           }
         },
         "tr" : {
@@ -17799,7 +17869,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kết nối thất bại."
+            "value" : "Kết nối thất bại"
           }
         },
         "zh-Hans" : {
@@ -17820,7 +17890,8 @@
             "value" : "連接失敗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.connectionTimeout" : {
       "comment" : "Use when a connection attempt times out",
@@ -17834,7 +17905,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтекло време за свързване"
+            "value" : "Времето за свързване изтече"
           }
         },
         "ca" : {
@@ -17882,7 +17953,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Connection timed out"
+            "value" : "Connection timeout."
           }
         },
         "es" : {
@@ -18071,7 +18142,8 @@
             "value" : "連接超時"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.deployFailed" : {
       "comment" : "Use when a project deployment fails",
@@ -18181,7 +18253,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neuspjeh prilikom implementacije."
+            "value" : "Implementacija je neuspješna."
           }
         },
         "hu" : {
@@ -18247,7 +18319,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Falha na implantação."
+            "value" : "Falha na implantação"
           }
         },
         "pt-PT" : {
@@ -18322,7 +18394,8 @@
             "value" : "部署失敗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.fileNotFound" : {
       "comment" : "Use when a file cannot be located",
@@ -18336,7 +18409,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Файлът не беше намерен"
+            "value" : "Файлът не е намерен."
           }
         },
         "ca" : {
@@ -18354,7 +18427,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filen blev ikke fundet"
+            "value" : "Filen ikke fundet"
           }
         },
         "de" : {
@@ -18432,7 +18505,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datoteka nije pronađena"
+            "value" : "Datoteka nije pronađena."
           }
         },
         "hu" : {
@@ -18573,7 +18646,8 @@
             "value" : "未找到文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.importFailed" : {
       "comment" : "Use when an import process fails",
@@ -18689,7 +18763,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importálás sikertelen"
+            "value" : "Importálás sikertelen."
           }
         },
         "id" : {
@@ -18701,7 +18775,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esportazione fallita."
+            "value" : "Importazione fallita."
           }
         },
         "ja" : {
@@ -18821,26 +18895,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入失败"
+            "value" : "導入失敗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.invalidApiKey" : {
       "comment" : "Use when an API key is not valid or incorrect",
       "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid API Key"
-          }
-        }
-      }
-    },
-    "TK.Message.invalidAPIKey" : {
-      "comment" : "Use when an API key is not valid or incorrect",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18857,7 +18920,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clau API no vàlida"
+            "value" : "Clau API no vàlida."
           }
         },
         "cs" : {
@@ -18875,13 +18938,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ungültiger API-Schlüssel"
+            "value" : "Ungültiger API-Schlüssel."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μη έγκυρο API Key"
+            "value" : "Μη έγκυρο κλειδί API."
           }
         },
         "en" : {
@@ -18893,61 +18956,61 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid API Key."
+            "value" : "Invalid API Key"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid API Key"
+            "value" : "Invalid API Key."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clave de API no válida"
+            "value" : "Clave API no válida"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clave de API inválida."
+            "value" : "Clave API inválida."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Virheellinen API-avain"
+            "value" : "Virheellinen API-avain."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clé API invalide"
+            "value" : "Clé API invalide."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clé API invalide."
+            "value" : "Clé d'API invalide"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מפתח API לא חוקי"
+            "value" : "מפתח ה-API אינו חוקי"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अवैध API कुंजी"
+            "value" : "अमान्य API कुंजी"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nevažeći API ključ"
+            "value" : "Nevažeći API ključ."
           }
         },
         "hu" : {
@@ -18965,19 +19028,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chiave API non valida"
+            "value" : "API Key non valida"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無効なAPIキー"
+            "value" : "無効なAPIキーです。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API кілті жарамсыз"
+            "value" : "Жарамсыз API кілті"
           }
         },
         "ko" : {
@@ -18989,7 +19052,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunci API tidak sah"
+            "value" : "Kunci API tidak sah."
           }
         },
         "nb" : {
@@ -19001,25 +19064,25 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ongeldig API-sleutel."
+            "value" : "Ongeldige API-sleutel"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nieprawidłowy klucz API"
+            "value" : "Nieprawidłowy klucz API."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chave de API inválida"
+            "value" : "Chave da API inválida."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chave API inválida."
+            "value" : "Chave de API inválida."
           }
         },
         "ro" : {
@@ -19031,13 +19094,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недействительный API-ключ"
+            "value" : "Неверный API ключ."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neplatný API kľúč"
+            "value" : "Neplatný API kľúč."
           }
         },
         "sv" : {
@@ -19049,7 +19112,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API Key ไม่ถูกต้อง"
+            "value" : "API key ไม่ถูกต้อง."
           }
         },
         "tr" : {
@@ -19061,13 +19124,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недійсний API ключ."
+            "value" : "Невірний API ключ"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API Key không hợp lệ"
+            "value" : "Khóa API không hợp lệ."
           }
         },
         "zh-Hans" : {
@@ -19079,7 +19142,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無效的 API 金鑰"
+            "value" : "無效的API金鑰。"
           }
         },
         "zh-HK" : {
@@ -19088,7 +19151,8 @@
             "value" : "無效的 API 密鑰"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.invalidCredentials" : {
       "comment" : "Use when user credentials are invalid",
@@ -19228,7 +19292,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деректерді тексеру мүмкін емес"
+            "value" : "Жарамсыз куәліктер"
           }
         },
         "ko" : {
@@ -19318,7 +19382,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thông tin xác thực không hợp lệ"
+            "value" : "Thông tin xác thực không hợp lệ."
           }
         },
         "zh-Hans" : {
@@ -19339,7 +19403,8 @@
             "value" : "凭证无效"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noNetworkConnection" : {
       "comment" : "Use when there is no internet or network connection",
@@ -19539,7 +19604,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie ste pripojení k sieti"
+            "value" : "Nie je nadviazané sieťové pripojenie"
           }
         },
         "sv" : {
@@ -19575,7 +19640,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无网络连接"
+            "value" : "无网络连接。"
           }
         },
         "zh-Hant" : {
@@ -19590,7 +19655,8 @@
             "value" : "沒有網絡連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.testsFailed" : {
       "comment" : "Use when test results indicate failure",
@@ -19598,7 +19664,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "فشلت الاختبارات."
+            "value" : "فشلت الاختبارات"
           }
         },
         "bg" : {
@@ -19646,7 +19712,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests Failed"
+            "value" : "Tests failed"
           }
         },
         "en-GB" : {
@@ -19676,7 +19742,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests échoués."
+            "value" : "Tests échoués"
           }
         },
         "fr-CA" : {
@@ -19772,7 +19838,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exames falharam"
+            "value" : "Testes falhados"
           }
         },
         "ro" : {
@@ -19784,19 +19850,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тесты не удались."
+            "value" : "Тесты не удались"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests failed."
+            "value" : "Testy zlyhali."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Testerna misslyckades."
+            "value" : "Testet misslyckades."
           }
         },
         "th" : {
@@ -19841,7 +19907,8 @@
             "value" : "測試失敗"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.testsPassed" : {
       "comment" : "Use when test results indicate success",
@@ -19897,7 +19964,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests Passed"
+            "value" : "Tests passed"
           }
         },
         "en-GB" : {
@@ -20023,7 +20090,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exames aprovados"
+            "value" : "Testes aprovados"
           }
         },
         "ro" : {
@@ -20041,7 +20108,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests passed."
+            "value" : "Testy prešli."
           }
         },
         "sv" : {
@@ -20092,7 +20159,8 @@
             "value" : "測試通過"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.unableToConnect" : {
       "comment" : "Use when a connection cannot be established",
@@ -20292,7 +20360,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to connect."
+            "value" : "Nedá sa pripojiť."
           }
         },
         "sv" : {
@@ -20322,7 +20390,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể kết nối"
+            "value" : "Không thể kết nối."
           }
         },
         "zh-Hans" : {
@@ -20343,11 +20411,12 @@
             "value" : "無法連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Placeholder.addADescriptionDots" : {
+    "TK.Placeholder.addDescriptionDots" : {
       "comment" : "Placeholder for entering a description of an item or feature",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20358,13 +20427,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави описание…"
+            "value" : "Добавете описание…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir una descripció…"
+            "value" : "Afegeix una descripció…"
           }
         },
         "cs" : {
@@ -20382,13 +20451,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beschreibung hinzufügen…"
+            "value" : "Füge eine Beschreibung hinzu…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη περιγραφής…"
+            "value" : "Προσθέστε μια περιγραφή…"
           }
         },
         "en" : {
@@ -20418,7 +20487,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar una descripción…"
+            "value" : "Añadir una descripción…"
           }
         },
         "fi" : {
@@ -20448,19 +20517,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "विवरण जोड़ें…"
+            "value" : "एक विवरण जोड़ें..."
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj opis…"
+            "value" : "Dodajte opis…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add meg a leírást…"
+            "value" : "Leírás hozzáadása…"
           }
         },
         "id" : {
@@ -20502,7 +20571,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til beskrivelse…"
+            "value" : "Legg til en beskrivelse…"
           }
         },
         "nl" : {
@@ -20544,7 +20613,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať popis…"
+            "value" : "Pridaj popis…"
           }
         },
         "sv" : {
@@ -20562,7 +20631,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Açıklama ekle…"
+            "value" : "Bir açıklama ekleyin…"
           }
         },
         "uk" : {
@@ -20580,34 +20649,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加描述…"
+            "value" : "添加描述……"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增描述…"
+            "value" : "添加描述…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增描述…"
+            "value" : "添加描述…"
           }
         }
-      }
-    },
-    "TK.Placeholder.addDescriptionDots" : {
-      "comment" : "Placeholder for entering a description of an item or feature",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a description…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.analyzingCodeStructureDots" : {
       "comment" : "Placeholder during analysis of code structure",
@@ -20858,7 +20916,8 @@
             "value" : "正在分析代碼結構…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.buildingProjectDots" : {
       "comment" : "Placeholder during project build process",
@@ -21109,7 +21168,8 @@
             "value" : "正在建構項目…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.cleaningBuildFolderDots" : {
       "comment" : "Placeholder during the cleaning of the build folder",
@@ -21135,7 +21195,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úklid složky pro sestavení…"
+            "value" : "Čistí se složka pro sestavení…"
           }
         },
         "da" : {
@@ -21147,7 +21207,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Build-Ordner wird bereinigt…"
+            "value" : "Dein Build-Ordner wird bereinigt…"
           }
         },
         "el" : {
@@ -21207,7 +21267,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מסיר תיק בנייה…"
+            "value" : "מנקה תיקיית בנייה…"
           }
         },
         "hi" : {
@@ -21360,7 +21420,8 @@
             "value" : "正在清理建置資料夾…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.cloningRepositoryDots" : {
       "comment" : "Placeholder during repository cloning",
@@ -21428,7 +21489,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clonando repositorio…"
+            "value" : "Clonando el repositorio…"
           }
         },
         "es-419" : {
@@ -21470,7 +21531,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klona repozitorija…"
+            "value" : "Kloniranje repozitorija…"
           }
         },
         "hu" : {
@@ -21602,7 +21663,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在克隆資料庫…"
+            "value" : "正在複製資源庫…"
           }
         },
         "zh-HK" : {
@@ -21611,7 +21672,8 @@
             "value" : "正在克隆儲存庫…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.compilingSourceFilesDots" : {
       "comment" : "Placeholder during the compilation of source files",
@@ -21655,7 +21717,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συμπίεση αρχείων πηγή..."
+            "value" : "Μεταγλώττιση αρχείων πηγαίου κώδικα..."
           }
         },
         "en" : {
@@ -21862,64 +21924,53 @@
             "value" : "正在編譯源文件…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterApiEndpointDots" : {
       "comment" : "Placeholder for entering the API endpoint URL",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter API endpoint…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.enterAPIEndpointDots" : {
-      "comment" : "Placeholder for entering the API endpoint URL",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل نقطة نهاية واجهة برمجة التطبيقات…"
+            "value" : "أدخل عنوان API…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведете API крайна точка…"
+            "value" : "Въведете API адрес…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix l'URL de l'API…"
+            "value" : "Introduïu l'URL de l'API…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte adresu API…"
+            "value" : "Zadejte koncový bod API…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast API-endpoint…"
+            "value" : "Indtast API-url…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API-Endpoint eingeben…"
+            "value" : "API-Endpunkt eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε διεύθυνση API…"
+            "value" : "Εισάγετε το URL API…"
           }
         },
         "en" : {
@@ -21943,25 +21994,25 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa URL de endpoint API…"
+            "value" : "Ingresa la URL del API…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa la URL de endpoint API…"
+            "value" : "Ingresa la URL del API…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anna API-päätepiste…"
+            "value" : "Syötä API-päätepiste…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'URL de l'endpoint API…"
+            "value" : "Entrez l'URL de l'API…"
           }
         },
         "fr-CA" : {
@@ -21973,37 +22024,37 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס כתובת API…"
+            "value" : "הזן כתובת API…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API एंडपॉइंट डालें…"
+            "value" : "API एंडपॉइंट दर्ज करें…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi API krajnju točku…"
+            "value" : "Unesite API endpoint…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API végpont megadása…"
+            "value" : "Írd be az API végpontját…"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan endpoint API…"
+            "value" : "Masukkan URL API…"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci endpoint API…"
+            "value" : "Inserisci l'endpoint API…"
           }
         },
         "ja" : {
@@ -22015,19 +22066,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API нүктесін енгізіңіз…"
+            "value" : "API адресін енгізіңіз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API 엔드포인트 입력…"
+            "value" : "API 엔드포인트를 입력하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan titik akhir API…"
+            "value" : "Masukkan URL penyambungan API…"
           }
         },
         "nb" : {
@@ -22045,37 +22096,37 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź adres końcowy API…"
+            "value" : "Wpisz URL punktu końcowego API…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Digite o endpoint da API…"
+            "value" : "Digite a URL do endpoint da API…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir URL do endpoint da API…"
+            "value" : "Introduza a URL do API…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducerea endpoint-ului API…"
+            "value" : "Introdu endpoint-ul API..."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите URL-адрес конечной точки API…"
+            "value" : "Введите URL API…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj API koncovú adresu…"
+            "value" : "Zadajte koncový bod API…"
           }
         },
         "sv" : {
@@ -22087,31 +22138,31 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรอกจุดสิ้นสุด API…"
+            "value" : "กรอก URL ของ API…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API uç noktasını gir…"
+            "value" : "API uç noktası girin…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть API-адресу…"
+            "value" : "Введіть URL-адресу API…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập địa chỉ API…"
+            "value" : "Nhập URL API…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入 API 端点…"
+            "value" : "输入API端点…"
           }
         },
         "zh-Hant" : {
@@ -22126,28 +22177,17 @@
             "value" : "輸入 API 端點…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterApiKeyDots" : {
       "comment" : "Placeholder for entering the API key for authentication",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter API key…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.enterAPIKeyDots" : {
-      "comment" : "Placeholder for entering the API key for authentication",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل مفتاح واجهة برمجة التطبيقات…"
+            "value" : "أدخل مفتاح API…"
           }
         },
         "bg" : {
@@ -22159,7 +22199,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix la clau d'API…"
+            "value" : "Introduïu la clau de l'API…"
           }
         },
         "cs" : {
@@ -22183,7 +22223,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε κλειδί API…"
+            "value" : "Εισάγετε το κλειδί API…"
           }
         },
         "en" : {
@@ -22207,7 +22247,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa clave API…"
+            "value" : "Ingresa la clave del API…"
           }
         },
         "es-419" : {
@@ -22219,7 +22259,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anna API-avain…"
+            "value" : "Syötä API-avain…"
           }
         },
         "fr" : {
@@ -22231,31 +22271,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer la clé API…"
+            "value" : "Entrer la clé de l'API…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס מפתח API…"
+            "value" : "הזן מפתח API…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API कुंजी डालें…"
+            "value" : "API कुंजी दर्ज करें…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi API ključ…"
+            "value" : "Unesite API ključ…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API kulcs megadása…"
+            "value" : "Írd be az API kulcsot…"
           }
         },
         "id" : {
@@ -22267,7 +22307,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci chiave API…"
+            "value" : "Inserisci la chiave API…"
           }
         },
         "ja" : {
@@ -22285,7 +22325,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API 키 입력…"
+            "value" : "API 키를 입력하세요…"
           }
         },
         "ms" : {
@@ -22309,7 +22349,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź klucz API…"
+            "value" : "Wpisz klucz API…"
           }
         },
         "pt-BR" : {
@@ -22321,25 +22361,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir chave da API…"
+            "value" : "Introduza a chave API…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducerea cheii API…"
+            "value" : "Introdu cheia API..."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите ключ API…"
+            "value" : "Введите API ключ…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj API kľúč…"
+            "value" : "Zadajte kľúč API…"
           }
         },
         "sv" : {
@@ -22351,19 +22391,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรอกคีย์ API…"
+            "value" : "กรอก API key…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API anahtarını gir…"
+            "value" : "API anahtarını girin…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть API-ключ…"
+            "value" : "Введіть ключ API…"
           }
         },
         "vi" : {
@@ -22390,7 +22430,8 @@
             "value" : "輸入 API 密鑰…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterBranchNameDots" : {
       "comment" : "Placeholder for entering the branch name in a version control system",
@@ -22422,7 +22463,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast gren navn…"
+            "value" : "Indtast grennavn…"
           }
         },
         "de" : {
@@ -22482,7 +22523,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la branche…"
+            "value" : "Entre le nom de la branche…"
           }
         },
         "he" : {
@@ -22536,7 +22577,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "브랜치 이름 입력…"
+            "value" : "브랜치 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22641,7 +22682,8 @@
             "value" : "輸入分支名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCommitMessageDots" : {
       "comment" : "Placeholder for entering a commit message",
@@ -22727,13 +22769,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le message de validation…"
+            "value" : "Saisir le message de validation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le message de validation…"
+            "value" : "Entre le message de validation…"
           }
         },
         "he" : {
@@ -22787,7 +22829,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "커밋 메시지 입력…"
+            "value" : "커밋 메시지를 입력하세요…"
           }
         },
         "ms" : {
@@ -22805,7 +22847,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de commit-bericht in…"
+            "value" : "Voer commit-bericht in…"
           }
         },
         "pl" : {
@@ -22892,7 +22934,8 @@
             "value" : "輸入提交信息…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterFileNameDots" : {
       "comment" : "Placeholder for entering the name of a file",
@@ -22984,7 +23027,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du fichier…"
+            "value" : "Entre le nom du fichier…"
           }
         },
         "he" : {
@@ -23038,7 +23081,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "파일 이름 입력…"
+            "value" : "파일 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23110,7 +23153,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosya adını girin…"
+            "value" : "Dosya adını gir…"
           }
         },
         "uk" : {
@@ -23143,7 +23186,8 @@
             "value" : "輸入文件名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMethodNameDots" : {
       "comment" : "Placeholder for entering a method name",
@@ -23181,13 +23225,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Methodennamen eingeben…"
+            "value" : "Methodenname eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όνομα μεθόδου…"
+            "value" : "Γράψε όνομα μεθόδου…"
           }
         },
         "en" : {
@@ -23253,7 +23297,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv metode…"
+            "value" : "Unesi naziv metode…"
           }
         },
         "hu" : {
@@ -23289,7 +23333,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "메서드 이름 입력…"
+            "value" : "메서드 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23313,7 +23357,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz nazwę metody…"
+            "value" : "Wprowadź nazwę metody…"
           }
         },
         "pt-BR" : {
@@ -23394,7 +23438,8 @@
             "value" : "輸入方法名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterParametersDots" : {
       "comment" : "Placeholder for entering function or method parameters",
@@ -23438,7 +23483,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε παραμέτρους…"
+            "value" : "Βάλε παραμέτρους…"
           }
         },
         "en" : {
@@ -23504,7 +23549,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite parametre…"
+            "value" : "Unesi parametre…"
           }
         },
         "hu" : {
@@ -23540,7 +23585,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "매개변수 입력…"
+            "value" : "매개변수를 입력하세요…"
           }
         },
         "ms" : {
@@ -23645,7 +23690,8 @@
             "value" : "輸入參數…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPortNumberDots" : {
       "comment" : "Placeholder for entering the port number for network configuration",
@@ -23689,7 +23735,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε αριθμό θύρας…"
+            "value" : "Βάλε αριθμό θύρας…"
           }
         },
         "en" : {
@@ -23755,13 +23801,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj porta…"
+            "value" : "Unesi broj porta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a port számot…"
+            "value" : "Írd be a portszámot…"
           }
         },
         "id" : {
@@ -23833,7 +23879,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numarul portului…"
+            "value" : "Introduceți numărul portului…"
           }
         },
         "ru" : {
@@ -23857,7 +23903,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่หมายเลขพอร์ต…"
+            "value" : "กรอกหมายเลขพอร์ต…"
           }
         },
         "tr" : {
@@ -23896,34 +23942,23 @@
             "value" : "輸入埠號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterRepositoryUrlDots" : {
       "comment" : "Placeholder for entering the repository URL",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter repository URL…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.enterRepositoryURLDots" : {
-      "comment" : "Placeholder for entering the repository URL",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل عنوان المستودع…"
+            "value" : "أدخل رابط المستودع…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи URL адрес на хранилище…"
+            "value" : "Въведи адрес на хранилище…"
           }
         },
         "ca" : {
@@ -23941,19 +23976,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast repository URL…"
+            "value" : "Indtast repository-url…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Repository-URL ein…"
+            "value" : "Repository-URL eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε το URL αποθετηρίου…"
+            "value" : "Βάλε το URL αποθετηρίου…"
           }
         },
         "en" : {
@@ -23977,7 +24012,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce la URL del repositorio…"
+            "value" : "Ingresa la URL del repositorio…"
           }
         },
         "es-419" : {
@@ -23989,7 +24024,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä tietovaraston URL…"
+            "value" : "Syötä varaston URL…"
           }
         },
         "fr" : {
@@ -24001,31 +24036,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez l'URL du dépôt…"
+            "value" : "Entrez l'URL du dépôt…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן כתובת רפוזיטוריון…"
+            "value" : "הזן כתובת מאגר…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रेपो URL दर्ज करें…"
+            "value" : "भंडार URL दर्ज करें…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi URL repozitorija…"
+            "value" : "Unesite URL repozitorija…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a repository URL-jét…"
+            "value" : "Írd be a repository URL-t…"
           }
         },
         "id" : {
@@ -24049,13 +24084,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Репозиторийдің URL-мекенжайын енгізіңіз…"
+            "value" : "Репозиторий URL-ін енгіз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저장소 URL 입력…"
+            "value" : "저장소 URL을 입력하세요…"
           }
         },
         "ms" : {
@@ -24073,7 +24108,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer URL van de repository in…"
+            "value" : "Voer repository-URL in…"
           }
         },
         "pl" : {
@@ -24097,7 +24132,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti URL-ul repository-ului…"
+            "value" : "Introduceți URL-ul depozitului…"
           }
         },
         "ru" : {
@@ -24109,7 +24144,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj URL adresu repozitára…"
+            "value" : "Zadaj URL repozitára…"
           }
         },
         "sv" : {
@@ -24121,13 +24156,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ URL ของที่เก็บ…"
+            "value" : "กรอก URL ของรีโพซิทอรี…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Depo URL'sini girin…"
+            "value" : "Depo URL'si girin…"
           }
         },
         "uk" : {
@@ -24139,28 +24174,29 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập URL kho…"
+            "value" : "Nhập URL kho lưu trữ…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入代码库URL…"
+            "value" : "输入仓库网址…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入儲存庫 URL…"
+            "value" : "輸入庫存 URL…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入倉庫網址…"
+            "value" : "輸入倉庫 URL…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.generatingDocumentationDots" : {
       "comment" : "Placeholder during documentation generation process",
@@ -24300,7 +24336,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Құжаттарды генерациялау..."
+            "value" : "Құжаттаманы генерациялау..."
           }
         },
         "ko" : {
@@ -24411,7 +24447,8 @@
             "value" : "正在生成文件…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.installingDependenciesDots" : {
       "comment" : "Placeholder during the installation of project dependencies",
@@ -24515,7 +24552,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "निर्भरता स्थापित की जा रही है..."
+            "value" : "निर्भरता स्थापित करना…"
           }
         },
         "hr" : {
@@ -24662,7 +24699,8 @@
             "value" : "安裝依賴中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.runningTestsDots" : {
       "comment" : "Placeholder during the execution of tests",
@@ -24700,7 +24738,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tests werden ausgeführt…"
+            "value" : "Tests ausführen…"
           }
         },
         "el" : {
@@ -24913,7 +24951,8 @@
             "value" : "正在執行測試…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.scanningForIssuesDots" : {
       "comment" : "Placeholder while scanning code or a project for issues",
@@ -25023,7 +25062,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traženje problema…"
+            "value" : "Skeniram probleme…"
           }
         },
         "hu" : {
@@ -25089,7 +25128,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando problemas…"
+            "value" : "Localizando problemas…"
           }
         },
         "pt-PT" : {
@@ -25164,7 +25203,8 @@
             "value" : "正在掃描問題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.updatingDependenciesDots" : {
       "comment" : "Placeholder while updating project dependencies",
@@ -25415,7 +25455,8 @@
             "value" : "更新依賴…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

@@ -97,7 +97,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ארכיון"
+            "value" : "ארכב"
           }
         },
         "hi" : {
@@ -193,7 +193,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архив"
+            "value" : "Заархивировать"
           }
         },
         "sk" : {
@@ -223,7 +223,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В архів"
+            "value" : "Заархівувати"
           }
         },
         "vi" : {
@@ -250,7 +250,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.block" : {
       "comment" : "Use for blocking a user or source",
@@ -501,7 +502,8 @@
             "value" : "封鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use for bookmarking an article for later reading",
@@ -683,7 +685,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador"
+            "value" : "Adicionar marcador"
           }
         },
         "ro" : {
@@ -701,7 +703,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záložkovat"
+            "value" : "Záložkovať"
           }
         },
         "sv" : {
@@ -752,7 +754,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyLink" : {
       "comment" : "Use for copying the article's link",
@@ -940,7 +943,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază linkul"
+            "value" : "Copiază"
           }
         },
         "ru" : {
@@ -1003,7 +1006,8 @@
             "value" : "複製連結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.dismissArticle" : {
       "comment" : "Use for dismissing or closing an article",
@@ -1179,7 +1183,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispensar Artigo"
+            "value" : "Descartar Artigo"
           }
         },
         "pt-PT" : {
@@ -1233,7 +1237,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bỏ qua bài viết"
+            "value" : "Bỏ Qua Bài viết"
           }
         },
         "zh-Hans" : {
@@ -1254,7 +1258,8 @@
             "value" : "關閉文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use for downloading the article for offline reading",
@@ -1292,7 +1297,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Für Offline Herunterladen"
+            "value" : "Für Offline herunterladen"
           }
         },
         "el" : {
@@ -1328,7 +1333,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descargar para Uso Offline"
+            "value" : "Descargar para uso offline"
           }
         },
         "fi" : {
@@ -1352,7 +1357,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הורד למצב לא מקוון"
+            "value" : "הורד למצב\u0000A בלא מקוון"
           }
         },
         "hi" : {
@@ -1505,7 +1510,8 @@
             "value" : "下載離線內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.factCheck" : {
       "comment" : "Use for fact-checking the content of an article",
@@ -1549,7 +1555,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επαλήθευση Πραγματικών Γεγονότων"
+            "value" : "Έλεγχος Γεγονότων"
           }
         },
         "en" : {
@@ -1645,7 +1651,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Факт бақылау"
+            "value" : "Факт тексеру"
           }
         },
         "ko" : {
@@ -1669,7 +1675,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feiten Controleren"
+            "value" : "Feitencontrole"
           }
         },
         "pl" : {
@@ -1756,7 +1762,8 @@
             "value" : "事實核查"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.flag" : {
       "comment" : "Use for flagging inappropriate or incorrect content",
@@ -1800,7 +1807,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημαία"
+            "value" : "Επισημάνετε"
           }
         },
         "en" : {
@@ -1944,7 +1951,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puneți fanion"
+            "value" : "Marchează"
           }
         },
         "ru" : {
@@ -1974,7 +1981,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yönlendir"
+            "value" : "Bayrağı İşaretle"
           }
         },
         "uk" : {
@@ -2007,7 +2014,8 @@
             "value" : "加上旗標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.follow" : {
       "comment" : "Use for following a source or author for updates",
@@ -2258,7 +2266,8 @@
             "value" : "關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.like" : {
       "comment" : "Use for liking an article or post",
@@ -2284,7 +2293,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To se mi líbí"
+            "value" : "Přidat do oblíbených"
           }
         },
         "da" : {
@@ -2509,7 +2518,8 @@
             "value" : "喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.listenToArticle" : {
       "comment" : "Use for listening to an audio version of the article",
@@ -2523,7 +2533,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Слушане на статия"
+            "value" : "Слушай статия-та"
           }
         },
         "ca" : {
@@ -2607,7 +2617,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקש על מאמר"
+            "value" : "האזן למאמר"
           }
         },
         "hi" : {
@@ -2760,7 +2770,8 @@
             "value" : "收聽文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.post" : {
       "comment" : "Use for posting a comment or content",
@@ -3011,7 +3022,8 @@
             "value" : "發佈"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readArticle" : {
       "comment" : "Use for opening and reading an article",
@@ -3199,7 +3211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește articolul"
+            "value" : "Citește"
           }
         },
         "ru" : {
@@ -3262,7 +3274,8 @@
             "value" : "閱讀文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readLater" : {
       "comment" : "Use for saving an article to read later",
@@ -3513,7 +3526,8 @@
             "value" : "稍後閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readMore" : {
       "comment" : "Use for expanding an article or content to read more",
@@ -3581,7 +3595,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido"
+            "value" : "Leer más"
           }
         },
         "es-419" : {
@@ -3701,7 +3715,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește mai mult"
+            "value" : "Citește"
           }
         },
         "ru" : {
@@ -3764,7 +3778,8 @@
             "value" : "閱讀更多"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.report" : {
       "comment" : "Use for reporting an issue or inappropriate content",
@@ -3952,7 +3967,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raportați"
+            "value" : "Raportează"
           }
         },
         "ru" : {
@@ -4015,7 +4030,8 @@
             "value" : "報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareStory" : {
       "comment" : "Use for sharing the article or story with others",
@@ -4155,7 +4171,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Әңгіме бөлісу"
+            "value" : "Әңгімемен бөлісу"
           }
         },
         "ko" : {
@@ -4266,7 +4282,8 @@
             "value" : "分享故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use for subscribing to a newsletter or updates",
@@ -4517,7 +4534,8 @@
             "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.summarize" : {
       "comment" : "Use for summarizing the content of an article",
@@ -4768,7 +4786,8 @@
             "value" : "總結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unblock" : {
       "comment" : "Use for unblocking a previously blocked user or source",
@@ -5019,7 +5038,8 @@
             "value" : "解除封鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use for unfollowing a source or author",
@@ -5075,7 +5095,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfavourite"
+            "value" : "Unfollow"
           }
         },
         "en-GB" : {
@@ -5093,7 +5113,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "dejar de seguir"
+            "value" : "Dejar de seguir"
           }
         },
         "fi" : {
@@ -5270,7 +5290,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unsubscribe" : {
       "comment" : "Use for unsubscribing from a newsletter or updates",
@@ -5284,7 +5305,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Спри абонамент"
+            "value" : "Спри абонамента"
           }
         },
         "ca" : {
@@ -5521,7 +5542,8 @@
             "value" : "取消訂閲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewBreakingNews" : {
       "comment" : "Use for viewing the latest breaking news",
@@ -5553,7 +5575,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se Nyheder"
+            "value" : "Se nyheder"
           }
         },
         "de" : {
@@ -5772,7 +5794,8 @@
             "value" : "查看突發新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.article" : {
       "comment" : "Use for labeling a single piece of content or article",
@@ -6023,7 +6046,8 @@
             "value" : "文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.author" : {
       "comment" : "Use for referring to the creator or writer of the article",
@@ -6274,7 +6298,8 @@
             "value" : "作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for highlighting the latest breaking news",
@@ -6525,7 +6550,8 @@
             "value" : "突發新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.category" : {
       "comment" : "Use for grouping content into specific categories",
@@ -6776,7 +6802,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.comment" : {
       "comment" : "Use for a single comment or user input",
@@ -7027,7 +7054,8 @@
             "value" : "註解"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.comments" : {
       "comment" : "Use for multiple comments or user feedback",
@@ -7179,7 +7207,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komen"
+            "value" : "Komen-komen"
           }
         },
         "nb" : {
@@ -7257,7 +7285,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhận xét"
+            "value" : "Những nhận xét"
           }
         },
         "zh-Hans" : {
@@ -7278,7 +7306,8 @@
             "value" : "評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.content" : {
       "comment" : "Use for general content or body of an article",
@@ -7529,7 +7558,8 @@
             "value" : "內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.coverage" : {
       "comment" : "Use for the extent or scope of news coverage",
@@ -7780,7 +7810,8 @@
             "value" : "報導範圍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.editorial" : {
       "comment" : "Use for articles or sections related to editorial opinions",
@@ -8031,7 +8062,8 @@
             "value" : "社论"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.editorsPicks" : {
       "comment" : "Use for articles selected by the editor",
@@ -8195,7 +8227,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redactionele Selecties"
+            "value" : "Veelgemaakte Selecties van de Redacteur"
           }
         },
         "pl" : {
@@ -8282,7 +8314,8 @@
             "value" : "編輯特選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.featured" : {
       "comment" : "Use for highlighting featured or spotlight content",
@@ -8533,7 +8566,8 @@
             "value" : "精選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.featuredStories" : {
       "comment" : "Use for displaying important or highlighted stories",
@@ -8784,7 +8818,8 @@
             "value" : "特色故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.headlines" : {
       "comment" : "Use for the main or most important news titles",
@@ -9035,7 +9070,8 @@
             "value" : "標題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.international" : {
       "comment" : "Use for news or content with an international scope",
@@ -9286,7 +9322,8 @@
             "value" : "國際的"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.latest" : {
       "comment" : "Use for the most recent content or news",
@@ -9516,7 +9553,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mới nhất"
+            "value" : "Tin Mới Nhất"
           }
         },
         "zh-Hans" : {
@@ -9537,7 +9574,8 @@
             "value" : "最新"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.latestHeadlines" : {
       "comment" : "Use for the most recent and important headlines",
@@ -9788,7 +9826,8 @@
             "value" : "最新頭條"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.localNews" : {
       "comment" : "Use for news related to local events or areas",
@@ -9826,7 +9865,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokale Nachrichten"
+            "value" : "Lokale Meldungen"
           }
         },
         "el" : {
@@ -9976,7 +10015,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Știri Locale"
+            "value" : "Știri locale"
           }
         },
         "ru" : {
@@ -9994,7 +10033,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokal nyhet"
+            "value" : "Lokala nyheter"
           }
         },
         "th" : {
@@ -10039,7 +10078,8 @@
             "value" : "本地新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.media" : {
       "comment" : "Use for the general term for news outlets or platforms",
@@ -10257,7 +10297,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ortamlar"
+            "value" : "Medya"
           }
         },
         "uk" : {
@@ -10290,7 +10330,8 @@
             "value" : "媒體"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.opinion" : {
       "comment" : "Use for opinion-based articles or commentary",
@@ -10541,7 +10582,8 @@
             "value" : "意見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.publication" : {
       "comment" : "Use for the name or title of a publication",
@@ -10549,7 +10591,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "المنشورات"
+            "value" : "المنشور"
           }
         },
         "bg" : {
@@ -10771,7 +10813,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tạp chí"
+            "value" : "Nhà xuất bản"
           }
         },
         "zh-Hans" : {
@@ -10792,7 +10834,8 @@
             "value" : "出版物"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.publisher" : {
       "comment" : "Use for the entity responsible for publishing the content",
@@ -11043,7 +11086,8 @@
             "value" : "發行者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.regional" : {
       "comment" : "Use for news related to a specific region",
@@ -11294,7 +11338,8 @@
             "value" : "地區"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reviews" : {
       "comment" : "Use for user or critic reviews of content or products",
@@ -11545,28 +11590,17 @@
             "value" : "評價"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.scienceAndTechnology" : {
       "comment" : "Use for content related to science and technology",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Science & Technology"
-          }
-        }
-      }
-    },
-    "TK.Label.scienceTechnology" : {
-      "comment" : "Use for content related to science and technology",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "علوم وتكنولوجيا"
+            "value" : "العلوم والتكنولوجيا"
           }
         },
         "bg" : {
@@ -11602,7 +11636,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επιστήμη & Τεχνολογία"
+            "value" : "Επιστήμες & Τεχνολογία"
           }
         },
         "en" : {
@@ -11626,7 +11660,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ciencia y Tecnología"
+            "value" : "Ciencia y tecnología"
           }
         },
         "es-419" : {
@@ -11638,7 +11672,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiede & Teknologia"
+            "value" : "Tiede ja Teknologia"
           }
         },
         "fr" : {
@@ -11668,13 +11702,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znanost i Tehnologija"
+            "value" : "Znanost i tehnologija"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tudomány & Technológia"
+            "value" : "Tudomány és technológia"
           }
         },
         "id" : {
@@ -11698,13 +11732,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ғылым мен технология"
+            "value" : "Ғылым және технология"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "과학 및 기술"
+            "value" : "과학 & 기술"
           }
         },
         "ms" : {
@@ -11716,7 +11750,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vitenskap & teknologi"
+            "value" : "Vitenskap og teknologi"
           }
         },
         "nl" : {
@@ -11746,7 +11780,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Știință și tehnologie"
+            "value" : "Știință și Tehnologie"
           }
         },
         "ru" : {
@@ -11764,7 +11798,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vetenskap och teknik"
+            "value" : "Vetenskap & Teknik"
           }
         },
         "th" : {
@@ -11776,7 +11810,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bilim ve Teknoloji"
+            "value" : "Bilim & Teknoloji"
           }
         },
         "uk" : {
@@ -11806,10 +11840,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "科學與技術"
+            "value" : "科學與科技"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.source" : {
       "comment" : "Use for the origin or provider of information",
@@ -12060,7 +12095,8 @@
             "value" : "來源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sources" : {
       "comment" : "Use for multiple sources of information or content",
@@ -12182,7 +12218,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sumber"
+            "value" : "Sumber-sumber"
           }
         },
         "it" : {
@@ -12311,7 +12347,8 @@
             "value" : "來源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.story" : {
       "comment" : "Use for an individual article or narrative",
@@ -12562,7 +12599,8 @@
             "value" : "故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.subscription" : {
       "comment" : "Use for subscribing to content or services",
@@ -12813,7 +12851,8 @@
             "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.topics" : {
       "comment" : "Use for categorizing content by subject or theme",
@@ -13064,7 +13103,8 @@
             "value" : "主題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trending" : {
       "comment" : "Use for displaying popular or trending content",
@@ -13315,7 +13355,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trendingStories" : {
       "comment" : "Use for displaying the most popular stories at the moment",
@@ -13389,7 +13430,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historias Tendentes"
+            "value" : "Historias de Tendencia"
           }
         },
         "fi" : {
@@ -13401,7 +13442,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Histoires tendances"
+            "value" : "Meilleures histoires"
           }
         },
         "fr-CA" : {
@@ -13566,7 +13607,8 @@
             "value" : "熱門故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.worldNews" : {
       "comment" : "Use for global news or content with a worldwide scope",
@@ -13817,34 +13859,35 @@
             "value" : "全球新聞"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.articleAddedToYourBookmarks" : {
+    "TK.Message.articleAddedToYourBookmarksDot" : {
       "comment" : "Confirmation when an article is added to bookmarks",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت إضافة المقال إلى المفضلة."
+            "value" : "تمت إضافة المقال إلى إشاراتك المرجعية."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статията е добавена в отметките ви."
+            "value" : "Статията беше добавена към вашите отметки."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aquest article s'ha afegit als teus marcadors."
+            "value" : "Article afegit als teus marcadors."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článek byl přidán do vašich záložek."
+            "value" : "Článek byl přidán do tvých záložek."
           }
         },
         "da" : {
@@ -13862,7 +13905,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το άρθρο προστέθηκε στους σελιδοδείκτες σου."
+            "value" : "Το άρθρο προστέθηκε στους σελιδοδείκτες σας."
           }
         },
         "en" : {
@@ -13910,19 +13953,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Article ajouté à tes favoris."
+            "value" : "Article ajouté à vos favoris."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המאמר נוסף לקטגוריה המועדפת שלך."
+            "value" : "המאמר נוסף למועדפים שלך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेख आपकी बुकमार्क में जोड़ा गया है।"
+            "value" : "लेख आपकी बुकमार्क्स में जोड़ा गया।"
           }
         },
         "hr" : {
@@ -13940,13 +13983,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel telah ditambahkan ke bookmark Anda."
+            "value" : "Artikel telah ditambahkan ke tanda buku Anda."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Articolo aggiunto ai segnalibri."
+            "value" : "Articolo aggiunto ai tuoi segnalibri."
           }
         },
         "ja" : {
@@ -13958,25 +14001,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақала сіздің бетбелгілеріңізге қосылды."
+            "value" : "Мақала сіздің белгілеулеріңізге қосылды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기사가 북마크에 추가되었습니다."
+            "value" : "게시물이 즐겨찾기에 추가되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel ditambahkan ke bookmark anda."
+            "value" : "Artikel telah ditambah ke penanda buku anda."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikkelen er lagt til i bokmerkene dine."
+            "value" : "Artikkel lagt til bokmerkene dine."
           }
         },
         "nl" : {
@@ -13988,7 +14031,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artykuł dodany do zakładek."
+            "value" : "Artykuł został dodany do twoich zakładek."
           }
         },
         "pt-BR" : {
@@ -14006,31 +14049,31 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Articol adăugat la semnele tale de carte."
+            "value" : "Articolul a fost adăugat la favorite."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статья добавлена в ваши закладки."
+            "value" : "Статья добавлена в закладки."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článok bol pridaný do vašich záložiek."
+            "value" : "Článok bol pridaný do tvojich záložiek."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikeln har lagts till i dina bokmärken."
+            "value" : "Artikel tillagd i dina bokmärken."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บทความถูกเพิ่มในบุ๊กมาร์กของคุณแล้ว."
+            "value" : "บทความถูกเพิ่มในรายการที่คั่นของคุณแล้ว."
           }
         },
         "tr" : {
@@ -14054,38 +14097,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章已添加到您的书签。"
+            "value" : "文章已添加到你的书签中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章已加入您的書籤。"
+            "value" : "文章已加入你的書籤。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章已添加到你的書籤。"
+            "value" : "文章已加入你的書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.articleAddedToYourBookmarksDot" : {
-      "comment" : "Confirmation when an article is added to bookmarks",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Article added to your bookmarks."
-          }
-        }
-      }
-    },
-    "TK.Message.articleHasBeenArchived" : {
+    "TK.Message.articleHasBeenArchivedDot" : {
       "comment" : "Notification when an article is archived",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14096,7 +14128,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статията е архивирана."
+            "value" : "Статията беше архивирана."
           }
         },
         "ca" : {
@@ -14186,7 +14218,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेख को आर्काइव किया गया है।"
+            "value" : "लेख को संग्रहित कर दिया गया है।"
           }
         },
         "hr" : {
@@ -14210,7 +14242,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'articolo è stato archiviato."
+            "value" : "Articolo archiviato."
           }
         },
         "ja" : {
@@ -14222,25 +14254,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақала артқа сақталды."
+            "value" : "Мақала архивттелді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기사가 아카이브되었습니다."
+            "value" : "게시물이 보관되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel telah diarkibkan."
+            "value" : "Artikel telah diarsipkan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikkelen har blitt arkivert."
+            "value" : "Artikkel er arkivert."
           }
         },
         "nl" : {
@@ -14258,13 +14290,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O artigo foi arquivado."
+            "value" : "Artigo foi arquivado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo arquivado."
+            "value" : "O artigo foi arquivado."
           }
         },
         "ro" : {
@@ -14276,7 +14308,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статья архивирована."
+            "value" : "Твоя статья была архивирована."
           }
         },
         "sk" : {
@@ -14288,13 +14320,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikeln har arkiverats."
+            "value" : "Artikel har arkiverats."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บทความถูกเก็บถาวรแล้ว."
+            "value" : "บทความได้ถูกเก็บเข้าถังขยะแล้ว."
           }
         },
         "tr" : {
@@ -14333,34 +14365,23 @@
             "value" : "文章已被存檔。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.articleHasBeenArchivedDot" : {
-      "comment" : "Notification when an article is archived",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Article has been archived."
-          }
-        }
-      }
-    },
-    "TK.Message.articleUnavailableInYourRegion" : {
+    "TK.Message.articleUnavailableInYourRegionDot" : {
       "comment" : "Message when the article is restricted by region",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "المقال غير متوفر في منطقتك."
+            "value" : "المقال غير متاح في منطقتك."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статията е недостъпна в твоя регион."
+            "value" : "Статията не е налична във вашия регион."
           }
         },
         "ca" : {
@@ -14372,7 +14393,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článek není ve vaší oblasti dostupný."
+            "value" : "Článek není v tvé oblasti dostupný."
           }
         },
         "da" : {
@@ -14390,7 +14411,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το άρθρο δεν είναι διαθέσιμο στη περιοχή σου."
+            "value" : "Το άρθρο δεν είναι διαθέσιμο στην περιοχή σας."
           }
         },
         "en" : {
@@ -14420,7 +14441,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El artículo no está disponible en tu región."
+            "value" : "Artículo no disponible en tu región."
           }
         },
         "fi" : {
@@ -14438,7 +14459,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Article indisponible dans votre région."
+            "value" : "L'article est indisponible dans votre région."
           }
         },
         "he" : {
@@ -14450,19 +14471,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेख आपके क्षेत्र में अनुपलब्ध है।"
+            "value" : "लेख आपके क्षेत्र में उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Članak nije dostupan u vašem području."
+            "value" : "Članak nije dostupan u tvojoj regiji."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cikk nem elérhető a régiódban."
+            "value" : "A cikk nem elérhető a régiód számára."
           }
         },
         "id" : {
@@ -14480,7 +14501,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記事はあなたの地域で利用できません。"
+            "value" : "記事はあなたの地域では利用できません。"
           }
         },
         "kk" : {
@@ -14492,7 +14513,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서는 기사를 이용할 수 없습니다."
+            "value" : "해당 지역에서는 게시물을 사용할 수 없습니다."
           }
         },
         "ms" : {
@@ -14504,7 +14525,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikkelen er ikke tilgjengelig i regionen din."
+            "value" : "Artikkel ikke tilgjengelig i din region."
           }
         },
         "nl" : {
@@ -14516,7 +14537,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artykuł niedostępny w Twoim regionie."
+            "value" : "Artykuł niedostępny w twoim regionie."
           }
         },
         "pt-BR" : {
@@ -14534,37 +14555,37 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Articol indisponibil în regiunea ta."
+            "value" : "Articolul nu este disponibil în regiunea ta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статья недоступна в вашем регионе."
+            "value" : "Статья недоступна в твоем регионе."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článok nie je dostupný vo vašej oblasti."
+            "value" : "Článok nie je k dispozícii vo tvojej oblasti."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel är inte tillgänglig i din region."
+            "value" : "Artikel otillgänglig i din region."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บทความไม่สามารถใช้งานได้ในภูมิภาคของคุณ."
+            "value" : "บทความไม่สามารถใช้ได้ในภูมิภาคของคุณ."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Makale bulunduğunuz bölgede kullanılamıyor."
+            "value" : "Makale bölgenizde mevcut değil."
           }
         },
         "uk" : {
@@ -14576,73 +14597,62 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bài viết không khả dụng trong khu vực của bạn."
+            "value" : "Bài viết không khả dụng ở khu vực của bạn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该文章在您的地区不可用。"
+            "value" : "该文章在你的区域不可用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章在您所在的區域不可用。"
+            "value" : "文章在你的區域無法使用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章在你的地區不可用。"
+            "value" : "該文章在你的區域無法使用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.articleUnavailableInYourRegionDot" : {
-      "comment" : "Message when the article is restricted by region",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Article unavailable in your region."
-          }
-        }
-      }
-    },
-    "TK.Message.breakingNewsAlert" : {
+    "TK.Message.breakingNewsAlertDot" : {
       "comment" : "Notification for breaking news",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تنبيه الأخبار العاجلة."
+            "value" : "تنبيه بأخبار عاجلة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Спешна новина."
+            "value" : "Сигнал за новини."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerta de notícies d'última hora."
+            "value" : "Alerta d'última hora."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upozornění na aktuální zprávy."
+            "value" : "Upozornění na horké zprávy."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking news-alert."
+            "value" : "Breaking news-alarm."
           }
         },
         "de" : {
@@ -14654,7 +14664,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επείγουσα ειδοποίηση ειδήσεων."
+            "value" : "Ειδοποίηση για έκτακτες ειδήσεις."
           }
         },
         "en" : {
@@ -14678,7 +14688,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notificación de noticias de última hora."
+            "value" : "Alerta de noticias de última hora."
           }
         },
         "es-419" : {
@@ -14690,13 +14700,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uutisalertti."
+            "value" : "Uutinen: tärkeä ilmoitus."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerte d'actualité de dernière minute."
+            "value" : "Alerte de dernière minute."
           }
         },
         "fr-CA" : {
@@ -14708,49 +14718,49 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התראה על חדשות חשובות."
+            "value" : "התראה על חדשות חמות."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ताज़ा समाचार चेतावनी।"
+            "value" : "ताज़ा खबर की सूचना।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upozorenje o najnovijim vijestima."
+            "value" : "Upozorenje o vijestima izvanrednog značaja."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sürgős hírek riasztás."
+            "value" : "Sürgős hírek értesítése."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berita terkini."
+            "value" : "Pemberitahuan berita terkini."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allerta notizie dell'ultima ora."
+            "value" : "Notifica di notizie dell'ultima ora."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緊急ニュースのお知らせ。"
+            "value" : "速報ニュースアラート。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңалықтар туралы ескерту."
+            "value" : "Жаңалықтар туралы шұғыл хабар."
           }
         },
         "ko" : {
@@ -14768,19 +14778,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking news-varsel."
+            "value" : "Nyhetsvarsel."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking news alert."
+            "value" : "Breaking news melding."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking news alert."
+            "value" : "Alarm o ważnych wiadomościach."
           }
         },
         "pt-BR" : {
@@ -14798,49 +14808,49 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alertă de știri de actualitate."
+            "value" : "Alertă de știri de ultimă oră."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Экстренное сообщение."
+            "value" : "Срочное новостное сообщение."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upozornenie na mimoriadne správy."
+            "value" : "Upozornenie na prelomové správy."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking news-alert."
+            "value" : "Nyhetsflash."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การแจ้งเตือนข่าวด่วน."
+            "value" : "การแจ้งเตือนข่าวด่วน"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son dakika haberi bildirimi."
+            "value" : "Acil durum haberleri uyarısı."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Термінове повідомлення новин."
+            "value" : "Термінове повідомлення."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thông báo tin tức nóng."
+            "value" : "Tin tức nóng hổi."
           }
         },
         "zh-Hans" : {
@@ -14858,31 +14868,20 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "突發新聞提醒。"
+            "value" : "突發新聞警報。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.breakingNewsAlertDot" : {
-      "comment" : "Notification for breaking news",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Breaking news alert."
-          }
-        }
-      }
-    },
-    "TK.Message.contentIsBehindAPaywall" : {
+    "TK.Message.contentIsBehindAPaywallDot" : {
       "comment" : "Message indicating content requires payment",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "المحتوى متاح خلف جدار دفع."
+            "value" : "المحتوى خلف جدار الدفع."
           }
         },
         "bg" : {
@@ -14900,7 +14899,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah je za platební zdí."
+            "value" : "Obsah je za paywallem."
           }
         },
         "da" : {
@@ -14912,13 +14911,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inhalt ist hinter einer Bezahlschranke."
+            "value" : "Inhalt ist hinter einer Paywall."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το περιεχόμενο είναι πίσω από ένα paywall."
+            "value" : "Το περιεχόμενο απαιτεί πληρωμή."
           }
         },
         "en" : {
@@ -14954,31 +14953,31 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sisältö on maksun takana."
+            "value" : "Sisältö on maksullista."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le contenu est derrière un mur payant."
+            "value" : "Le contenu est payant."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le contenu est protégé par un paywall."
+            "value" : "Contenu réservé aux abonnés."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התוכן מצוי وراء תשלום."
+            "value" : "התוכן נמצא מאחורי חומת תשלום."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सामग्री एक भुगतान दीवार के पीछे है।"
+            "value" : "सामग्री एक पेवॉल के पीछे है।"
           }
         },
         "hr" : {
@@ -14990,61 +14989,61 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tartalom egy fizetős fal mögött található."
+            "value" : "A tartalom egy fizetős fal mögött van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten di balik paywall."
+            "value" : "Konten berada di balik paywall."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il contenuto è dietro un paywall."
+            "value" : "Il contenuto è bloccato da un paywall."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンテンツは有料のため、閲覧できません。"
+            "value" : "コンテンツは有料の壁の裏にあります。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мазмұн төлем кедергісіне байланысты."
+            "value" : "Контент ақылы."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "콘텐츠가 유료 구독 뒤에 있습니다."
+            "value" : "콘텐츠는 유료 구독이 필요합니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kandungan berada di belakang tembok bayaran."
+            "value" : "Kandungan dihadang oleh paywall."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innholdet ligger bak en betalingsmur."
+            "value" : "Innholdet er bak en betalingsmur."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inhoud bevindt zich achter een betaalmuur."
+            "value" : "Inhoud is achter een betaalmuur."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zawartość jest za płatną zaporą."
+            "value" : "Treść jest za płatną zaporą."
           }
         },
         "pt-BR" : {
@@ -15056,13 +15055,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O conteúdo está atrás de um paywall."
+            "value" : "Conteúdo está por trás de um paywall."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conținutul este în spatele unei plăți."
+            "value" : "Conținutul se află în spatele unei plăți."
           }
         },
         "ru" : {
@@ -15086,271 +15085,260 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เนื้อหาถูกซ่อนอยู่หลัง paywall."
+            "value" : "เนื้อหาถูกกั้นด้วยค่าธรรมเนียม"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İçerik bir ödeme duvarının arkasında."
+            "value" : "İçerik bir ücretli erişim alanında."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент знаходиться за платною стіною."
+            "value" : "Контент доступний лише за підпискою."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung yêu cầu thanh toán để xem."
+            "value" : "Nội dung bị chặn bởi paywall."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "内容需付费才能查看。"
+            "value" : "内容被付费墙锁住。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "內容在付費牆之後。"
+            "value" : "內容在付費牆後。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "內容受限於付費牆。"
+            "value" : "內容被設定了付費牆。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.contentIsBehindAPaywallDot" : {
-      "comment" : "Message indicating content requires payment",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Content is behind a paywall."
-          }
-        }
-      }
-    },
-    "TK.Message.contentNotAvailableInYourRegion" : {
+    "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Message when content is region-locked",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "المحتوى غير متاح في منطقتك"
+            "value" : "المحتوى غير متوفر في منطقتك."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съдържанието не е налично в твоя регион"
+            "value" : "Съдържанието не е налично във вашия регион."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contingut no disponible a la teva regió"
+            "value" : "El contingut no està disponible a la teva regió."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah není dostupný ve vaší oblasti"
+            "value" : "Obsah není dostupný ve tvém regionu."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indhold ikke tilgængeligt i din region"
+            "value" : "Indholdet er ikke tilgængeligt i din region."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In deiner Region nicht verfügbar"
+            "value" : "Inhalt nicht in deiner Region verfügbar."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το περιεχόμενο δεν είναι διαθέσιμο στην περιοχή σας"
+            "value" : "Το περιεχόμενο δεν είναι διαθέσιμο στην περιοχή σας."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido no disponible en tu región"
+            "value" : "Contenido no disponible en tu región."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido no disponible en tu región"
+            "value" : "Contenido no disponible en tu región."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sisältöä ei ole saatavilla alueellasi."
+            "value" : "Sisältö ei ole saatavilla alueellasi."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenu non disponible dans votre région"
+            "value" : "Contenu non disponible dans votre région."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenu non disponible dans votre région"
+            "value" : "Le contenu n'est pas disponible dans votre région."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התוכן לא זמין באזור שלך"
+            "value" : "התוכן אינו זמין באזור שלך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपके क्षेत्र में सामग्री उपलब्ध नहीं है"
+            "value" : "सामग्री आपके क्षेत्र में उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sadržaj nije dostupan u tvojoj regiji"
+            "value" : "Sadržaj nije dostupan u tvojoj regiji."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tartalom nem érhető el a régiódban"
+            "value" : "A tartalom nem elérhető a régiódban."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten tidak tersedia di wilayah Anda"
+            "value" : "Konten tidak tersedia di wilayah Anda."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenuto non disponibile nella tua regione"
+            "value" : "Contenuto non disponibile nella tua regione."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの地域ではコンテンツが利用できません"
+            "value" : "コンテンツはあなたの地域では利用できません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мазмұн сіздің өңіріңізде қолжетімсіз"
+            "value" : "Контент сіздің өңіріңізде қолжетімсіз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서 사용할 수 없는 콘텐츠."
+            "value" : "콘텐츠는 귀하의 지역에서 사용할 수 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kandungan tidak tersedia di kawasan anda"
+            "value" : "Kandungan tidak tersedia di kawasan anda."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innholdet er ikke tilgjengelig i regionen din"
+            "value" : "Innholdet er ikke tilgjengelig i din region."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inhoud niet beschikbaar in jouw regio"
+            "value" : "Inhoud niet beschikbaar in jouw regio."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Treść niedostępna w Twoim regionie"
+            "value" : "Treść niedostępna w twoim regionie."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo não disponível na sua região"
+            "value" : "Conteúdo não disponível na sua região."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo não disponível na sua região"
+            "value" : "Conteúdo não disponível na tua região."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conținutul nu este disponibil în regiunea ta"
+            "value" : "Conținutul nu este disponibil în regiunea ta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент недоступен в вашем регионе"
+            "value" : "Контент недоступен в твоем регионе."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah nie je dostupný vo vašej oblasti"
+            "value" : "Obsah nie je dostupný vo tvojej oblasti."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innehållet är inte tillgängligt i din region"
+            "value" : "Innehållet är inte tillgängligt i din region."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เนื้อหาไม่สามารถเข้าถึงได้ในภูมิภาคของคุณ"
+            "value" : "เนื้อหาไม่สามารถใช้งานได้ในภูมิภาคของคุณ"
           }
         },
         "tr" : {
@@ -15362,85 +15350,74 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент недоступний у вашому регіоні"
+            "value" : "Контент недоступний у вашому регіоні."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung không có sẵn ở khu vực của bạn."
+            "value" : "Nội dung không khả dụng trong khu vực của bạn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该内容在您的地区不可用"
+            "value" : "您所在地区无法获取该内容。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "內容在您的地區不可用"
+            "value" : "該內容在您的地區不可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該內容在你的區域不可用"
+            "value" : "此內容在你的地區無法獲取。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.contentNotAvailableInYourRegionDot" : {
-      "comment" : "Message when content is region-locked",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Content not available in your region."
-          }
-        }
-      }
-    },
-    "TK.Message.dailyBriefingIsReady" : {
+    "TK.Message.dailyBriefingIsReadyDot" : {
       "comment" : "Notification when the daily briefing is ready to view",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "التقرير اليومي جاهز."
+            "value" : "الملخص اليومي جاهز."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ежедневният брифинг е готов."
+            "value" : "Ежедневният бюлетин е готов."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El briefing diari està llest."
+            "value" : "El resum diari està llest."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Každodenní briefing je připraven."
+            "value" : "Denní shrnutí je připraveno."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagens briefing er klar."
+            "value" : "Daglig briefing er klar."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tägliches Briefing ist bereit."
+            "value" : "Tägliche Zusammenfassung ist fertig."
           }
         },
         "el" : {
@@ -15506,7 +15483,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "दैनिक ब्रीफिंग देखने के लिए तैयार है।"
+            "value" : "दैनिक ब्रीफिंग तैयार है।"
           }
         },
         "hr" : {
@@ -15518,13 +15495,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napi tájékoztatás készen áll."
+            "value" : "A napi tájékoztatás készen áll."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Briefing harian siap."
+            "value" : "Ringkasan harian sudah siap."
           }
         },
         "it" : {
@@ -15536,31 +15513,31 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "デイリーブリーフィングが準備完了しました。"
+            "value" : "デイリーブリーフィングの準備ができました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті ақпарат дайын."
+            "value" : "Күнделікті брифинг дайын."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일일 브리핑이 준비되었습니다."
+            "value" : "일일 브리프가 준비되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taklimat harian sudah siap."
+            "value" : "Taklimat harian sudah sedia."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagsrapporten er klar."
+            "value" : "Dagens oppsummering er klar."
           }
         },
         "nl" : {
@@ -15572,13 +15549,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Codzienne podsumowanie jest gotowe."
+            "value" : "Codzienny briefing jest gotowy."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resumo diário está pronto."
+            "value" : "Briefing diário está pronto."
           }
         },
         "pt-PT" : {
@@ -15590,19 +15567,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Briefingul zilnic este gata."
+            "value" : "Raportul zilnic este gata."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ежедневный отчет готов."
+            "value" : "Ежедневный брифинг готов."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denné zhrnutie je pripravené."
+            "value" : "Denné správy sú pripravené."
           }
         },
         "sv" : {
@@ -15626,7 +15603,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щоденний брифінг готовий."
+            "value" : "Щоденний звіт готовий."
           }
         },
         "vi" : {
@@ -15650,26 +15627,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日簡報已準備好。"
+            "value" : "每日簡報已準備就緒。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.dailyBriefingIsReadyDot" : {
-      "comment" : "Notification when the daily briefing is ready to view",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Daily briefing is ready."
-          }
-        }
-      }
-    },
-    "TK.Message.latestHeadlinesUpdated" : {
+    "TK.Message.latestHeadlinesUpdatedDot" : {
       "comment" : "Notification when the latest headlines are refreshed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15680,13 +15646,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Последните заглавия са обновени."
+            "value" : "Най-новите заглавия са актуализирани."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Últimes titulars actualitzades."
+            "value" : "Últimes notícies actualitzades."
           }
         },
         "cs" : {
@@ -15704,13 +15670,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuellste Schlagzeilen aktualisiert."
+            "value" : "Neueste Schlagzeilen aktualisiert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Οι τελευταίες επικεφαλίδες ενημερώθηκαν."
+            "value" : "Οι τελευταίες ειδήσεις ενημερώθηκαν."
           }
         },
         "en" : {
@@ -15746,25 +15712,25 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tuoreimmat uutiset päivitetty."
+            "value" : "Viimeisimmät otsikot päivitetty."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dernières actualités mises à jour."
+            "value" : "Derniers titres mis à jour."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dernières nouvelles mises à jour."
+            "value" : "Les derniers titres ont été mis à jour."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כותרות האחרונות עודכנו."
+            "value" : "כותרות עדכניות עודכנו."
           }
         },
         "hi" : {
@@ -15776,31 +15742,31 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najnovije vijesti su ažurirane."
+            "value" : "Najnovije vijesti ažurirane."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A legfrissebb címek frissítve."
+            "value" : "A legfrissebb hírek frissítve lettek."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Judul terbaru telah diperbarui."
+            "value" : "Kepala berita terbaru telah diperbarui."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le ultime notizie sono state aggiornate."
+            "value" : "Ultime notizie aggiornate."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最新のヘッドラインが更新されました。"
+            "value" : "最新の見出しが更新されました。"
           }
         },
         "kk" : {
@@ -15824,7 +15790,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De nyeste overskriftene er oppdatert."
+            "value" : "Siste overskrifter oppdatert."
           }
         },
         "nl" : {
@@ -15836,25 +15802,25 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najświeższe nagłówki zostały zaktualizowane."
+            "value" : "Najnowsze nagłówki zaktualizowane."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "As últimas manchetes foram atualizadas."
+            "value" : "Últimas manchetes atualizadas."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Últimas manchetes atualizadas."
+            "value" : "As últimas notícias foram atualizadas."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Știrile recente au fost actualizate."
+            "value" : "Cele mai recente titluri au fost actualizate."
           }
         },
         "ru" : {
@@ -15878,25 +15844,25 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข่าวแรกล่าสุดได้รับการอัปเดตแล้ว."
+            "value" : "อัปเดตข่าวหัวข้อใหม่ล่าสุดแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son haberler güncellendi."
+            "value" : "Son başlıklar güncellendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Останні заголовки оновлено."
+            "value" : "Оновлено останні заголовки."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiêu đề mới nhất đã được cập nhật."
+            "value" : "Các tiêu đề mới đã được cập nhật."
           }
         },
         "zh-Hans" : {
@@ -15914,26 +15880,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最新頭條已更新。"
+            "value" : "最新標題已更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.latestHeadlinesUpdatedDot" : {
-      "comment" : "Notification when the latest headlines are refreshed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Latest headlines updated."
-          }
-        }
-      }
-    },
-    "TK.Message.newArticlesAvailable" : {
+    "TK.Message.newArticlesAvailableDot" : {
       "comment" : "Notification when new articles are published",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15944,7 +15899,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нови статии са налични."
+            "value" : "Налични са нови статии."
           }
         },
         "ca" : {
@@ -15956,7 +15911,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nové články jsou k dispozici."
+            "value" : "K dispozici jsou nové články."
           }
         },
         "da" : {
@@ -15974,7 +15929,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Νέα άρθρα διαθέσιμα."
+            "value" : "Διαθέσιμα νέα άρθρα."
           }
         },
         "en" : {
@@ -16022,13 +15977,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouveaux articles disponibles."
+            "value" : "De nouveaux articles sont disponibles."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מאמרים חדשים זמינים."
+            "value" : "מכונות חדשות זמינות."
           }
         },
         "hi" : {
@@ -16040,7 +15995,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novi članci dostupni."
+            "value" : "Novi članci su dostupni."
           }
         },
         "hu" : {
@@ -16064,7 +16019,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新しい記事が利用可能です。"
+            "value" : "新しい記事が公開されました。"
           }
         },
         "kk" : {
@@ -16076,7 +16031,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "새로운 글이 업데이트되었습니다."
+            "value" : "새로운 기사가 출판되었습니다."
           }
         },
         "ms" : {
@@ -16088,7 +16043,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nye artikler tilgjengelige."
+            "value" : "Nye artikler tilgjengelig."
           }
         },
         "nl" : {
@@ -16142,7 +16097,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีบทความใหม่พร้อมใช้งาน."
+            "value" : "มีบทความใหม่ให้คุณได้อ่านแล้ว"
           }
         },
         "tr" : {
@@ -16154,7 +16109,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Доступні нові статті."
+            "value" : "Нові статті доступні."
           }
         },
         "vi" : {
@@ -16166,79 +16121,68 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "有新文章可用。"
+            "value" : "新文章可用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "有新文章可用。"
+            "value" : "新文章可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "有新文章可供查看。"
+            "value" : "新文章可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.newArticlesAvailableDot" : {
-      "comment" : "Notification when new articles are published",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "New articles available."
-          }
-        }
-      }
-    },
-    "TK.Message.newsFeedUpdated" : {
+    "TK.Message.newsFeedUpdatedDot" : {
       "comment" : "Message when the news feed has been refreshed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تحديث خلاصة الأخبار."
+            "value" : "تم تحديث موجز الأخبار."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Новините са актуализирани."
+            "value" : "Новините са обновени."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feed de notícies actualitzat."
+            "value" : "El feed de notícies s'ha actualitzat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kanál zpráv byl aktualizován."
+            "value" : "Zpravodajský kanál byl aktualizován."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nyheder opdateret."
+            "value" : "Nyhedsfeed opdateret."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "News-Feed aktualisiert."
+            "value" : "Newsfeed aktualisiert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ροή ειδήσεων ενημερώθηκε."
+            "value" : "Η ροή ειδήσεων ανανεώθηκε."
           }
         },
         "en" : {
@@ -16262,13 +16206,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se actualizó el feed de noticias."
+            "value" : "Feed de noticias actualizado."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El feed de noticias ha sido actualizado."
+            "value" : "Se actualizó el feed de noticias."
           }
         },
         "fi" : {
@@ -16286,25 +16230,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fil d'actualités mis à jour"
+            "value" : "Fil d'actualités mis à jour."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ה-feed של החדשות עודכן."
+            "value" : "העדכון חדשות בוצע."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "समाचार फ़ीड अपडेट हो गई है।"
+            "value" : "समाचार फ़ीड अपडेट हो गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vijesti su ažurirane."
+            "value" : "Vijesti na feedu su ažurirane."
           }
         },
         "hu" : {
@@ -16316,13 +16260,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berita terbaru diperbarui."
+            "value" : "Feed berita diperbarui."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feed delle notizie aggiornato."
+            "value" : "Feed di notizie aggiornato."
           }
         },
         "ja" : {
@@ -16334,7 +16278,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңалықтар ағыны жаңартылды."
+            "value" : "Жаңалықтар таспасы жаңартылды."
           }
         },
         "ko" : {
@@ -16346,7 +16290,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pangkalan berita telah dikemas kini."
+            "value" : "Kemas kini suapan berita."
           }
         },
         "nb" : {
@@ -16376,13 +16320,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feed de notícias atualizado."
+            "value" : "Feed de notícias actualizado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feed-ul de știri a fost actualizat."
+            "value" : "Fluxul de știri a fost actualizat."
           }
         },
         "ru" : {
@@ -16394,19 +16338,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Správy boli aktualizované."
+            "value" : "Správy sa aktualizovali."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nyhetsflöde uppdaterat."
+            "value" : "Nyhetsflödet har uppdaterats."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ฟีดข่าวได้รับการอัปเดต."
+            "value" : "ฟีดข่าวได้รับการอัปเดตแล้ว"
           }
         },
         "tr" : {
@@ -16418,50 +16362,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стрічка новин оновлена."
+            "value" : "Фід новин оновлено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bảng tin đã được cập nhật."
+            "value" : "Bản tin đã được cập nhật."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新闻源已更新。"
+            "value" : "新闻提要已更新。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新聞推送已更新。"
+            "value" : "新聞提要已更新。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新聞動態已更新。"
+            "value" : "新聞源已更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.newsFeedUpdatedDot" : {
-      "comment" : "Message when the news feed has been refreshed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "News feed updated."
-          }
-        }
-      }
-    },
-    "TK.Message.noNewArticlesAvailable" : {
+    "TK.Message.noNewArticlesAvailableDot" : {
       "comment" : "Message when no new articles are present",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16478,13 +16411,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hi ha articles nous disponibles."
+            "value" : "No hi ha nous articles disponibles."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádné nové články k dispozici."
+            "value" : "Žádné nové články nejsou k dispozici."
           }
         },
         "da" : {
@@ -16496,7 +16429,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine neuen Artikel verfügbar."
+            "value" : "Es sind keine neuen Artikel verfügbar."
           }
         },
         "el" : {
@@ -16526,13 +16459,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hay artículos nuevos disponibles."
+            "value" : "No hay nuevos artículos disponibles."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hay nuevos artículos disponibles."
+            "value" : "No hay artículos nuevos disponibles."
           }
         },
         "fi" : {
@@ -16568,7 +16501,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema novih članaka."
+            "value" : "Nema novih članaka dostupnih."
           }
         },
         "hu" : {
@@ -16586,7 +16519,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessun nuovo articolo disponibile."
+            "value" : "Nessun articolo nuovo disponibile."
           }
         },
         "ja" : {
@@ -16604,13 +16537,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "새로운 기사 없음."
+            "value" : "오늘 예정된 작업이 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada artikel baharu tersedia."
+            "value" : "Tiada artikel baru tersedia."
           }
         },
         "nb" : {
@@ -16634,19 +16567,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum artigo novo disponível."
+            "value" : "Não há novos artigos disponíveis."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum novo artigo disponível."
+            "value" : "Não há novos artigos disponíveis."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niciun articol nou disponibil."
+            "value" : "Nu sunt disponibile articole noi."
           }
         },
         "ru" : {
@@ -16670,19 +16603,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่มีบทความใหม่."
+            "value" : "ไม่มีบทความใหม่ให้บริการ."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni makale yok."
+            "value" : "Yeni makaleler mevcut değil."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Немає нових статей."
+            "value" : "Нових статей не доступно."
           }
         },
         "vi" : {
@@ -16694,43 +16627,32 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有新的文章可用。"
+            "value" : "没有新文章可用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "沒有新文章可用。"
+            "value" : "沒有新的文章可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "沒有新的文章可用。"
+            "value" : "沒有可用的新文章。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noNewArticlesAvailableDot" : {
-      "comment" : "Message when no new articles are present",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No new articles available."
-          }
-        }
-      }
-    },
-    "TK.Message.premiumContentOnly" : {
+    "TK.Message.premiumContentOnlyDot" : {
       "comment" : "Message indicating that content is premium and exclusive",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "محتوى مميز فقط."
+            "value" : "محتوى متميز فقط."
           }
         },
         "bg" : {
@@ -16742,7 +16664,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contingut només per a usuaris premium."
+            "value" : "Només contingut premium."
           }
         },
         "cs" : {
@@ -16754,7 +16676,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kun premiumindhold."
+            "value" : "Kun premium indhold."
           }
         },
         "de" : {
@@ -16790,19 +16712,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido solo para premium."
+            "value" : "Contenido premium solamente."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido premium solamente."
+            "value" : "Contenido exclusivo para suscriptores."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vain premium-sisältö."
+            "value" : "Vain premium-sisältöä."
           }
         },
         "fr" : {
@@ -16820,7 +16742,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התוכן הוא תוכן פרימיום בלבד."
+            "value" : "תוכן פרימיום בלבד."
           }
         },
         "hi" : {
@@ -16832,7 +16754,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Samo premium sadržaj."
+            "value" : "Samo za premium sadržaj."
           }
         },
         "hu" : {
@@ -16844,19 +16766,19 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hanya konten premium."
+            "value" : "Konten premium saja."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenuto solo per utenti premium."
+            "value" : "Contenuto solo per abbonati."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プレミアムコンテンツのみです。"
+            "value" : "プレミアムコンテンツのみ。"
           }
         },
         "kk" : {
@@ -16868,7 +16790,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프리미엄 콘텐츠 전용입니다."
+            "value" : "프리미엄 콘텐츠만 제공됩니다."
           }
         },
         "ms" : {
@@ -16880,7 +16802,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Premiuminnhold kun."
+            "value" : "Kun premiuminnhold."
           }
         },
         "nl" : {
@@ -16898,25 +16820,25 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo exclusivo para assinantes."
+            "value" : "Conteúdo exclusivo para premium."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo apenas para subscritores."
+            "value" : "Conteúdo apenas para assinantes."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conținut premium."
+            "value" : "Conținut premium exclusiv."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Только премиум-контент."
+            "value" : "Только для подписчиков контент премиум."
           }
         },
         "sk" : {
@@ -16928,7 +16850,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Premiuminnehåll endast."
+            "value" : "Endast premiuminnehåll."
           }
         },
         "th" : {
@@ -16946,13 +16868,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тільки преміум контент."
+            "value" : "Тільки преміум-контент."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chỉ nội dung cao cấp."
+            "value" : "Nội dung chỉ dành cho người dùng cao cấp."
           }
         },
         "zh-Hans" : {
@@ -16964,32 +16886,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "僅限會員內容。"
+            "value" : "僅限高級內容。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "僅限付費內容。"
+            "value" : "僅限高級內容。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.premiumContentOnlyDot" : {
-      "comment" : "Message indicating that content is premium and exclusive",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Premium content only."
-          }
-        }
-      }
-    },
-    "TK.Message.subscribeToAccessFullContent" : {
+    "TK.Message.subscribeToAccessFullContentDot" : {
       "comment" : "Prompt to subscribe for full content access",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17000,25 +16911,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирай се, за да получиш достъп до цялото съдържание."
+            "value" : "Абонирай се, за да получиш достъп до пълното съдържание."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subscriu-te per accedir al contingut complet."
+            "value" : "Subscripció per accedir al contingut complet."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přihlaste se pro přístup k celému obsahu."
+            "value" : "Předplať si pro přístup k celému obsahu."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilmeld dig for at få adgang til hele indholdet."
+            "value" : "Abonner for at få adgang til alt indhold."
           }
         },
         "de" : {
@@ -17030,7 +16941,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εγγραφείτε για να έχετε πρόσβαση σε όλο το περιεχόμενο."
+            "value" : "Εγγραφείτε για να αποκτήσετε πλήρη πρόσβαση στο περιεχόμενο."
           }
         },
         "en" : {
@@ -17072,7 +16983,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonnez-vous pour accéder au contenu complet."
+            "value" : "Abonnez-vous pour accéder à tout le contenu."
           }
         },
         "fr-CA" : {
@@ -17084,7 +16995,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הירשם כדי לגשת לתוכן המלא."
+            "value" : "הנך מוזמן/ת להירשם כדי להגיע לתוכן מלא."
           }
         },
         "hi" : {
@@ -17096,31 +17007,31 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretplatite se za pristup cijelom sadržaju."
+            "value" : "Pretplatite se za pristup potpunom sadržaju."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iratkozz fel a teljes tartalom eléréséhez."
+            "value" : "Iratkozz fel a teljes tartalomhoz való hozzáféréshez."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langganan untuk mengakses konten lengkap."
+            "value" : "Langgan untuk mengakses konten lengkap."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abbonati per accedere a contenuti completi."
+            "value" : "Abbonati per accedere al contenuto completo."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フルコンテンツにアクセスするにはサブスクリプションが必要です。"
+            "value" : "全コンテンツにアクセスするには、購読してください。"
           }
         },
         "kk" : {
@@ -17132,7 +17043,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "전체 콘텐츠에 접근하려면 구독하세요."
+            "value" : "전체 콘텐츠에 액세스하려면 구독하세요."
           }
         },
         "ms" : {
@@ -17144,25 +17055,25 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonner for å få tilgang til alt innholdet."
+            "value" : "Abonner for å få tilgang til fullt innhold."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonneer je voor volledige toegang tot de inhoud."
+            "value" : "Abonneer je om toegang te krijgen tot volledige inhoud."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subskrybuj, aby uzyskać pełny dostęp do treści."
+            "value" : "Subskrybuj, aby uzyskać dostęp do pełnej treści."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assine para acessar o conteúdo completo."
+            "value" : "Assine para acessar todo o conteúdo."
           }
         },
         "pt-PT" : {
@@ -17174,19 +17085,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonează-te pentru a accesa întregul conținut."
+            "value" : "Abonează-te pentru a accesa conținutul complet."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подпишитесь, чтобы получить доступ к полному контенту."
+            "value" : "Подпишись, чтобы получить полный доступ к контенту."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Predplať si prístup k celému obsahu."
+            "value" : "Predplaťte si prístup k celému obsahu."
           }
         },
         "sv" : {
@@ -17198,13 +17109,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สมัครสมาชิกเพื่อเข้าถึงเนื้อหาทั้งหมด"
+            "value" : "สมัครสมาชิกเพื่อเข้าถึงเนื้อหาทั้งหมด."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tam içeriğe erişim için abone olun."
+            "value" : "Tam içerik erişimi için abone olun."
           }
         },
         "uk" : {
@@ -17228,32 +17139,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閱以獲取完整內容。"
+            "value" : "訂閱以訪問完整內容。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂閱以獲取完整內容。"
+            "value" : "訂閱以獲取全部內容。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.subscribeToAccessFullContentDot" : {
-      "comment" : "Prompt to subscribe for full content access",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Subscribe to access full content."
-          }
-        }
-      }
-    },
-    "TK.Message.unableToLoadNews" : {
+    "TK.Message.unableToLoadNewsDot" : {
       "comment" : "Error message when news content cannot be loaded",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17264,37 +17164,37 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не може да се заредят новини."
+            "value" : "Не е възможно да се заредят новините."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No es poden carregar les notícies."
+            "value" : "No es pot carregar les notícies."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nelze načíst zprávy."
+            "value" : "Nepodařilo se načíst novinky."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan ikke indlæse nyheder."
+            "value" : "Kunne ikke indlæse nyheder."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nachrichten können nicht geladen werden."
+            "value" : "Nachrichteninhalt kann nicht geladen werden."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αδύνατη η φόρτωση ειδήσεων."
+            "value" : "Αδυναμία φόρτωσης ειδήσεων."
           }
         },
         "en" : {
@@ -17318,13 +17218,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se puede cargar las noticias."
+            "value" : "No se pueden cargar las noticias."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se pueden cargar las noticias."
+            "value" : "No se puede cargar las noticias."
           }
         },
         "fi" : {
@@ -17336,7 +17236,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossible de charger les nouvelles."
+            "value" : "Impossible de charger les actualités."
           }
         },
         "fr-CA" : {
@@ -17366,7 +17266,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nem sikerült betölteni a híreket."
+            "value" : "Nem lehet betölteni a híreket."
           }
         },
         "id" : {
@@ -17384,19 +17284,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ニュースを読み込めませんでした。"
+            "value" : "ニュースを読み込めません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңалықтарды жүктеу мүмкін емес."
+            "value" : "Жаңалықтарды жүктеп алу мүмкін емес."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "뉴스를 불러올 수 없습니다."
+            "value" : "뉴스를 로드할 수 없습니다."
           }
         },
         "ms" : {
@@ -17414,7 +17314,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niet mogelijk om nieuws te laden."
+            "value" : "Kan nieuws niet laden."
           }
         },
         "pl" : {
@@ -17426,31 +17326,31 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Não foi possível carregar as notícias."
+            "value" : "Não é possível carregar as notícias."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Incapaz de carregar as notícias."
+            "value" : "Não é possível carregar notícias."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu se pot încărca știrile."
+            "value" : "Imposibil de încărcat știrile."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не удается загрузить новости."
+            "value" : "Невозможно загрузить новости."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nemožno načítať správy."
+            "value" : "Nepodarilo sa načítať správy."
           }
         },
         "sv" : {
@@ -17462,13 +17362,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่สามารถโหลดข่าวสารได้."
+            "value" : "ไม่สามารถโหลดข่าวได้."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Haberleri yüklemek mümkün olmadı."
+            "value" : "Haber yüklenemedi."
           }
         },
         "uk" : {
@@ -17492,7 +17392,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法載入新聞。"
+            "value" : "無法加載新聞。"
           }
         },
         "zh-HK" : {
@@ -17501,34 +17401,23 @@
             "value" : "無法加載新聞。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.unableToLoadNewsDot" : {
-      "comment" : "Error message when news content cannot be loaded",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to load news."
-          }
-        }
-      }
-    },
-    "TK.Message.yourNewsFeedIsUpToDate" : {
+    "TK.Message.yourNewsFeedIsUpToDateDot" : {
       "comment" : "Confirmation when the news feed is current",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "خلاصة أخبارك محدثة."
+            "value" : "خلاصتك الإخبارية محدثة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Новинарският ти поток е актуализиран."
+            "value" : "Вашият новинарски поток е актуален."
           }
         },
         "ca" : {
@@ -17540,25 +17429,25 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvé novinky jsou aktuální."
+            "value" : "Tvůj informační kanál je aktuální."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din nyhedsfeed er opdateret."
+            "value" : "Dit nyhedsfeed er opdateret."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dein Newsfeed ist aktuell."
+            "value" : "Dein Nachrichtenfeed ist auf dem neuesten Stand."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ροή ειδήσεών σου είναι ενημερωμένη."
+            "value" : "Η τροφοδοσία σας είναι ενημερωμένη."
           }
         },
         "en" : {
@@ -17594,13 +17483,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uutisvirrasi on ajan tasalla."
+            "value" : "Uutisvirrasi on päivitetty."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre fil d'actualité est à jour."
+            "value" : "Votre fil d’actualités est à jour."
           }
         },
         "fr-CA" : {
@@ -17612,31 +17501,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הפיד החדשות שלך מעודכן."
+            "value" : "עדכוני החדשות שלך מעודכנים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपकी समाचार फ़ीड अद्यतित है।"
+            "value" : "आपका समाचार फ़ीड अद्यतित है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj feed vijesti je ažuran."
+            "value" : "Vaš feed vijesti je ažuran."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A hírfolyamad naprakész."
+            "value" : "A hírcsatornád naprakész."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Berita terbarumu sudah diperbarui."
+            "value" : "Feed berita kamu sudah diperbarui."
           }
         },
         "it" : {
@@ -17648,13 +17537,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ニュースフィードは最新の状態です。"
+            "value" : "ニュースフィードは最新です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің жаңалықтар ағыныңыз жаңартылды."
+            "value" : "Сіздің жаңалықтарыңыз жаңартылды."
           }
         },
         "ko" : {
@@ -17666,13 +17555,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suapan berita anda adalah terkini."
+            "value" : "Sumber berita anda terkini."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nyhetsfeeden din er oppdatert."
+            "value" : "Nyhetsstrømmen din er oppdatert."
           }
         },
         "nl" : {
@@ -17684,7 +17573,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Twoja sekcja wiadomości jest aktualna."
+            "value" : "Twój kanał informacyjny jest aktualny."
           }
         },
         "pt-BR" : {
@@ -17702,37 +17591,37 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feed-ul tău de știri este la zi."
+            "value" : "Feed-ul tău de știri este actualizat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваша лента новостей актуальна."
+            "value" : "Твоя новостная лента актуальна."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj informačný kanál je aktuálny."
+            "value" : "Tvoj news feed je aktuálny."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ditt nyhetsflöde är uppdaterat."
+            "value" : "Din nyhetsfeed är uppdaterad."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ฟีดข่าวของคุณได้รับการอัปเดตแล้ว."
+            "value" : "ข่าวสารของคุณได้รับการอัปเดตแล้วค่ะ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Haber kaynağınız güncel."
+            "value" : "Haber kaynağınız günceldir."
           }
         },
         "uk" : {
@@ -17750,34 +17639,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的信息流是最新的。"
+            "value" : "您的新闻源已更新。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的新聞訂閱是最新的。"
+            "value" : "您的新聞動態已是最新。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的新闻动态是最新的。"
+            "value" : "你的新聞動態是最新的。"
           }
         }
-      }
-    },
-    "TK.Message.yourNewsFeedIsUpToDateDot" : {
-      "comment" : "Confirmation when the news feed is current",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your news feed is up to date."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addACommentDots" : {
       "comment" : "Placeholder for adding a comment to an article or post",
@@ -18019,7 +17897,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增註解…"
+            "value" : "加入註解…"
           }
         },
         "zh-HK" : {
@@ -18028,7 +17906,8 @@
             "value" : "新增評論…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a search topic or keyword",
@@ -18138,7 +18017,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite temu ili ključnu riječ…"
+            "value" : "Unesi temu ili ključnu riječ…"
           }
         },
         "hu" : {
@@ -18192,7 +18071,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer onderwerp of trefwoord in..."
+            "value" : "Voer onderwerp of trefwoord in…"
           }
         },
         "pl" : {
@@ -18204,7 +18083,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o tópico ou palavra-chave…"
+            "value" : "Digite o tópico ou palavra-chave…"
           }
         },
         "pt-PT" : {
@@ -18276,10 +18155,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入主題或關鍵字…"
+            "value" : "輸入主題或關鍵詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -18443,7 +18323,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter resultaten..."
+            "value" : "Filter resultaten…"
           }
         },
         "pl" : {
@@ -18530,7 +18410,8 @@
             "value" : "過濾結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingHeadlinesDots" : {
       "comment" : "Placeholder when loading headlines or main stories",
@@ -18781,7 +18662,8 @@
             "value" : "加載頭條新聞中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingNextStoryDots" : {
       "comment" : "Placeholder when loading the next story in a sequence",
@@ -18969,7 +18851,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Următoarea poveste…"
+            "value" : "Se încarcă povestea următoare…"
           }
         },
         "ru" : {
@@ -19032,7 +18914,8 @@
             "value" : "加載下一個故事中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noArticlesAvailableDots" : {
       "comment" : "Placeholder when no articles are available for the search",
@@ -19283,7 +19166,8 @@
             "value" : "沒有可用的文章…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no results match the search query",
@@ -19525,7 +19409,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到結果…"
+            "value" : "未找到結果..."
           }
         },
         "zh-HK" : {
@@ -19534,7 +19418,8 @@
             "value" : "未找到結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchNewsDots" : {
       "comment" : "Placeholder for searching news articles",
@@ -19698,7 +19583,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek nieuws…"
+            "value" : "Zoek in nieuws…"
           }
         },
         "pl" : {
@@ -19785,7 +19670,8 @@
             "value" : "搜索新聞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTrendingTopicsDots" : {
       "comment" : "Placeholder for searching trending topics",
@@ -19877,7 +19763,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chercher des sujets tendances…"
+            "value" : "Rechercher des sujets tendances…"
           }
         },
         "he" : {
@@ -19925,7 +19811,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Актуалды тақырыптарды іздеу…"
+            "value" : "Актуалды тақырыптарды іздеңіз..."
           }
         },
         "ko" : {
@@ -20009,7 +19895,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шукати популярні теми…"
+            "value" : "Шукати трендові теми…"
           }
         },
         "vi" : {
@@ -20036,7 +19922,8 @@
             "value" : "搜索热门话题…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeACommentDots" : {
       "comment" : "Placeholder for typing a comment",
@@ -20284,10 +20171,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入评论…"
+            "value" : "輸入評論…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.verifyingSourceDots" : {
       "comment" : "Placeholder while verifying the source of the article or content",
@@ -20457,7 +20345,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weryfikowanie źródła…"
+            "value" : "Weryfikowanie…"
           }
         },
         "pt-BR" : {
@@ -20538,7 +20426,8 @@
             "value" : "驗證來源…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeAReplyDots" : {
       "comment" : "Placeholder for writing a reply to a comment or article",
@@ -20606,7 +20495,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir una respuesta…"
+            "value" : "Escribe una respuesta…"
           }
         },
         "es-419" : {
@@ -20789,7 +20678,8 @@
             "value" : "撰写回复…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeYourOpinionDots" : {
       "comment" : "Placeholder for writing an opinion or review",
@@ -21037,10 +20927,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設好你的意見…"
+            "value" : "設置提醒…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

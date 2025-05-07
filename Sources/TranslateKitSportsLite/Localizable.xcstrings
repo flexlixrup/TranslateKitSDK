@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете резултат"
+            "value" : "Добави резултат"
           }
         },
         "ca" : {
@@ -247,10 +247,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加分数"
+            "value" : "添加分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addTeamMember" : {
       "comment" : "Use for adding a member to a sports team",
@@ -264,7 +265,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете член на отбора"
+            "value" : "Добави член на отбора"
           }
         },
         "ca" : {
@@ -501,7 +502,8 @@
             "value" : "添加队员"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkIn" : {
       "comment" : "Use for checking into a game or event",
@@ -749,10 +751,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "签到"
+            "value" : "签入"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compareStats" : {
       "comment" : "Use for comparing statistics between players or teams",
@@ -1003,7 +1006,8 @@
             "value" : "比較統計"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createTournament" : {
       "comment" : "Use for creating a sports tournament",
@@ -1167,7 +1171,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toernooi Creëren"
+            "value" : "Toernooi Aanmaken"
           }
         },
         "pl" : {
@@ -1191,7 +1195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crează turneu"
+            "value" : "Turneu de creare"
           }
         },
         "ru" : {
@@ -1254,7 +1258,8 @@
             "value" : "創建比賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.endGame" : {
       "comment" : "Use for ending a sports game",
@@ -1382,7 +1387,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termina partita"
+            "value" : "Termina Partita"
           }
         },
         "ja" : {
@@ -1505,7 +1510,8 @@
             "value" : "結束遊戲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportStats" : {
       "comment" : "Use for exporting sports statistics",
@@ -1519,7 +1525,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортируй статистики"
+            "value" : "Експортирай статистики"
           }
         },
         "ca" : {
@@ -1735,7 +1741,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xuất Thống kê"
+            "value" : "Xuất Thống Kê"
           }
         },
         "zh-Hans" : {
@@ -1756,7 +1762,8 @@
             "value" : "導出統計"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.followTeam" : {
       "comment" : "Use for following a sports team",
@@ -1764,7 +1771,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تابع الفريق"
+            "value" : "تابع"
           }
         },
         "bg" : {
@@ -1860,7 +1867,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "गांधी जी का पालन करें"
+            "value" : "टीम का अनुसरण करें"
           }
         },
         "hr" : {
@@ -1896,7 +1903,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Команданы-follow"
+            "value" : "Команданы ұстану"
           }
         },
         "ko" : {
@@ -2007,7 +2014,8 @@
             "value" : "跟随球队"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating sports performance or game reports",
@@ -2258,7 +2266,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.invitePlayers" : {
       "comment" : "Use for inviting players to join a team or event",
@@ -2476,7 +2485,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "veya"
+            "value" : "Oyuncuları Davet Et"
           }
         },
         "uk" : {
@@ -2506,10 +2515,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "邀请玩家"
+            "value" : "邀請玩家"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinEvent" : {
       "comment" : "Use for joining a sports event",
@@ -2583,7 +2593,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse al evento"
+            "value" : "Unirse al Evento"
           }
         },
         "fi" : {
@@ -2595,7 +2605,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rejoindre l'événement"
+            "value" : "Rejoindre l'évènement"
           }
         },
         "fr-CA" : {
@@ -2760,7 +2770,8 @@
             "value" : "加入活动"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinLeague" : {
       "comment" : "Use for joining a sports league",
@@ -2834,7 +2845,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse a la liga"
+            "value" : "Unirse a la Liga"
           }
         },
         "fi" : {
@@ -3011,7 +3022,8 @@
             "value" : "加入联赛"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.joinTeam" : {
       "comment" : "Use for joining a sports team",
@@ -3085,7 +3097,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse al equipo"
+            "value" : "Unirse al Equipo"
           }
         },
         "fi" : {
@@ -3262,7 +3274,8 @@
             "value" : "加入球队"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.manageTeam" : {
       "comment" : "Use for managing the details of a sports team",
@@ -3414,7 +3427,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uruskankan Pasukan"
+            "value" : " Uruskan Pasukan"
           }
         },
         "nb" : {
@@ -3513,7 +3526,8 @@
             "value" : "管理团队"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.postUpdate" : {
       "comment" : "Use for posting updates related to a sports event or team",
@@ -3764,7 +3778,8 @@
             "value" : "發佈更新"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.ratePlayer" : {
       "comment" : "Use for rating the performance of a player",
@@ -3904,7 +3919,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ойыншымен бағалау"
+            "value" : "Ойыншыны бағалау"
           }
         },
         "ko" : {
@@ -4015,7 +4030,8 @@
             "value" : "評分球員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use for recording sports performance or game details",
@@ -4266,7 +4282,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.registerTeam" : {
       "comment" : "Use for registering a sports team",
@@ -4364,7 +4381,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הרשם קבוצה"
+            "value" : "הרשמת קבוצה"
           }
         },
         "hi" : {
@@ -4517,7 +4534,8 @@
             "value" : "註冊隊伍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resumeGame" : {
       "comment" : "Use for resuming a paused game",
@@ -4768,7 +4786,8 @@
             "value" : "恢復遊戲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveGame" : {
       "comment" : "Use for saving a game in progress",
@@ -5019,7 +5038,8 @@
             "value" : "保存遊戲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleMatch" : {
       "comment" : "Use for scheduling a sports match",
@@ -5270,7 +5290,8 @@
             "value" : "安排比賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setGoal" : {
       "comment" : "Use for setting a performance goal in a game or match",
@@ -5302,7 +5323,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Mål"
+            "value" : "Sæt mål"
           }
         },
         "de" : {
@@ -5521,7 +5542,8 @@
             "value" : "設定目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareHighlight" : {
       "comment" : "Use for sharing a sports highlight",
@@ -5631,7 +5653,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podijeli uznak"
+            "value" : "Dijeli istaknutost"
           }
         },
         "hu" : {
@@ -5661,7 +5683,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нақты оқиғаны бөлісу"
+            "value" : "Қолтаңбаны бөлісу"
           }
         },
         "ko" : {
@@ -5721,7 +5743,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zdieľať záznam"
+            "value" : "Zdieľať záznamy"
           }
         },
         "sv" : {
@@ -5772,7 +5794,8 @@
             "value" : "分享亮點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startGame" : {
       "comment" : "Use for starting a sports game",
@@ -5816,7 +5839,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Παιχνίδι"
+            "value" : "Ξεκίνησε Παιχνίδι"
           }
         },
         "en" : {
@@ -5978,7 +6001,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Börja spel"
+            "value" : "Starta spel"
           }
         },
         "th" : {
@@ -6023,7 +6046,8 @@
             "value" : "開始遊戲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.submitScore" : {
       "comment" : "Use for submitting a score after a game or match",
@@ -6274,7 +6298,8 @@
             "value" : "提交分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.syncData" : {
       "comment" : "Use for syncing sports data across devices",
@@ -6438,7 +6463,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gegevens Synchroniseren"
+            "value" : "Sync gegevens"
           }
         },
         "pl" : {
@@ -6525,7 +6550,8 @@
             "value" : "同步數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking sports performance or statistics",
@@ -6551,7 +6577,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Sledovat"
           }
         },
         "da" : {
@@ -6569,7 +6595,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Παρακολούθησε"
           }
         },
         "en" : {
@@ -6695,7 +6721,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trak"
+            "value" : "Śledź"
           }
         },
         "pt-BR" : {
@@ -6707,7 +6733,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Rastrear"
           }
         },
         "ro" : {
@@ -6767,7 +6793,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "追蹤"
           }
         },
         "zh-HK" : {
@@ -6776,7 +6802,8 @@
             "value" : "Track"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackPerformance" : {
       "comment" : "Use for tracking the performance of a player or team",
@@ -6988,7 +7015,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ติดตามผลการแสดงของผู้เล่นหรือทีม"
+            "value" : "ติดตามประสิทธิภาพของผู้เล่นหรือทีม"
           }
         },
         "tr" : {
@@ -7027,7 +7054,8 @@
             "value" : "追蹤表現"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use for unfollowing a sports team",
@@ -7083,7 +7111,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfavourite"
+            "value" : "Unfollow"
           }
         },
         "en-GB" : {
@@ -7278,7 +7306,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.updateProfile" : {
       "comment" : "Use for updating the player's or team's profile",
@@ -7529,7 +7558,8 @@
             "value" : "更新個人資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewLeaderboard" : {
       "comment" : "Use for viewing the leaderboard in a sports event or league",
@@ -7543,7 +7573,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вижте класацията"
+            "value" : "Прегледай класацията"
           }
         },
         "ca" : {
@@ -7561,7 +7591,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se Rangeringsliste"
+            "value" : "Se lederboard"
           }
         },
         "de" : {
@@ -7780,7 +7810,8 @@
             "value" : "查看排行榜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewSchedule" : {
       "comment" : "Use for viewing the schedule of upcoming matches or events",
@@ -7794,7 +7825,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вижте разписанието"
+            "value" : "Прегледай разписанието"
           }
         },
         "ca" : {
@@ -8031,7 +8062,8 @@
             "value" : "查看時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewStats" : {
       "comment" : "Use for viewing statistics of a player or team",
@@ -8045,7 +8077,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вижте статистиките"
+            "value" : "Прегледай статистиките"
           }
         },
         "ca" : {
@@ -8282,7 +8314,8 @@
             "value" : "查看統計"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.watchLive" : {
       "comment" : "Use for watching a live sports event",
@@ -8356,7 +8389,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ver en vivo"
+            "value" : "Ver en vivo"
           }
         },
         "fi" : {
@@ -8398,7 +8431,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Élő közvetítés"
+            "value" : "Élő nézés"
           }
         },
         "id" : {
@@ -8533,7 +8566,8 @@
             "value" : "直播觀看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.watchReplay" : {
       "comment" : "Use for watching a replay of a game or match",
@@ -8607,7 +8641,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ver repetición"
+            "value" : "Ver repetición"
           }
         },
         "fi" : {
@@ -8709,7 +8743,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assistir Repetição"
+            "value" : "Assistir ao Replay"
           }
         },
         "pt-PT" : {
@@ -8784,7 +8818,8 @@
             "value" : "重播觀看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.achievements" : {
       "comment" : "Use for referring to accomplishments or awards in sports",
@@ -9035,7 +9070,8 @@
             "value" : "成就"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.averagePace" : {
       "comment" : "Use for tracking the average pace of a player or team",
@@ -9286,7 +9322,8 @@
             "value" : "平均配速"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.averageSpeed" : {
       "comment" : "Use for tracking the average speed of a player or team",
@@ -9537,7 +9574,8 @@
             "value" : "平均速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.awayTeam" : {
       "comment" : "Use for referring to the away team in a match",
@@ -9647,13 +9685,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gostići"
+            "value" : "Gosti"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vendég csapat"
+            "value" : "Vendégcsapat"
           }
         },
         "id" : {
@@ -9665,7 +9703,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Squadra In Trasferta"
+            "value" : "squadra ospite"
           }
         },
         "ja" : {
@@ -9683,7 +9721,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "대기 팀"
+            "value" : "원정팀"
           }
         },
         "ms" : {
@@ -9788,7 +9826,8 @@
             "value" : "客队"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.coach" : {
       "comment" : "Use for referring to a sports coach",
@@ -10039,7 +10078,8 @@
             "value" : "教練"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fitnessScore" : {
       "comment" : "Use for displaying a player's or team's fitness score",
@@ -10107,7 +10147,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puntuación de Fitness"
+            "value" : "Calificación física"
           }
         },
         "es-419" : {
@@ -10290,7 +10330,8 @@
             "value" : "健身分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gameTime" : {
       "comment" : "Use for referring to the start time of a game",
@@ -10424,7 +10465,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ゲームの開始時間"
+            "value" : "ゲーム時間"
           }
         },
         "kk" : {
@@ -10454,7 +10495,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijd voor de Spel"
+            "value" : "Game Tijd"
           }
         },
         "pl" : {
@@ -10541,7 +10582,8 @@
             "value" : "遊戲時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking the heart rate during sports activities",
@@ -10792,7 +10834,8 @@
             "value" : "心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.highScore" : {
       "comment" : "Use for displaying a player's highest score",
@@ -10818,7 +10861,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nejlepší skóre"
+            "value" : "Nejvyšší skóre"
           }
         },
         "da" : {
@@ -10992,7 +11035,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najvyšší skóre"
+            "value" : "Najvyššie skóre"
           }
         },
         "sv" : {
@@ -11043,7 +11086,8 @@
             "value" : "最高分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.homeTeam" : {
       "comment" : "Use for referring to the home team in a match",
@@ -11294,7 +11338,8 @@
             "value" : "主場隊伍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.leaderboard" : {
       "comment" : "Use for displaying the leaderboard of a sports event",
@@ -11545,7 +11590,8 @@
             "value" : "排行榜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.league" : {
       "comment" : "Use for referring to a sports league",
@@ -11673,7 +11719,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leghe"
+            "value" : "Lega"
           }
         },
         "ja" : {
@@ -11796,7 +11842,8 @@
             "value" : "聯盟"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.level" : {
       "comment" : "Use for referring to a player's level in a sports game or event",
@@ -12047,7 +12094,8 @@
             "value" : "級別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.match" : {
       "comment" : "Use for referring to a sports match",
@@ -12298,7 +12346,8 @@
             "value" : "比賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.performance" : {
       "comment" : "Use for tracking player or team performance",
@@ -12549,7 +12598,8 @@
             "value" : "表現"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.players" : {
       "comment" : "Use for referring to sports players",
@@ -12563,7 +12613,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играч"
+            "value" : "Играчите"
           }
         },
         "ca" : {
@@ -12701,7 +12751,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemain"
+            "value" : "Pemain-Pemain"
           }
         },
         "nb" : {
@@ -12800,7 +12850,8 @@
             "value" : "球員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.points" : {
       "comment" : "Use for displaying points earned in a game or event",
@@ -12982,7 +13033,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "pontos"
+            "value" : "Pontos"
           }
         },
         "ro" : {
@@ -13024,7 +13075,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Балів"
+            "value" : "Бали"
           }
         },
         "vi" : {
@@ -13051,7 +13102,8 @@
             "value" : "點數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.rankings" : {
       "comment" : "Use for displaying the rankings of players or teams",
@@ -13209,7 +13261,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Køer"
+            "value" : "Rangeringer"
           }
         },
         "nl" : {
@@ -13302,7 +13354,8 @@
             "value" : "排名"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.referee" : {
       "comment" : "Use for referring to the referee in a match",
@@ -13553,7 +13606,8 @@
             "value" : "裁判"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.roster" : {
       "comment" : "Use for displaying a team roster",
@@ -13717,7 +13771,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectie"
+            "value" : "Teamlijst"
           }
         },
         "pl" : {
@@ -13771,7 +13825,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kadrolar"
+            "value" : "Kadro"
           }
         },
         "uk" : {
@@ -13804,7 +13858,8 @@
             "value" : "名單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.score" : {
       "comment" : "Use for displaying the score in a game or match",
@@ -14055,7 +14110,8 @@
             "value" : "分數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.season" : {
       "comment" : "Use for referring to a specific sports season",
@@ -14291,7 +14347,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "赛季"
+            "value" : "季节"
           }
         },
         "zh-Hant" : {
@@ -14306,7 +14362,8 @@
             "value" : "賽季"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sessionDuration" : {
       "comment" : "Use for tracking the duration of a sports session",
@@ -14332,7 +14389,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doba sezení"
+            "value" : "Délka sezení"
           }
         },
         "da" : {
@@ -14470,7 +14527,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sessie Duur"
+            "value" : "Sessie duur"
           }
         },
         "pl" : {
@@ -14557,7 +14614,8 @@
             "value" : "會話持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.standings" : {
       "comment" : "Use for displaying current standings in a tournament or league",
@@ -14808,7 +14866,8 @@
             "value" : "名次"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stats" : {
       "comment" : "Use for referring to sports statistics",
@@ -15059,7 +15118,8 @@
             "value" : "統計"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.teamMembers" : {
       "comment" : "Use for displaying the members of a sports team",
@@ -15310,7 +15370,8 @@
             "value" : "團隊成員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.teams" : {
       "comment" : "Use for referring to sports teams",
@@ -15561,7 +15622,8 @@
             "value" : "隊伍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tournament" : {
       "comment" : "Use for referring to a sports tournament",
@@ -15677,7 +15739,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Torname"
+            "value" : "Torna"
           }
         },
         "id" : {
@@ -15812,7 +15874,8 @@
             "value" : "錦標賽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.venue" : {
       "comment" : "Use for referring to the location of a match or event",
@@ -15820,7 +15883,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "موقع"
+            "value" : "مكان"
           }
         },
         "bg" : {
@@ -16063,7 +16126,8 @@
             "value" : "場地"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.weeklyGoals" : {
       "comment" : "Use for displaying the weekly goals of a player or team",
@@ -16314,7 +16378,8 @@
             "value" : "每週目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.achievementUnlocked" : {
       "comment" : "Notification that a new achievement has been unlocked",
@@ -16448,7 +16513,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成目標が解除されました"
+            "value" : "実績を達成しました"
           }
         },
         "kk" : {
@@ -16565,7 +16630,8 @@
             "value" : "成就已解鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dailyStreakAchieved" : {
       "comment" : "Notification for completing a daily streak",
@@ -16651,7 +16717,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Série quotidienne atteinte."
+            "value" : "Série quotidienne atteinte !"
           }
         },
         "fr-CA" : {
@@ -16711,7 +16777,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일일 연속 기록 달성!"
+            "value" : "일일 스트릭 달성!"
           }
         },
         "ms" : {
@@ -16771,7 +16837,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daglig streak uppnådd!"
+            "value" : "Daglig serieserie uppnådd!"
           }
         },
         "th" : {
@@ -16816,7 +16882,8 @@
             "value" : "每日連續達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.gameInProgress" : {
       "comment" : "Notification that a game is currently in progress",
@@ -16824,13 +16891,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اللعبة جارية بالفعل."
+            "value" : "اللعبة جارية."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играта е в ход"
+            "value" : "Играта е в ход."
           }
         },
         "ca" : {
@@ -16854,7 +16921,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spiel läuft."
+            "value" : "Spiel läuft"
           }
         },
         "el" : {
@@ -16884,7 +16951,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Juego en progreso."
+            "value" : "Juego en progreso"
           }
         },
         "es-419" : {
@@ -16914,7 +16981,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "משחק בתהליך."
+            "value" : "משחק בתהליך"
           }
         },
         "hi" : {
@@ -16926,7 +16993,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Igra je u tijeku"
+            "value" : "Igra je u tijeku."
           }
         },
         "hu" : {
@@ -17004,7 +17071,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jocul este în desfășurare."
+            "value" : "Joc în desfășurare"
           }
         },
         "ru" : {
@@ -17040,13 +17107,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гра триває."
+            "value" : "Гра триває"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trò chơi đang diễn ra"
+            "value" : "Trò chơi đang tiến hành"
           }
         },
         "zh-Hans" : {
@@ -17067,7 +17134,8 @@
             "value" : "遊戲進行中"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.gameStartingSoon" : {
       "comment" : "Notification for an upcoming game",
@@ -17081,7 +17149,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Игра скоро започва"
+            "value" : "Играта скоро започва."
           }
         },
         "ca" : {
@@ -17105,7 +17173,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Das Spiel beginnt bald."
+            "value" : "Spiel beginnt bald"
           }
         },
         "el" : {
@@ -17135,7 +17203,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El juego comenzará pronto."
+            "value" : "El juego comenzará pronto"
           }
         },
         "es-419" : {
@@ -17177,7 +17245,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Igra počinje uskoro"
+            "value" : "Igra počinje uskoro."
           }
         },
         "hu" : {
@@ -17318,7 +17386,8 @@
             "value" : "遊戲即將開始"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.leagueRegistrationOpen" : {
       "comment" : "Notification that league registration is now open",
@@ -17326,7 +17395,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تسجيل الدوري مفتوح."
+            "value" : "تسجيل الدوري مفتوح"
           }
         },
         "bg" : {
@@ -17338,7 +17407,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscripció a la lliga oberta"
+            "value" : "La inscripció a la lliga està oberta"
           }
         },
         "cs" : {
@@ -17380,13 +17449,13 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "League registration open"
+            "value" : "League registration open."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscripción a la liga abierta"
+            "value" : "Inscripción para la liga abierta"
           }
         },
         "es-419" : {
@@ -17500,7 +17569,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscrições para a liga abertas."
+            "value" : "As inscrições para a liga estão abertas."
           }
         },
         "ro" : {
@@ -17569,7 +17638,8 @@
             "value" : "聯盟註冊開放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.liveStreamEnded" : {
       "comment" : "Notification that the live stream has ended",
@@ -17577,7 +17647,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "انتهت البث المباشر."
+            "value" : "انتهى البث المباشر."
           }
         },
         "bg" : {
@@ -17637,7 +17707,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transmisión en vivo finalizada"
+            "value" : "Transmisión en vivo terminada"
           }
         },
         "es-419" : {
@@ -17820,7 +17890,8 @@
             "value" : "直播已結束"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.matchCancelled" : {
       "comment" : "Notification that a match has been cancelled",
@@ -17882,7 +17953,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match Cancelled"
+            "value" : "Match Cancelled."
           }
         },
         "es" : {
@@ -18038,7 +18109,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maç İptal Edildi"
+            "value" : "Maç iptal edildi."
           }
         },
         "uk" : {
@@ -18071,7 +18142,8 @@
             "value" : "比賽已取消"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.matchPostponed" : {
       "comment" : "Notification that a match has been postponed",
@@ -18133,7 +18205,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match postponed"
+            "value" : "Match postponed."
           }
         },
         "es" : {
@@ -18157,7 +18229,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match reporté."
+            "value" : "Le match est reporté."
           }
         },
         "fr-CA" : {
@@ -18322,7 +18394,8 @@
             "value" : "比賽已推遲"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newGameScheduled" : {
       "comment" : "Notification that a new game has been scheduled",
@@ -18342,7 +18415,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nou partit programat."
+            "value" : "Nou partit programat"
           }
         },
         "cs" : {
@@ -18396,7 +18469,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo juego programado"
+            "value" : "Se ha programado un nuevo juego"
           }
         },
         "fi" : {
@@ -18558,13 +18631,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新游戏已安排。"
+            "value" : "新游戏已安排"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已安排新遊戲"
+            "value" : "已排程新遊戲"
           }
         },
         "zh-HK" : {
@@ -18573,7 +18646,8 @@
             "value" : "新遊戲已排期。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.newPersonalRecord" : {
       "comment" : "Notification for achieving a new personal record",
@@ -18587,7 +18661,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ново личен рекорд."
+            "value" : "Нов личен рекорд."
           }
         },
         "ca" : {
@@ -18629,13 +18703,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New personal record"
+            "value" : "New personal record."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New personal record"
+            "value" : "New personal record."
           }
         },
         "es" : {
@@ -18677,7 +18751,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नया व्यक्तिगत रिकॉर्ड"
+            "value" : "नया व्यक्तिगत रिकॉर्ड।"
           }
         },
         "hr" : {
@@ -18725,13 +18799,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rekod peribadi baru"
+            "value" : "Rekod peribadi baharu"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nytt personlig rekord"
+            "value" : "Ny personlig rekord"
           }
         },
         "nl" : {
@@ -18791,7 +18865,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni kişisel rekor"
+            "value" : "Yeni kişisel rekor kırıldı."
           }
         },
         "uk" : {
@@ -18809,7 +18883,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新的个人记录"
+            "value" : "新的个人记录。"
           }
         },
         "zh-Hant" : {
@@ -18824,7 +18898,8 @@
             "value" : "新的個人紀錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.rankIncreased" : {
       "comment" : "Notification that the player's or team's rank has increased",
@@ -18838,7 +18913,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рангът се е увеличил."
+            "value" : "Рангът се е увеличил"
           }
         },
         "ca" : {
@@ -18856,7 +18931,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rang forhøjet."
+            "value" : "Rang forhøjet"
           }
         },
         "de" : {
@@ -18898,7 +18973,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rango incrementado"
+            "value" : "Clasificación aumentada"
           }
         },
         "fi" : {
@@ -18910,7 +18985,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rang augmenté."
+            "value" : "Rang augmenté"
           }
         },
         "fr-CA" : {
@@ -18952,7 +19027,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classifica migliorata."
+            "value" : "Grado aumentato."
           }
         },
         "ja" : {
@@ -18988,7 +19063,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rang is verhoogd."
+            "value" : "Rang verhoogd"
           }
         },
         "pl" : {
@@ -19000,19 +19075,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classificação aumentada"
+            "value" : "Classificação aumentada."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classificação aumentada."
+            "value" : "Classificação aumentada"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rangul a crescut."
+            "value" : "Rangul a crescut"
           }
         },
         "ru" : {
@@ -19072,10 +19147,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "排名已提高。"
+            "value" : "排名已提高"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.seasonHasEnded" : {
       "comment" : "Notification that the current season has ended",
@@ -19137,7 +19213,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Season has ended."
+            "value" : "Season has ended"
           }
         },
         "es" : {
@@ -19149,7 +19225,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La temporada ha terminado."
+            "value" : "La temporada ha terminado"
           }
         },
         "fi" : {
@@ -19173,7 +19249,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עונה הסתיימה."
+            "value" : "העונה הסתיימה"
           }
         },
         "hi" : {
@@ -19251,7 +19327,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A temporada terminou."
+            "value" : "A temporada terminou"
           }
         },
         "pt-PT" : {
@@ -19323,10 +19399,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "本季已結束"
+            "value" : "本季已結束。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.tournamentRegistrationClosed" : {
       "comment" : "Notification that tournament registration has closed",
@@ -19388,7 +19465,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tournament registration is closed."
+            "value" : "Tournament registration has closed."
           }
         },
         "es" : {
@@ -19400,7 +19477,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registro de torneo cerrado."
+            "value" : "Cerrado el registro del torneo."
           }
         },
         "fi" : {
@@ -19418,7 +19495,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inscription au tournoi fermée."
+            "value" : "Inscription au tournoi fermée"
           }
         },
         "he" : {
@@ -19436,7 +19513,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registracija za turnir zatvorena."
+            "value" : "Registracija za turnir zatvorena"
           }
         },
         "hu" : {
@@ -19577,7 +19654,8 @@
             "value" : "比賽報名已關閉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.venueChanged" : {
       "comment" : "Notification that the venue for a match has changed",
@@ -19639,7 +19717,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Venue has changed."
+            "value" : "Venue changed."
           }
         },
         "es" : {
@@ -19729,7 +19807,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempat telah ditukar"
+            "value" : "Tempat ditukar"
           }
         },
         "nb" : {
@@ -19759,7 +19837,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Local mudado"
+            "value" : "Local alterado"
           }
         },
         "ro" : {
@@ -19771,7 +19849,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Место изменения"
+            "value" : "Место проведения изменено"
           }
         },
         "sk" : {
@@ -19828,7 +19906,8 @@
             "value" : "場地已變更"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.victoryAchieved" : {
       "comment" : "Notification for winning a match or event",
@@ -20004,7 +20083,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vitória alcançada"
+            "value" : "Vitória alcançada."
           }
         },
         "pt-PT" : {
@@ -20070,7 +20149,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "勝利達成"
+            "value" : "勝利達成。"
           }
         },
         "zh-HK" : {
@@ -20079,7 +20158,8 @@
             "value" : "已獲勝"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterLeagueNameDots" : {
       "comment" : "Placeholder for entering the name of a league",
@@ -20117,13 +20197,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liganamen eingeben…"
+            "value" : "Ligennamen eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όνομα πρωταθλήματος…"
+            "value" : "Γράψε όνομα πρωταθλήματος…"
           }
         },
         "en" : {
@@ -20189,7 +20269,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv lige…"
+            "value" : "Unesi naziv lige…"
           }
         },
         "hu" : {
@@ -20225,7 +20305,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "리그 이름 입력…"
+            "value" : "리그 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -20249,7 +20329,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz nazwę ligi…"
+            "value" : "Wprowadź nazwę ligi…"
           }
         },
         "pt-BR" : {
@@ -20291,13 +20371,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อลีก…"
+            "value" : "กรอกชื่อลีก…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lig adını girin…"
+            "value" : "Lig adını gir…"
           }
         },
         "uk" : {
@@ -20330,7 +20410,8 @@
             "value" : "輸入聯賽名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterRosterSizeDots" : {
       "comment" : "Placeholder for entering the number of players on a team",
@@ -20374,7 +20455,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε μέγεθος ρόστερ…"
+            "value" : "Γράψε μέγεθος ρόστερ…"
           }
         },
         "en" : {
@@ -20410,7 +20491,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä joukkueen koko…"
+            "value" : "Syötä roolin koko…"
           }
         },
         "fr" : {
@@ -20452,7 +20533,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan ukuran daftar…"
+            "value" : "Masukkan ukuran roster…"
           }
         },
         "it" : {
@@ -20542,7 +20623,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่จำนวนผู้เล่น…"
+            "value" : "กรอกขนาดรายชื่อผู้เล่น…"
           }
         },
         "tr" : {
@@ -20581,7 +20662,8 @@
             "value" : "輸入名單大小…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterScoreDots" : {
       "comment" : "Placeholder for entering the score of a game",
@@ -20625,7 +20707,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε σκορ…"
+            "value" : "Γράψε σκορ…"
           }
         },
         "en" : {
@@ -20793,7 +20875,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่คะแนน…"
+            "value" : "กรอกคะแนน…"
           }
         },
         "tr" : {
@@ -20832,7 +20914,8 @@
             "value" : "輸入得分…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSeasonDatesDots" : {
       "comment" : "Placeholder for entering the start and end dates of a season",
@@ -20876,7 +20959,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τις ημερομηνίες σεζόν…"
+            "value" : "Γράψε τις ημερομηνίες σεζόν…"
           }
         },
         "en" : {
@@ -21020,7 +21103,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti datele sezonului…"
+            "value" : "Introduceți datele sezonului…"
           }
         },
         "ru" : {
@@ -21044,7 +21127,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่วันเริ่มและวันสิ้นสุดของฤดูกาล…"
+            "value" : "กรอกวันของฤดูกาล…"
           }
         },
         "tr" : {
@@ -21083,7 +21166,8 @@
             "value" : "輸入賽季日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTeamCodeDots" : {
       "comment" : "Placeholder for entering a team code",
@@ -21259,7 +21343,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o código do time…"
+            "value" : "Digite o código do time…"
           }
         },
         "pt-PT" : {
@@ -21271,7 +21355,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți codul echipei…"
+            "value" : "Introdu codul echipei…"
           }
         },
         "ru" : {
@@ -21295,7 +21379,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสทีม…"
+            "value" : "กรอกรหัสทีม…"
           }
         },
         "tr" : {
@@ -21334,7 +21418,8 @@
             "value" : "輸入隊伍代碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTeamNameDots" : {
       "comment" : "Placeholder for entering a sports team name",
@@ -21510,7 +21595,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o nome do time…"
+            "value" : "Digite o nome do time…"
           }
         },
         "pt-PT" : {
@@ -21522,7 +21607,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți numele echipei…"
+            "value" : "Introdu numele echipei…"
           }
         },
         "ru" : {
@@ -21546,7 +21631,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อทีม…"
+            "value" : "กรอกชื่อทีม…"
           }
         },
         "tr" : {
@@ -21585,7 +21670,8 @@
             "value" : "輸入隊名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTournamentNameDots" : {
       "comment" : "Placeholder for entering the name of a tournament",
@@ -21701,7 +21787,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a tornamezetet…"
+            "value" : "Írd be a torna nevét…"
           }
         },
         "id" : {
@@ -21761,7 +21847,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o nome do torneio…"
+            "value" : "Digite o nome do torneio…"
           }
         },
         "pt-PT" : {
@@ -21773,7 +21859,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți numele turneului…"
+            "value" : "Introdu numele turneului…"
           }
         },
         "ru" : {
@@ -21836,7 +21922,8 @@
             "value" : "輸入錦標賽名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterVenueAddressDots" : {
       "comment" : "Placeholder for entering the venue address",
@@ -21904,7 +21991,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce la URL del lugar…"
+            "value" : "Introduce la dirección del lugar…"
           }
         },
         "es-419" : {
@@ -21946,13 +22033,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite adresu mjesta…"
+            "value" : "Unesi adresu mjesta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helyszín címének megadása…"
+            "value" : "Írd be a helyszín címét…"
           }
         },
         "id" : {
@@ -21994,7 +22081,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn adresse til arrangement…"
+            "value" : "Skriv inn adresse til arenaen…"
           }
         },
         "nl" : {
@@ -22012,7 +22099,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o endereço do local…"
+            "value" : "Digite o endereço do local…"
           }
         },
         "pt-PT" : {
@@ -22036,7 +22123,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte adresu miesta konania…"
+            "value" : "Zadaj adresu miesta konania…"
           }
         },
         "sv" : {
@@ -22087,7 +22174,8 @@
             "value" : "輸入場地地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findAPlayerDots" : {
       "comment" : "Placeholder for finding a specific player",
@@ -22113,7 +22201,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najděte hráče…"
+            "value" : "Najdi hráče…"
           }
         },
         "da" : {
@@ -22179,7 +22267,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez un joueur…"
+            "value" : "Trouver un joueur…"
           }
         },
         "he" : {
@@ -22338,7 +22426,8 @@
             "value" : "找一位球員…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.logPerformanceDots" : {
       "comment" : "Placeholder for logging sports performance data",
@@ -22370,7 +22459,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logge præstation…"
+            "value" : "Logger præstation…"
           }
         },
         "de" : {
@@ -22472,7 +22561,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "パフォーマンスを記録しています…"
+            "value" : "パフォーマンスを記録中…"
           }
         },
         "kk" : {
@@ -22514,7 +22603,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar desempenho…"
+            "value" : "Registrando desempenho…"
           }
         },
         "pt-PT" : {
@@ -22589,7 +22678,8 @@
             "value" : "記錄表現…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchAchievementsDots" : {
       "comment" : "Placeholder for searching sports achievements",
@@ -22693,7 +22783,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उपलब्धियों की खोज करें…"
+            "value" : "उपलब्धियों की खोज कर रहे हैं…"
           }
         },
         "hr" : {
@@ -22840,7 +22930,8 @@
             "value" : "搜尋成就…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchAthletesDots" : {
       "comment" : "Placeholder for searching athletes",
@@ -22908,7 +22999,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar atletas…"
+            "value" : "Busca atletas…"
           }
         },
         "es-419" : {
@@ -23052,7 +23143,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหาแชมป์…"
+            "value" : "ค้นหานักกีฬา…"
           }
         },
         "tr" : {
@@ -23091,7 +23182,8 @@
             "value" : "搜尋運動員…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchLeaguesDots" : {
       "comment" : "Placeholder for searching sports leagues",
@@ -23111,7 +23203,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant lligues…"
+            "value" : "Cerca lligues…"
           }
         },
         "cs" : {
@@ -23123,7 +23215,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger ligaer…"
+            "value" : "Søg ligaer…"
           }
         },
         "de" : {
@@ -23201,7 +23293,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tražim lige…"
+            "value" : "Pretraži po ligama…"
           }
         },
         "hu" : {
@@ -23213,7 +23305,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari liga…"
+            "value" : "Cari liga…"
           }
         },
         "it" : {
@@ -23243,7 +23335,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari liga…"
+            "value" : "Cari liga…"
           }
         },
         "nb" : {
@@ -23342,7 +23434,8 @@
             "value" : "搜尋聯賽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchMatchesDots" : {
       "comment" : "Placeholder for searching sports matches",
@@ -23374,7 +23467,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger kampe…"
+            "value" : "Søg kampe…"
           }
         },
         "de" : {
@@ -23476,7 +23569,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "試合を検索中…"
+            "value" : "試合を検索…"
           }
         },
         "kk" : {
@@ -23494,7 +23587,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari perlawanan…"
+            "value" : "Cari perlawanan…"
           }
         },
         "nb" : {
@@ -23566,7 +23659,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук матчів…"
+            "value" : "Шукати матчі…"
           }
         },
         "vi" : {
@@ -23593,7 +23686,8 @@
             "value" : "搜尋比賽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchPlayersDots" : {
       "comment" : "Placeholder for searching players",
@@ -23733,7 +23827,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ойыншыларды іздеу…"
+            "value" : "Ойыншыларды іздеңіз..."
           }
         },
         "ko" : {
@@ -23745,7 +23839,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian pemain…"
+            "value" : "Cari pemain…"
           }
         },
         "nb" : {
@@ -23799,7 +23893,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök spelare..."
+            "value" : "Sök spelare…"
           }
         },
         "th" : {
@@ -23835,7 +23929,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋玩家..."
+            "value" : "搜尋玩家…"
           }
         },
         "zh-HK" : {
@@ -23844,7 +23938,8 @@
             "value" : "搜尋玩家…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTeamsDots" : {
       "comment" : "Placeholder for searching sports teams",
@@ -23876,7 +23971,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg hold…"
+            "value" : "Søg i hold…"
           }
         },
         "de" : {
@@ -23924,7 +24019,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi joukkueita..."
+            "value" : "Etsi joukkueita…"
           }
         },
         "fr" : {
@@ -23984,7 +24079,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Командаларды іздеу…"
+            "value" : "Командаларды іздеңіз..."
           }
         },
         "ko" : {
@@ -23996,7 +24091,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian pasukan…"
+            "value" : "Cari pasukan…"
           }
         },
         "nb" : {
@@ -24050,7 +24145,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök lag..."
+            "value" : "Sök lag…"
           }
         },
         "th" : {
@@ -24086,7 +24181,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋隊伍..."
+            "value" : "搜尋隊伍…"
           }
         },
         "zh-HK" : {
@@ -24095,7 +24190,8 @@
             "value" : "搜尋球隊…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchTournamentsDots" : {
       "comment" : "Placeholder for searching sports tournaments",
@@ -24127,7 +24223,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg turneringer…"
+            "value" : "Søg i turneringer…"
           }
         },
         "de" : {
@@ -24175,7 +24271,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi turnauksia..."
+            "value" : "Etsi turnauksia…"
           }
         },
         "fr" : {
@@ -24235,7 +24331,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Турнирлерді іздеу…"
+            "value" : "Турнирлерді іздеңіз..."
           }
         },
         "ko" : {
@@ -24247,7 +24343,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian kejohanan…"
+            "value" : "Cari kejohanan…"
           }
         },
         "nb" : {
@@ -24301,7 +24397,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök turneringar..."
+            "value" : "Sök turneringar…"
           }
         },
         "th" : {
@@ -24337,7 +24433,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋錦標賽..."
+            "value" : "搜尋錦標賽…"
           }
         },
         "zh-HK" : {
@@ -24346,7 +24442,8 @@
             "value" : "搜尋比賽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchVenuesDots" : {
       "comment" : "Placeholder for searching venues for matches or events",
@@ -24378,7 +24475,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg steder…"
+            "value" : "Søg i steder…"
           }
         },
         "de" : {
@@ -24426,7 +24523,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi tapahtumapaikkoja..."
+            "value" : "Etsi tapahtumapaikkoja…"
           }
         },
         "fr" : {
@@ -24486,7 +24583,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ойын өткізетін жерлерді іздеу…"
+            "value" : "Ойын өткізетін жерлерді іздеңіз..."
           }
         },
         "ko" : {
@@ -24588,7 +24685,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋場地..."
+            "value" : "搜尋場地…"
           }
         },
         "zh-HK" : {
@@ -24597,7 +24694,8 @@
             "value" : "搜尋場地…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setFitnessGoalDots" : {
       "comment" : "Placeholder for setting a fitness goal",
@@ -24611,7 +24709,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определяне на фитнес цел..."
+            "value" : "Определи фитнес цел…"
           }
         },
         "ca" : {
@@ -24773,13 +24871,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir meta de fitness…"
+            "value" : "Definir meta de condicionamento físico…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir objetivo de fitness…"
+            "value" : "Definir um objetivo de fitness…"
           }
         },
         "ro" : {
@@ -24839,7 +24937,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置健身目標..."
+            "value" : "設置健身目標…"
           }
         },
         "zh-HK" : {
@@ -24848,7 +24946,8 @@
             "value" : "設置健身目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.trackWorkoutDots" : {
       "comment" : "Placeholder for tracking a workout session",
@@ -25066,7 +25165,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Antrenmanı takip et…"
+            "value" : "Antreman takibi…"
           }
         },
         "uk" : {
@@ -25099,7 +25198,8 @@
             "value" : "追蹤運動…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

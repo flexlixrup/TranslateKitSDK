@@ -91,7 +91,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter au Panier"
+            "value" : "Ajouter au panier"
           }
         },
         "he" : {
@@ -163,7 +163,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aan Winkelwagentje Toevoegen"
+            "value" : "Winkelwagen Toevoegen"
           }
         },
         "pl" : {
@@ -250,7 +250,8 @@
             "value" : "加入購物車"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding an item to the favorite list",
@@ -270,7 +271,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir als favorits"
+            "value" : "Afegir a Favorits"
           }
         },
         "cs" : {
@@ -492,7 +493,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入喜好項目"
+            "value" : "加入我的最愛"
           }
         },
         "zh-HK" : {
@@ -501,7 +502,8 @@
             "value" : "加至我的最愛"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.applyCoupon" : {
       "comment" : "Use when applying a discount coupon to the order",
@@ -752,7 +754,8 @@
             "value" : "應用優惠券"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use when applying filters to search or menu results",
@@ -862,7 +865,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Primijeni filtr"
+            "value" : "Primijeni filter"
           }
         },
         "hu" : {
@@ -1003,7 +1006,8 @@
             "value" : "套用過濾器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookTable" : {
       "comment" : "Use when making a reservation at a restaurant",
@@ -1017,7 +1021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте маса"
+            "value" : "Резервирай маса"
           }
         },
         "ca" : {
@@ -1254,7 +1258,8 @@
             "value" : "预订餐桌"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.browseMenu" : {
       "comment" : "Use when viewing the available menu items",
@@ -1406,7 +1411,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "浏览菜单"
+            "value" : "Semak Imbas Menu"
           }
         },
         "nb" : {
@@ -1505,7 +1510,8 @@
             "value" : "浏览菜单"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkAvailability" : {
       "comment" : "Use when checking the availability of a dish or table",
@@ -1756,7 +1762,8 @@
             "value" : "检查可用性"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createOrder" : {
       "comment" : "Use when creating a new order",
@@ -1920,7 +1927,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestelling Creëren"
+            "value" : "Bestelling Aanmaken"
           }
         },
         "pl" : {
@@ -1944,7 +1951,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crează comandă"
+            "value" : "Creează comandă"
           }
         },
         "ru" : {
@@ -2007,7 +2014,8 @@
             "value" : "建立訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.filterDiet" : {
       "comment" : "Use when filtering menu items based on dietary preferences",
@@ -2033,7 +2041,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrování"
+            "value" : "Filtrovat dietu"
           }
         },
         "da" : {
@@ -2207,7 +2215,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrovať diétu"
+            "value" : "Vyplniť"
           }
         },
         "sv" : {
@@ -2255,10 +2263,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "篩選飲食"
+            "value" : "將篩選項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.likeRecipe" : {
       "comment" : "Use when marking a recipe as liked",
@@ -2302,7 +2311,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αρέσει Συνταγή"
+            "value" : "Σημείωσε τη συνταγή ως αρεστή"
           }
         },
         "en" : {
@@ -2326,7 +2335,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Me gusta la receta"
+            "value" : "Me gusta la Partitura"
           }
         },
         "es-419" : {
@@ -2509,7 +2518,8 @@
             "value" : "喜欢食谱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logMeal" : {
       "comment" : "Use when logging a meal or dish for tracking purposes",
@@ -2583,7 +2593,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar Comida"
+            "value" : "Registrar comida"
           }
         },
         "fi" : {
@@ -2607,7 +2617,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכן מים"
+            "value" : "רשום ארוחה"
           }
         },
         "hi" : {
@@ -2760,7 +2770,8 @@
             "value" : "記錄餐食"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.orderNow" : {
       "comment" : "Use for placing an immediate order",
@@ -3011,7 +3022,8 @@
             "value" : "立即訂購"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.placeOrder" : {
       "comment" : "Use when finalizing the order process",
@@ -3262,7 +3274,8 @@
             "value" : "下訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.printRecipe" : {
       "comment" : "Use when printing a recipe for later reference",
@@ -3513,7 +3526,8 @@
             "value" : "列印食譜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rateContent" : {
       "comment" : "Use when rating a piece of content",
@@ -3764,7 +3778,8 @@
             "value" : "評價內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rateDish" : {
       "comment" : "Use when rating a specific dish or meal",
@@ -3904,7 +3919,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ыдысты бағалау"
+            "value" : "Тамақты бағалау"
           }
         },
         "ko" : {
@@ -4015,7 +4030,8 @@
             "value" : "評分菜餚"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeFromCart" : {
       "comment" : "Use when removing an item from the shopping cart",
@@ -4266,7 +4282,8 @@
             "value" : "從購物車移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reserve" : {
       "comment" : "Use when reserving a table or a service",
@@ -4517,7 +4534,8 @@
             "value" : "預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reviewOrder" : {
       "comment" : "Use when reviewing the details of an order before confirming",
@@ -4768,7 +4786,8 @@
             "value" : "檢閱訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveRecipe" : {
       "comment" : "Use when saving a recipe for future use",
@@ -5019,7 +5038,8 @@
             "value" : "保存食譜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scanBarcode" : {
       "comment" : "Use when scanning a barcode for product identification",
@@ -5177,7 +5197,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skann strekkode"
+            "value" : "Skann"
           }
         },
         "nl" : {
@@ -5201,7 +5221,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ler código de barras"
+            "value" : "Digitalizar código de barras"
           }
         },
         "ro" : {
@@ -5270,7 +5290,8 @@
             "value" : "掃描條碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleDelivery" : {
       "comment" : "Use when scheduling a delivery for an order",
@@ -5518,10 +5539,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "安排交付"
+            "value" : "安排送貨"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareRecipe" : {
       "comment" : "Use when sharing a recipe with others",
@@ -5772,7 +5794,8 @@
             "value" : "分享食譜"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takePhoto" : {
       "comment" : "Use when prompting the user to take a photo",
@@ -5912,7 +5935,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Фото түсіру"
+            "value" : "Фотосурет түсіру"
           }
         },
         "ko" : {
@@ -6023,7 +6046,8 @@
             "value" : "影相"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use when tracking the status of an order",
@@ -6274,7 +6298,8 @@
             "value" : "追蹤訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.writeReview" : {
       "comment" : "Use when writing a review for a dish or service",
@@ -6384,7 +6409,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši recenziju"
+            "value" : "Napuniti recenziju"
           }
         },
         "hu" : {
@@ -6525,7 +6550,8 @@
             "value" : "寫評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.allergens" : {
       "comment" : "Use for identifying allergens in food items",
@@ -6776,7 +6802,8 @@
             "value" : "過敏原"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.availability" : {
       "comment" : "Use when indicating the availability of an item or service",
@@ -6994,7 +7021,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erişilebilirlik"
+            "value" : "Uygunluk"
           }
         },
         "uk" : {
@@ -7027,7 +7054,8 @@
             "value" : "可用性"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.averageRating" : {
       "comment" : "Use to display the average rating of a dish or restaurant",
@@ -7278,7 +7306,8 @@
             "value" : "平均评分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.calories" : {
       "comment" : "Use for displaying the calorie count of a dish or item",
@@ -7412,7 +7441,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "キロカロリー"
+            "value" : "カロリー"
           }
         },
         "kk" : {
@@ -7502,7 +7531,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "калорії"
+            "value" : "Калорії"
           }
         },
         "vi" : {
@@ -7529,7 +7558,8 @@
             "value" : "卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cookingTime" : {
       "comment" : "Use for indicating the time required to cook a dish",
@@ -7639,7 +7669,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme Kuhanja"
+            "value" : "Vrijeme kuhanja"
           }
         },
         "hu" : {
@@ -7780,7 +7810,8 @@
             "value" : "烹飪時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cuisine" : {
       "comment" : "Use when referring to the type of cuisine (e.g., Italian, Chinese)",
@@ -7998,7 +8029,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mutfak"
+            "value" : "Yemek"
           }
         },
         "uk" : {
@@ -8031,7 +8062,8 @@
             "value" : "美食"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deals" : {
       "comment" : "Use when showing promotional offers or discounts",
@@ -8282,7 +8314,8 @@
             "value" : "優惠"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deliveryStatus" : {
       "comment" : "Use for showing the current status of a delivery",
@@ -8533,7 +8566,8 @@
             "value" : "派送狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deliveryTime" : {
       "comment" : "Use for displaying the estimated or actual delivery time",
@@ -8637,7 +8671,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डिलीवरी का समय"
+            "value" : "डिलीवरी समय"
           }
         },
         "hr" : {
@@ -8784,7 +8818,8 @@
             "value" : "派送時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dietaryRestrictions" : {
       "comment" : "Use for indicating any dietary restrictions like vegan, gluten-free",
@@ -9035,7 +9070,8 @@
             "value" : "飲食限制"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.difficulty" : {
       "comment" : "Use for describing the difficulty level of preparing a dish",
@@ -9286,7 +9322,8 @@
             "value" : "難度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dishes" : {
       "comment" : "Use when referring to individual dishes in a menu or collection",
@@ -9498,7 +9535,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "จาน"
+            "value" : "อาหารแต่ละจาน"
           }
         },
         "tr" : {
@@ -9537,7 +9574,8 @@
             "value" : "菜餚"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use for marking and displaying favorite items or dishes",
@@ -9647,7 +9685,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omiljeno"
+            "value" : "Omiljene"
           }
         },
         "hu" : {
@@ -9788,7 +9826,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.filters" : {
       "comment" : "Use for refining search or menu item displays",
@@ -10039,7 +10078,8 @@
             "value" : "濾鏡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.ingredients" : {
       "comment" : "Use for listing ingredients in a recipe or dish",
@@ -10290,7 +10330,8 @@
             "value" : "成分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.menu" : {
       "comment" : "Use for referring to the list of available dishes or offerings",
@@ -10541,7 +10582,8 @@
             "value" : "選單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.nutritionFacts" : {
       "comment" : "Use for showing nutritional information about a dish",
@@ -10555,7 +10597,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хранителни факти"
+            "value" : "Факти за хранителната стойност"
           }
         },
         "ca" : {
@@ -10705,7 +10747,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voedselinformatie"
+            "value" : "Voedingswaarde"
           }
         },
         "pl" : {
@@ -10792,7 +10834,8 @@
             "value" : "營養成分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use for showing past orders made by the user",
@@ -11043,7 +11086,8 @@
             "value" : "訂單歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.orders" : {
       "comment" : "Use when referring to the list of current or past orders",
@@ -11117,7 +11161,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Órdenes"
+            "value" : "Pedidos"
           }
         },
         "fi" : {
@@ -11294,7 +11338,8 @@
             "value" : "訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.paymentMethod" : {
       "comment" : "Use when selecting or displaying available payment options",
@@ -11464,7 +11509,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "metoda płatności"
+            "value" : "Metoda płatności"
           }
         },
         "pt-BR" : {
@@ -11545,7 +11590,8 @@
             "value" : "付款方式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.portions" : {
       "comment" : "Use for indicating the size or number of servings in a dish",
@@ -11796,7 +11842,8 @@
             "value" : "份量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.priceRange" : {
       "comment" : "Use for showing the price range of menu items or orders",
@@ -12047,7 +12094,8 @@
             "value" : "價格範圍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.rating" : {
       "comment" : "Use for showing the rating of a dish, recipe, or restaurant",
@@ -12139,7 +12187,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classement"
+            "value" : "Évaluation"
           }
         },
         "he" : {
@@ -12298,7 +12346,8 @@
             "value" : "年齡分級"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reservations" : {
       "comment" : "Use for displaying or making reservations at a restaurant",
@@ -12549,7 +12598,8 @@
             "value" : "預約"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.restaurantInfo" : {
       "comment" : "Use for showing details about a restaurant, such as location, hours",
@@ -12800,7 +12850,8 @@
             "value" : "餐廳資訊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reviews" : {
       "comment" : "Use for showing or writing reviews for a dish or restaurant",
@@ -13051,7 +13102,8 @@
             "value" : "評價"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.totalPrice" : {
       "comment" : "Use for showing the total price of an order or meal",
@@ -13302,7 +13354,8 @@
             "value" : "總價格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.deliveryOrderConfirmed" : {
       "comment" : "Confirmation message when an order is confirmed for delivery",
@@ -13382,13 +13435,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toimitusvahvistus vahvistettu"
+            "value" : "Toimitusvahvistus on vahvistettu"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commande de livraison confirmée."
+            "value" : "Commande de livraison confirmée"
           }
         },
         "fr-CA" : {
@@ -13424,7 +13477,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesanan pengiriman sudah diterima"
+            "value" : "Pesanan pengiriman telah dikonfirmasi"
           }
         },
         "it" : {
@@ -13466,7 +13519,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bezorgbestelling bevestigd."
+            "value" : "Bezorgbestelling bevestigd"
           }
         },
         "pl" : {
@@ -13478,7 +13531,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido de entrega confirmado."
+            "value" : "Pedido de entrega confirmado"
           }
         },
         "pt-PT" : {
@@ -13490,7 +13543,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comanda de livrare confirmată"
+            "value" : "Comanda de livrare confirmată."
           }
         },
         "ru" : {
@@ -13526,7 +13579,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Замовлення на доставку підтверджено."
+            "value" : "Замовлення на доставку підтверджено"
           }
         },
         "vi" : {
@@ -13553,11 +13606,12 @@
             "value" : "送貨訂單已確認"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.kitchenIsClosed" : {
+    "TK.Message.kitchenIsClosedDot" : {
       "comment" : "Message indicating that the kitchen is currently closed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13658,7 +13712,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रसोई बंद है।"
+            "value" : "किचन बंद है।"
           }
         },
         "hr" : {
@@ -13682,7 +13736,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cucina chiusa."
+            "value" : "La cucina è chiusa."
           }
         },
         "ja" : {
@@ -13706,7 +13760,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dapur telah ditutup."
+            "value" : "Dapur telah tutup."
           }
         },
         "nb" : {
@@ -13718,7 +13772,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De keuken is gesloten."
+            "value" : "Keuken is gesloten."
           }
         },
         "pl" : {
@@ -13736,7 +13790,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A cozinha está encerrada."
+            "value" : "A cozinha está fechada."
           }
         },
         "ro" : {
@@ -13766,7 +13820,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ห้องครัวปิดอยู่."
+            "value" : "ครัวปิดแล้ว"
           }
         },
         "tr" : {
@@ -13796,7 +13850,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "廚房營業已結束。"
+            "value" : "廚房已關閉。"
           }
         },
         "zh-HK" : {
@@ -13805,19 +13859,8 @@
             "value" : "廚房已關閉。"
           }
         }
-      }
-    },
-    "TK.Message.kitchenIsClosedDot" : {
-      "comment" : "Message indicating that the kitchen is currently closed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Kitchen is closed."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.lookingForNearbyRestaurants" : {
       "comment" : "Message when searching for nearby restaurants",
@@ -13843,7 +13886,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledáš restaurace v okolí"
+            "value" : "Hledáme restaurace v okolí"
           }
         },
         "da" : {
@@ -13885,7 +13928,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando restaurantes cercanos."
+            "value" : "Buscando restaurantes cercanos"
           }
         },
         "es-419" : {
@@ -13987,7 +14030,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukam pobliskich restauracji."
+            "value" : "Szukamy pobliskich restauracji."
           }
         },
         "pt-BR" : {
@@ -14068,11 +14111,12 @@
             "value" : "正在搜尋附近的餐廳"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.menuHasBeenUpdated" : {
+    "TK.Message.menuHasBeenUpdatedDot" : {
       "comment" : "Notification when the menu has been updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14089,13 +14133,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menú actualitzat."
+            "value" : "El menú s'ha actualitzat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jídelníček byl aktualizován."
+            "value" : "Menu bylo aktualizováno."
           }
         },
         "da" : {
@@ -14143,7 +14187,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El menú ha sido actualizado."
+            "value" : "Se ha actualizado el menú."
           }
         },
         "fi" : {
@@ -14173,7 +14217,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मेनू अपडेट हो गया है।"
+            "value" : "मेनू अपडेट कर दिया गया है।"
           }
         },
         "hr" : {
@@ -14197,7 +14241,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu è stato aggiornato."
+            "value" : "Il menu è stato aggiornato."
           }
         },
         "ja" : {
@@ -14245,13 +14289,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu atualizado."
+            "value" : "Menu foi atualizado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu atualizado."
+            "value" : "O menu foi atualizado."
           }
         },
         "ro" : {
@@ -14263,7 +14307,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Меню обновлено."
+            "value" : "Меню было обновлено."
           }
         },
         "sk" : {
@@ -14281,13 +14325,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เมนูได้รับการปรับปรุงแล้ว."
+            "value" : "เมนูได้รับการอัปเดตแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu güncellendi."
+            "value" : "Menü güncellendi."
           }
         },
         "uk" : {
@@ -14299,7 +14343,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thực đơn đã được cập nhật."
+            "value" : "Cập nhật thực đơn xong."
           }
         },
         "zh-Hans" : {
@@ -14320,23 +14364,12 @@
             "value" : "菜單已更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.menuHasBeenUpdatedDot" : {
-      "comment" : "Notification when the menu has been updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Menu has been updated."
-          }
-        }
-      }
-    },
-    "TK.Message.noAvailableReservationsFound" : {
+    "TK.Message.noAvailableReservationsFoundDot" : {
       "comment" : "Message when no reservations are available",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14359,7 +14392,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyly nalezeny žádné dostupné rezervace."
+            "value" : "Nenalezeny žádné dostupné rezervace."
           }
         },
         "da" : {
@@ -14413,7 +14446,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei löytynyt saatavilla olevia varauksia."
+            "value" : "Saatavilla olevia varauksia ei löytynyt."
           }
         },
         "fr" : {
@@ -14425,7 +14458,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune réservation disponible."
+            "value" : "Aucune réservation disponible trouvée."
           }
         },
         "he" : {
@@ -14443,13 +14476,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih rezervacija."
+            "value" : "Nema dostupnih rezervacija."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs elérhető foglalás."
+            "value" : "Nincsenek elérhető foglalások."
           }
         },
         "id" : {
@@ -14479,7 +14512,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사용 가능한 예약이 없습니다."
+            "value" : "사용 가능한 예약이 발견되지 않았습니다."
           }
         },
         "ms" : {
@@ -14533,19 +14566,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neboli nájdené žiadne dostupné rezervácie."
+            "value" : "Nenašli sa žiadne dostupné rezervácie."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inga tillgängliga reservationer hittades."
+            "value" : "Inga tillgängliga bokningar hittades."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบการจองที่ว่าง."
+            "value" : "ไม่พบการจองที่ว่าง"
           }
         },
         "tr" : {
@@ -14557,13 +14590,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не знайдено доступних бронювань."
+            "value" : "Не знайдено доступних резервувань."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không tìm thấy bất kỳ đặt chỗ nào."
+            "value" : "Không tìm thấy đặt chỗ nào có sẵn."
           }
         },
         "zh-Hans" : {
@@ -14575,37 +14608,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到可用的預約。"
+            "value" : "未找到可用的預訂。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未發現可用的預訂。"
+            "value" : "未找到可用的預訂。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noAvailableReservationsFoundDot" : {
-      "comment" : "Message when no reservations are available",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No available reservations found."
-          }
-        }
-      }
-    },
-    "TK.Message.orderIsBeingPrepared" : {
+    "TK.Message.orderIsBeingPreparedDot" : {
       "comment" : "Notification when the order is being prepared",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الطلب قيد التحضير."
+            "value" : "يتم إعداد الطلب."
           }
         },
         "bg" : {
@@ -14623,25 +14645,25 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objednávka je připravována."
+            "value" : "Objednávka se připravuje."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordren forberedes."
+            "value" : "Ordren bliver forberedt."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestellung wird vorbereitet."
+            "value" : "Die Bestellung wird vorbereitet."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η παραγγελία είναι υπό προετοιμασία."
+            "value" : "Η παραγγελία ετοιμάζεται."
           }
         },
         "en" : {
@@ -14665,7 +14687,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido en preparación."
+            "value" : "El pedido se está preparando."
           }
         },
         "es-419" : {
@@ -14677,7 +14699,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilauksesi valmistellaan."
+            "value" : "Tilauksesi on valmistumassa."
           }
         },
         "fr" : {
@@ -14695,13 +14717,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה מתכוננת."
+            "value" : "ההזמנה בהכנה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ऑर्डर तैयार हो रहा है।"
+            "value" : "ऑर्डर तैयार किया जा रहा है।"
           }
         },
         "hr" : {
@@ -14713,7 +14735,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rendelés elkészítése folyamatban."
+            "value" : "A megrendelés folyamatban van."
           }
         },
         "id" : {
@@ -14725,13 +14747,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordine in fase di preparazione."
+            "value" : "L'ordine è in preparazione."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注文が準備されています。"
+            "value" : "注文が準備中です。"
           }
         },
         "kk" : {
@@ -14755,19 +14777,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordren blir forberedt."
+            "value" : "Ordren blir tilberedt."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestelling wordt klaargemaakt."
+            "value" : "Bestelling wordt voorbereid."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zamówienie jest w trakcie przygotowania."
+            "value" : "Zamówienie jest w trakcie przygotowywania."
           }
         },
         "pt-BR" : {
@@ -14779,7 +14801,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido a ser preparado."
+            "value" : "O pedido está a ser preparado."
           }
         },
         "ro" : {
@@ -14803,13 +14825,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordern förbereds."
+            "value" : "Beställningen håller på att förberedas."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กำลังเตรียมการสั่งซื้อ."
+            "value" : "กำลังเตรียมคำสั่งซื้อ."
           }
         },
         "tr" : {
@@ -14848,23 +14870,12 @@
             "value" : "訂單正在準備中。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.orderIsBeingPreparedDot" : {
-      "comment" : "Notification when the order is being prepared",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Order is being prepared."
-          }
-        }
-      }
-    },
-    "TK.Message.recipeAddedToFavorites" : {
+    "TK.Message.recipeAddedToFavoritesDot" : {
       "comment" : "Confirmation when a recipe is added to favorites",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14875,7 +14886,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рецептата е добавена към любими."
+            "value" : "Рецептата е добавена в любими."
           }
         },
         "ca" : {
@@ -14899,13 +14910,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezept zu den Favoriten hinzugefügt."
+            "value" : "Rezept zu Favoriten hinzugefügt."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η συνταγή προστέθηκε στα αγαπημένα."
+            "value" : "Η συνταγή προστέθηκε στους αγαπημένους."
           }
         },
         "en" : {
@@ -14959,13 +14970,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המתכון נוסף למועדפים."
+            "value" : "מתכון נוסף למועדפים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रेसिपी पसंदीदा में जोड़ दी गई।"
+            "value" : "पकवान को पसंदीदा में जोड़ा गया।"
           }
         },
         "hr" : {
@@ -15001,7 +15012,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рецепт таңдаулылар тізіміне қосылды."
+            "value" : "Рецепт жақсы көрінетіндер тізіміне қосылды."
           }
         },
         "ko" : {
@@ -15013,13 +15024,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resepi telah ditambah ke dalam kegemaran."
+            "value" : "Resipi telah ditambahkan ke senarai kegemaran."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppskrift lagt til favoritter."
+            "value" : "Oppskrift lagt til i favoritter."
           }
         },
         "nl" : {
@@ -15067,13 +15078,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Receptet har lagts till bland favoriter."
+            "value" : "Recept tillagt till favoriter."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สูตรอาหารถูกเพิ่มไปยังรายการโปรดแล้ว"
+            "value" : "สูตรอาหารถูกเพิ่มลงในรายการโปรดแล้ว"
           }
         },
         "tr" : {
@@ -15091,44 +15102,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Công thức đã được thêm vào mục yêu thích."
+            "value" : "Công thức đã được thêm vào danh sách yêu thích."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "食谱已添加到收藏夹。"
+            "value" : "菜谱已添加到收藏夹。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "食譜已加入收藏。"
+            "value" : "食譜已添加到最愛中。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "食譜已加入最愛。"
+            "value" : "食譜已加入收藏。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.recipeAddedToFavoritesDot" : {
-      "comment" : "Confirmation when a recipe is added to favorites",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Recipe added to favorites."
-          }
-        }
-      }
-    },
-    "TK.Message.restaurantIsFullyBooked" : {
+    "TK.Message.restaurantIsFullyBookedDot" : {
       "comment" : "Message indicating the restaurant is fully booked",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15139,7 +15139,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ресторантът е изцяло резервиран."
+            "value" : "Ресторантът е напълно запълнен."
           }
         },
         "ca" : {
@@ -15151,19 +15151,19 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurace je plně obsazená."
+            "value" : "Restaurace je plně obsazena."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurant er fuldt booket."
+            "value" : "Restauranten er fuldt booket."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurant ist vollständig ausgebucht."
+            "value" : "Restaurant ist ausgebucht."
           }
         },
         "el" : {
@@ -15217,7 +15217,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le restaurant est complet."
+            "value" : "Le restaurant est entièrement réservé."
           }
         },
         "he" : {
@@ -15229,7 +15229,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रेस्टोरेंट पूरी तरह से बुक है।"
+            "value" : "रेस्तरां पूरी तरह से बुक हो चुका है।"
           }
         },
         "hr" : {
@@ -15241,19 +15241,19 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az étterem teljesen megtelt."
+            "value" : "Az étterem teljesen tele van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restoran sudah penuh dipesan."
+            "value" : "Restoran sudah penuh."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ristorante completamente prenotato."
+            "value" : "Il ristorante è al completo."
           }
         },
         "ja" : {
@@ -15265,19 +15265,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ресторан толық броньдалған."
+            "value" : "Ресторанның орындары толы."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "식당이 꽉 찼습니다."
+            "value" : "레스토랑이 만석입니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restoran telah penuh ditempah."
+            "value" : "Restoran telah ditempah sepenuhnya."
           }
         },
         "nb" : {
@@ -15301,13 +15301,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O restaurante está lotado."
+            "value" : "O restaurante está completamente reservado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurante totalmente reservado."
+            "value" : "O restaurante está completamente reservado."
           }
         },
         "ro" : {
@@ -15349,50 +15349,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ресторан повністю заброньовано."
+            "value" : "Ресторан повністю заброньований."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhà hàng đã hết chỗ."
+            "value" : "Nhà hàng đã được đặt kín chỗ."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐厅已全满。"
+            "value" : "餐厅已满。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐廳已全訂滿。"
+            "value" : "餐廳已全部預訂。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐廳已全部預訂。"
+            "value" : "餐廳已全線訂滿。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.restaurantIsFullyBookedDot" : {
-      "comment" : "Message indicating the restaurant is fully booked",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Restaurant is fully booked."
-          }
-        }
-      }
-    },
-    "TK.Message.tableReservationConfirmed" : {
+    "TK.Message.tableReservationConfirmedDot" : {
       "comment" : "Confirmation when a table reservation is successfully made",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15403,7 +15392,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервацията на масата е потвърдена."
+            "value" : "Потвърждение за резервирана маса."
           }
         },
         "ca" : {
@@ -15433,7 +15422,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κράτηση τραπεζιού επιβεβαιώθηκε."
+            "value" : "Η κράτηση τραπεζιού έχει επιβεβαιωθεί."
           }
         },
         "en" : {
@@ -15487,13 +15476,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אישור: הזמנת שולחן אושרה."
+            "value" : "הזמנת השולחן אומתה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "टेबल रिजर्वेशन की पुष्टि हो गई है।"
+            "value" : "टेबल रिजर्वेशन की पुष्टि हो गई।"
           }
         },
         "hr" : {
@@ -15505,7 +15494,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asztalfoglalás megerősítve."
+            "value" : "Az asztalfoglalás megerősítve."
           }
         },
         "id" : {
@@ -15517,7 +15506,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prenotazione del tavolo confermata."
+            "value" : "Prenotazione tavolo confermata."
           }
         },
         "ja" : {
@@ -15529,7 +15518,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Үстел броньдалды."
+            "value" : "Сіздің столыңыз расталды."
           }
         },
         "ko" : {
@@ -15541,25 +15530,25 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempahan meja telah disahkan."
+            "value" : "Tempahan meja disahkan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bordreservasjon bekreftet."
+            "value" : "Bordreservasjonen er bekreftet."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tafelreservering bevestigd."
+            "value" : "Tafelreservatie bevestigd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezerwacja stołu potwierdzona."
+            "value" : "Rezerwacja stolika potwierdzona."
           }
         },
         "pt-BR" : {
@@ -15595,13 +15584,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bordsreservation bekräftad."
+            "value" : "Bordreservationen är bekräftad."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การจองโต๊ะได้รับการยืนยันแล้ว"
+            "value" : "ยืนยันการจองโต๊ะแล้ว."
           }
         },
         "tr" : {
@@ -15625,49 +15614,38 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "桌位预订已确认。"
+            "value" : "餐桌预订已确认。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "桌位預訂已確認。"
+            "value" : "餐桌預訂已確認。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "桌位預訂已確認。"
+            "value" : "桌子預訂已確認。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.tableReservationConfirmedDot" : {
-      "comment" : "Confirmation when a table reservation is successfully made",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Table reservation confirmed."
-          }
-        }
-      }
-    },
-    "TK.Message.thisDishContainsAllergens" : {
+    "TK.Message.thisDishContainsAllergensDot" : {
       "comment" : "Warning message indicating a dish contains allergens",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "هذا الطبق يحتوي على مسببات الحساسية."
+            "value" : "هذا الطبق يحتوي على مسببات حساسية."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Това ястие съдържа алергени."
+            "value" : "Тази храна съдържа алергени."
           }
         },
         "ca" : {
@@ -15679,7 +15657,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tento pokrm obsahuje alergeny."
+            "value" : "Toto jídlo obsahuje alergeny."
           }
         },
         "da" : {
@@ -15733,7 +15711,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tässä ruuassa on allergeeneja."
+            "value" : "Tässä annoksessa on allergeeneja."
           }
         },
         "fr" : {
@@ -15751,13 +15729,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המנה הזו מכילה אלרגנים."
+            "value" : "המנה הזאת מכילה אלרגנים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इस डिश में एलर्जी यौगिक हैं।"
+            "value" : "इस डिश में एलर्जन्स शामिल हैं।"
           }
         },
         "hr" : {
@@ -15769,7 +15747,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ez az étel allergéneket tartalmaz."
+            "value" : "Ez az étel allergén anyagokat tartalmaz."
           }
         },
         "id" : {
@@ -15799,7 +15777,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이 요리에는 알레르기 유발 성분이 포함되어 있습니다."
+            "value" : "이 요리에는 알레르기 유발 물질이 포함되어 있습니다."
           }
         },
         "ms" : {
@@ -15841,7 +15819,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Această mâncare conține alergeni."
+            "value" : "Acest preparat conține alergeni."
           }
         },
         "ru" : {
@@ -15853,7 +15831,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toto jedlo obsahuje alergény."
+            "value" : "Tento pokrm obsahuje alergény."
           }
         },
         "sv" : {
@@ -15883,44 +15861,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Món ăn này chứa chất gây dị ứng."
+            "value" : "Món ăn này chứa dị ứng."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此菜品包含过敏原。"
+            "value" : "该菜肴含有过敏原。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此菜品含有過敏原。"
+            "value" : "此菜餚包含過敏原。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這道菜包含過敏原。"
+            "value" : "此菜餚含有過敏原。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.thisDishContainsAllergensDot" : {
-      "comment" : "Warning message indicating a dish contains allergens",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This dish contains allergens."
-          }
-        }
-      }
-    },
-    "TK.Message.yourOrderHasBeenConfirmed" : {
+    "TK.Message.yourOrderHasBeenConfirmedDot" : {
       "comment" : "Confirmation message when an order is confirmed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15931,7 +15898,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поръчката ти е потвърдена."
+            "value" : "Вашата поръчка е потвърдена."
           }
         },
         "ca" : {
@@ -15943,13 +15910,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje objednávka byla potvrzena."
+            "value" : "Tvoja objednávka byla potvrzena."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din bestilling er bekræftet."
+            "value" : "Din ordre er bekræftet."
           }
         },
         "de" : {
@@ -15961,7 +15928,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η παραγγελία σου έχει επιβεβαιωθεί."
+            "value" : "Η παραγγελία σας έχει επιβεβαιωθεί."
           }
         },
         "en" : {
@@ -16015,31 +15982,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה שלך אושרה."
+            "value" : "ההזמנה שלך אומתה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका ऑर्डर की पुष्टि हो गई है।"
+            "value" : "आपका ऑर्डर कन्फर्म हो गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja narudžba je potvrđena."
+            "value" : "Vaša narudžba je potvrđena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rendelésed megerősítve van."
+            "value" : "A rendelésed megerősítve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesananmu sudah dikonfirmasi."
+            "value" : "Pesananmu telah dikonfirmasi."
           }
         },
         "it" : {
@@ -16051,7 +16018,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの注文は確認されました。"
+            "value" : "注文が確認されました。"
           }
         },
         "kk" : {
@@ -16063,7 +16030,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "예약이 확인되었습니다."
+            "value" : "주문이 확인되었습니다."
           }
         },
         "ms" : {
@@ -16075,7 +16042,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestillingen din har blitt bekreftet."
+            "value" : "Bestillingen din er bekreftet."
           }
         },
         "nl" : {
@@ -16111,7 +16078,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш заказ подтверждён."
+            "value" : "Твой заказ подтвержден."
           }
         },
         "sk" : {
@@ -16129,7 +16096,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คำสั่งซื้อของคุณได้รับการยืนยันแล้ว."
+            "value" : "คำสั่งของคุณได้รับการยืนยันแล้วค่ะ"
           }
         },
         "tr" : {
@@ -16141,7 +16108,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваше замовлення підтверджене."
+            "value" : "Ваше замовлення підтверджено."
           }
         },
         "vi" : {
@@ -16153,298 +16120,276 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的订单已确认。"
+            "value" : "您的订单已确认。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的訂單已被確認。"
+            "value" : "您的訂單已確認。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的订单已确认。"
+            "value" : "你的訂單已確認。"
           }
         }
-      }
-    },
-    "TK.Message.yourOrderHasBeenConfirmedDot" : {
-      "comment" : "Confirmation message when an order is confirmed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your order has been confirmed."
-          }
-        }
-      }
-    },
-    "TK.Message.yourOrderIsOnTheWay" : {
-      "comment" : "Notification when an order is on its way to the customer",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "طلبك في طريقه إليك!"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вашата поръчка е на път!"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La teva comanda està en camí!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoje objednávka je na cestě!"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din ordre er på vej!"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deine Bestellung ist unterwegs!"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Η παραγγελία σου είναι καθ' οδόν!"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your order is on the way!"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your order is on the way!"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your order is on the way!"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Tu pedido está en camino!"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Tu orden está en camino!"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilauksesi on matkalla!"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre commande est en route !"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre commande est en route !"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ההזמנה שלך בדרכה!"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "आपका ऑर्डर रास्ते में है!"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoja narudžba je na putu!"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A rendelésed úton van!"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pesananmu dalam perjalanan!"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Il tuo ordine è in arrivo!"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "注文は配達中です！"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сіздің тапсырысыңыз жолда келе жатыр!"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "주문이 배송 중입니다!"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pesanan anda sedang dalam perjalanan!"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bestillingen din er på vei!"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je bestelling is onderweg!"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Twoje zamówienie jest w drodze!"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seu pedido está a caminho!"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A tua encomenda está a caminho!"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comanda ta este pe drum!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваш заказ в пути!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoja objednávka je na ceste!"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din beställning är på väg!"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การสั่งซื้อของคุณกำลังเดินทาง!"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Siparişiniz yolda!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваше замовлення вже в дорозі!"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Đơn hàng của bạn đang trên đường tới!"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的订单正在路上！"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的訂單在路上！"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的訂單正在運送中！"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourOrderIsOnTheWayDot" : {
       "comment" : "Notification when an order is on its way to the customer",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طلبك في الطريق."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вашата поръчка е на път."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La teva comanda està en camí."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje objednávka je na cestě."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din ordre er på vej."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Bestellung ist unterwegs."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η παραγγελία σας είναι καθ' οδόν."
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your order is on the way."
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your order is on the way."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your order is on the way."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu pedido está en camino."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu pedido está en camino."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilauksesi on matkalla."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre commande est en route."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre commande est en route."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ההזמנה שלך בדרך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपका ऑर्डर रास्ते में है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaša narudžba je na putu."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A rendelésed úton van."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesananmu sedang dalam perjalanan."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo ordine è in arrivo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注文は発送中です。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сіздің тапсырысыңыз жолда."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주문이 배송 중입니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesanan anda sedang dalam perjalanan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestillingen din er på vei."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je bestelling is onderweg."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoje zamówienie jest w drodze."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu pedido está a caminho."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tua encomenda está a caminho."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comanda ta este pe drum."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твой заказ в пути."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoja objednávka je na ceste."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din beställning är på väg."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำสั่งของคุณกำลังมาถึง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siparişiniz yolda."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваше замовлення в дорозі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đơn hàng của bạn đang trên đường đến."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的订单正在配送中。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的訂單在路上。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的訂單正在運送途中。"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addDeliveryInstructionsDots" : {
       "comment" : "Placeholder for adding special instructions for delivery",
@@ -16692,10 +16637,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加送货说明…"
+            "value" : "新增送货说明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addDietaryRestrictionsDots" : {
       "comment" : "Placeholder for adding dietary restrictions",
@@ -16913,7 +16859,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diyet kısıtlamalarını ekleyin…"
+            "value" : "Diyet kısıtlamaları ekleyin…"
           }
         },
         "uk" : {
@@ -16937,7 +16883,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加飲食限制…"
+            "value" : "新增飲食限制…"
           }
         },
         "zh-HK" : {
@@ -16946,7 +16892,8 @@
             "value" : "添加饮食限制…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addRecipeDescriptionDots" : {
       "comment" : "Placeholder for adding a description to a recipe",
@@ -17134,7 +17081,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă descriere rețetă…"
+            "value" : "Adaugă descrierea rețetei…"
           }
         },
         "ru" : {
@@ -17164,7 +17111,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarif açıklaması ekleyin..."
+            "value" : "Tarif açıklaması ekle…"
           }
         },
         "uk" : {
@@ -17176,7 +17123,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm mô tả công thức ..."
+            "value" : "Thêm tiêu đề công thức…"
           }
         },
         "zh-Hans" : {
@@ -17188,16 +17135,17 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加食譜描述…"
+            "value" : "新增食譜描述…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加食譜描述…"
+            "value" : "新增食谱描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAddressForDeliveryDots" : {
       "comment" : "Placeholder for entering delivery address",
@@ -17448,7 +17396,8 @@
             "value" : "輸入送貨地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDeliveryNoteDots" : {
       "comment" : "Placeholder for adding a note for the delivery",
@@ -17540,13 +17489,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la note de livraison…"
+            "value" : "Entre la note de livraison…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן פתקים למשלוח…"
+            "value" : "הזן פתק למשלוח…"
           }
         },
         "hi" : {
@@ -17576,13 +17525,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci la nota di consegna…"
+            "value" : "Inserisci nota di consegna…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "納品書を入力…"
+            "value" : "納品書を記入中…"
           }
         },
         "kk" : {
@@ -17594,7 +17543,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 메모 입력…"
+            "value" : "배송 메모를 입력하세요…"
           }
         },
         "ms" : {
@@ -17666,7 +17615,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teslimat notunu girin…"
+            "value" : "Teslimat notunu gir…"
           }
         },
         "uk" : {
@@ -17699,7 +17648,8 @@
             "value" : "輸入送貨註釋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterNumberOfGuestsDots" : {
       "comment" : "Placeholder for entering the number of guests",
@@ -17719,7 +17669,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix el nombre d'hostes…"
+            "value" : "Introdueix el nombre de convidats…"
           }
         },
         "cs" : {
@@ -17743,7 +17693,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε αριθμό επισκεπτών…"
+            "value" : "Βάλε αριθμό επισκεπτών…"
           }
         },
         "en" : {
@@ -17809,7 +17759,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj gostiju…"
+            "value" : "Unesi broj gostiju…"
           }
         },
         "hu" : {
@@ -17845,7 +17795,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "게스트 수 입력…"
+            "value" : "게스트 수를 입력하세요…"
           }
         },
         "ms" : {
@@ -17869,7 +17819,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz liczbę gości…"
+            "value" : "Wprowadź liczbę gości…"
           }
         },
         "pt-BR" : {
@@ -17887,7 +17837,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numarul de oaspeti…"
+            "value" : "Introduceți numărul de oaspeți…"
           }
         },
         "ru" : {
@@ -17911,7 +17861,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่จำนวนของแขก…"
+            "value" : "กรอกจำนวนแขก…"
           }
         },
         "tr" : {
@@ -17950,7 +17900,8 @@
             "value" : "輸入客人數量…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPromoCodeDots" : {
       "comment" : "Placeholder for entering a promo code",
@@ -17994,7 +17945,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τον κωδικό προσφοράς…"
+            "value" : "Βάλε τον κωδικό προσφοράς…"
           }
         },
         "en" : {
@@ -18018,7 +17969,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir código promocional…"
+            "value" : "Introduce código promocional…"
           }
         },
         "es-419" : {
@@ -18162,7 +18113,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสโปรโมชั่น…"
+            "value" : "กรอกรหัสโปรโมชั่น…"
           }
         },
         "tr" : {
@@ -18201,7 +18152,8 @@
             "value" : "輸入優惠碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findIngredientsDots" : {
       "comment" : "Placeholder for searching ingredients",
@@ -18227,7 +18179,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najděte ingredience…"
+            "value" : "Najdi ingredience…"
           }
         },
         "da" : {
@@ -18287,7 +18239,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche des ingrédients…"
+            "value" : "Recherche d'ingrédients…"
           }
         },
         "fr-CA" : {
@@ -18335,7 +18287,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "材料を見つける…"
+            "value" : "材料を探す…"
           }
         },
         "kk" : {
@@ -18425,7 +18377,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знайти інгредієнти…"
+            "value" : "Шукаю інгредієнти…"
           }
         },
         "vi" : {
@@ -18452,7 +18404,8 @@
             "value" : "找配料…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findNearbyRestaurantsDots" : {
       "comment" : "Placeholder for searching nearby restaurants",
@@ -18703,7 +18656,8 @@
             "value" : "尋找附近的餐廳…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findRecipesDots" : {
       "comment" : "Placeholder for searching recipes",
@@ -18837,7 +18791,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レシピを見つける…"
+            "value" : "レシピを探す…"
           }
         },
         "kk" : {
@@ -18927,7 +18881,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знайти рецепти…"
+            "value" : "Шукаю рецепти…"
           }
         },
         "vi" : {
@@ -18954,7 +18908,8 @@
             "value" : "找食譜…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.rateYourExperienceDots" : {
       "comment" : "Placeholder for rating the user experience",
@@ -19154,7 +19109,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hodnotenie vašich skúseností…"
+            "value" : "Hodnoť svoje skúsenosti…"
           }
         },
         "sv" : {
@@ -19205,7 +19160,8 @@
             "value" : "評估你的體驗…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByCuisineDots" : {
       "comment" : "Placeholder for searching dishes by cuisine",
@@ -19225,7 +19181,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant per cuina…"
+            "value" : "Cerca per cuina…"
           }
         },
         "cs" : {
@@ -19315,7 +19271,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem prema kuhinji…"
+            "value" : "Pretraži prema kuhinji…"
           }
         },
         "hu" : {
@@ -19447,7 +19403,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按料理搜尋中…"
+            "value" : "按料理搜尋中..."
           }
         },
         "zh-HK" : {
@@ -19456,7 +19412,8 @@
             "value" : "按菜式搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchDishesDots" : {
       "comment" : "Placeholder for searching specific dishes",
@@ -19476,7 +19433,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant plats…"
+            "value" : "Cerca plats…"
           }
         },
         "cs" : {
@@ -19488,7 +19445,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger retter…"
+            "value" : "Søg efter retter…"
           }
         },
         "de" : {
@@ -19596,7 +19553,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ас мәзірін іздеу…"
+            "value" : "Мәзірдегі тағамдарды іздеу…"
           }
         },
         "ko" : {
@@ -19698,7 +19655,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋菜餚…"
+            "value" : "搜尋菜餚中..."
           }
         },
         "zh-HK" : {
@@ -19707,7 +19664,8 @@
             "value" : "搜尋菜式…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchMenuDots" : {
       "comment" : "Placeholder for searching menu items",
@@ -19787,7 +19745,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi valikkoa..."
+            "value" : "Etsi menu…"
           }
         },
         "fr" : {
@@ -19859,7 +19817,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian menu…"
+            "value" : "Cari menu…"
           }
         },
         "nb" : {
@@ -19871,7 +19829,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek menu…"
+            "value" : "Zoek in menu…"
           }
         },
         "pl" : {
@@ -19958,7 +19916,8 @@
             "value" : "搜尋選單…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchRecipesDots" : {
       "comment" : "Placeholder for searching recipes",
@@ -19990,7 +19949,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg opskrifter…"
+            "value" : "Søg i opskrifter…"
           }
         },
         "de" : {
@@ -20038,7 +19997,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi reseptejä..."
+            "value" : "Etsi reseptejä…"
           }
         },
         "fr" : {
@@ -20098,7 +20057,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рецепттерді іздеу…"
+            "value" : "Рецепттерді іздеңіз..."
           }
         },
         "ko" : {
@@ -20110,7 +20069,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian resipi…"
+            "value" : "Cari resipi…"
           }
         },
         "nb" : {
@@ -20164,7 +20123,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök recept..."
+            "value" : "Sök recept…"
           }
         },
         "th" : {
@@ -20200,7 +20159,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋食譜..."
+            "value" : "搜尋食譜…"
           }
         },
         "zh-HK" : {
@@ -20209,7 +20168,8 @@
             "value" : "搜尋食譜…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.selectCuisineTypeDots" : {
       "comment" : "Placeholder for selecting a type of cuisine",
@@ -20289,7 +20249,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valitse keittiötyyppi..."
+            "value" : "Valitse keittiötyyppi…"
           }
         },
         "fr" : {
@@ -20415,7 +20375,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Välj typ av kök..."
+            "value" : "Välj typ av kök…"
           }
         },
         "th" : {
@@ -20451,7 +20411,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇料理類型..."
+            "value" : "選擇料理類型…"
           }
         },
         "zh-HK" : {
@@ -20460,7 +20420,8 @@
             "value" : "選擇菜系類型…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.selectDeliveryTimeDots" : {
       "comment" : "Placeholder for selecting a delivery time",
@@ -20540,7 +20501,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valitse toimitusaika..."
+            "value" : "Valitse toimitusaika…"
           }
         },
         "fr" : {
@@ -20666,7 +20627,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Välj leveranstid..."
+            "value" : "Välj leveranstid…"
           }
         },
         "th" : {
@@ -20678,7 +20639,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teslimat saatini seç…"
+            "value" : "Teslimat saatini seçin…"
           }
         },
         "uk" : {
@@ -20702,7 +20663,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇配送時間..."
+            "value" : "選擇配送時間…"
           }
         },
         "zh-HK" : {
@@ -20711,7 +20672,8 @@
             "value" : "選擇送貨時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeReviewDots" : {
       "comment" : "Placeholder for writing a review",
@@ -20911,7 +20873,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíšte recenziu…"
+            "value" : "Napíš recenziu…"
           }
         },
         "sv" : {
@@ -20962,7 +20924,8 @@
             "value" : "撰寫評價…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

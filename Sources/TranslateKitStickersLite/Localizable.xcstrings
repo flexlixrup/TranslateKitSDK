@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете анимация"
+            "value" : "Добави анимация"
           }
         },
         "ca" : {
@@ -250,7 +250,8 @@
             "value" : "添加动画"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addBorder" : {
       "comment" : "Use when adding a border around a sticker",
@@ -294,7 +295,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη Περίπτυξης"
+            "value" : "Προσθήκη Περιγράμματος"
           }
         },
         "en" : {
@@ -501,7 +502,8 @@
             "value" : "添加边框"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addCaption" : {
       "comment" : "Use when adding a caption to a sticker",
@@ -752,7 +754,8 @@
             "value" : "添加说明文字"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addEffects" : {
       "comment" : "Use when adding effects to a sticker",
@@ -1003,7 +1006,8 @@
             "value" : "添加效果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addTags" : {
       "comment" : "Use when adding tags to a sticker",
@@ -1029,7 +1033,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat značky"
+            "value" : "Přidat k waypointu"
           }
         },
         "da" : {
@@ -1083,7 +1087,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää tunniste"
+            "value" : "Lisää tunnisteita"
           }
         },
         "fr" : {
@@ -1254,7 +1258,8 @@
             "value" : "加入標籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addText" : {
       "comment" : "Use when adding text to a sticker",
@@ -1268,7 +1273,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете текст"
+            "value" : "Добави текст"
           }
         },
         "ca" : {
@@ -1505,7 +1510,8 @@
             "value" : "添加文字"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToCollection" : {
       "comment" : "Use when adding the sticker to a collection",
@@ -1756,7 +1762,8 @@
             "value" : "添加至收藏夾"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding the sticker to favorites",
@@ -1776,7 +1783,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir als favorits"
+            "value" : "Afegir a Favorits"
           }
         },
         "cs" : {
@@ -1980,7 +1987,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до Улюблених"
+            "value" : "Додати до колекції"
           }
         },
         "vi" : {
@@ -1998,7 +2005,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入喜好項目"
+            "value" : "加入我的最愛"
           }
         },
         "zh-HK" : {
@@ -2007,7 +2014,8 @@
             "value" : "加至我的最愛"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToShortcuts" : {
       "comment" : "Use when adding a sticker to shortcuts",
@@ -2258,7 +2266,8 @@
             "value" : "新增到捷徑"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.adjustOpacity" : {
       "comment" : "Use when adjusting the opacity of a sticker",
@@ -2410,7 +2419,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laraskan"
+            "value" : "Laraskan Kelegapan"
           }
         },
         "nb" : {
@@ -2509,7 +2518,8 @@
             "value" : "调整不透明度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyToKeyboard" : {
       "comment" : "Use when copying the sticker to the keyboard",
@@ -2619,7 +2629,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopiraj na tipkovnicu"
+            "value" : "Kopiraj u tipkovnicu"
           }
         },
         "hu" : {
@@ -2637,7 +2647,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia nella tastiera"
+            "value" : "Copia sulla tastiera"
           }
         },
         "ja" : {
@@ -2679,13 +2689,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skopiuj do schowka"
+            "value" : "Skopiuj do klawiatury"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar para o Teclado"
+            "value" : "Copiar para o teclado"
           }
         },
         "pt-PT" : {
@@ -2697,7 +2707,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază pe tastatură"
+            "value" : "Copiere"
           }
         },
         "ru" : {
@@ -2760,7 +2770,8 @@
             "value" : "複製到鍵盤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createPack" : {
       "comment" : "Use when creating a sticker pack",
@@ -2924,7 +2935,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakket Creëren"
+            "value" : "Pakket Aanmaken"
           }
         },
         "pl" : {
@@ -3011,7 +3022,8 @@
             "value" : "建立包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.editSticker" : {
       "comment" : "Use when editing a sticker",
@@ -3262,7 +3274,8 @@
             "value" : "編輯貼紙"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPack" : {
       "comment" : "Use when exporting a sticker pack",
@@ -3276,7 +3289,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортируй пакет"
+            "value" : "Експортирай пакет"
           }
         },
         "ca" : {
@@ -3348,7 +3361,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporter le pack"
+            "value" : "Exporter le Pack"
           }
         },
         "fr-CA" : {
@@ -3513,7 +3526,8 @@
             "value" : "導出包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.flip" : {
       "comment" : "Use when flipping a sticker horizontally or vertically",
@@ -3764,7 +3778,8 @@
             "value" : "翻转"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importPack" : {
       "comment" : "Use when importing a sticker pack",
@@ -4012,10 +4027,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入包"
+            "value" : "導入包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.mirror" : {
       "comment" : "Use when creating a mirrored version of the sticker",
@@ -4266,7 +4282,8 @@
             "value" : "镜像"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.previewSticker" : {
       "comment" : "Use when previewing a sticker",
@@ -4517,7 +4534,8 @@
             "value" : "預覽貼紙"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.quickSend" : {
       "comment" : "Use for sending a sticker quickly",
@@ -4768,7 +4786,8 @@
             "value" : "快速發送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeBackground" : {
       "comment" : "Use when removing the background from a sticker",
@@ -5019,7 +5038,8 @@
             "value" : "移除背景"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resize" : {
       "comment" : "Use when resizing a sticker",
@@ -5270,7 +5290,8 @@
             "value" : "調整大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rotate" : {
       "comment" : "Use when rotating a sticker",
@@ -5521,7 +5542,8 @@
             "value" : "旋轉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveToPhotos" : {
       "comment" : "Use when saving the sticker to photos",
@@ -5559,7 +5581,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In „Fotos“ sichern"
+            "value" : "„Fotos“"
           }
         },
         "el" : {
@@ -5601,7 +5623,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tallenna Kuviin"
+            "value" : "Tallenna kuviin"
           }
         },
         "fr" : {
@@ -5691,7 +5713,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zachowaj w Zdjęciach"
+            "value" : "Zapisz w Zdjęciach"
           }
         },
         "pt-BR" : {
@@ -5772,7 +5794,8 @@
             "value" : "儲存至「相片」"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sendSticker" : {
       "comment" : "Use when sending a sticker to others",
@@ -5846,7 +5869,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enviar Sticker"
+            "value" : "Enviar sticker"
           }
         },
         "fi" : {
@@ -5888,7 +5911,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matrica Küldése"
+            "value" : "Matrica küldése"
           }
         },
         "id" : {
@@ -6023,7 +6046,8 @@
             "value" : "發送貼紙"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.animated" : {
       "comment" : "Use for referring to animated stickers",
@@ -6247,13 +6271,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Анімовані"
+            "value" : "Анімовано"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phân tích"
+            "value" : "Hình động"
           }
         },
         "zh-Hans" : {
@@ -6274,7 +6298,8 @@
             "value" : "動態的"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.animations" : {
       "comment" : "Use for referring to animated stickers",
@@ -6462,7 +6487,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animații"
+            "value" : "Animație"
           }
         },
         "ru" : {
@@ -6525,7 +6550,8 @@
             "value" : "動畫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.background" : {
       "comment" : "Use for referring to the background of a sticker",
@@ -6776,7 +6802,8 @@
             "value" : "背景"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.borderStyle" : {
       "comment" : "Use for referring to the style of the border around a sticker",
@@ -7027,7 +7054,8 @@
             "value" : "边框样式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.collection" : {
       "comment" : "Use for referring to a collection of stickers",
@@ -7278,7 +7306,8 @@
             "value" : "收藏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.creator" : {
       "comment" : "Use for referring to the creator of a sticker pack",
@@ -7529,7 +7558,8 @@
             "value" : "創作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.customPacks" : {
       "comment" : "Use for referring to user-created sticker packs",
@@ -7780,7 +7810,8 @@
             "value" : "自定義包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.customText" : {
       "comment" : "Use for referring to user-added text on a sticker",
@@ -7902,7 +7933,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teks Kustom"
+            "value" : "Teks Khusus"
           }
         },
         "it" : {
@@ -8031,7 +8062,8 @@
             "value" : "自定義文本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.effects" : {
       "comment" : "Use for referring to visual effects applied to a sticker",
@@ -8282,7 +8314,8 @@
             "value" : "效果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.emotions" : {
       "comment" : "Use for referring to stickers that express emotions",
@@ -8533,7 +8566,8 @@
             "value" : "情感"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use for referring to the user's favorite stickers",
@@ -8643,7 +8677,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omiljeno"
+            "value" : "Omiljene"
           }
         },
         "hu" : {
@@ -8784,7 +8818,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.featuredPacks" : {
       "comment" : "Use for referring to sticker packs that are featured",
@@ -8924,7 +8959,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ерекше пакеттер"
+            "value" : "Таңдаулы пакеттер"
           }
         },
         "ko" : {
@@ -9035,7 +9070,8 @@
             "value" : "特色包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for referring to the file format of a sticker",
@@ -9286,7 +9322,8 @@
             "value" : "文件格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.frame" : {
       "comment" : "Use for referring to the frame around a sticker",
@@ -9537,7 +9574,8 @@
             "value" : "框架"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.keyboardAccess" : {
       "comment" : "Use for referring to stickers accessible from the keyboard",
@@ -9617,7 +9655,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Näppäimistön käyttö"
+            "value" : "Käyttötapa"
           }
         },
         "fr" : {
@@ -9788,7 +9826,8 @@
             "value" : "鍵盤訪問"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.opacity" : {
       "comment" : "Use for referring to the opacity of a sticker",
@@ -9802,7 +9841,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Видимост"
+            "value" : "Отразяемост"
           }
         },
         "ca" : {
@@ -9928,7 +9967,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түссіздік"
+            "value" : "Түссіз"
           }
         },
         "ko" : {
@@ -9940,7 +9979,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kelegapan"
+            "value" : "Litupan"
           }
         },
         "nb" : {
@@ -10039,7 +10078,8 @@
             "value" : "不透明度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.packName" : {
       "comment" : "Use for referring to the name of a sticker pack",
@@ -10290,7 +10330,8 @@
             "value" : "包名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.packSize" : {
       "comment" : "Use for referring to the size or number of stickers in a pack",
@@ -10541,7 +10582,8 @@
             "value" : "包大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.packTheme" : {
       "comment" : "Use for referring to the theme of a sticker pack",
@@ -10792,7 +10834,8 @@
             "value" : "包主題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.popular" : {
       "comment" : "Use for referring to stickers that are popular among users",
@@ -10806,7 +10849,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Популярен"
+            "value" : "Популярни"
           }
         },
         "ca" : {
@@ -11043,7 +11086,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.preview" : {
       "comment" : "Use for previewing a sticker",
@@ -11294,7 +11338,8 @@
             "value" : "預覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reactions" : {
       "comment" : "Use for referring to stickers used as reactions",
@@ -11545,7 +11590,8 @@
             "value" : "反應"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.recentlyUsed" : {
       "comment" : "Use for referring to stickers that have been recently used",
@@ -11796,7 +11842,8 @@
             "value" : "最近使用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.static" : {
       "comment" : "Use for referring to static stickers",
@@ -12047,7 +12094,8 @@
             "value" : "靜態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.staticStickers" : {
       "comment" : "Use for referring to stickers that are not animated",
@@ -12157,7 +12205,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Statističke naljepnice"
+            "value" : "Statične naljepnice"
           }
         },
         "hu" : {
@@ -12298,7 +12346,8 @@
             "value" : "靜態貼紙"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stickerCount" : {
       "comment" : "Use for referring to the number of stickers in a pack",
@@ -12462,7 +12511,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker Aantal"
+            "value" : "Stickers Aantal"
           }
         },
         "pl" : {
@@ -12549,7 +12598,8 @@
             "value" : "貼紙數量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stickerPack" : {
       "comment" : "Use for referring to a set or collection of stickers",
@@ -12581,7 +12631,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistermærke pakke"
+            "value" : "Klistermærkepakke"
           }
         },
         "de" : {
@@ -12800,7 +12850,8 @@
             "value" : "貼紙包"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stickerStyle" : {
       "comment" : "Use for referring to the style of a sticker",
@@ -12832,7 +12883,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistermærke stil"
+            "value" : "Klistermærkestil"
           }
         },
         "de" : {
@@ -13051,7 +13102,8 @@
             "value" : "貼紙風格"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trending" : {
       "comment" : "Use for referring to trending stickers",
@@ -13302,11 +13354,12 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.animationEffectsApplied" : {
+    "TK.Message.animationEffectsAppliedDot" : {
       "comment" : "Confirmation when animation effects are applied to a sticker",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13329,13 +13382,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animace byly aplikovány!"
+            "value" : "Efekty animace byly aplikovány!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animations effekter anvendt!"
+            "value" : "Animationseffekter anvendt!"
           }
         },
         "de" : {
@@ -13347,7 +13400,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εφαρμόστηκαν εφέ animation!"
+            "value" : "Εφαρμόστηκαν εφέ κινήσεων!"
           }
         },
         "en" : {
@@ -13383,7 +13436,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animaatioefektit on sovellettu!"
+            "value" : "Animaatioefektit sovellettu!"
           }
         },
         "fr" : {
@@ -13401,13 +13454,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אפקטי אנימציה הוחלו!"
+            "value" : "אפקטים אנימטיביים הוחלו!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एनिमेशन प्रभाव लागू कर दिए गए हैं!"
+            "value" : "एनिमेशन प्रभाव लागू किए गए!"
           }
         },
         "hr" : {
@@ -13419,13 +13472,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animációs effekteket alkalmaztak!"
+            "value" : "Animációs effektusok alkalmazva!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efek animasi telah diterapkan!"
+            "value" : "Efek animasi diterapkan!"
           }
         },
         "it" : {
@@ -13443,7 +13496,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Анимациялық эффектілер қосылды!"
+            "value" : "Анимация эффектілері қолданылды!"
           }
         },
         "ko" : {
@@ -13461,7 +13514,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animasjonseffekter er anvendt!"
+            "value" : "Animasjonseffekter er brukt!"
           }
         },
         "nl" : {
@@ -13473,13 +13526,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efekty animacji zostały zastosowane!"
+            "value" : "Efekty animacji zastosowane!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efeitos de animação aplicados!"
+            "value" : "Efeitos de animação aplicados."
           }
         },
         "pt-PT" : {
@@ -13491,7 +13544,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efecte de animație aplicate!"
+            "value" : "Efectele de animație au fost aplicate!"
           }
         },
         "ru" : {
@@ -13503,19 +13556,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplikované animačné efekty!"
+            "value" : "Animácia bola aplikovaná!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animationseffekter tillämpades!"
+            "value" : "Animations effekter tillämpade!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "นำเสนอเอฟเฟกต์การเคลื่อนไหวเรียบร้อยแล้ว!"
+            "value" : "ใช้เอฟเฟ็กต์การเคลื่อนไหวแล้ว!"
           }
         },
         "tr" : {
@@ -13554,23 +13607,12 @@
             "value" : "動畫效果已應用！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.animationEffectsAppliedDot" : {
-      "comment" : "Confirmation when animation effects are applied to a sticker",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Animation effects applied!"
-          }
-        }
-      }
-    },
-    "TK.Message.backgroundRemovedSuccessfully" : {
+    "TK.Message.backgroundRemovedSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker's background is removed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13587,7 +13629,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fons eliminat correctament!"
+            "value" : "Fons eliminat amb èxit!"
           }
         },
         "cs" : {
@@ -13599,7 +13641,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Baggrund fjernet med succes!"
+            "value" : "Baggrunden er blevet fjernet med succes!"
           }
         },
         "de" : {
@@ -13611,7 +13653,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η υποβάθρα αφαιρέθηκε επιτυχώς!"
+            "value" : "Η υποβάθμιση του φόντου ολοκληρώθηκε με επιτυχία!"
           }
         },
         "en" : {
@@ -13653,13 +13695,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fond supprimé avec succès !"
+            "value" : "Arrière-plan supprimé avec succès !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fond retiré avec succès !"
+            "value" : "Arrière-plan supprimé avec succès !"
           }
         },
         "he" : {
@@ -13683,7 +13725,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Háttér sikeresen eltávolítva!"
+            "value" : "A háttér sikeresen eltávolítva!"
           }
         },
         "id" : {
@@ -13719,13 +13761,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Latar belakang telah berjaya dibuang!"
+            "value" : "Latar belakang berjaya dibuang!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bakgrunn fjernet med suksess!"
+            "value" : "Bakgrunn fjernet!"
           }
         },
         "nl" : {
@@ -13743,7 +13785,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fundo removido com sucesso!"
+            "value" : "Fundo removido com sucesso."
           }
         },
         "pt-PT" : {
@@ -13755,7 +13797,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fundalul a fost eliminat cu succes!"
+            "value" : "Fundal eliminat cu succes!"
           }
         },
         "ru" : {
@@ -13773,13 +13815,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bakgrund borttagen."
+            "value" : "Bakgrund borttagen framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ลบพื้นหลังเรียบร้อยแล้ว!"
+            "value" : "ลบพื้นหลังเรียบร้อยแล้ว! "
           }
         },
         "tr" : {
@@ -13803,49 +13845,38 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "背景成功移除！"
+            "value" : "背景已成功移除！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "背景已成功移除！"
+            "value" : "背景成功移除！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已成功移除背景！"
+            "value" : "背景成功移除！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.backgroundRemovedSuccessfullyDot" : {
-      "comment" : "Confirmation when a sticker's background is removed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Background removed successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.changesSavedToSticker" : {
+    "TK.Message.changesSavedToStickerDot" : {
       "comment" : "Confirmation when changes are saved to a sticker",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم حفظ التغييرات في الملصق!"
+            "value" : "تم حفظ التغييرات على الملصق!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Промените бяха запазени в стикера!"
+            "value" : "Промените са записани в стикера!"
           }
         },
         "ca" : {
@@ -13857,19 +13888,19 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Změny byly uloženy do samolepky!"
+            "value" : "Změny uloženy do samolepky!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ændringer gemt til klistermærke!"
+            "value" : "Ændringer gemt til sticker!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Änderungen wurden im Sticker gespeichert!"
+            "value" : "Änderungen beim Sticker gespeichert!"
           }
         },
         "el" : {
@@ -13905,13 +13936,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Cambios guardados en la etiqueta!"
+            "value" : "¡Cambios guardados en el sticker!"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muutokset on tallennettu tarraan!"
+            "value" : "Muutos tallennettu tarraasi!"
           }
         },
         "fr" : {
@@ -13923,31 +13954,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifications enregistrées sur l'autocollant !"
+            "value" : "Modifications enregistrées dans l'autocollant!"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שינויים נשמרו למדבקה!"
+            "value" : "השינויים נשמרו להדבקה!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर में परिवर्तन सहेज लिए गए हैं!"
+            "value" : "परिवर्तन स्टिकर पर सहेजे गए!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Promjene su spremljene na naljepnici!"
+            "value" : "Promjene su spremljene na naljepnicu!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Változtatások mentve a matricára!"
+            "value" : "A változtatások mentve lettek a matricához!"
           }
         },
         "id" : {
@@ -13959,19 +13990,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifiche salvate nell'adesivo!"
+            "value" : "Modifiche salvate nello sticker!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "変更がステッカーに保存されました！"
+            "value" : "ステッカーに変更が保存されました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өзгерістер стикерге сақталды!"
+            "value" : "Өзгерістер жапсырмаға сақталды!"
           }
         },
         "ko" : {
@@ -13995,13 +14026,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wijzigingen zijn opgeslagen op sticker!"
+            "value" : "Wijzigingen opgeslagen in sticker!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zmiany zapisane do naklejki!"
+            "value" : "Zmiany zapisane w naklejce!"
           }
         },
         "pt-BR" : {
@@ -14013,37 +14044,37 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alterações salvas no adesivo!"
+            "value" : "Mudanças guardadas no autocolante!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modificările au fost salvate în stickere!"
+            "value" : "Modificările au fost salvate pe autocolant!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изменения сохранены в наклейке!"
+            "value" : "Изменения сохранены на стикере!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zmeny boli uložené do nálepky!"
+            "value" : "Zmeny boli uložené na nálepku!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ändringar sparade till klistermärke!"
+            "value" : "Ändringar sparade på klistermärket!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงได้ถูกบันทึกในสติ๊กเกอร์แล้ว!"
+            "value" : "บันทึกการเปลี่ยนแปลงในสติกเกอร์แล้ว!"
           }
         },
         "tr" : {
@@ -14055,7 +14086,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зміни збережено у стікері!"
+            "value" : "Зміни збережено в наклейці!"
           }
         },
         "vi" : {
@@ -14067,38 +14098,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已保存更改到贴纸！"
+            "value" : "更改已保存到贴纸！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "變更已儲存至貼圖！"
+            "value" : "變更已儲存至貼紙！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更改已儲存到貼紙！"
+            "value" : "更改已保存到貼紙！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.changesSavedToStickerDot" : {
-      "comment" : "Confirmation when changes are saved to a sticker",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Changes saved to sticker!"
-          }
-        }
-      }
-    },
-    "TK.Message.customStickerCreated" : {
+    "TK.Message.customStickerCreatedDot" : {
       "comment" : "Confirmation when a custom sticker is created",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14109,37 +14129,37 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Персонализираният стикер е създаден!"
+            "value" : "Персонализиран стикер е създаден!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adhesiu personalitzat creat!"
+            "value" : "Sticker personalitzat creat!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvořena vlastní samolepka!"
+            "value" : "Vlastní nálepka byla vytvořena!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eget klistermærke oprettet!"
+            "value" : "Brugerdefineret klistermærke oprettet!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Benutzerdefinierter Sticker erstellt!"
+            "value" : "Benutzerdefinierter Aufkleber erstellt!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργήθηκε αυτοκόλλητο προσαρμοσμένο!"
+            "value" : "Δημιουργήθηκε αυτοκόλλητο προσαρμοσμένου τύπου!"
           }
         },
         "en" : {
@@ -14163,7 +14183,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker personalizado creado!"
+            "value" : "¡Pegatina personalizada creada!"
           }
         },
         "es-419" : {
@@ -14175,7 +14195,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mukautettu tarra on luotu!"
+            "value" : "Mukautettu tarra luotu!"
           }
         },
         "fr" : {
@@ -14193,7 +14213,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סטיקר מותאם אישית נוצר!"
+            "value" : "הסטיקר המיוחד נוצר!"
           }
         },
         "hi" : {
@@ -14205,7 +14225,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prilagođena naljepnica je kreirana!"
+            "value" : "Stvorena prilagođena naljepnica!"
           }
         },
         "hu" : {
@@ -14223,25 +14243,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adesivo personalizzato creato!"
+            "value" : "Sticker personalizzato creato!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "カスタムステッカーが作成されました！"
+            "value" : "カスタムスタンプが作成されました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арнайы стикер жасалды!"
+            "value" : "Жеке стикер жасалды!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사용자 정의 스티커가 생성되었습니다!"
+            "value" : "사용자가 만든 스티커가 생성되었습니다!"
           }
         },
         "ms" : {
@@ -14259,19 +14279,19 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aangepaste sticker gemaakt!"
+            "value" : "Aangepaste sticker aangemaakt!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stworzona niestandardowa naklejka!"
+            "value" : "Stworzono niestandardową naklejkę!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adesivo personalizado criado!"
+            "value" : "Sticker personalizado criado!"
           }
         },
         "pt-PT" : {
@@ -14283,13 +14303,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker personalizat creat!"
+            "value" : "Autocolant personalizat creat!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кастомная наклейка создана!"
+            "value" : "Создан пользовательский стикер!"
           }
         },
         "sk" : {
@@ -14307,7 +14327,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สร้างสติ๊กเกอร์ที่กำหนดเองเรียบร้อยแล้ว"
+            "value" : "สร้างสติกเกอร์ที่กำหนดเองเรียบร้อยแล้ว!"
           }
         },
         "tr" : {
@@ -14319,13 +14339,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Створено кастомний стікер!"
+            "value" : "Створено новий стікер!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhãn dán tùy chỉnh đã được tạo!"
+            "value" : "Sticker tùy chỉnh đã được tạo!"
           }
         },
         "zh-Hans" : {
@@ -14337,7 +14357,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自訂貼圖已創建！"
+            "value" : "自訂貼圖已建立！"
           }
         },
         "zh-HK" : {
@@ -14346,23 +14366,12 @@
             "value" : "自定義貼紙已創建！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.customStickerCreatedDot" : {
-      "comment" : "Confirmation when a custom sticker is created",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom sticker created!"
-          }
-        }
-      }
-    },
-    "TK.Message.effectAppliedSuccessfully" : {
+    "TK.Message.effectAppliedSuccessfullyDot" : {
       "comment" : "Confirmation when an effect is applied to a sticker",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14379,7 +14388,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efecte aplicat correctament!"
+            "value" : "Efecte aplicat amb èxit!"
           }
         },
         "cs" : {
@@ -14391,19 +14400,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effekt anvendt med succes!"
+            "value" : "Effekt anvendt succesfuldt!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effekt erfolgreich angewendet!"
+            "value" : "Effekt wurde erfolgreich angewendet!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εφέ εφαρμόστηκε επιτυχώς!"
+            "value" : "Το εφέ εφαρμόστηκε με επιτυχία!"
           }
         },
         "en" : {
@@ -14433,7 +14442,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Efecto aplicado exitosamente!"
+            "value" : "¡Efecto aplicado con éxito!"
           }
         },
         "fi" : {
@@ -14457,7 +14466,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההשפעה הוחלה בהצלחה!"
+            "value" : "האפקט הוחל בהצלחה!"
           }
         },
         "hi" : {
@@ -14475,7 +14484,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hatás sikeresen alkalmazva!"
+            "value" : "A hatás sikeresen alkalmazva!"
           }
         },
         "id" : {
@@ -14517,7 +14526,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effekt påført vellykket!"
+            "value" : "Effekt anvendt med suksess!"
           }
         },
         "nl" : {
@@ -14529,7 +14538,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efekt zastosowany pomyślnie!"
+            "value" : "Efekt został zastosowany pomyślnie!"
           }
         },
         "pt-BR" : {
@@ -14565,13 +14574,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effekt tillämpad!"
+            "value" : "Effekt tillämpad framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใช้ผลลัพธ์สำเร็จ!"
+            "value" : "ได้ดำเนินการเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -14607,26 +14616,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "效果已成功應用！"
+            "value" : "特效已成功應用！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.effectAppliedSuccessfullyDot" : {
-      "comment" : "Confirmation when an effect is applied to a sticker",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Effect applied successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.keyboardAccessRequiredForStickers" : {
+    "TK.Message.keyboardAccessRequiredForStickersDot" : {
       "comment" : "Message when keyboard access is needed for stickers",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14637,19 +14635,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Необходим е достъп до клавиатурата за стикерите."
+            "value" : "Необходим е достъп до клавиатурата за стикери."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'accés al teclat és necessari per als adhesius."
+            "value" : "L'accés al teclat és necessari per a les enganxines."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "K přístupu ke štítkům je vyžadován přístup k klávesnici."
+            "value" : "Pro samolepky je vyžadován přístup k klávesnici."
           }
         },
         "da" : {
@@ -14697,13 +14695,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se requiere acceso al teclado para usar stickers."
+            "value" : "Se requiere acceso al teclado para los stickers."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Näppäimistön pääsy tarvitaan tarroille."
+            "value" : "Näppäimistön käyttöoikeus vaaditaan tarroille."
           }
         },
         "fr" : {
@@ -14715,31 +14713,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accès au clavier requis pour les autocollants."
+            "value" : "Un accès au clavier est requis pour les autocollants."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "גישה למקלדת דרושה עבור מדבקות."
+            "value" : "נדרשת גישה למקלדת עבור מדבקות."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर्स के लिए कीबोर्ड एक्सेस की आवश्यकता है।"
+            "value" : "स्टिकर्स के लिए कीबोर्ड एक्सेस आवश्यक है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potrebna je pristup tipkovnici za naljepnice."
+            "value" : "Potrebno je pristupiti tipkovnici za naljepnice."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A billentyűzethez való hozzáférés szükséges a matricákhoz."
+            "value" : "Billentyűzet-hozzáférés szükséges a matricákhoz."
           }
         },
         "id" : {
@@ -14751,13 +14749,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "È necessario l'accesso alla tastiera per le sticker."
+            "value" : "Accesso alla tastiera richiesto per gli adesivi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ステッカーに対してキーボードアクセスが必要です。"
+            "value" : "ステッカーにはキーボードアクセスが必要です。"
           }
         },
         "kk" : {
@@ -14769,7 +14767,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "스티커를 사용하려면 키보드 접근이 필요합니다."
+            "value" : "스티커에 대해 키보드 접근이 필요합니다."
           }
         },
         "ms" : {
@@ -14781,55 +14779,55 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tastaturet kreves for klistremerker."
+            "value" : "Tastaturtilgang kreves for klistremerker."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toegang tot het toetsenbord is vereist voor stickers."
+            "value" : "Toegang tot het toetsenbord vereist voor stickers."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dostęp do klawiatury wymagany do korzystania z naklejek."
+            "value" : "Dostęp do klawiatury wymagany dla naklejek."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso ao teclado é necessário para os adesivos."
+            "value" : "Acesso ao teclado é necessário para adesivos."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso ao teclado necessário para os autocolantes."
+            "value" : "Acesso ao teclado necessário para adesivos."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acces la tastatură necesar pentru autocolante."
+            "value" : "Accesul la tastatură este necesar pentru autocolante."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Требуется доступ к клавиатуре для стикеров."
+            "value" : "Для использования стикеров доступ к клавиатуре необходим."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pre pripojenie nálepiek je potrebný prístup k klávesnici."
+            "value" : "Prístup k klávesnici je potrebný pre nálepky."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tangentåtkomst krävs för klistermärken."
+            "value" : "Tangentbordsåtkomst krävs för klistermärken."
           }
         },
         "th" : {
@@ -14841,13 +14839,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartmalar için klavye erişimi gereklidir."
+            "value" : "Çıkartmalar için klavye erişimi gerekli."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Доступ до клавіатури необхідний для стікерів."
+            "value" : "Необхідно доступ до клавіатури для стікерів."
           }
         },
         "vi" : {
@@ -14859,38 +14857,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "需要键盘访问以使用贴纸。"
+            "value" : "需要键盘访问才能使用贴纸。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "需要鍵盤訪問以使用貼圖。"
+            "value" : "需要鍵盤訪問才能使用貼圖。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "需要鍵盤訪問才能使用貼紙。"
+            "value" : "需要鍵盤訪問以使用貼紙。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.keyboardAccessRequiredForStickersDot" : {
-      "comment" : "Message when keyboard access is needed for stickers",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Keyboard access required for stickers."
-          }
-        }
-      }
-    },
-    "TK.Message.packImportedSuccessfully" : {
+    "TK.Message.packImportedSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker pack is imported",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14901,7 +14888,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакетът е импортиран успешно!"
+            "value" : "Пакетът е успешно импортиран!"
           }
         },
         "ca" : {
@@ -14925,13 +14912,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack wurde erfolgreich importiert!"
+            "value" : "Pack erfolgreich importiert!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το πακέτο εισήχθη με επιτυχία!"
+            "value" : "Η συσκευασία εισήχθη επιτυχώς!"
           }
         },
         "en" : {
@@ -14985,19 +14972,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הערכה יובאה בהצלחה!"
+            "value" : "החבילה הובאה בהצלחה!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक सफलतापूर्वक आयातित किया गया!"
+            "value" : "पैकेज सफलतापूर्वक आयात किया गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakiranje je uspješno uvezeno!"
+            "value" : "Paket je uspješno uvezen!"
           }
         },
         "hu" : {
@@ -15015,7 +15002,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack importato con successo!"
+            "value" : "Pacchetto importato con successo!"
           }
         },
         "ja" : {
@@ -15033,7 +15020,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "팩이 성공적으로 가져왔습니다!"
+            "value" : "팩이 성공적으로 가져와졌습니다!"
           }
         },
         "ms" : {
@@ -15045,7 +15032,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakke importert!"
+            "value" : "Pakken ble importert vellykket!"
           }
         },
         "nl" : {
@@ -15087,25 +15074,25 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Balíček bol úspešne importovaný!"
+            "value" : "Pack bol úspešne importovaný!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack importerat!"
+            "value" : "Paket importerades framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "นำเข้าชุดสติ๊กเกอร์สำเร็จ!"
+            "value" : "นำแพ็คที่นำเข้าเรียบร้อยแล้ว!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paketi başarıyla içe aktarıldı!"
+            "value" : "Paket başarıyla içe aktarıldı!"
           }
         },
         "uk" : {
@@ -15129,37 +15116,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "包已成功匯入！"
+            "value" : "包裝已成功導入！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "包裹已成功導入！"
+            "value" : "貼紙包已成功導入！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.packImportedSuccessfullyDot" : {
-      "comment" : "Confirmation when a sticker pack is imported",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pack imported successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.packSharedWithFriends" : {
+    "TK.Message.packSharedWithFriendsDot" : {
       "comment" : "Confirmation when a sticker pack is shared with friends",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم مشاركة الحزمة مع الأصدقاء!"
+            "value" : "تمت مشاركة الحزمة مع الأصدقاء!"
           }
         },
         "bg" : {
@@ -15177,7 +15153,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Balíček byl sdílen s přáteli!"
+            "value" : "Balíček sdílen s přáteli!"
           }
         },
         "da" : {
@@ -15195,7 +15171,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το πακέτο μοιράστηκε με φίλους!"
+            "value" : "Η συσκευασία μοιράστηκε με φίλους!"
           }
         },
         "en" : {
@@ -15231,7 +15207,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paketti jaettu ystäville!"
+            "value" : "Paketti jaettu ystävien kanssa!"
           }
         },
         "fr" : {
@@ -15249,19 +15225,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הערכה שותפה עם חברים!"
+            "value" : "החבילה שותפה עם חברים!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक दोस्तों के साथ साझा किया गया!"
+            "value" : "पैकेज दोस्तों के साथ साझा किया गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakiranje je podijeljeno s prijateljima!"
+            "value" : "Paket je podijeljen s prijateljima!"
           }
         },
         "hu" : {
@@ -15273,13 +15249,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket dibagikan dengan teman-teman!"
+            "value" : "Paket dibagikan dengan teman!"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack condiviso con gli amici!"
+            "value" : "Pacchetto condiviso con gli amici!"
           }
         },
         "ja" : {
@@ -15291,25 +15267,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакет достарыммен бөлісті!"
+            "value" : "Пакет достармен бөлісілді!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "팩이 친구와 공유되었습니다!"
+            "value" : "팩이 친구들과 공유되었습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pek telah dikongsi dengan rakan-rakan!"
+            "value" : "Pek dikongsi dengan rakan-rakan!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakke delt!"
+            "value" : "Pakken delt med venner!"
           }
         },
         "nl" : {
@@ -15321,7 +15297,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakiet udostępniony przyjaciołom!"
+            "value" : "Pakiet udostępniony znajomym!"
           }
         },
         "pt-BR" : {
@@ -15339,31 +15315,31 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pachet împărtășit cu prietenii!"
+            "value" : "Pachet partajat cu prietenii!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакет успешно поделён с друзьями!"
+            "value" : "Пакет разделён с друзьями!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Balíček bol zdieľaný s priateľmi!"
+            "value" : "Pack bol zdieľaný s priateľmi!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack delad med vänner!"
+            "value" : "Paketet delades med vänner!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "แชร์ชุดสติ๊กเกอร์กับเพื่อน ๆ เรียบร้อย!"
+            "value" : "แชร์แพ็คกับเพื่อนเรียบร้อยแล้ว!"
           }
         },
         "tr" : {
@@ -15393,32 +15369,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "包已與朋友分享！"
+            "value" : "包裝已與朋友分享！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "包裹已與朋友分享！"
+            "value" : "貼紙包已與朋友分享！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.packSharedWithFriendsDot" : {
-      "comment" : "Confirmation when a sticker pack is shared with friends",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pack shared with friends!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerAddedToFavorites" : {
+    "TK.Message.stickerAddedToFavoritesDot" : {
       "comment" : "Confirmation when a sticker is added to favorites",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15429,7 +15394,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикерът е добавен към любими!"
+            "value" : "Стикерът е добавен към фаворитите!"
           }
         },
         "ca" : {
@@ -15447,7 +15412,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremærke tilføjet til favoritter!"
+            "value" : "Klistermærke tilføjet til favoritter!"
           }
         },
         "de" : {
@@ -15459,7 +15424,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αυτή η αυτοκόλλητη ετικέτα προστέθηκε στα αγαπημένα!"
+            "value" : "Το αυτοκόλλητο προστέθηκε στα αγαπημένα!"
           }
         },
         "en" : {
@@ -15483,7 +15448,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pegatina añadida a favoritos!"
+            "value" : "¡Sticker añadido a favoritos!"
           }
         },
         "es-419" : {
@@ -15501,7 +15466,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker ajouté aux favoris !"
+            "value" : "Autocollant ajouté aux favoris !"
           }
         },
         "fr-CA" : {
@@ -15519,25 +15484,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर पसंदीदा में जोड़ा गया!"
+            "value" : "स्टिकर प्रियतमाओं में जोड़ा गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker je dodan u favorite!"
+            "value" : "Naljepnica je dodana u favorite!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A matricát hozzáadták a kedvencekhez!"
+            "value" : "Matricát a kedvencekhez adtad!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker ditambahkan ke favorit!"
+            "value" : "Stiker telah ditambahkan ke favorit!"
           }
         },
         "it" : {
@@ -15549,13 +15514,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ステッカーをお気に入りに追加しました！"
+            "value" : "ステッカーがお気に入りに追加されました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер таңдаулыларға қосылды!"
+            "value" : "Стикер сүйіктіге қосылды!"
           }
         },
         "ko" : {
@@ -15567,13 +15532,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker ditambahkan ke dalam kegemaran!"
+            "value" : "Stiker telah ditambahkan ke kegemaran!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremerket er lagt til favoritter!"
+            "value" : "Klistremerke lagt til favoritter!"
           }
         },
         "nl" : {
@@ -15591,19 +15556,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figurinha adicionada aos favoritos!"
+            "value" : "Adesivo adicionado aos favoritos!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autocolante adicionado a favoritos!"
+            "value" : "Autocolante adicionado ao teclado!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickerul a fost adăugat la favorite!"
+            "value" : "Autocolantul a fost adăugat la favorite!"
           }
         },
         "ru" : {
@@ -15615,7 +15580,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Nálepka bola pridaná do obľúbených!"
+            "value" : "Nálepka bola pridaná medzi obľúbené!"
           }
         },
         "sv" : {
@@ -15627,7 +15592,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สติกเกอร์ถูกเพิ่มลงในรายการโปรดแล้ว!"
+            "value" : "สติ๊กเกอร์ถูกเพิ่มไปยังรายการโปรดแล้ว!"
           }
         },
         "tr" : {
@@ -15639,13 +15604,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стікери додано до обраних!"
+            "value" : "Наклейку додано до обраних!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker đã được thêm vào mục yêu thích!"
+            "value" : "Nhãn dán đã được thêm vào mục yêu thích!"
           }
         },
         "zh-Hans" : {
@@ -15657,32 +15622,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已加入最愛！"
+            "value" : "貼圖已添加到最愛！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已添加至最愛！"
+            "value" : "貼紙已添加到收藏夾！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerAddedToFavoritesDot" : {
-      "comment" : "Confirmation when a sticker is added to favorites",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker added to favorites!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerAddedToKeyboard" : {
+    "TK.Message.stickerAddedToKeyboardDot" : {
       "comment" : "Confirmation when a sticker is added to the keyboard",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15693,7 +15647,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикерът е добавен на клавиатурата!"
+            "value" : "Стикерът е добавен към клавиатурата!"
           }
         },
         "ca" : {
@@ -15711,7 +15665,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremærke tilføjet til tastaturet!"
+            "value" : "Klistermærke tilføjet til tastaturet!"
           }
         },
         "de" : {
@@ -15723,7 +15677,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αυτή η αυτοκόλλητη ετικέτα προστέθηκε στο πληκτρολόγιο!"
+            "value" : "Το αυτοκόλλητο προστέθηκε στο πληκτρολόγιο!"
           }
         },
         "en" : {
@@ -15747,7 +15701,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pegatina añadida al teclado!"
+            "value" : "¡Sticker añadido al teclado!"
           }
         },
         "es-419" : {
@@ -15765,7 +15719,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker ajouté au clavier !"
+            "value" : "Autocollant ajouté au clavier !"
           }
         },
         "fr-CA" : {
@@ -15789,19 +15743,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker je dodan na tipkovnicu!"
+            "value" : "Naljepnica je dodana u tipkovnicu!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A matricát hozzáadták a billentyűzethez!"
+            "value" : "A matrica a billentyűzethez lett adva!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker ditambahkan ke papan ketik!"
+            "value" : "Stiker telah ditambahkan ke keyboard!"
           }
         },
         "it" : {
@@ -15813,7 +15767,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ステッカーをキーボードに追加しました！"
+            "value" : "ステッカーがキーボードに追加されました！"
           }
         },
         "kk" : {
@@ -15831,13 +15785,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker ditambahkan ke papan kekunci!"
+            "value" : "Stiker telah ditambahkan ke papan kekunci!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremerket lagt til tastaturet!"
+            "value" : "Sticker lagt til favorittene!"
           }
         },
         "nl" : {
@@ -15855,7 +15809,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figurinha adicionada ao teclado!"
+            "value" : "Adesivo adicionado ao teclado!"
           }
         },
         "pt-PT" : {
@@ -15867,13 +15821,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickerul a fost adăugat la tastatură!"
+            "value" : "Autocolantul a fost adăugat la tastatură!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер добавлен в клавиатуру!"
+            "value" : "Стикер добавлен на клавиатуру!"
           }
         },
         "sk" : {
@@ -15885,13 +15839,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistermärke tillagt till tangentbord!"
+            "value" : "Klistermärke tillagt till tangentbordet!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สติกเกอร์ถูกเพิ่มลงในแป้นพิมพ์แล้ว!"
+            "value" : "สติ๊กเกอร์ถูกเพิ่มไปยังแป้นพิมพ์แล้ว!"
           }
         },
         "tr" : {
@@ -15903,13 +15857,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стікери додано на клавіатуру!"
+            "value" : "Наклейку додано до клавіатури!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker đã được thêm vào bàn phím!"
+            "value" : "Nhãn dán đã được thêm vào bàn phím!"
           }
         },
         "zh-Hans" : {
@@ -15927,67 +15881,56 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已添加至鍵盤！"
+            "value" : "貼紙已添加到鍵盤！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerAddedToKeyboardDot" : {
-      "comment" : "Confirmation when a sticker is added to the keyboard",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker added to keyboard!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerPackDownloadComplete" : {
+    "TK.Message.stickerPackDownloadCompleteDot" : {
       "comment" : "Confirmation when a sticker pack download finishes",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت عملية تحميل حزمة الملصقات بنجاح!"
+            "value" : "تم اكتمال تنزيل حزمة الملصقات!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтеглянето на стикер пакета е завършено!"
+            "value" : "Изтеглянето на пакета с стикери е завършено!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarrega del paquet d'adhesius completada!"
+            "value" : "Descarrega del paquet d'adhesius completa!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stahování balíčku samolepek je dokončeno!"
+            "value" : "Stahování balíčku samolepek dokončeno!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download af klistremærkepakke er fuldført!"
+            "value" : "Download af klistermærkepakke fuldført!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker-Pack-Download abgeschlossen!"
+            "value" : "Der Sticker-Pack-Download ist abgeschlossen!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η λήψη της συλλογής αυτοκόλλητων ολοκληρώθηκε!"
+            "value" : "Η λήψη του πακέτου αυτοκόλλητων ολοκληρώθηκε!"
           }
         },
         "en" : {
@@ -16011,7 +15954,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Descarga del paquete de pegatinas completada!"
+            "value" : "¡Descarga del paquete de stickers completa!"
           }
         },
         "es-419" : {
@@ -16023,13 +15966,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarrojen paketin lataus valmis!"
+            "value" : "Tarrapaketti ladattu!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Téléchargement du pack de stickers terminé !"
+            "value" : "Téléchargement du pack d'autocollants terminé !"
           }
         },
         "fr-CA" : {
@@ -16041,19 +15984,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההורדה של חבילת המדבקות הושלמה!"
+            "value" : "ההורדה של חבילת הסטיקרים הושלמה!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर पैक डाउनलोड पूरा हो गया!"
+            "value" : "स्टिकर पैक डाउनलोड पूरा हुआ!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzimanje paketa stikera je dovršeno!"
+            "value" : "Preuzimanje paketa s naljepnicama završeno!"
           }
         },
         "hu" : {
@@ -16083,7 +16026,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер пакеті жүктеу аяқталды!"
+            "value" : "Стикер пакеті жүктелді!"
           }
         },
         "ko" : {
@@ -16095,85 +16038,85 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muat turun pek stiker selesai!"
+            "value" : "Muat turun pek pelekat selesai!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedlasting av klistremerkepakke er fullført!"
+            "value" : "Nedlasting av klistremerkepakke fullført!"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickerpakket gedownload!"
+            "value" : "Stickerpakketdownload voltooid!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie pakietu naklejek zakończone!"
+            "value" : "Pobieranie zestawu naklejek zakończone!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download do pacote de figurinhas concluído!"
+            "value" : "Download do pacote de adesivos concluído!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download do pacote de autocolantes concluído!"
+            "value" : "Download do pacote de stickers concluído!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descărcarea pachetului de stickere a fost finalizată!"
+            "value" : "Descărcarea pachetului de autocolante s-a finalizat!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка набора стикеров завершена!"
+            "value" : "Загрузка пакета стикеров завершена!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sťahovanie balíčka nálepiek je dokončené!"
+            "value" : "Stiahli ste balík nálepiek!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedladdning av klistermärkespaket färdig!"
+            "value" : "Nedladdning av klistermärke-paketet är klar!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การดาวน์โหลดชุดสติกเกอร์เสร็จสมบูรณ์แล้ว!"
+            "value" : "ดาวน์โหลดชุดสติ๊กเกอร์เสร็จสมบูรณ์!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paketi indirme işlemi tamamlandı!"
+            "value" : "Çıkartma paketi indirme tamamlandı!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завантаження пакету стікерів завершено!"
+            "value" : "Завантаження пакету наклейок завершено!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tải gói sticker hoàn tất!"
+            "value" : "Tải gói nhãn dán hoàn tất!"
           }
         },
         "zh-Hans" : {
@@ -16191,26 +16134,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖包下載已完成！"
+            "value" : "貼圖包下載完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerPackDownloadCompleteDot" : {
-      "comment" : "Confirmation when a sticker pack download finishes",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker pack download complete!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerPackInstalledSuccessfully" : {
+    "TK.Message.stickerPackInstalledSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker pack is installed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16221,7 +16153,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер пакетът е инсталиран успешно!"
+            "value" : "Пакетът със стикери е инсталиран успешно!"
           }
         },
         "ca" : {
@@ -16239,7 +16171,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremærkepakke installeret med succes!"
+            "value" : "Klistermærkepakken blev installeret med succes!"
           }
         },
         "de" : {
@@ -16251,7 +16183,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η εγκατάσταση της συλλογής αυτοκόλλητων έγινε με επιτυχία!"
+            "value" : "Το πακέτο αυτοκόλλητων εγκαταστάθηκε με επιτυχία!"
           }
         },
         "en" : {
@@ -16275,13 +16207,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Paquete de pegatinas instalado con éxito!"
+            "value" : "¡Paquete de stickers instalado correctamente!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Paquete de stickers instalado con éxito!"
+            "value" : "¡Paquete de stickers instalado correctamente!"
           }
         },
         "fi" : {
@@ -16293,7 +16225,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pack de stickers installé avec succès !"
+            "value" : "Pack d'autocollants installé avec succès !"
           }
         },
         "fr-CA" : {
@@ -16305,31 +16237,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "חבילת המדבקות הותקנה בהצלחה!"
+            "value" : "חבילת הסטיקרים הותקנה בהצלחה!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर पैक सफलतापूर्वक स्थापित किया गया!"
+            "value" : "स्टिकर पैक सफलतापूर्वक स्थापित हो गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket stikera je uspješno instaliran!"
+            "value" : "Paket s naljepnicama uspješno instaliran!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A matricacsomag sikeresen telepítve lett!"
+            "value" : "A matricacsomag sikeresen telepítve!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket stiker berhasil diinstal!"
+            "value" : "Paket stiker berhasil dipasang!"
           }
         },
         "it" : {
@@ -16359,13 +16291,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pek stiker dipasang dengan jayanya!"
+            "value" : "Pek pelekat berjaya dipasang!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremerkepakke installert vellykket!"
+            "value" : "Klistremerkepakke installert med suksess!"
           }
         },
         "nl" : {
@@ -16377,49 +16309,49 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakiet naklejek zainstalowany pomyślnie!"
+            "value" : "Zestaw naklejek zainstalowany pomyślnie!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pacote de figurinhas instalado com sucesso!"
+            "value" : "Pacote de adesivos instalado com sucesso!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pacote de autocolantes instalado com sucesso!"
+            "value" : "Pacote de stickers instalado com sucesso!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pachetul de stickere a fost instalat cu succes!"
+            "value" : "Pachetul de autocolante a fost instalat cu succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Набор стикеров установлен успешно!"
+            "value" : "Пакет стикеров успешно установлен!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Balíček nálepiek bol úspešne nainštalovaný!"
+            "value" : "Balík nálepiek bol úspešne nainštalovaný!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistermärkespaket installerat framgångsrikt!"
+            "value" : "Klistermärke-paketet har installerats framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ติดตั้งชุดสติกเกอร์เสร็จสมบูรณ์แล้ว!"
+            "value" : "ติดตั้งชุดสติ๊กเกอร์สำเร็จแล้ว!"
           }
         },
         "tr" : {
@@ -16431,13 +16363,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакет стікерів успішно встановлено!"
+            "value" : "Пакет наклейок успішно встановлено!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gói sticker đã được cài đặt thành công!"
+            "value" : "Gói nhãn dán đã được cài đặt thành công!"
           }
         },
         "zh-Hans" : {
@@ -16455,26 +16387,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖包已成功安裝！"
+            "value" : "貼圖包安裝成功！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerPackInstalledSuccessfullyDot" : {
-      "comment" : "Confirmation when a sticker pack is installed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker pack installed successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerSavedToYourCollection" : {
+    "TK.Message.stickerSavedToYourCollectionDot" : {
       "comment" : "Confirmation when a sticker is saved to a collection",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16485,7 +16406,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикерът е запазен в твоята колекция!"
+            "value" : "Стикерът е запазен във вашата колекция!"
           }
         },
         "ca" : {
@@ -16503,7 +16424,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremærke gemt i din samling!"
+            "value" : "Klistermærke gemt i din samling!"
           }
         },
         "de" : {
@@ -16515,7 +16436,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η αυτοκόλλητη ετικέτα αποθηκεύτηκε στη συλλογή σου!"
+            "value" : "Το αυτοκόλλητο αποθηκεύτηκε στη συλλογή σας!"
           }
         },
         "en" : {
@@ -16539,7 +16460,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pegatina guardada en tu colección!"
+            "value" : "¡Sticker guardado en tu colección!"
           }
         },
         "es-419" : {
@@ -16557,7 +16478,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker enregistré dans votre collection !"
+            "value" : "Autocollant enregistré dans votre collection !"
           }
         },
         "fr-CA" : {
@@ -16569,31 +16490,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מדבקה נשמרה באוסף שלך!"
+            "value" : "הסטיקר נשמר לאוסף שלך!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर आपके संग्रह में सहेजा गया!"
+            "value" : "स्टिकर आपकी संग्रह में सहेज लिया गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker je spremljen u vašu kolekciju!"
+            "value" : "Naljepnica je spremljena u vašu kolekciju!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A matricát elmentettük a gyűjteményedbe!"
+            "value" : "A matrica a gyűjteményedbe mentve!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker disimpan ke koleksimu!"
+            "value" : "Stiker disimpan ke koleksi Anda!"
           }
         },
         "it" : {
@@ -16611,7 +16532,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер сіздің коллекцияңызға сақталды!"
+            "value" : "Стикер колекцияңызға сақталды!"
           }
         },
         "ko" : {
@@ -16623,55 +16544,55 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker disimpan ke dalam koleksi anda!"
+            "value" : "Pelekat disimpan ke koleksi anda!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremerket er lagret i samlingen din!"
+            "value" : "Klistremerke lagret i samlingen din!"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker opgeslagen in je collectie!"
+            "value" : "Sticker opgeslagen in jouw collectie!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naklejka zapisana w Twojej kolekcji!"
+            "value" : "Naklejka zapisana w twojej kolekcji!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figurinha salva na sua coleção!"
+            "value" : "Adesivo salvo na sua coleção!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autocolante guardado na sua coleção!"
+            "value" : "Sticker guardado na sua coleção!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickerul a fost salvat în colecția ta!"
+            "value" : "Autocolantul a fost salvat în colecția ta!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер сохранен в вашей коллекции!"
+            "value" : "Стикер сохранён в твоей коллекции!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nálepka bola uložená do tvojej zbierky!"
+            "value" : "Nálepka bola uložená do vašej zbierky!"
           }
         },
         "sv" : {
@@ -16683,62 +16604,51 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สติกเกอร์ถูกบันทึกลงในคอลเลกชันของคุณแล้ว!"
+            "value" : "บันทึกสติ๊กเกอร์ไปยังคอลเลกชันของคุณเรียบร้อย!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma koleksiyonunuza kaydedildi!"
+            "value" : "Çıkartma koleksiyonuna kaydedildi!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стікери збережено до вашої колекції!"
+            "value" : "Наклейка збережена у вашій колекції!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker đã được lưu vào bộ sưu tập của bạn!"
+            "value" : "Nhãn dán đã được lưu vào bộ sưu tập của bạn!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "贴纸已保存到你的收藏中！"
+            "value" : "贴纸已保存到您的收藏中！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已保存至您的收藏！"
+            "value" : "貼圖已儲存到您的收藏！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已儲存至你的收藏！"
+            "value" : "貼圖已儲存到你的收藏！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerSavedToYourCollectionDot" : {
-      "comment" : "Confirmation when a sticker is saved to a collection",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker saved to your collection!"
-          }
-        }
-      }
-    },
-    "TK.Message.stickerSentSuccessfully" : {
+    "TK.Message.stickerSentSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker is sent",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16767,7 +16677,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremærke sendt med succes!"
+            "value" : "Klistermærke sendt med succes!"
           }
         },
         "de" : {
@@ -16779,7 +16689,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η αυτοκόλλητη ετικέτα εστάλη με επιτυχία!"
+            "value" : "Το αυτοκόλλητο στάλθηκε με επιτυχία!"
           }
         },
         "en" : {
@@ -16803,7 +16713,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pegatina enviada con éxito!"
+            "value" : "¡Sticker enviado correctamente!"
           }
         },
         "es-419" : {
@@ -16821,7 +16731,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker envoyé avec succès !"
+            "value" : "Autocollant envoyé avec succès !"
           }
         },
         "fr-CA" : {
@@ -16833,19 +16743,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המדבקה נשלחה בהצלחה!"
+            "value" : "הסטיקר נשלח בהצלחה!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर सफलतापूर्वक भेजा गया!"
+            "value" : "स्टिकर सफलतापूर्वक भेज दिया गया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker je uspješno poslan!"
+            "value" : "Naljepnica je uspješno poslana!"
           }
         },
         "hu" : {
@@ -16887,13 +16797,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiker dihantar dengan jayanya!"
+            "value" : "Pelekat berjaya dihantar!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klistremerket ble sendt vellykket!"
+            "value" : "Klistremerke sendt med suksess!"
           }
         },
         "nl" : {
@@ -16911,25 +16821,25 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figurinha enviada com sucesso!"
+            "value" : "Adesivo enviado com sucesso!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autocolante enviado com sucesso!"
+            "value" : "Sticker enviado com sucesso!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickerul a fost trimis cu succes!"
+            "value" : "Autocolantul a fost trimis cu succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикер отправлен успешно!"
+            "value" : "Стикер успешно отправлен!"
           }
         },
         "sk" : {
@@ -16947,7 +16857,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ส่งสติกเกอร์สำเร็จแล้ว!"
+            "value" : "ส่งสติ๊กเกอร์สำเร็จ!"
           }
         },
         "tr" : {
@@ -16959,79 +16869,68 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стікери надіслано успішно!"
+            "value" : "Наклейка успішно надіслана!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker đã được gửi thành công!"
+            "value" : "Nhãn dán đã được gửi thành công!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "贴纸已成功发送！"
+            "value" : "贴纸发送成功！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖發送成功！"
+            "value" : "貼圖已成功發送！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼圖已成功發送！"
+            "value" : "貼圖發送成功！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.stickerSentSuccessfullyDot" : {
-      "comment" : "Confirmation when a sticker is sent",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Sticker sent successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.yourStickerPackIsReady" : {
+    "TK.Message.yourStickerPackIsReadyDot" : {
       "comment" : "Confirmation when a sticker pack is ready to use",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حزمة الملصقات الخاصة بك جاهزة!"
+            "value" : "حزمة الملصقات جاهزة!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакетът ти с стикери е готов!"
+            "value" : "Вашият пакет с стикери е готов!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El teu paquet d'adhesius està llest!"
+            "value" : "El teu paquet d'adhesius està a punt!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvůj balíček samolepek je připraven!"
+            "value" : "Tvoje sada samolepek je připravena!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dit klistermærkepakke er klar!"
+            "value" : "Din klistermærkepakke er klar!"
           }
         },
         "de" : {
@@ -17043,7 +16942,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το πακέτο αυτοκόλλητων σου είναι έτοιμο!"
+            "value" : "Η συλλογή αυτοκόλλητων σας είναι έτοιμη!"
           }
         },
         "en" : {
@@ -17079,13 +16978,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarrojesi pakka on valmis!"
+            "value" : "Tarrapakettisi on valmis!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre pack d'autocollants est prêt !"
+            "value" : "Votre pack d’autocollants est prêt !"
           }
         },
         "fr-CA" : {
@@ -17109,7 +17008,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj paket s naljepnicama je spreman!"
+            "value" : "Vaš paket naljepnica je spreman!"
           }
         },
         "hu" : {
@@ -17133,13 +17032,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ステッカーパックは準備完了です！"
+            "value" : "ステッカーパックが準備完了です！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің стикер пакеті дайын!"
+            "value" : "Сіздің стикер пакеттіңіз дайын!"
           }
         },
         "ko" : {
@@ -17151,7 +17050,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakej pelekat anda sedia untuk digunakan!"
+            "value" : "Pek pelekat anda sedia!"
           }
         },
         "nb" : {
@@ -17181,49 +17080,49 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O teu pack de stickers está pronto!"
+            "value" : "O teu pack de autocolantes está pronto!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pachetul tău de autocolante este gata!"
+            "value" : "Pachetul tău de stickere este gata!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш пакет стикеров готов!"
+            "value" : "Твой пакет наклеек готов!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj balík samolepiek je pripravený!"
+            "value" : "Tvoj balíček nálepiek je pripravený!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din klistermärkespack är klar!"
+            "value" : "Ditt klistermärkespaket är klart!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ชุดสติกเกอร์ของคุณพร้อมใช้งานแล้ว!"
+            "value" : "แพ็คสติ๊กเกอร์ของคุณพร้อมใช้งานแล้ว!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paketi hazır!"
+            "value" : "Çıkartma paketiniz hazır!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш набір стікерів готовий!"
+            "value" : "Ваш набір наклейок готовий!"
           }
         },
         "vi" : {
@@ -17235,34 +17134,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的贴纸包已准备好！"
+            "value" : "您的贴纸包已准备就绪！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的貼圖包已準備好！"
+            "value" : "您的貼圖包已準備好!"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的贴纸包已准备好！"
+            "value" : "你的貼紙包已準備好！"
           }
         }
-      }
-    },
-    "TK.Message.yourStickerPackIsReadyDot" : {
-      "comment" : "Confirmation when a sticker pack is ready to use",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your sticker pack is ready!"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addingAnimationDots" : {
       "comment" : "Placeholder while adding animation to a sticker",
@@ -17270,7 +17158,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يتم إضافة الرسوم المتحركة…"
+            "value" : "جارٍ إضافة الرسوم المتحركة…"
           }
         },
         "bg" : {
@@ -17513,7 +17401,8 @@
             "value" : "添加动画…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addingToFavoritesDots" : {
       "comment" : "Placeholder while adding a sticker to favorites",
@@ -17521,7 +17410,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري إضافة إلى المفضلة…"
+            "value" : "جارٍ إضافة إلى المفضلة…"
           }
         },
         "bg" : {
@@ -17539,7 +17428,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidávání do oblíbených…"
+            "value" : "Přidání do oblíbených…"
           }
         },
         "da" : {
@@ -17575,7 +17464,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add to favourites…"
+            "value" : "Adding to favourites…"
           }
         },
         "es" : {
@@ -17605,7 +17494,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajout aux favoris…"
+            "value" : "Ajoutez aux favoris…"
           }
         },
         "he" : {
@@ -17653,7 +17542,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қосу сәтте үстімізде..."
+            "value" : "Таңдаулыларға қосылуда..."
           }
         },
         "ko" : {
@@ -17701,7 +17590,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugare la favorite…"
+            "value" : "Adăugarea la favorite…"
           }
         },
         "ru" : {
@@ -17764,7 +17653,8 @@
             "value" : "將標記加入最愛中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addingToKeyboardDots" : {
       "comment" : "Placeholder while adding a sticker to the keyboard",
@@ -17772,7 +17662,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري إضافة إلى لوحة المفاتيح…"
+            "value" : "جارٍ إضافة إلى لوحة المفاتيح…"
           }
         },
         "bg" : {
@@ -17856,7 +17746,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajout au clavier…"
+            "value" : "Ajoutez au clavier…"
           }
         },
         "he" : {
@@ -17952,7 +17842,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugare la tastatură…"
+            "value" : "Adăugarea la tastatură…"
           }
         },
         "ru" : {
@@ -18015,7 +17905,8 @@
             "value" : "將標記加入鍵盤中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.applyingEffectsDots" : {
       "comment" : "Placeholder while applying effects to a sticker",
@@ -18041,7 +17932,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplikuji efekty…"
+            "value" : "Aplikování efektů…"
           }
         },
         "da" : {
@@ -18197,7 +18088,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A aplicar efeitos..."
+            "value" : "A aplicar efeitos…"
           }
         },
         "ro" : {
@@ -18233,7 +18124,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efektler uygulanıyor..."
+            "value" : "Efektleri uygulama…"
           }
         },
         "uk" : {
@@ -18263,10 +18154,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "應用特效中…"
+            "value" : "正在加载特效…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.applyingStyleDots" : {
       "comment" : "Placeholder while applying a style to a sticker",
@@ -18448,7 +18340,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A aplicar estilo..."
+            "value" : "A aplicar estilo…"
           }
         },
         "ro" : {
@@ -18484,7 +18376,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stil uygulanıyor..."
+            "value" : "Stili uygulama…"
           }
         },
         "uk" : {
@@ -18517,7 +18409,8 @@
             "value" : "應用風格中…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.creatingCollectionDots" : {
       "comment" : "Placeholder while creating a collection of stickers",
@@ -18768,7 +18661,8 @@
             "value" : "創建集合…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.creatingStickerDots" : {
       "comment" : "Placeholder while creating a new sticker",
@@ -19019,7 +18913,8 @@
             "value" : "創建貼紙…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.customizingStickerDots" : {
       "comment" : "Placeholder while customizing a sticker",
@@ -19057,7 +18952,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker wird angepasst…"
+            "value" : "Dein Sticker wird angepasst…"
           }
         },
         "el" : {
@@ -19270,7 +19165,8 @@
             "value" : "自定義貼紙…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCategoryTagsDots" : {
       "comment" : "Placeholder for entering category tags for a sticker",
@@ -19350,7 +19246,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä kategoria-tunnisteet…"
+            "value" : "Syötä kategoriatunnisteet…"
           }
         },
         "fr" : {
@@ -19362,7 +19258,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez des étiquettes de catégorie…"
+            "value" : "Entre des étiquettes de catégorie…"
           }
         },
         "he" : {
@@ -19416,7 +19312,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "카테고리 태그 입력…"
+            "value" : "카테고리 태그를 입력하세요…"
           }
         },
         "ms" : {
@@ -19521,7 +19417,8 @@
             "value" : "輸入類別標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPackDetailsDots" : {
       "comment" : "Placeholder for entering details of a sticker pack",
@@ -19565,7 +19462,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε λεπτομέρειες πακέτου…"
+            "value" : "Βάλε λεπτομέρειες πακέτου…"
           }
         },
         "en" : {
@@ -19631,13 +19528,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite detalje paketa…"
+            "value" : "Unesi detalje paketa…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a pack részleteit…"
+            "value" : "Írd be a csomag részleteit…"
           }
         },
         "id" : {
@@ -19667,7 +19564,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "스티커 팩 세부사항 입력…"
+            "value" : "스티커 팩 세부 사항을 입력하세요…"
           }
         },
         "ms" : {
@@ -19685,13 +19582,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer pakkettelefoon in…"
+            "value" : "Voer packgegevens in…"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz szczegóły paczki…"
+            "value" : "Wprowadź szczegóły paczki…"
           }
         },
         "pt-BR" : {
@@ -19733,7 +19630,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รายละเอียดชุดสติ๊กเกอร์…"
+            "value" : "กรอกรายละเอียดชุดสติ๊กเกอร์…"
           }
         },
         "tr" : {
@@ -19745,7 +19642,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть деталі пакету…"
+            "value" : "Введіть деталі набору…"
           }
         },
         "vi" : {
@@ -19772,7 +19669,8 @@
             "value" : "輸入貼紙包詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPackNameDots" : {
       "comment" : "Placeholder for entering the name of a sticker pack",
@@ -19816,7 +19714,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όνομα πακέτου…"
+            "value" : "Γράψε όνομα πακέτου…"
           }
         },
         "en" : {
@@ -19882,13 +19780,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv paketa…"
+            "value" : "Unesi naziv paketa…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a pack nevét…"
+            "value" : "Írd be a csomag nevét…"
           }
         },
         "id" : {
@@ -19918,7 +19816,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "팩 이름 입력…"
+            "value" : "팩 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -19942,7 +19840,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz nazwę paczki…"
+            "value" : "Wprowadź szczegóły paczki…"
           }
         },
         "pt-BR" : {
@@ -19972,7 +19870,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov nálepky…"
+            "value" : "Zadaj názov balenia…"
           }
         },
         "sv" : {
@@ -19984,7 +19882,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อชุดสติ๊กเกอร์…"
+            "value" : "กรอกชื่อชุดสติ๊กเกอร์…"
           }
         },
         "tr" : {
@@ -20023,7 +19921,8 @@
             "value" : "輸入貼紙包名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterStickerTagsDots" : {
       "comment" : "Placeholder for entering tags for a sticker",
@@ -20031,7 +19930,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل علامات الملصق…"
+            "value" : "أدخل التسميات الخاصة بالملصق…"
           }
         },
         "bg" : {
@@ -20067,7 +19966,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε ετικέτες αυτοκόλλητων…"
+            "value" : "Γράψε ετικέτες αυτοκόλλητων…"
           }
         },
         "en" : {
@@ -20211,7 +20110,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți etichetele pentru autocolant…"
+            "value" : "Introdu etichetele pentru autocolant…"
           }
         },
         "ru" : {
@@ -20235,7 +20134,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่แท็กสติกเกอร์…"
+            "value" : "กรอกแท็กสติกเกอร์…"
           }
         },
         "tr" : {
@@ -20274,7 +20173,8 @@
             "value" : "輸入貼紙標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.importFromPhotosDots" : {
       "comment" : "Placeholder while importing a sticker from photos",
@@ -20525,7 +20425,8 @@
             "value" : "從相片中導入..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.installingPackDots" : {
       "comment" : "Placeholder while installing a sticker pack",
@@ -20695,7 +20596,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Instalowanie paczki…"
+            "value" : "Instalowanie paczek…"
           }
         },
         "pt-BR" : {
@@ -20776,7 +20677,8 @@
             "value" : "安裝貼紙包中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingStickerPackDots" : {
       "comment" : "Placeholder while loading a sticker pack",
@@ -21027,7 +20929,8 @@
             "value" : "加載貼紙包中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.preparingPreviewDots" : {
       "comment" : "Placeholder while preparing a preview of a sticker",
@@ -21197,7 +21100,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przygotowanie podglądu…"
+            "value" : "Przygotowywanie podglądu…"
           }
         },
         "pt-BR" : {
@@ -21278,7 +21181,8 @@
             "value" : "準備預覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.removingBackgroundDots" : {
       "comment" : "Placeholder while removing the background from a sticker",
@@ -21529,7 +21433,8 @@
             "value" : "正在移除背景…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.savingToPhotosDots" : {
       "comment" : "Placeholder while saving a sticker to photos",
@@ -21771,7 +21676,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存到照片中…"
+            "value" : "保存到照片中⋯"
           }
         },
         "zh-HK" : {
@@ -21780,7 +21685,8 @@
             "value" : "正在保存到相片…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchStickersDots" : {
       "comment" : "Placeholder for searching for stickers",
@@ -21812,7 +21718,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg klistermærker…"
+            "value" : "Søg i klistermærker…"
           }
         },
         "de" : {
@@ -21860,7 +21766,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi tarroja..."
+            "value" : "Etsi tarroja…"
           }
         },
         "fr" : {
@@ -21920,7 +21826,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стикерлерді іздеу…"
+            "value" : "Стикерлерді іздеңіз..."
           }
         },
         "ko" : {
@@ -21932,7 +21838,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carian pelekat…"
+            "value" : "Cari pelekat…"
           }
         },
         "nb" : {
@@ -21986,7 +21892,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök klistermärken..."
+            "value" : "Sök klistermärken…"
           }
         },
         "th" : {
@@ -22004,7 +21910,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук наліпок…"
+            "value" : "Шукати наліпки…"
           }
         },
         "vi" : {
@@ -22022,7 +21928,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋貼圖..."
+            "value" : "搜尋貼圖…"
           }
         },
         "zh-HK" : {
@@ -22031,7 +21937,8 @@
             "value" : "搜尋貼圖…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.sharingStickerDots" : {
       "comment" : "Placeholder while sharing a sticker",
@@ -22069,7 +21976,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker wird geteilt…"
+            "value" : "Sticker teilen…"
           }
         },
         "el" : {
@@ -22111,7 +22018,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jaa tarra..."
+            "value" : "Jaa tarra…"
           }
         },
         "fr" : {
@@ -22129,7 +22036,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שתף מדבקה…"
+            "value" : "שיתוף מדבקה…"
           }
         },
         "hi" : {
@@ -22255,7 +22162,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обмін наліпкою…"
+            "value" : "Обмін стікером…"
           }
         },
         "vi" : {
@@ -22282,7 +22189,8 @@
             "value" : "分享貼紙…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

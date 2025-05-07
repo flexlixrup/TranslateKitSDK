@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aliniere"
+            "value" : "Aliniază"
           }
         },
         "ru" : {
@@ -250,7 +250,8 @@
             "value" : "对齐"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.arrange" : {
       "comment" : "Use for rearranging elements in a design",
@@ -402,7 +403,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "安排"
+            "value" : "Atur"
           }
         },
         "nb" : {
@@ -501,7 +502,8 @@
             "value" : "整理"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.blend" : {
       "comment" : "Use for blending layers or colors",
@@ -752,7 +754,8 @@
             "value" : "融合"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.crop" : {
       "comment" : "Use for trimming an image or content",
@@ -886,7 +889,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切り取り"
+            "value" : "トリミング"
           }
         },
         "kk" : {
@@ -916,7 +919,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snij bij"
+            "value" : "Snij Bij"
           }
         },
         "pl" : {
@@ -1003,7 +1006,8 @@
             "value" : "裁剪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.customize" : {
       "comment" : "Use when modifying a design or template",
@@ -1167,7 +1171,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pas aan…"
+            "value" : "Pas Aan…"
           }
         },
         "pl" : {
@@ -1254,7 +1258,8 @@
             "value" : "自訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.duplicate" : {
       "comment" : "Use for creating a copy of an element",
@@ -1505,7 +1510,8 @@
             "value" : "製作副本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.fill" : {
       "comment" : "Use for filling shapes or areas with color or patterns",
@@ -1756,7 +1762,8 @@
             "value" : "填充"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.flip" : {
       "comment" : "Use for flipping an element horizontally or vertically",
@@ -2007,7 +2014,8 @@
             "value" : "翻转"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.group" : {
       "comment" : "Use for grouping multiple elements together",
@@ -2201,7 +2209,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Группа"
+            "value" : "Группировать"
           }
         },
         "sk" : {
@@ -2219,7 +2227,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เท่ากัน"
+            "value" : "กลุ่ม"
           }
         },
         "tr" : {
@@ -2258,7 +2266,8 @@
             "value" : "群組"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.mask" : {
       "comment" : "Use for masking parts of an image or element",
@@ -2266,7 +2275,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إخفاء"
+            "value" : "أخفي"
           }
         },
         "bg" : {
@@ -2278,7 +2287,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masquera"
+            "value" : "Emmascarar"
           }
         },
         "cs" : {
@@ -2509,7 +2518,8 @@
             "value" : "遮罩"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.mirror" : {
       "comment" : "Use for mirroring an element along an axis",
@@ -2760,7 +2770,8 @@
             "value" : "镜像"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.order" : {
       "comment" : "Use for changing the stacking order of elements",
@@ -2870,7 +2881,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Narudžba"
+            "value" : "Poredaj"
           }
         },
         "hu" : {
@@ -2882,7 +2893,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesanan"
+            "value" : "Atur"
           }
         },
         "it" : {
@@ -2924,7 +2935,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestelling"
+            "value" : "Volgorde"
           }
         },
         "pl" : {
@@ -2966,7 +2977,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beställning"
+            "value" : "Beställ"
           }
         },
         "th" : {
@@ -2990,7 +3001,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đơn hàng"
+            "value" : "Sắp xếp thứ tự"
           }
         },
         "zh-Hans" : {
@@ -3011,7 +3022,8 @@
             "value" : "訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.paste" : {
       "comment" : "Use for pasting copied content into the workspace",
@@ -3049,7 +3061,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einfügen"
+            "value" : "einfügen"
           }
         },
         "el" : {
@@ -3091,7 +3103,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sijoita"
+            "value" : "Liitä"
           }
         },
         "fr" : {
@@ -3109,7 +3121,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הדבק"
+            "value" : "הדבק בקובץ"
           }
         },
         "hi" : {
@@ -3262,7 +3274,8 @@
             "value" : "貼上"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use for printing the design or document",
@@ -3513,7 +3526,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resize" : {
       "comment" : "Use for changing the dimensions of an element",
@@ -3764,7 +3778,8 @@
             "value" : "調整大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rotate" : {
       "comment" : "Use for rotating an element by a specified angle",
@@ -3922,7 +3937,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rotere"
+            "value" : "Roter"
           }
         },
         "nl" : {
@@ -4015,7 +4030,8 @@
             "value" : "旋轉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scale" : {
       "comment" : "Use for adjusting the size of an element while maintaining proportions",
@@ -4023,19 +4039,19 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "تغيير الحجم"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скала"
+            "value" : "Скалирай"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Dibuixar"
           }
         },
         "cs" : {
@@ -4059,7 +4075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Κλιμάκωση"
           }
         },
         "en" : {
@@ -4119,7 +4135,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "स्केल करें"
           }
         },
         "hr" : {
@@ -4266,7 +4282,8 @@
             "value" : "縮放"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setColor" : {
       "comment" : "Use for setting the color of an element",
@@ -4340,7 +4357,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Color"
+            "value" : "Establecer color"
           }
         },
         "fi" : {
@@ -4382,7 +4399,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szín Beállítása"
+            "value" : "Szín beállítása"
           }
         },
         "id" : {
@@ -4517,7 +4534,8 @@
             "value" : "設置顏色"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sketch" : {
       "comment" : "Use for drawing or sketching elements",
@@ -4627,7 +4645,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crtež"
+            "value" : "Skiciraj"
           }
         },
         "hu" : {
@@ -4768,7 +4786,8 @@
             "value" : "圖畫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stroke" : {
       "comment" : "Use for applying a stroke to an element or shape",
@@ -4992,7 +5011,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рискова"
+            "value" : "Риска"
           }
         },
         "vi" : {
@@ -5019,7 +5038,8 @@
             "value" : "筆畫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.transform" : {
       "comment" : "Use for transforming an element's position or shape",
@@ -5153,7 +5173,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "変形"
+            "value" : "トランスフォームする"
           }
         },
         "kk" : {
@@ -5270,7 +5290,8 @@
             "value" : "轉換"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming or cropping elements",
@@ -5521,7 +5542,8 @@
             "value" : "裁剪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.ungroup" : {
       "comment" : "Use for separating grouped elements",
@@ -5565,7 +5587,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Απομάκρυνση Ομίλου"
+            "value" : "Απομάκρυνση Ομάδας"
           }
         },
         "en" : {
@@ -5763,7 +5785,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "取消分組"
+            "value" : "取消組合"
           }
         },
         "zh-HK" : {
@@ -5772,7 +5794,8 @@
             "value" : "拆分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.alignment" : {
       "comment" : "Use when referring to the positioning of elements",
@@ -5816,7 +5839,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συμμετοχή"
+            "value" : "Στοίχιση"
           }
         },
         "en" : {
@@ -5924,7 +5947,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penyelarasan"
+            "value" : "Penjajaran"
           }
         },
         "nb" : {
@@ -6023,7 +6046,8 @@
             "value" : "對齊"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.artboard" : {
       "comment" : "Use for the main workspace area in design tools",
@@ -6181,7 +6205,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tegnebrett"
+            "value" : "Tegneflate"
           }
         },
         "nl" : {
@@ -6211,7 +6235,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tablă de lucru"
+            "value" : "Mediul de lucru"
           }
         },
         "ru" : {
@@ -6274,7 +6298,8 @@
             "value" : "画板"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.blendMode" : {
       "comment" : "Use for defining how layers interact with each other",
@@ -6525,7 +6550,8 @@
             "value" : "混合模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.border" : {
       "comment" : "Use when referring to the outer edge or frame of an element",
@@ -6557,7 +6583,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kanttype"
+            "value" : "Border-type"
           }
         },
         "de" : {
@@ -6776,7 +6802,8 @@
             "value" : "边框"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.brush" : {
       "comment" : "Use for the drawing tool used to apply color or texture",
@@ -7027,7 +7054,8 @@
             "value" : "画笔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.canvas" : {
       "comment" : "Use for the area where designs are created or edited",
@@ -7278,7 +7306,8 @@
             "value" : "画布"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.colorFilter" : {
       "comment" : "Use for applying a filter to modify colors",
@@ -7529,7 +7558,8 @@
             "value" : "顏色過濾器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.curve" : {
       "comment" : "Use for a curved line or shape",
@@ -7753,7 +7783,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Крива"
+            "value" : "Крива лінія"
           }
         },
         "vi" : {
@@ -7780,7 +7810,8 @@
             "value" : "曲線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.design" : {
       "comment" : "Use when referring to the overall visual creation or layout",
@@ -8031,7 +8062,8 @@
             "value" : "設計"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.effects" : {
       "comment" : "Use for visual enhancements applied to elements",
@@ -8123,7 +8155,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effets"
+            "value" : "Effets visuels"
           }
         },
         "he" : {
@@ -8201,7 +8233,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efekty"
+            "value" : "Stylistyczne Efekty"
           }
         },
         "pt-BR" : {
@@ -8282,7 +8314,8 @@
             "value" : "效果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fillColor" : {
       "comment" : "Use when applying color to fill an element",
@@ -8533,7 +8566,8 @@
             "value" : "填充顏色"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fontFamily" : {
       "comment" : "Use for defining the typeface of text",
@@ -8757,13 +8791,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сімейність шрифтів"
+            "value" : "Сімейство шрифтів"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Họ Chữ"
+            "value" : "Họ phông chữ"
           }
         },
         "zh-Hans" : {
@@ -8784,7 +8818,8 @@
             "value" : "字體系列"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fontSize" : {
       "comment" : "Use for defining the size of text",
@@ -9035,7 +9070,8 @@
             "value" : "字型大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.format" : {
       "comment" : "Use for specifying the layout or type of a design element",
@@ -9055,7 +9091,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Format"
+            "value" : "Disposició"
           }
         },
         "cs" : {
@@ -9286,7 +9322,8 @@
             "value" : "格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.frame" : {
       "comment" : "Use for defining the boundaries or structure of an element",
@@ -9537,7 +9574,8 @@
             "value" : "框架"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gradient" : {
       "comment" : "Use for applying a gradual transition of colors",
@@ -9629,7 +9667,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mèches"
+            "value" : "Dégradé"
           }
         },
         "he" : {
@@ -9788,7 +9826,8 @@
             "value" : "漸變"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.grid" : {
       "comment" : "Use for a layout tool for alignment or positioning elements",
@@ -9928,7 +9967,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шекаралар"
+            "value" : "Тор"
           }
         },
         "ko" : {
@@ -10039,7 +10078,8 @@
             "value" : "格狀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.imageQuality" : {
       "comment" : "Use for adjusting the resolution or sharpness of an image",
@@ -10290,7 +10330,8 @@
             "value" : "影像質量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.layer" : {
       "comment" : "Use for a single level of an image or design composition",
@@ -10541,7 +10582,8 @@
             "value" : "圖層"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.layout" : {
       "comment" : "Use for the arrangement of elements in a design",
@@ -10792,7 +10834,8 @@
             "value" : "佈局"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.opacity" : {
       "comment" : "Use for adjusting the transparency of an element",
@@ -10932,7 +10975,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түссіздік"
+            "value" : "Түссіз"
           }
         },
         "ko" : {
@@ -10944,7 +10987,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kelegapan"
+            "value" : "Litupan"
           }
         },
         "nb" : {
@@ -11043,7 +11086,8 @@
             "value" : "不透明度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.options" : {
       "comment" : "Use for configurable settings or preferences",
@@ -11294,7 +11338,8 @@
             "value" : "選項"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.output" : {
       "comment" : "Use for the final result or export of a design",
@@ -11545,7 +11590,8 @@
             "value" : "輸出"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pixels" : {
       "comment" : "Use when referring to the smallest units of a digital image",
@@ -11661,7 +11707,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pixel"
+            "value" : "Pixelek"
           }
         },
         "id" : {
@@ -11796,7 +11842,8 @@
             "value" : "像素"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.position" : {
       "comment" : "Use for determining the location of an element",
@@ -11936,7 +11983,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Орналастыру"
+            "value" : "Орналасу"
           }
         },
         "ko" : {
@@ -12047,7 +12094,8 @@
             "value" : "位置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.preview" : {
       "comment" : "Use for viewing a design before finalizing",
@@ -12298,7 +12346,8 @@
             "value" : "預覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.resolution" : {
       "comment" : "Use for the level of detail in an image",
@@ -12549,7 +12598,8 @@
             "value" : "分辨率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.scale" : {
       "comment" : "Use for resizing an element without changing its proportions",
@@ -12569,7 +12619,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Escala"
           }
         },
         "cs" : {
@@ -12629,7 +12679,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asteikko"
+            "value" : "Skaala"
           }
         },
         "fr" : {
@@ -12671,7 +12721,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skala"
           }
         },
         "it" : {
@@ -12683,7 +12733,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "スケール"
           }
         },
         "kk" : {
@@ -12800,7 +12850,8 @@
             "value" : "比例"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.shape" : {
       "comment" : "Use for defining the form or outline of an element",
@@ -13051,7 +13102,8 @@
             "value" : "形狀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.size" : {
       "comment" : "Use for defining the dimensions of an element",
@@ -13179,7 +13231,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dimensioni"
+            "value" : "Dimensione"
           }
         },
         "ja" : {
@@ -13302,7 +13354,8 @@
             "value" : "大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.style" : {
       "comment" : "Use for applying a visual theme or look to an element",
@@ -13553,7 +13606,8 @@
             "value" : "樣式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.text" : {
       "comment" : "Use when referring to written content",
@@ -13804,7 +13858,8 @@
             "value" : "文字"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tools" : {
       "comment" : "Use for the software features used in creating designs",
@@ -14055,7 +14110,8 @@
             "value" : "工具"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.transform" : {
       "comment" : "Use for changing the position or shape of an element",
@@ -14306,7 +14362,8 @@
             "value" : "變換"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.vector" : {
       "comment" : "Use for graphics defined by paths or mathematical expressions",
@@ -14557,28 +14614,29 @@
             "value" : "向量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.artboardIsEmpty" : {
+    "TK.Message.artboardIsEmptyDot" : {
       "comment" : "Displayed when there are no elements in the artboard",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اللوحة الفنية فارغة."
+            "value" : "اللوحة فارغة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Работната площ е празна."
+            "value" : "Работното поле е празно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El tauler està buit."
+            "value" : "El llenç està buit."
           }
         },
         "cs" : {
@@ -14596,13 +14654,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard ist leer."
+            "value" : "Die Zeichenfläche ist leer."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο καμβάς είναι κενός."
+            "value" : "Η καλλιτεχνική επιφάνεια είναι κενή."
           }
         },
         "en" : {
@@ -14632,31 +14690,31 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El tablero de trabajo está vacío."
+            "value" : "El área de trabajo está vacía."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Työtila on tyhjillään."
+            "value" : "Työalue on tyhjä."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'aire de dessin est vide."
+            "value" : "Le plan de travail est vide."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La planche est vide."
+            "value" : "Le plan de travail est vide."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הלוח ריק."
+            "value" : "לוח העבודה ריק."
           }
         },
         "hi" : {
@@ -14674,19 +14732,19 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rajztábla üres."
+            "value" : "A munkaterület üres."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard kosong."
+            "value" : "Kanvas kosong."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tavolo da disegno è vuoto."
+            "value" : "La tavola da disegno è vuota."
           }
         },
         "ja" : {
@@ -14698,7 +14756,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арткеткіш бос."
+            "value" : "Суреталаушы бос."
           }
         },
         "ko" : {
@@ -14710,13 +14768,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lembaran kerja kosong."
+            "value" : "Artboard adalah kosong."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tegneflaten er tom."
+            "value" : "Artboard er tomt."
           }
         },
         "nl" : {
@@ -14728,7 +14786,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elementy w obszarze roboczym są puste."
+            "value" : "Obszar roboczy jest pusty."
           }
         },
         "pt-BR" : {
@@ -14752,25 +14810,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Холст пуст."
+            "value" : "Арткард пуст."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard je prázdny."
+            "value" : "Pracovná plocha je prázdna."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arbetsytan är tom."
+            "value" : "Arbetsyta är tom."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "หน้าสำหรับออกแบบว่างเปล่า."
+            "value" : "พื้นที่การออกแบบว่างเปล่า."
           }
         },
         "tr" : {
@@ -14782,7 +14840,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Майданчик порожній."
+            "value" : "Художня дошка пуста."
           }
         },
         "vi" : {
@@ -14794,7 +14852,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画板是空的。"
+            "value" : "画布为空。"
           }
         },
         "zh-Hant" : {
@@ -14809,23 +14867,12 @@
             "value" : "畫板是空的。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.artboardIsEmptyDot" : {
-      "comment" : "Displayed when there are no elements in the artboard",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Artboard is empty."
-          }
-        }
-      }
-    },
-    "TK.Message.designHasBeenExportedSuccessfully" : {
+    "TK.Message.designHasBeenExportedSuccessfullyDot" : {
       "comment" : "Confirmation message after exporting a design",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14836,13 +14883,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дизайнът беше успешно експортиран."
+            "value" : "Дизайнът е успешно експортиран."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disseny exportat correctament."
+            "value" : "El disseny s'ha exportat amb èxit."
           }
         },
         "cs" : {
@@ -14854,7 +14901,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Designet er blevet eksporteret med succes."
+            "value" : "Design er blevet eksporteret med succes."
           }
         },
         "de" : {
@@ -14890,19 +14937,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diseño exportado exitosamente."
+            "value" : "El diseño se ha exportado con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El diseño se ha exportado exitosamente."
+            "value" : "El diseño ha sido exportado exitosamente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suunnittelu on viety onnistuneesti."
+            "value" : "Suunnitelma on viety onnistuneesti."
           }
         },
         "fr" : {
@@ -14914,13 +14961,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le design a été exporté avec succès."
+            "value" : "Conception exportée avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "העיצוב הוצא בהצלחה."
+            "value" : "העיצוב יצא בהצלחה."
           }
         },
         "hi" : {
@@ -14932,13 +14979,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dizajn je uspješno eksportiran."
+            "value" : "Dizajn je uspješno izvezen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tervezés sikeresen exportálva lett."
+            "value" : "A terv sikeresen exportálva lett."
           }
         },
         "id" : {
@@ -14950,7 +14997,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Progetto esportato con successo."
+            "value" : "Design esportato con successo."
           }
         },
         "ja" : {
@@ -14974,7 +15021,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reka bentuk telah dieksport dengan jayanya."
+            "value" : "Rekaan telah dieksport dengan jayanya."
           }
         },
         "nb" : {
@@ -15034,7 +15081,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การออกแบบถูกส่งออกอย่างสำเร็จแล้ว"
+            "value" : "การออกแบบได้ถูกส่งออกเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -15052,7 +15099,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thiết kế đã được xuất khẩu thành công."
+            "value" : "Thiết kế đã được xuất thành công."
           }
         },
         "zh-Hans" : {
@@ -15064,7 +15111,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已成功匯出設計。"
+            "value" : "設計已成功匯出。"
           }
         },
         "zh-HK" : {
@@ -15073,34 +15120,23 @@
             "value" : "設計已成功導出。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.designHasBeenExportedSuccessfullyDot" : {
-      "comment" : "Confirmation message after exporting a design",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Design has been exported successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.exportCompletedSuccessfully" : {
+    "TK.Message.exportCompletedSuccessfullyDot" : {
       "comment" : "Message indicating a successful export",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اكتملت عملية التصدير بنجاح."
+            "value" : "اكتمل التصدير بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортът е успешно завършен."
+            "value" : "Експортирането е успешно завършено."
           }
         },
         "ca" : {
@@ -15112,13 +15148,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Export úspěšně dokončen."
+            "value" : "Export byl úspěšně dokončen."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksporten er gennemført med succes."
+            "value" : "Eksport fuldført succesfuldt."
           }
         },
         "de" : {
@@ -15130,7 +15166,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η εξαγωγή ολοκληρώθηκε επιτυχώς."
+            "value" : "Η εξαγωγή ολοκληρώθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -15160,13 +15196,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportación completada exitosamente."
+            "value" : "Exportación completada con éxito."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vienti valmis onnistuneesti."
+            "value" : "Vienti onnistui."
           }
         },
         "fr" : {
@@ -15178,7 +15214,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportation réussie."
+            "value" : "Exportation terminée avec succès."
           }
         },
         "he" : {
@@ -15196,13 +15232,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izvoz je uspješno dovršen."
+            "value" : "Izvoz je uspješno završen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportálás sikeresen befejezve."
+            "value" : "Az exportálás sikeresen befejeződött."
           }
         },
         "id" : {
@@ -15244,7 +15280,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksporten ble fullført vellykket."
+            "value" : "Eksport fullført med suksess."
           }
         },
         "nl" : {
@@ -15274,13 +15310,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Export finalizat cu succes."
+            "value" : "Exportul s-a finalizat cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Экспорт выполнен успешно."
+            "value" : "Экспорт успешно завершен."
           }
         },
         "sk" : {
@@ -15292,13 +15328,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporten slutförd."
+            "value" : "Exportering slutförd framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การส่งออกเสร็จสิ้นแล้ว"
+            "value" : "การส่งออกเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -15310,13 +15346,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експорт завершено успішно."
+            "value" : "Експорт успішно завершено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xuất dữ liệu hoàn tất thành công."
+            "value" : "Xuất hoàn tất thành công."
           }
         },
         "zh-Hans" : {
@@ -15328,7 +15364,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯出已完成。"
+            "value" : "匯出已成功完成。"
           }
         },
         "zh-HK" : {
@@ -15337,28 +15373,17 @@
             "value" : "導出已成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.exportCompletedSuccessfullyDot" : {
-      "comment" : "Message indicating a successful export",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Export completed successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.fileExceedsMaximumCanvasSize" : {
+    "TK.Message.fileExceedsMaximumCanvasSizeDot" : {
       "comment" : "Error displayed when the file is too large for the canvas",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يتجاوز الملف الحد الأقصى لحجم اللوحة."
+            "value" : "يتجاوز الملف الحد الأقصى لحجم القماش."
           }
         },
         "bg" : {
@@ -15376,19 +15401,19 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Soubor přesahuje maximální velikost plátna."
+            "value" : "Soubor překračuje maximální velikost plátna."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fil overstiger den maksimale lærredsstørrelse."
+            "value" : "Fil overskrider maksimum lærredsstørrelse."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datei überschreitet die maximale Leinwandgröße."
+            "value" : "Datei überschreitet maximale Leinwandgröße."
           }
         },
         "el" : {
@@ -15418,7 +15443,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El archivo excede el tamaño máximo de lienzo."
+            "value" : "El archivo excede el tamaño máximo del lienzo."
           }
         },
         "es-419" : {
@@ -15430,7 +15455,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiedosto ylittää suurimman kanvaskoon."
+            "value" : "Tiedosto ylittää maksimi kangaskoon."
           }
         },
         "fr" : {
@@ -15448,13 +15473,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקובץ חורג מגודל הקנבס המקסימלי."
+            "value" : "הקובץ חריג לגודל הקנבס המקסימלי."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फाइल अधिकतम कैनवस आकार से अधिक है।"
+            "value" : "फाइल का आकार अधिकतम कैनवस आकार से अधिक है।"
           }
         },
         "hr" : {
@@ -15478,25 +15503,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il file supera la dimensione massima della tela."
+            "value" : "Il file supera le dimensioni massime della tela."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ファイルがキャンバスの最大サイズを超えています。"
+            "value" : "ファイルが最大キャンバスサイズを超えています。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Файл максималды кенва өлшемінен асып кетті."
+            "value" : "Файл максималды кенеп өлшемінен асып кетті."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "파일이 최대 캔버스 크기를 초과합니다."
+            "value" : "파일이 최대 캔버스 크기를 초과했습니다."
           }
         },
         "ms" : {
@@ -15508,13 +15533,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filen overstiger maksimal lerretsstørrelse."
+            "value" : "Fil overstiger maksimal lerretsstørrelse."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestand overschrijdt de maximale canvasgrootte."
+            "value" : "Bestand overschrijdt maximale canvasgrootte."
           }
         },
         "pl" : {
@@ -15532,7 +15557,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O ficheiro excede o tamanho máximo da tela."
+            "value" : "O arquivo excede o tamanho máximo da tela."
           }
         },
         "ro" : {
@@ -15556,13 +15581,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filens storlek överskrider maximal dukstorlek."
+            "value" : "Filens storlek överskrider den maximala canvasstorleken."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไฟล์เกินขนาดแคนวาสสูงสุดแล้ว"
+            "value" : "ไฟล์ใหญ่เกินขนาดผืนผ้าใบสูงสุด"
           }
         },
         "tr" : {
@@ -15580,7 +15605,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tệp vượt quá kích thước tối đa của canvas."
+            "value" : "Tập tin vượt quá kích thước tối đa của canvas."
           }
         },
         "zh-Hans" : {
@@ -15592,37 +15617,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "檔案超出最大畫布大小。"
+            "value" : "文件超過最大畫布大小。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "檔案超出最大畫布大小。"
+            "value" : "文件超出最大畫布大小。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.fileExceedsMaximumCanvasSizeDot" : {
-      "comment" : "Error displayed when the file is too large for the canvas",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "File exceeds maximum canvas size."
-          }
-        }
-      }
-    },
-    "TK.Message.fontNotFoundInSystem" : {
+    "TK.Message.fontNotFoundInSystemDot" : {
       "comment" : "Error displayed when a specified font is missing",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لم يتم العثور على الخط في النظام."
+            "value" : "لم يتم العثور على الخط."
           }
         },
         "bg" : {
@@ -15634,13 +15648,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipus de lletra no trobada al sistema."
+            "value" : "Font no trobada al sistema."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Písmo nebylo v systému nalezeno."
+            "value" : "Písmo nebylo nalezeno v systému."
           }
         },
         "da" : {
@@ -15694,19 +15708,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fonttia ei löydy järjestelmästä."
+            "value" : "Fonttia ei löytynyt järjestelmästä."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Police introuvable dans le système."
+            "value" : "Police introuvable sur le système."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Police non trouvée dans le système."
+            "value" : "Polices introuvables dans le système."
           }
         },
         "he" : {
@@ -15748,13 +15762,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "システム内でフォントが見つかりません。"
+            "value" : "フォントがシステムに見つかりません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жүйеде шрифт табылмады."
+            "value" : "Шрифт жүйеде табылмады."
           }
         },
         "ko" : {
@@ -15772,7 +15786,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriften ble ikke funnet i systemet."
+            "value" : "Skrifttype ikke funnet i systemet."
           }
         },
         "nl" : {
@@ -15814,13 +15828,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Písmo nebolo v systéme nájdené."
+            "value" : "Písmo sa nenašlo v systéme."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Typsnitt hittades inte i systemet."
+            "value" : "Typsnitt finns inte i systemet."
           }
         },
         "th" : {
@@ -15832,7 +15846,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sistemden yazı tipi bulunamadı."
+            "value" : "Sistem içinde yazı tipi bulunamadı."
           }
         },
         "uk" : {
@@ -15844,55 +15858,44 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phông chữ không được tìm thấy trong hệ thống."
+            "value" : "Không tìm thấy phông chữ trong hệ thống."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系统中未找到字体。"
+            "value" : "系统中找不到字体。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系統中找不到字型。"
+            "value" : "系統中找不到字體。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系統中找不到字體。"
+            "value" : "系統中找不到字型。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.fontNotFoundInSystemDot" : {
-      "comment" : "Error displayed when a specified font is missing",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Font not found in system."
-          }
-        }
-      }
-    },
-    "TK.Message.imageResolutionIsTooLow" : {
+    "TK.Message.imageResolutionIsTooLowDot" : {
       "comment" : "Warning when the image resolution is insufficient",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "دقة الصورة منخفضة جدًا."
+            "value" : "دقة الصورة منخفضة جداً."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешението на снимката е твърде ниско."
+            "value" : "Разделителната способност на изображението е твърде ниска."
           }
         },
         "ca" : {
@@ -15910,13 +15913,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Billedets opløsning er for lav."
+            "value" : "Billedopløsningen er for lav."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bildauflösung ist zu niedrig."
+            "value" : "Die Bildauflösung ist zu niedrig."
           }
         },
         "el" : {
@@ -15982,13 +15985,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "छवि की गुणवत्ता बहुत कम है।"
+            "value" : "छवि का रिज़ॉल्यूशन बहुत कम है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Razlučivost slike je preniska."
+            "value" : "Rezolucija slike je preniska."
           }
         },
         "hu" : {
@@ -16018,7 +16021,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Суреттің шешімі тым төмен."
+            "value" : "Суреттің рұқсаты тым төмен."
           }
         },
         "ko" : {
@@ -16030,19 +16033,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resolusi gambar terlalu rendah."
+            "value" : "Resolusi imej terlalu rendah."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bildeoppløsningen er for lav."
+            "value" : "Oppløsningen på bildet er for lav."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resolutie van de afbeelding is te laag."
+            "value" : "Afbeeldingsresolutie is te laag."
           }
         },
         "pl" : {
@@ -16066,7 +16069,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezoluția imaginii este prea scăzută."
+            "value" : "Rezoluția imaginii este prea mică."
           }
         },
         "ru" : {
@@ -16090,7 +16093,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ความละเอียดของภาพต่ำเกินไป"
+            "value" : "ความละเอียดของภาพต่ำเกินไป."
           }
         },
         "tr" : {
@@ -16114,13 +16117,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "图像分辨率过低。"
+            "value" : "图像分辨率太低。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖片解析度太低。"
+            "value" : "圖片解析度過低。"
           }
         },
         "zh-HK" : {
@@ -16129,23 +16132,12 @@
             "value" : "圖片解析度太低。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.imageResolutionIsTooLowDot" : {
-      "comment" : "Warning when the image resolution is insufficient",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Image resolution is too low."
-          }
-        }
-      }
-    },
-    "TK.Message.layerIsLocked" : {
+    "TK.Message.layerIsLockedDot" : {
       "comment" : "Message when attempting to modify a locked layer",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16168,7 +16160,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrstva je zamčená."
+            "value" : "Vrstva je uzamčena."
           }
         },
         "da" : {
@@ -16186,7 +16178,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η στρώση είναι κλειδωμένη."
+            "value" : "Η επιφάνεια είναι κλειδωμένη."
           }
         },
         "en" : {
@@ -16228,19 +16220,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le calque est verrouillé."
+            "value" : "La couche est verrouillée."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le calque est verrouillé."
+            "value" : "La couche est verrouillée."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "השכבה נעולה."
+            "value" : "שכבה נעולה."
           }
         },
         "hi" : {
@@ -16276,13 +16268,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レイヤーはロックされています。"
+            "value" : "レイヤーがロックされています。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қабат жабық."
+            "value" : "Кеңістік бұғатталған."
           }
         },
         "ko" : {
@@ -16294,7 +16286,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lapisan dikunci."
+            "value" : "Lapisan terkunci."
           }
         },
         "nb" : {
@@ -16324,7 +16316,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Camada bloqueada."
+            "value" : "A camada está bloqueada."
           }
         },
         "ro" : {
@@ -16342,7 +16334,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrstva je zamknutá."
+            "value" : "Vrstva je uzamknutá."
           }
         },
         "sv" : {
@@ -16354,7 +16346,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เลเยอร์ถูกล็อค."
+            "value" : "เลเยอร์ถูกล็อค"
           }
         },
         "tr" : {
@@ -16384,7 +16376,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖層被鎖定。"
+            "value" : "圖層已鎖定。"
           }
         },
         "zh-HK" : {
@@ -16393,23 +16385,12 @@
             "value" : "圖層已鎖定。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.layerIsLockedDot" : {
-      "comment" : "Message when attempting to modify a locked layer",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Layer is locked."
-          }
-        }
-      }
-    },
-    "TK.Message.noCompatibleFontsFound" : {
+    "TK.Message.noCompatibleFontsFoundDot" : {
       "comment" : "Error when no compatible fonts are available",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16432,7 +16413,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyly nalezeny žádné kompatibilní fonty."
+            "value" : "Nenalezeny žádné kompatibilní fonty."
           }
         },
         "da" : {
@@ -16486,7 +16467,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei yhteensopivia fontteja löytynyt."
+            "value" : "Yhteensopivia fontteja ei löytynyt."
           }
         },
         "fr" : {
@@ -16504,13 +16485,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא נמצאו גופנים תואמים."
+            "value" : "לא נמצאו פונטים תואמים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कोई संगत फ़ॉन्ट नहीं मिला।"
+            "value" : "कोई संगत फ़ॉन्ट नहीं मिले।"
           }
         },
         "hr" : {
@@ -16528,7 +16509,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak ada font yang kompatibel ditemukan."
+            "value" : "Tidak ada font yang kompatibel."
           }
         },
         "it" : {
@@ -16540,13 +16521,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "互換性のあるフォントは見つかりませんでした。"
+            "value" : "合致するフォントが見つかりませんでした。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сәйкес қаріптер табылмады."
+            "value" : "Сәйкес шрифттер табылмады."
           }
         },
         "ko" : {
@@ -16558,13 +16539,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada fon yang bersesuaian ditemui."
+            "value" : "Tiada font serasi dikesan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen kompatible skriftfunksjoner funnet."
+            "value" : "Ingen kompatible skrifttyper funnet."
           }
         },
         "nl" : {
@@ -16576,7 +16557,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie znaleziono kompatybilnych czcionek."
+            "value" : "Brak zgodnych czcionek."
           }
         },
         "pt-BR" : {
@@ -16606,19 +16587,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neboli nájdené žiadne kompatibilné písma."
+            "value" : "Nenašli sa žiadne kompatibilné písma."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inga kompatibla typsnitt hittades."
+            "value" : "Inga kompatibla teckensnitt hittades."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบฟอนต์ที่เข้ากันได้."
+            "value" : "ไม่พบฟอนต์ที่เข้ากันได้"
           }
         },
         "tr" : {
@@ -16636,13 +16617,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không tìm thấy phông chữ tương thích nào."
+            "value" : "Không tìm thấy phông chữ tương thích."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到兼容字体。"
+            "value" : "未找到兼容的字体。"
           }
         },
         "zh-Hant" : {
@@ -16657,28 +16638,17 @@
             "value" : "未找到兼容的字體。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noCompatibleFontsFoundDot" : {
-      "comment" : "Error when no compatible fonts are available",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No compatible fonts found."
-          }
-        }
-      }
-    },
-    "TK.Message.projectContainsMissingFonts" : {
+    "TK.Message.projectContainsMissingFontsDot" : {
       "comment" : "Warning when the project references missing fonts",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يحتوي المشروع على خطوط مفقودة."
+            "value" : "المشروع يحتوي على خطوط مفقودة."
           }
         },
         "bg" : {
@@ -16690,7 +16660,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El projecte conté fonts que falten."
+            "value" : "El projecte conté tipografies que falten."
           }
         },
         "cs" : {
@@ -16750,7 +16720,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Projektissa on puuttuvia fontteja."
+            "value" : "Hanke sisältää puuttuvia fontteja."
           }
         },
         "fr" : {
@@ -16768,13 +16738,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הפרויקט מכיל גופנים חסרים."
+            "value" : "ישנם גופנים חסרים בפרויקט."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "परियोजना में गायब फॉन्ट हैं।"
+            "value" : "परियोजना में गायब फ़ॉन्ट शामिल हैं।"
           }
         },
         "hr" : {
@@ -16804,13 +16774,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プロジェクトにフォントが欠落しています。"
+            "value" : "プロジェクトに不足しているフォントがあります。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жоба жоғалған шрифттерді қамтиды."
+            "value" : "Жобада жетіспейтін қаріптер бар."
           }
         },
         "ko" : {
@@ -16828,7 +16798,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prosjektet inneholder manglende skrifter."
+            "value" : "Prosjektet inneholder manglende skrifttyper."
           }
         },
         "nl" : {
@@ -16846,7 +16816,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O projeto contém fontes ausentes."
+            "value" : "Projeto contém fontes ausentes."
           }
         },
         "pt-PT" : {
@@ -16864,7 +16834,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проект содержит отсутствующие шрифты."
+            "value" : "В проекте отсутствуют шрифты."
           }
         },
         "sk" : {
@@ -16882,13 +16852,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โปรเจกต์มีฟอนต์ขาดหาย."
+            "value" : "โครงการมีฟอนต์ที่ขาดหาย."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proje eksik yazı tipleri içeriyor."
+            "value" : "Proje eksik fontlar içeriyor."
           }
         },
         "uk" : {
@@ -16900,19 +16870,19 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dự án chứa phông chữ thiếu."
+            "value" : "Dự án chứa phông chữ bị thiếu."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "项目中包含缺失的字体。"
+            "value" : "项目包含缺失字体。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "專案包含缺少的字型。"
+            "value" : "項目含有缺失的字體。"
           }
         },
         "zh-HK" : {
@@ -16921,23 +16891,12 @@
             "value" : "項目包含缺失的字體。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.projectContainsMissingFontsDot" : {
-      "comment" : "Warning when the project references missing fonts",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Project contains missing fonts."
-          }
-        }
-      }
-    },
-    "TK.Message.resolutionMayAffectQuality" : {
+    "TK.Message.resolutionMayAffectQualityDot" : {
       "comment" : "Warning about potential quality loss due to low resolution",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16948,7 +16907,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разделителната способност може да повлияе на качеството."
+            "value" : "Разрешението може да повлияе на качеството."
           }
         },
         "ca" : {
@@ -16972,7 +16931,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auflösung kann die Qualität beeinträchtigen."
+            "value" : "Die Auflösung kann die Qualität beeinträchtigen."
           }
         },
         "el" : {
@@ -17014,7 +16973,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Määritelmä voi vaikuttaa laatuun."
+            "value" : "Resoluutio voi vaikuttaa laatuun."
           }
         },
         "fr" : {
@@ -17032,13 +16991,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הרזולוציה עשויה להשפיע על האיכות."
+            "value" : "אפשרות האיכות עשויה להיות מושפעת מהרזולוציה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "समाधान गुणवत्ता को प्रभावित कर सकता है।"
+            "value" : "रिज़ॉल्यूशन गुणवत्ता को प्रभावित कर सकता है।"
           }
         },
         "hr" : {
@@ -17056,13 +17015,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resolusi dapat mempengaruhi kualitas."
+            "value" : "Resolusi dapat memengaruhi kualitas."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La risoluzione potrebbe influenzare la qualità."
+            "value" : "La risoluzione potrebbe influire sulla qualità."
           }
         },
         "ja" : {
@@ -17074,13 +17033,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шешім сапаға әсер етуі мүмкін."
+            "value" : "Резолюция сапаға әсер етуі мүмкін."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해상도가 품질에 영향을 미칠 수 있습니다."
+            "value" : "해상도가 품질에 영향을 줄 수 있습니다."
           }
         },
         "ms" : {
@@ -17104,7 +17063,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rozdzielczość może wpływać na jakość."
+            "value" : "Rozdzielczość może wpłynąć na jakość."
           }
         },
         "pt-BR" : {
@@ -17176,32 +17135,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解析度可能影響質量。"
+            "value" : "解像度可能影響畫質。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解析度可能影響質量。"
+            "value" : "解析度可能會影響質量。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.resolutionMayAffectQualityDot" : {
-      "comment" : "Warning about potential quality loss due to low resolution",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Resolution may affect quality."
-          }
-        }
-      }
-    },
-    "TK.Message.someElementsAreOutsideCanvas" : {
+    "TK.Message.someElementsAreOutsideCanvasDot" : {
       "comment" : "Message indicating elements are outside the artboard area",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17218,7 +17166,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hi ha alguns elements fora del llenç."
+            "value" : "Alguns elements estan fora del llenç."
           }
         },
         "cs" : {
@@ -17236,7 +17184,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einige Elemente befinden sich außerhalb der Leinwand."
+            "value" : "Einige Elemente liegen außerhalb der Leinwand."
           }
         },
         "el" : {
@@ -17260,7 +17208,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Some elements are outside the canvas."
+            "value" : "Some elements are outside canvas."
           }
         },
         "es" : {
@@ -17278,13 +17226,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jotkin elementit ovat kankaan ulkopuolella."
+            "value" : "Jotkut elementit ovat kankaan ulkopuolella."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Certains éléments sont en dehors du canevas."
+            "value" : "Certains éléments sont en dehors de la toile."
           }
         },
         "fr-CA" : {
@@ -17296,7 +17244,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כמה אלמנטים נמצאים מחוץ לקטע."
+            "value" : "חלק מהאלמנטים ממוקמים מחוץ לקנבס."
           }
         },
         "hi" : {
@@ -17332,13 +17280,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一部の要素がキャンバスの外にあります。"
+            "value" : "一部の要素がキャンバス外にあります。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кейбір элементтер кенвастан тыс."
+            "value" : "Кейбір элементтер кенептен тыс орналасқан."
           }
         },
         "ko" : {
@@ -17368,25 +17316,25 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niektóre elementy są poza obszarem."
+            "value" : "Niektóre elementy znajdują się poza obszarem roboczym."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alguns elementos estão fora da área do quadro."
+            "value" : "Alguns elementos estão fora da área de trabalho."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alguns elementos estão fora da área de trabalho."
+            "value" : "Alguns elementos estão fora da tela."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unele elemente sunt în afara canvasului."
+            "value" : "Unele elemente sunt în afara zonei de lucru."
           }
         },
         "ru" : {
@@ -17404,13 +17352,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vissa element är utanför duken."
+            "value" : "Några element ligger utanför arbetsytan."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "องค์ประกอบบางอย่างอยู่นอกแคนวาส"
+            "value" : "บางส่วนขององค์ประกอบอยู่นอกกรอบ"
           }
         },
         "tr" : {
@@ -17422,50 +17370,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деякі елементи знаходяться за межами полотна."
+            "value" : "Деякі елементи знаходяться за межами аркуша."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Một số phần tử nằm ngoài khung hình."
+            "value" : "Một số yếu tố nằm ngoài vùng vẽ."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些元素超出画布范围。"
+            "value" : "有些元素在画布外。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些元素在畫布外。"
+            "value" : "某些元素位於畫布之外。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些元素在畫布外。"
+            "value" : "某些元素超出畫布範圍。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.someElementsAreOutsideCanvasDot" : {
-      "comment" : "Message indicating elements are outside the artboard area",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Some elements are outside canvas."
-          }
-        }
-      }
-    },
-    "TK.Message.someLayersAreHidden" : {
+    "TK.Message.someLayersAreHiddenDot" : {
       "comment" : "Information when some layers are not visible",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17482,7 +17419,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hi ha capes ocultes."
+            "value" : "Algunes capes estan ocultes."
           }
         },
         "cs" : {
@@ -17500,7 +17437,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einige Ebenen sind ausgeblendet."
+            "value" : "Einige Ebenen sind verborgen."
           }
         },
         "el" : {
@@ -17542,7 +17479,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jotkin tasot ovat piilossa."
+            "value" : "Osat kerroksista ovat piilossa."
           }
         },
         "fr" : {
@@ -17554,13 +17491,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Certaines couches sont cachées."
+            "value" : "Certaines couches sont masquées."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כמה שכבות מוסתרות."
+            "value" : "חלק מהשכבות מוסתרות."
           }
         },
         "hi" : {
@@ -17590,13 +17527,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alcuni livelli sono nascosti."
+            "value" : "alcuni layer sono nascosti."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "一部のレイヤーが非表示です。"
+            "value" : "一部のレイヤーが隠れています。"
           }
         },
         "kk" : {
@@ -17614,7 +17551,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beberapa lapisan tidak kelihatan."
+            "value" : "Beberapa lapisan tersembunyi."
           }
         },
         "nb" : {
@@ -17668,13 +17605,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vissa lager är dolda."
+            "value" : "Några lager är dolda."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เลเยอร์บางส่วนถูกซ่อนอยู่"
+            "value" : "บางเลเยอร์ซ่อนอยู่"
           }
         },
         "tr" : {
@@ -17686,7 +17623,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деякі шари приховані."
+            "value" : "Деякі шари заховані."
           }
         },
         "vi" : {
@@ -17698,38 +17635,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些图层被隐藏。"
+            "value" : "有些图层被隐藏。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些層是隱藏的。"
+            "value" : "某些圖層是隱藏的。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "某些圖層已隱藏。"
+            "value" : "某些圖層被隱藏。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.someLayersAreHiddenDot" : {
-      "comment" : "Information when some layers are not visible",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Some layers are hidden."
-          }
-        }
-      }
-    },
-    "TK.Message.unableToImportUnsupportedFormat" : {
+    "TK.Message.unableToImportUnsupportedFormatDot" : {
       "comment" : "Error when attempting to import an unsupported file format",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17740,37 +17666,37 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не може да се импортира неподдържан формат."
+            "value" : "Не е възможно да се импортира неподдържан формат."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No es pot importar el format no suportat."
+            "value" : "No es pot importar un format no compatible."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nelze importovat nepodporovaný formát."
+            "value" : "Nepodařilo se importovat nepodporovaný formát."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan ikke importere ikke-understøttet format."
+            "value" : "Kunne ikke importere et ikke-understøttet format."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicht unterstütztes Format kann nicht importiert werden."
+            "value" : "Importieren des nicht unterstützten Formats nicht möglich."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αδύνατη η εισαγωγή μη υποστηριζόμενης μορφής."
+            "value" : "Αδυναμία εισαγωγής μη υποστηριζόμενης μορφής."
           }
         },
         "en" : {
@@ -17794,7 +17720,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se puede importar un formato no compatible."
+            "value" : "No se puede importar el formato no soportado."
           }
         },
         "es-419" : {
@@ -17806,7 +17732,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yhteensopimatonta formaattia ei voida tuoda."
+            "value" : "Tiedostomuotoa ei voi tuoda."
           }
         },
         "fr" : {
@@ -17824,13 +17750,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא ניתן לייבא פורמט שאינו נתמך."
+            "value" : "לא ניתן ליבא פורמט שאינו נתמך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "असमर्थित फ़ाइल फ़ॉर्मेट आयात नहीं कर सकते।"
+            "value" : "असमर्थित स्वरूप आयात करने में असमर्थ।"
           }
         },
         "hr" : {
@@ -17854,25 +17780,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile importare un formato non supportato."
+            "value" : "Impossibile importare il formato non supportato."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "サポートされていない形式をインポートできません。"
+            "value" : "サポートされていないフォーマットをインポートできません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түсініксіз форматты импорттау мүмкін емес."
+            "value" : "Қолданылмайтын форматты импорттау мүмкін емес."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "지원되지 않는 형식을 가져올 수 없습니다."
+            "value" : "지원하지 않는 형식을 가져올 수 없습니다."
           }
         },
         "ms" : {
@@ -17884,13 +17810,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan ikke importere unsupported format."
+            "value" : "Kan ikke importere støttet format."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niet mogelijk om niet-ondersteund formaat te importeren."
+            "value" : "Kan onondersteund formaat niet importeren."
           }
         },
         "pl" : {
@@ -17902,55 +17828,55 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Não foi possível importar formato não suportado."
+            "value" : "Não é possível importar formato não suportado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Incapaz de importar formato não suportado."
+            "value" : "Não é possível importar o formato não suportado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu se poate importa formatul nesuportat."
+            "value" : "Imposibil de importat format neacceptat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не удается импортировать неподдерживаемый формат."
+            "value" : "Невозможно импортировать неподдерживаемый формат."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nemožno importovať nepodporovaný formát."
+            "value" : "Nepodarilo sa importovať nepodporovaný formát."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Det går inte att importera ett format som inte stöds."
+            "value" : "Det går inte att importera ett icke-stödd format."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่สามารถนำเข้าสิ่งที่ไม่รองรับได้."
+            "value" : "ไม่สามารถนำเข้าไฟล์ที่ไม่รองรับได้."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desteklenmeyen formatı içe aktaramadık."
+            "value" : "Desteklenmeyen formatı içe aktaramıyor."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Неможливо імпортувати формат, що не підтримується."
+            "value" : "Неможливо імпортувати непідтримуваний формат."
           }
         },
         "vi" : {
@@ -17962,7 +17888,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法导入不支持的格式。"
+            "value" : "无法导入不受支持的格式。"
           }
         },
         "zh-Hant" : {
@@ -17974,43 +17900,32 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法導入不支持的格式。"
+            "value" : "無法匯入不支援的格式。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.unableToImportUnsupportedFormatDot" : {
-      "comment" : "Error when attempting to import an unsupported file format",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to import unsupported format."
-          }
-        }
-      }
-    },
-    "TK.Message.unsavedChangesWillBeLost" : {
+    "TK.Message.unsavedChangesWillBeLostDot" : {
       "comment" : "Warning when attempting to leave a page with unsaved changes",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "سوف تُفقد التغييرات غير المحفوظة."
+            "value" : "سيتم فقدان التغييرات غير المحفوظة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Несъхранените промени ще бъдат загубени."
+            "value" : "Незапазените промени ще бъдат загубени."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Els canvis no desats es perdran."
+            "value" : "Es perdran els canvis no enregistrats."
           }
         },
         "cs" : {
@@ -18022,7 +17937,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ikke-gemte ændringer vil gå tabt."
+            "value" : "Usikrede ændringer vil gå tabt."
           }
         },
         "de" : {
@@ -18070,7 +17985,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tallentamattomat muutokset katoavat."
+            "value" : "Tallentamattomat muutokset menetetään."
           }
         },
         "fr" : {
@@ -18082,37 +17997,37 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les modifications non sauvegardées seront perdues."
+            "value" : "Les modifications non enregistrées seront perdues."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שינויים לא נשמרים ילכו לאיבוד."
+            "value" : "שינויים שלא נשמרו יאבדו."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बिना सहेजे गए परिवर्तन खो जाएंगे।"
+            "value" : "बचत न की गई परिवर्तनों को खो दिया जाएगा।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nepreuzete promjene će biti izgubljene."
+            "value" : "Nespremljene promjene bit će izgubljene."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A nem mentett változások el fognak veszni."
+            "value" : "A nem mentett változások elvesznek."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perubahan yang tidak disimpan akan hilang."
+            "value" : "Perubahan yang belum disimpan akan hilang."
           }
         },
         "it" : {
@@ -18124,7 +18039,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存されていない変更は失われます。"
+            "value" : "未保存の変更は失われます。"
           }
         },
         "kk" : {
@@ -18136,13 +18051,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저장되지 않은 변경 사항이 잃어버릴 수 있습니다."
+            "value" : "저장되지 않은 변경사항이 손실됩니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perubahan yang belum disimpan akan hilang."
+            "value" : "Perubahan yang tidak disimpan akan hilang."
           }
         },
         "nb" : {
@@ -18172,7 +18087,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mudanças não salvas serão perdidas."
+            "value" : "As alterações não guardadas serão perdidas."
           }
         },
         "ro" : {
@@ -18184,13 +18099,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Несохраненные изменения будут потеряны."
+            "value" : "Несохранённые изменения будут потеряны."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nevyplnené zmeny budú stratené."
+            "value" : "Nespracované zmeny sa stratia."
           }
         },
         "sv" : {
@@ -18202,7 +18117,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงที่ยังไม่ได้บันทึกจะหายไป."
+            "value" : "คุณจะสูญเสียการเปลี่ยนแปลงที่ยังไม่ได้บันทึก."
           }
         },
         "tr" : {
@@ -18214,50 +18129,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Несохранені зміни будуть втрачені."
+            "value" : "Зміни не збережено"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thay đổi chưa lưu sẽ bị mất."
+            "value" : "Những thay đổi chưa được lưu sẽ bị mất."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未保存的更改将丢失。"
+            "value" : "未保存的更改将会丢失。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未儲存的更改將會遺失。"
+            "value" : "未保存的更改將會丟失。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未保存的更改將會丟失。"
+            "value" : "未儲存的更改將會丟失。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.unsavedChangesWillBeLostDot" : {
-      "comment" : "Warning when attempting to leave a page with unsaved changes",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unsaved changes will be lost."
-          }
-        }
-      }
-    },
-    "TK.Message.yourWorkIsBeingSaved" : {
+    "TK.Message.yourWorkIsBeingSavedDot" : {
       "comment" : "Message displayed while saving the user's work",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18268,7 +18172,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Работата ти се запазва."
+            "value" : "Вашата работа се запазва."
           }
         },
         "ca" : {
@@ -18292,13 +18196,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Arbeit wird gespeichert."
+            "value" : "Dein Werk wird gespeichert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η εργασία σου αποθηκεύεται."
+            "value" : "Η εργασία σας αποθηκεύεται."
           }
         },
         "en" : {
@@ -18322,7 +18226,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu trabajo está siendo guardado."
+            "value" : "Tu trabajo se está guardando."
           }
         },
         "es-419" : {
@@ -18334,13 +18238,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Työtäsi ollaan tallentamassa."
+            "value" : "Työtäsi tallennetaan."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre travail est en cours d'enregistrement."
+            "value" : "Votre travail est en cours de sauvegarde."
           }
         },
         "fr-CA" : {
@@ -18358,37 +18262,37 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका कार्य सहेजा जा रहा है।"
+            "value" : "आपका कार्य सुरक्षित किया जा रहा है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja radnja se sprema."
+            "value" : "Vaš rad se sprema."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A munkád mentés alatt."
+            "value" : "Munkád mentése folyamatban van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Karyamu sedang disimpan."
+            "value" : "Pekerjaanmu sedang disimpan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo lavoro è in fase di salvataggio."
+            "value" : "Il tuo lavoro si sta salvando."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "作業は保存されています。"
+            "value" : "作業は保存中です。"
           }
         },
         "kk" : {
@@ -18442,19 +18346,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lucrările tale sunt în curs de salvare."
+            "value" : "Lucrul tău este în curs de salvare."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваша работа сохраняется."
+            "value" : "Твоя работа сохраняется."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja práca sa práve ukladá."
+            "value" : "Tvoja práca sa ukladá."
           }
         },
         "sv" : {
@@ -18466,7 +18370,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "งานของคุณกำลังถูกบันทึกอยู่."
+            "value" : "งานของคุณกำลังถูกบันทึก"
           }
         },
         "tr" : {
@@ -18478,25 +18382,25 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вашу роботу зберігають."
+            "value" : "Ваша робота зберігається."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Công việc của bạn đang được lưu."
+            "value" : "Công việc của bạn đang được lưu lại."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的工作正在保存中。"
+            "value" : "您的工作正在保存中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的工作正在保存中。"
+            "value" : "您的工作正在保存中。"
           }
         },
         "zh-HK" : {
@@ -18505,19 +18409,8 @@
             "value" : "你的工作正在保存中。"
           }
         }
-      }
-    },
-    "TK.Message.yourWorkIsBeingSavedDot" : {
-      "comment" : "Message displayed while saving the user's work",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your work is being saved."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.adjustOpacityDots" : {
       "comment" : "Placeholder text for adjusting opacity",
@@ -18525,7 +18418,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري ضبط الشفافية…"
+            "value" : "جارٍ ضبط الشفافية…"
           }
         },
         "bg" : {
@@ -18597,7 +18490,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Säätää opas…"
+            "value" : "Säädetään opasiteettia…"
           }
         },
         "fr" : {
@@ -18669,13 +18562,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mengubah opasiti…"
+            "value" : "Melaraskan opasiti…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Justerer opacitet…"
+            "value" : "Justerer opasitet…"
           }
         },
         "nl" : {
@@ -18735,7 +18628,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opasiteyi ayarla…"
+            "value" : "Opasiteyi ayarlama…"
           }
         },
         "uk" : {
@@ -18768,7 +18661,8 @@
             "value" : "調整不透明度…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseBrushSizeDots" : {
       "comment" : "Placeholder text for selecting brush size",
@@ -18782,7 +18676,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изберете размер на четката…"
+            "value" : "Избери размер на четката…"
           }
         },
         "ca" : {
@@ -18962,7 +18856,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите размер кисти…"
+            "value" : "Выбери размер кисти…"
           }
         },
         "sk" : {
@@ -19019,7 +18913,8 @@
             "value" : "選擇畫筆大小…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseColorDots" : {
       "comment" : "Placeholder text for selecting a color",
@@ -19237,7 +19132,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renk seç…"
+            "value" : "Bir kategori seçme…"
           }
         },
         "uk" : {
@@ -19270,7 +19165,8 @@
             "value" : "選擇顏色…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseFontFamilyDots" : {
       "comment" : "Placeholder text for selecting a font family",
@@ -19521,7 +19417,8 @@
             "value" : "選擇字體系列…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseLayerStyleDots" : {
       "comment" : "Placeholder text for selecting a layer style",
@@ -19559,7 +19456,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "„Ebene auswählen…“"
+            "value" : "Ebenenstil auswählen…"
           }
         },
         "el" : {
@@ -19772,7 +19669,8 @@
             "value" : "選擇圖層樣式…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.createNewLayerDots" : {
       "comment" : "Placeholder text for creating a new layer",
@@ -19810,7 +19708,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neue Ebene erstellen…"
+            "value" : "Deine neue Ebene erstellen…"
           }
         },
         "el" : {
@@ -19876,13 +19774,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नई लेयर बनाईए…"
+            "value" : "नई लेयर बनाएं…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izradi novu sloj…"
+            "value" : "Izradi novi sloj…"
           }
         },
         "hu" : {
@@ -19990,7 +19888,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni katman oluştur…"
+            "value" : "Yeni katman oluşturuluyor…"
           }
         },
         "uk" : {
@@ -20002,7 +19900,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tạo lớp mới…"
+            "value" : "Đang tạo lớp mới…"
           }
         },
         "zh-Hans" : {
@@ -20023,7 +19921,8 @@
             "value" : "創建新圖層…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterArtboardDimensionsDots" : {
       "comment" : "Placeholder text for entering artboard dimensions",
@@ -20169,7 +20068,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "아트보드 치수 입력…"
+            "value" : "아트보드 치수를 입력하세요…"
           }
         },
         "ms" : {
@@ -20274,7 +20173,8 @@
             "value" : "輸入畫板尺寸…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterHexColorDots" : {
       "comment" : "Placeholder text for entering a hex color code",
@@ -20342,7 +20242,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce el color hex…"
+            "value" : "Introduce código hexadecimal…"
           }
         },
         "es-419" : {
@@ -20360,13 +20260,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un code couleur hexadécimal…"
+            "value" : "Entrez la couleur hexadécimale…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la couleur hexadécimale…"
+            "value" : "Entre la couleur hexadécimale…"
           }
         },
         "he" : {
@@ -20384,7 +20284,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite hex boju…"
+            "value" : "Unesi hex boju…"
           }
         },
         "hu" : {
@@ -20420,7 +20320,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "HEX 색상 입력…"
+            "value" : "HEX 색상을 입력하세요…"
           }
         },
         "ms" : {
@@ -20486,19 +20386,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสสี Hex…"
+            "value" : "กรอกรหัสสี Hex…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hex rengini girin…"
+            "value" : "Hex rengini gir…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть шістнадцятковий колір…"
+            "value" : "Введіть hex-колір…"
           }
         },
         "vi" : {
@@ -20525,7 +20425,8 @@
             "value" : "輸入十六進制顏色…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterImageDimensionsDots" : {
       "comment" : "Placeholder text for entering image dimensions",
@@ -20617,7 +20518,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions de l'image…"
+            "value" : "Entre les dimensions de l'image…"
           }
         },
         "he" : {
@@ -20635,7 +20536,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite dimenzije slike…"
+            "value" : "Unesi dimenzije slike…"
           }
         },
         "hu" : {
@@ -20671,7 +20572,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이미지 크기 입력…"
+            "value" : "이미지 크기를 입력하세요…"
           }
         },
         "ms" : {
@@ -20737,13 +20638,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ขนาดรูปภาพ…"
+            "value" : "กรอกขนาดรูปภาพ…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Görsel boyutlarını girin…"
+            "value" : "Görsel boyutlarını gir…"
           }
         },
         "uk" : {
@@ -20776,7 +20677,8 @@
             "value" : "輸入圖片尺寸…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterLayerNameDots" : {
       "comment" : "Placeholder text for entering a layer's name",
@@ -20820,7 +20722,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όνομα επιπέδου…"
+            "value" : "Γράψε όνομα επιπέδου…"
           }
         },
         "en" : {
@@ -20886,7 +20788,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv sloja…"
+            "value" : "Unesi naziv sloja…"
           }
         },
         "hu" : {
@@ -20922,7 +20824,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "레이어 이름 입력…"
+            "value" : "레이어 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -20946,7 +20848,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz nazwę warstwy…"
+            "value" : "Wprowadź nazwę warstwy…"
           }
         },
         "pt-BR" : {
@@ -20988,13 +20890,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อเลเยอร์…"
+            "value" : "กรอกชื่อเลเยอร์…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Katman adını girin…"
+            "value" : "Katman adını gir…"
           }
         },
         "uk" : {
@@ -21027,7 +20929,8 @@
             "value" : "輸入圖層名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTextDots" : {
       "comment" : "Placeholder text for entering text",
@@ -21203,7 +21106,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o texto…"
+            "value" : "Digite o texto…"
           }
         },
         "pt-PT" : {
@@ -21227,7 +21130,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte text…"
+            "value" : "Zadaj text…"
           }
         },
         "sv" : {
@@ -21278,7 +21181,8 @@
             "value" : "輸入文本…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.exportInProgressDots" : {
       "comment" : "Placeholder text indicating an ongoing export",
@@ -21352,7 +21256,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportando en progreso…"
+            "value" : "Exportación en progreso…"
           }
         },
         "fi" : {
@@ -21388,7 +21292,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izvoz u toku…"
+            "value" : "Unos u toku…"
           }
         },
         "hu" : {
@@ -21448,7 +21352,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksport w toku..."
+            "value" : "Eksport w toku…"
           }
         },
         "pt-BR" : {
@@ -21508,7 +21412,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang xuất video…"
+            "value" : "Đang xuất…"
           }
         },
         "zh-Hans" : {
@@ -21529,7 +21433,8 @@
             "value" : "正在導出…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.insertTextHereDots" : {
       "comment" : "Placeholder text for inserting text",
@@ -21555,7 +21460,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vložte text sem…"
+            "value" : "Vlož text sem…"
           }
         },
         "da" : {
@@ -21780,7 +21685,8 @@
             "value" : "在此插入文字..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.pickAColorDots" : {
       "comment" : "Placeholder text for picking a color",
@@ -21794,7 +21700,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изберете цвят…"
+            "value" : "Избирай цвят…"
           }
         },
         "ca" : {
@@ -21806,7 +21712,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyberte barvu…"
+            "value" : "Vyber barvu…"
           }
         },
         "da" : {
@@ -22031,7 +21937,8 @@
             "value" : "選擇顏色…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.renderingPreviewDots" : {
       "comment" : "Placeholder text for a preview being rendered",
@@ -22189,7 +22096,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renderer forhåndsvisning…"
+            "value" : "Lager forhåndsvisning…"
           }
         },
         "nl" : {
@@ -22213,7 +22120,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A renderizar pré-visualização…"
+            "value" : "Procurar documentos…"
           }
         },
         "ro" : {
@@ -22255,13 +22162,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рендерінг попереднього перегляду…"
+            "value" : "Рендеринг попереднього перегляду…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang xử lý xem trước…"
+            "value" : "Đang kết xuất xem trước..."
           }
         },
         "zh-Hans" : {
@@ -22282,7 +22189,8 @@
             "value" : "正在渲染預覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchFontsDots" : {
       "comment" : "Placeholder text for searching available fonts",
@@ -22302,7 +22210,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant tipografies…"
+            "value" : "Cerca tipografies…"
           }
         },
         "cs" : {
@@ -22314,7 +22222,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger skrifttyper…"
+            "value" : "Søg skrifttyper…"
           }
         },
         "de" : {
@@ -22416,7 +22324,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フォントを検索中…"
+            "value" : "フォントを検索…"
           }
         },
         "kk" : {
@@ -22524,7 +22432,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋字型中…"
+            "value" : "搜尋字型中..."
           }
         },
         "zh-HK" : {
@@ -22533,7 +22441,8 @@
             "value" : "搜尋字型…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setCanvasSizeDots" : {
       "comment" : "Placeholder text for setting the canvas size",
@@ -22613,7 +22522,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta kankaan koko..."
+            "value" : "Aseta kankaan koko…"
           }
         },
         "fr" : {
@@ -22661,7 +22570,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposta dimensione della tela…"
+            "value" : "Imposta dimensioni tela…"
           }
         },
         "ja" : {
@@ -22739,7 +22648,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt dukstorlek..."
+            "value" : "Sätt canvasstorlek..."
           }
         },
         "th" : {
@@ -22751,7 +22660,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tuval boyutunu ayarla…"
+            "value" : "Tuval boyutunu ayarlayın…"
           }
         },
         "uk" : {
@@ -22775,7 +22684,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置畫布大小..."
+            "value" : "設置畫布大小…"
           }
         },
         "zh-HK" : {
@@ -22784,7 +22693,8 @@
             "value" : "設置畫布大小…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setLayerOpacityDots" : {
       "comment" : "Placeholder text for setting the layer opacity",
@@ -22864,7 +22774,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta tason läpinäkyvyys..."
+            "value" : "Aseta tason läpinäkyvyys…"
           }
         },
         "fr" : {
@@ -22936,7 +22846,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tetapkan opasiti lapisan…"
+            "value" : "Tetapkan kelegapan lapisan…"
           }
         },
         "nb" : {
@@ -22984,7 +22894,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastaviť priepustnosť vrstvy…"
+            "value" : "Nastaviť krytie vrstvy…"
           }
         },
         "sv" : {
@@ -23002,7 +22912,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Katman opaklığını ayarla…"
+            "value" : "Katman opaklığını ayarlayın…"
           }
         },
         "uk" : {
@@ -23026,7 +22936,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定圖層不透明度..."
+            "value" : "設定圖層不透明度…"
           }
         },
         "zh-HK" : {
@@ -23035,7 +22945,8 @@
             "value" : "設置圖層不透明度…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setStrokeWidthDots" : {
       "comment" : "Placeholder text for setting the stroke width",
@@ -23115,7 +23026,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta viivan leveys..."
+            "value" : "Aseta viivan leveys…"
           }
         },
         "fr" : {
@@ -23253,7 +23164,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çizgi kalınlığını ayarla…"
+            "value" : "Çizgi kalınlığını ayarlayın…"
           }
         },
         "uk" : {
@@ -23286,7 +23197,8 @@
             "value" : "設置筆觸寬度…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.specifyDimensionsDots" : {
       "comment" : "Placeholder text for specifying the dimensions of an element",
@@ -23366,7 +23278,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Määritä mitat..."
+            "value" : "Määritä mitat…"
           }
         },
         "fr" : {
@@ -23402,7 +23314,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dimenziók megadása…"
+            "value" : "Méretek megadása…"
           }
         },
         "id" : {
@@ -23537,7 +23449,8 @@
             "value" : "指定尺寸…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeToSearchFontsDots" : {
       "comment" : "Placeholder text for typing to search for fonts",
@@ -23671,7 +23584,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フォントを検索するには入力…"
+            "value" : "フォントを検索するには入力してください…"
           }
         },
         "kk" : {
@@ -23788,7 +23701,8 @@
             "value" : "輸入以搜索字型…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

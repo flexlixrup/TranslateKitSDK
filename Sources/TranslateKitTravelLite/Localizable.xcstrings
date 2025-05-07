@@ -31,7 +31,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fornavn nu"
+            "value" : "Book"
           }
         },
         "de" : {
@@ -43,7 +43,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βιβλίο"
+            "value" : "Κράτηση"
           }
         },
         "en" : {
@@ -79,7 +79,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kirja"
+            "value" : "Varaa"
           }
         },
         "fr" : {
@@ -139,7 +139,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кітап"
+            "value" : "Брондау"
           }
         },
         "ko" : {
@@ -181,13 +181,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Livro"
+            "value" : "Reservar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carte"
+            "value" : "Rezervă"
           }
         },
         "ru" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kitap"
+            "value" : "Rezervasyon Yap"
           }
         },
         "uk" : {
@@ -250,7 +250,8 @@
             "value" : "書籍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookNow" : {
       "comment" : "Use for immediate booking of a service or item",
@@ -432,7 +433,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservar Agora"
+            "value" : "Reservar"
           }
         },
         "ro" : {
@@ -501,7 +502,8 @@
             "value" : "立即預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.browse" : {
       "comment" : "Use for browsing available services, items, or content",
@@ -752,7 +754,8 @@
             "value" : "瀏覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.call" : {
       "comment" : "Use for making a phone call",
@@ -1003,7 +1006,8 @@
             "value" : "通話"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkFlightStatus" : {
       "comment" : "Use for checking the status of a flight",
@@ -1137,7 +1141,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フライトステータスを確認"
+            "value" : "フライト状況を確認する"
           }
         },
         "kk" : {
@@ -1254,7 +1258,8 @@
             "value" : "檢查航班狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkIn" : {
       "comment" : "Use for checking into a hotel, flight, or event",
@@ -1505,7 +1510,8 @@
             "value" : "签到"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.checkOut" : {
       "comment" : "Use for checking out from a hotel or event",
@@ -1621,7 +1627,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odafigyelés"
+            "value" : "Ellenőrzés"
           }
         },
         "id" : {
@@ -1756,7 +1762,8 @@
             "value" : "退房"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing options or prices",
@@ -2007,7 +2014,8 @@
             "value" : "比較"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadOfflineMap" : {
       "comment" : "Use for downloading a map for offline use",
@@ -2258,7 +2266,8 @@
             "value" : "下載離線地圖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.explore" : {
       "comment" : "Use for exploring new locations or services",
@@ -2509,7 +2518,8 @@
             "value" : "探索"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.favorite" : {
       "comment" : "Use for marking an item or location as a favorite",
@@ -2760,7 +2770,8 @@
             "value" : "設為喜好"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.filterResults" : {
       "comment" : "Use for filtering search results based on criteria",
@@ -3011,7 +3022,8 @@
             "value" : "篩選結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.findNearby" : {
       "comment" : "Use for finding nearby locations or services",
@@ -3025,7 +3037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намиране на наблизо"
+            "value" : "Намери наблизо"
           }
         },
         "ca" : {
@@ -3037,7 +3049,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najít v okolí"
+            "value" : "Najděte v okolí"
           }
         },
         "da" : {
@@ -3193,7 +3205,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encontrar Próximos"
+            "value" : "Encontrar Próximo"
           }
         },
         "ro" : {
@@ -3262,7 +3274,8 @@
             "value" : "查找附近"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.getDirections" : {
       "comment" : "Use for getting directions to a destination",
@@ -3336,7 +3349,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtener Direcciones"
+            "value" : "Obtener direcciones"
           }
         },
         "fi" : {
@@ -3420,7 +3433,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Få veibeskrivelse"
+            "value" : "Få veibeskrivelser"
           }
         },
         "nl" : {
@@ -3438,7 +3451,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obter Direções"
+            "value" : "Obter Indicações"
           }
         },
         "pt-PT" : {
@@ -3513,7 +3526,8 @@
             "value" : "獲取路線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.navigate" : {
       "comment" : "Use for navigating to a destination",
@@ -3764,7 +3778,8 @@
             "value" : "导航"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.planATrip" : {
       "comment" : "Use for planning a trip or travel route",
@@ -4015,7 +4030,8 @@
             "value" : "規劃旅行"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.printTicket" : {
       "comment" : "Use for printing a ticket for a service or event",
@@ -4266,7 +4282,8 @@
             "value" : "列印票據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rate" : {
       "comment" : "Use for rating a service, item, or experience",
@@ -4430,7 +4447,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snelheid Beoordelen"
+            "value" : "Beoordeel"
           }
         },
         "pl" : {
@@ -4517,7 +4534,8 @@
             "value" : "評分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reserve" : {
       "comment" : "Use for reserving a service or item",
@@ -4768,7 +4786,8 @@
             "value" : "預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reserveATable" : {
       "comment" : "Use for reserving a table at a restaurant",
@@ -4806,7 +4825,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tisch reservieren"
+            "value" : "Tisch Reservieren"
           }
         },
         "el" : {
@@ -5019,7 +5038,8 @@
             "value" : "預訂桌位"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reserveHotel" : {
       "comment" : "Use for reserving a hotel room",
@@ -5057,7 +5077,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hotel reservieren"
+            "value" : "Hotel Reservieren"
           }
         },
         "el" : {
@@ -5147,7 +5167,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Riserva hotel"
+            "value" : "Riserva Hotel"
           }
         },
         "ja" : {
@@ -5171,7 +5191,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempah Sebuah Hotel"
+            "value" : "Tempah Hotel"
           }
         },
         "nb" : {
@@ -5270,7 +5290,8 @@
             "value" : "預訂酒店"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.review" : {
       "comment" : "Use for leaving a review for a service or item",
@@ -5362,7 +5383,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valider"
+            "value" : "Examiner"
           }
         },
         "he" : {
@@ -5521,7 +5542,8 @@
             "value" : "檢視"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning a code, document, or QR code",
@@ -5772,7 +5794,8 @@
             "value" : "掃描"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scanQRCode" : {
       "comment" : "Use for scanning a QR code",
@@ -6023,7 +6046,8 @@
             "value" : "掃描 QR 碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareLocation" : {
       "comment" : "Use for sharing your location with others",
@@ -6091,7 +6115,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartir Ubicación"
+            "value" : "Compartir ubicación"
           }
         },
         "es-419" : {
@@ -6274,7 +6298,8 @@
             "value" : "分享位置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startNavigation" : {
       "comment" : "Use for starting navigation to a destination",
@@ -6318,7 +6343,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Πλοήγηση"
+            "value" : "Ξεκίνησε Πλοήγηση"
           }
         },
         "en" : {
@@ -6480,7 +6505,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Börja navigation"
+            "value" : "Starta navigation"
           }
         },
         "th" : {
@@ -6504,7 +6529,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Hướng Dẫn Đường"
+            "value" : "Bắt đầu hướng dẫn đường"
           }
         },
         "zh-Hans" : {
@@ -6525,7 +6550,8 @@
             "value" : "開始導航"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackFlight" : {
       "comment" : "Use for tracking the status of a flight",
@@ -6776,7 +6802,8 @@
             "value" : "追蹤航班"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use for tracking the status of an order",
@@ -7027,7 +7054,8 @@
             "value" : "追蹤訂單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking progress of a service or delivery",
@@ -7278,7 +7306,8 @@
             "value" : "追蹤進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.translate" : {
       "comment" : "Use for translating text or speech to another language",
@@ -7382,13 +7411,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्थानांतरण"
+            "value" : "स्थानांतरण करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prijevod"
+            "value" : "Prevedi"
           }
         },
         "hu" : {
@@ -7529,7 +7558,8 @@
             "value" : "翻譯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfavorite" : {
       "comment" : "Use for removing an item or location from favorites",
@@ -7567,13 +7597,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kein Favorit"
+            "value" : "Kein Favorit mehr"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αφαίρεση από τις Αγαπημένες"
+            "value" : "Αφαίρεση από τα Αγαπημένα"
           }
         },
         "en" : {
@@ -7651,7 +7681,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batal Favorit"
+            "value" : "Hapus dari Favorit"
           }
         },
         "it" : {
@@ -7705,7 +7735,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Remover das Favoritas"
+            "value" : "Remover dos Favoritos"
           }
         },
         "pt-PT" : {
@@ -7780,7 +7810,8 @@
             "value" : "從喜好項目中移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the hourly weather forecast",
@@ -7854,7 +7885,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Pronóstico por Hora"
+            "value" : "Ver pronóstico por hora"
           }
         },
         "fi" : {
@@ -7944,7 +7975,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bekijk Uurprognose"
+            "value" : "Uurverwachting bekijken"
           }
         },
         "pl" : {
@@ -8031,7 +8062,8 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewListings" : {
       "comment" : "Use for viewing available listings (e.g., hotels, flights)",
@@ -8282,7 +8314,8 @@
             "value" : "查看列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weekly weather forecast",
@@ -8446,7 +8479,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bekijk Weekprognose"
+            "value" : "Weekverwachting bekijken"
           }
         },
         "pl" : {
@@ -8533,7 +8566,8 @@
             "value" : "查看每週天氣預報"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.accommodation" : {
       "comment" : "Use for referring to places where one can stay (e.g., hotels, hostels)",
@@ -8784,7 +8818,8 @@
             "value" : "住宿"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.airline" : {
       "comment" : "Use for referring to an airline company",
@@ -9035,7 +9070,8 @@
             "value" : "航空公司"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.airport" : {
       "comment" : "Use for referring to an airport location",
@@ -9286,7 +9322,8 @@
             "value" : "機場"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.airQuality" : {
       "comment" : "Use for displaying air quality information",
@@ -9468,13 +9505,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ar"
+            "value" : "Qualidade do Ar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calitatea aerului"
+            "value" : "Calitate aer"
           }
         },
         "ru" : {
@@ -9537,7 +9574,8 @@
             "value" : "空氣質素"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.airQualityIndex" : {
       "comment" : "Use for displaying the air quality index",
@@ -9581,7 +9619,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ποιότητα αέρα"
+            "value" : "Δείκτης Ποιότητας Αέρα"
           }
         },
         "en" : {
@@ -9623,7 +9661,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indice de qualité de l’air"
+            "value" : " Indice de qualité de l’air"
           }
         },
         "fr-CA" : {
@@ -9788,7 +9826,8 @@
             "value" : "空氣質素指數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.arrival" : {
       "comment" : "Use for indicating arrival time or event",
@@ -10039,7 +10078,8 @@
             "value" : "抵达"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.baggage" : {
       "comment" : "Use for referring to personal luggage",
@@ -10119,13 +10159,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matkatavarat"
+            "value" : "Matkalaukut"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bagage"
+            "value" : "Bagages"
           }
         },
         "fr-CA" : {
@@ -10290,7 +10330,8 @@
             "value" : "行李"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.boardingPass" : {
       "comment" : "Use for referring to a boarding pass for a flight",
@@ -10298,7 +10339,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تذكرة boarding"
+            "value" : "تذكرة الصعود"
           }
         },
         "bg" : {
@@ -10310,7 +10351,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pagaré d'embarcament"
+            "value" : "Targeta d'embarcament"
           }
         },
         "cs" : {
@@ -10388,7 +10429,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "דרך כרטיס"
+            "value" : "כרטיס עלייה למטוס"
           }
         },
         "hi" : {
@@ -10448,7 +10489,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bordingskort"
+            "value" : "Ombordstigningskort"
           }
         },
         "nl" : {
@@ -10541,7 +10582,8 @@
             "value" : "登机牌"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.booking" : {
       "comment" : "Use for referring to a reservation made for a service",
@@ -10792,7 +10834,8 @@
             "value" : "预订"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.checkIn" : {
       "comment" : "Use for checking into a service, such as a flight or hotel",
@@ -10812,7 +10855,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registre"
+            "value" : "Check-in"
           }
         },
         "cs" : {
@@ -11043,7 +11086,8 @@
             "value" : "签到"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.checkOut" : {
       "comment" : "Use for checking out from a service, such as a hotel",
@@ -11063,7 +11107,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortida"
+            "value" : "Check-out"
           }
         },
         "cs" : {
@@ -11231,7 +11275,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iesire"
+            "value" : "Ieşire"
           }
         },
         "ru" : {
@@ -11294,7 +11338,8 @@
             "value" : "退房"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for displaying the connection status (e.g., internet, GPS)",
@@ -11545,7 +11590,8 @@
             "value" : "連接狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currency" : {
       "comment" : "Use for referring to the type of currency being used or exchanged",
@@ -11691,7 +11737,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "환율"
+            "value" : "통화"
           }
         },
         "ms" : {
@@ -11796,7 +11842,8 @@
             "value" : "貨幣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentLocation" : {
       "comment" : "Use for displaying the user's current location",
@@ -12047,7 +12094,8 @@
             "value" : "目前位置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentTemperature" : {
       "comment" : "Use for displaying the current temperature",
@@ -12298,7 +12346,8 @@
             "value" : "當前溫度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.departure" : {
       "comment" : "Use for indicating the departure time or event",
@@ -12312,7 +12361,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час на заминаване"
+            "value" : "Заминаване"
           }
         },
         "ca" : {
@@ -12549,7 +12598,8 @@
             "value" : "出發"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.destination" : {
       "comment" : "Use for indicating the final location or goal of a trip",
@@ -12800,7 +12850,8 @@
             "value" : "目的地"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.distance" : {
       "comment" : "Use for referring to the distance between two points",
@@ -13051,7 +13102,8 @@
             "value" : "距離"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.driver" : {
       "comment" : "Use for referring to the person operating a vehicle",
@@ -13077,7 +13129,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ovladač"
+            "value" : "Řidič"
           }
         },
         "da" : {
@@ -13221,7 +13273,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sterownik"
+            "value" : "Kierowca"
           }
         },
         "pt-BR" : {
@@ -13293,7 +13345,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "驅動程式"
+            "value" : "司機"
           }
         },
         "zh-HK" : {
@@ -13302,7 +13354,8 @@
             "value" : "驅動程式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use for indicating the time duration of an event or trip",
@@ -13553,7 +13606,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for displaying the estimated arrival time",
@@ -13729,7 +13783,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempo de Chegada Estimado"
+            "value" : "O Tempo de Chegada Estimado"
           }
         },
         "pt-PT" : {
@@ -13804,7 +13858,8 @@
             "value" : "預計到達時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.estimatedDelivery" : {
       "comment" : "Use for showing the estimated delivery time of a product",
@@ -14055,7 +14110,8 @@
             "value" : "預計派送"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.flight" : {
       "comment" : "Use for referring to a flight, either booked or planned",
@@ -14306,7 +14362,8 @@
             "value" : "航班"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gate" : {
       "comment" : "Use for referring to the gate of departure at an airport",
@@ -14350,7 +14407,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gate"
+            "value" : "Πύλη"
           }
         },
         "en" : {
@@ -14404,7 +14461,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gate"
+            "value" : "שער יציאה"
           }
         },
         "hi" : {
@@ -14500,7 +14557,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gate"
+            "value" : "Ворота"
           }
         },
         "sk" : {
@@ -14554,10 +14611,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gate"
+            "value" : "登機閘口"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.hotel" : {
       "comment" : "Use for referring to a place of accommodation",
@@ -14808,7 +14866,8 @@
             "value" : "酒店"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.itinerary" : {
       "comment" : "Use for referring to a detailed plan for a trip",
@@ -15059,7 +15118,8 @@
             "value" : "行程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.latitude" : {
       "comment" : "Use for displaying the latitude coordinate of a location",
@@ -15310,7 +15370,8 @@
             "value" : "緯度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.longitude" : {
       "comment" : "Use for displaying the longitude coordinate of a location",
@@ -15450,7 +15511,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ұзындық"
+            "value" : "Бойлық"
           }
         },
         "ko" : {
@@ -15561,7 +15622,8 @@
             "value" : "經度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reservation" : {
       "comment" : "Use for referring to a confirmed booking or arrangement",
@@ -15812,7 +15874,8 @@
             "value" : "預約"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.route" : {
       "comment" : "Use for referring to the planned path or directions",
@@ -15832,7 +15895,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Ruta"
           }
         },
         "cs" : {
@@ -15892,7 +15955,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Reitti"
           }
         },
         "fr" : {
@@ -15922,7 +15985,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Putanja"
           }
         },
         "hu" : {
@@ -15934,7 +15997,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Rute"
           }
         },
         "it" : {
@@ -15964,7 +16027,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route"
+            "value" : "Laluan"
           }
         },
         "nb" : {
@@ -16000,7 +16063,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rută"
+            "value" : "Ruta"
           }
         },
         "ru" : {
@@ -16063,7 +16126,8 @@
             "value" : "路線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.transportation" : {
       "comment" : "Use for referring to the means of travel (e.g., bus, car, flight)",
@@ -16314,7 +16378,8 @@
             "value" : "交通工具"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.traveler" : {
       "comment" : "Use for referring to the person traveling",
@@ -16382,7 +16447,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viajero/a"
+            "value" : "Persona viajera"
           }
         },
         "es-419" : {
@@ -16565,34 +16630,35 @@
             "value" : "旅行者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.boardingPassAddedSuccessfully" : {
+    "TK.Message.boardingPassAddedSuccessfullyDot" : {
       "comment" : "Message indicating the boarding pass was successfully added",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت إضافة بطاقة الصعود إلى الطائرة بنجاح."
+            "value" : "تم إضافة بطاقة الصعود بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бордната карта е успешно добавена."
+            "value" : "Бордната карта е добавена успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Targeta d'embarcament afegida correctament."
+            "value" : "Targeta d'embarcament afegida amb èxit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Palubní lístek byl úspěšně přidán."
+            "value" : "Palubní vstupenka byla úspěšně přidána."
           }
         },
         "da" : {
@@ -16610,7 +16676,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κάρτα επιboarding προστέθηκε επιτυχώς."
+            "value" : "Η κάρτα επιβίβασης προστέθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -16634,19 +16700,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarjeta de embarque agregada exitosamente."
+            "value" : "Tarjeta de embarque añadida con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La tarjeta de embarque se ha agregado con éxito."
+            "value" : "Tarjeta de embarque añadida con éxito."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matkalippu lisätty onnistuneesti."
+            "value" : "Lentolippu lisätty onnistuneesti."
           }
         },
         "fr" : {
@@ -16664,7 +16730,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "דרכון עלייה למטוס נוסף בהצלחה."
+            "value" : "כרטיס העלייה הוסף בהצלחה."
           }
         },
         "hi" : {
@@ -16676,7 +16742,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boarding pass je uspješno dodan."
+            "value" : "Putna karta je uspješno dodana."
           }
         },
         "hu" : {
@@ -16688,13 +16754,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kartu naik pesawat berhasil ditambahkan."
+            "value" : "Tiket naik pesawat berhasil ditambahkan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carta d'imbarco aggiunta con successo."
+            "value" : "Carta d’imbarco aggiunta con successo."
           }
         },
         "ja" : {
@@ -16706,7 +16772,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чек сәтті қосылды."
+            "value" : "Бортқа отыру талоны сәтті қосылды."
           }
         },
         "ko" : {
@@ -16718,19 +16784,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kad boarding telah berjaya ditambah."
+            "value" : "Baucar penerbangan telah berjaya ditambah."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boardingkort lagt til med suksess."
+            "value" : "Billett lagt til."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boardingpass succesvol toegevoegd."
+            "value" : "Instapkaart succesvol toegevoegd."
           }
         },
         "pl" : {
@@ -16754,13 +16820,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cardul de îmbarcare a fost adăugat cu succes."
+            "value" : "Biletul de îmbarcare a fost adăugat cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посадочный талон успешно добавлен."
+            "value" : "Проездной билет успешно добавлен."
           }
         },
         "sk" : {
@@ -16772,25 +16838,25 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boarding pass har lagts till."
+            "value" : "Boardingkort tillagt framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บัตรขึ้นเครื่องถูกเพิ่มเรียบร้อยแล้ว."
+            "value" : "บัตรขึ้นเครื่องเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biniş kartı başarıyla eklendi."
+            "value" : "Boarding pass başarıyla eklendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посадковий квиток успішно додано."
+            "value" : "Посадковий талон успішно додано."
           }
         },
         "vi" : {
@@ -16802,13 +16868,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "登机牌添加成功。"
+            "value" : "登机牌已成功添加。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "登機證已成功添加。"
+            "value" : "登機證已成功新增。"
           }
         },
         "zh-HK" : {
@@ -16817,23 +16883,12 @@
             "value" : "登機證已成功添加。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.boardingPassAddedSuccessfullyDot" : {
-      "comment" : "Message indicating the boarding pass was successfully added",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Boarding pass added successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.checkInIsNowAvailable" : {
+    "TK.Message.checkInIsNowAvailableDot" : {
       "comment" : "Message indicating that check-in is now open",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16844,13 +16899,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Функцията за настаняване вече е налична."
+            "value" : "Регистрацията е вече налична."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Facturació ja disponible."
+            "value" : "El check-in ja està disponible."
           }
         },
         "cs" : {
@@ -16862,7 +16917,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Check-in er nu tilgængeligt."
+            "value" : "Indtjekning er nu tilgængelig."
           }
         },
         "de" : {
@@ -16874,7 +16929,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η διαδικασία check-in είναι τώρα διαθέσιμη."
+            "value" : "Η check-in είναι τώρα διαθέσιμη."
           }
         },
         "en" : {
@@ -16904,7 +16959,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El check-in ya está disponible."
+            "value" : "El registro ahora está disponible."
           }
         },
         "fi" : {
@@ -16928,7 +16983,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "צ&#39;ק-אין זמין עכשיו."
+            "value" : "צ'ק-אין זמין עכשיו."
           }
         },
         "hi" : {
@@ -16946,7 +17001,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bejelentkezés most már elérhető."
+            "value" : "Bejelentkezés most elérhető."
           }
         },
         "id" : {
@@ -16970,13 +17025,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тіркелу енді қолжетімді."
+            "value" : "Кіру енді қолжетімді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "체크인이 이제 가능합니다."
+            "value" : "체크인이 이제 가능해졌습니다."
           }
         },
         "ms" : {
@@ -16988,7 +17043,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innlogging er nå tilgjengelig."
+            "value" : "Innsjekking er nå tilgjengelig."
           }
         },
         "nl" : {
@@ -17000,7 +17055,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Check-in jest teraz dostępny."
+            "value" : "Odbiór jest teraz dostępny."
           }
         },
         "pt-BR" : {
@@ -17030,7 +17085,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prihlásenie je teraz k dispozícii."
+            "value" : "Čas na registráciu je teraz dostupný."
           }
         },
         "sv" : {
@@ -17042,7 +17097,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เช็คอินพร้อมใช้งานแล้ว."
+            "value" : "เช็คอินพร้อมใช้งานแล้ว"
           }
         },
         "tr" : {
@@ -17054,55 +17109,44 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чек-ін тепер доступний."
+            "value" : "Чекін тепер доступний."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt chỗ hiện đã có sẵn."
+            "value" : "Đăng ký đã sẵn sàng."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "现已开放签到。"
+            "value" : "登记现在可用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "報到功能現在可用。"
+            "value" : "報到功能現在已開放。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "登記現已開放。"
+            "value" : "現在可以進行登記。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.checkInIsNowAvailableDot" : {
-      "comment" : "Message indicating that check-in is now open",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Check-in is now available."
-          }
-        }
-      }
-    },
-    "TK.Message.destinationNotAvailableOffline" : {
+    "TK.Message.destinationNotAvailableOfflineDot" : {
       "comment" : "Message indicating that the destination is not available offline",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الوجهة غير متاحة في وضع عدم الاتصال."
+            "value" : "الوجهة غير متاحة في وضع غير المتصل."
           }
         },
         "bg" : {
@@ -17120,7 +17164,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cíl není k dispozici offline."
+            "value" : "Cíl není dostupný v offline režimu."
           }
         },
         "da" : {
@@ -17168,7 +17212,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El destino no está disponible sin conexión."
+            "value" : "Destino no disponible offline."
           }
         },
         "fi" : {
@@ -17180,7 +17224,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destination non disponible en mode hors connexion."
+            "value" : "Destination non disponible hors ligne."
           }
         },
         "fr-CA" : {
@@ -17198,25 +17242,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "गंतव्य ऑफलाइन में उपलब्ध नहीं है।"
+            "value" : "गंतव्य ऑफलाइन उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odredište nije dostupno u offline modu."
+            "value" : "Odrednica nije dostupna izvan mreže."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A cél offline módban nem elérhető."
+            "value" : "A célpont offline módban nem elérhető."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tujuan tidak tersedia dalam mode offline."
+            "value" : "Tujuan tidak tersedia secara offline."
           }
         },
         "it" : {
@@ -17228,43 +17272,43 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目的地はオフラインモードでは利用できません。"
+            "value" : "オフラインで目的地が利用できません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақсат оффлайн режимінде қолжетімсіз."
+            "value" : "Мақсат оффлайн режимде қол жетімді емес."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "목적지를 오프라인에서 사용할 수 없습니다."
+            "value" : "오프라인에서 목적지를 사용할 수 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destinasi tidak tersedia dalam mod luar talian."
+            "value" : "Destinasi tidak tersedia secara luar talian."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destinasjon er ikke tilgjengelig offline."
+            "value" : "Destinasjon ikke tilgjengelig offline."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestemming is niet beschikbaar in de offline modus."
+            "value" : "Bestemming niet beschikbaar offline."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cel niedostępny w trybie offline."
+            "value" : "Miejsce docelowe niedostępne w trybie offline."
           }
         },
         "pt-BR" : {
@@ -17276,7 +17320,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destino não disponível no modo offline."
+            "value" : "Destino não disponível offline."
           }
         },
         "ro" : {
@@ -17288,13 +17332,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначение недоступно в оффлайн-режиме."
+            "value" : "Место назначения недоступно в оффлайн-режиме."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destinácia nie je k dispozícii offline."
+            "value" : "Cieľ nie je dostupný offline."
           }
         },
         "sv" : {
@@ -17306,7 +17350,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "จุดหมายไม่สามารถใช้งานในโหมดออฟไลน์ได้"
+            "value" : "ปลายทางไม่สามารถใช้งานได้ในโหมดออฟไลน์"
           }
         },
         "tr" : {
@@ -17318,50 +17362,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Місце призначення недоступне в офлайн-режимі."
+            "value" : "Пункт призначення недоступний в офлайн-режимі."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Điểm đến không có sẵn trong chế độ offline."
+            "value" : "Điểm đến không khả dụng ngoại tuyến."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "离线模式下目的地不可用。"
+            "value" : "离线模式下目标不可用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "離線狀態下目的地不可用。"
+            "value" : "離線時目的地不可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "離線時目的地不可用。"
+            "value" : "離線模式下目的地不可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.destinationNotAvailableOfflineDot" : {
-      "comment" : "Message indicating that the destination is not available offline",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Destination not available offline."
-          }
-        }
-      }
-    },
-    "TK.Message.flightStatusHasChanged" : {
+    "TK.Message.flightStatusHasChangedDot" : {
       "comment" : "Message indicating that the flight status has been updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17396,13 +17429,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flugstatus hat sich geändert."
+            "value" : "Der Flugstatus hat sich geändert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κατάσταση πτήσης έχει αλλάξει."
+            "value" : "Η κατάσταση της πτήσης έχει αλλάξει."
           }
         },
         "en" : {
@@ -17444,7 +17477,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'état du vol a changé."
+            "value" : "Le statut du vol a changé."
           }
         },
         "fr-CA" : {
@@ -17492,19 +17525,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フライトのステータスが変更されました。"
+            "value" : "フライトの状況が変更されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ұшақ статусы өзгерді."
+            "value" : "Ұшудың ағымдағы статусы өзгерді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "항공기 상태가 변경되었습니다."
+            "value" : "비행 상태가 변경되었습니다."
           }
         },
         "ms" : {
@@ -17522,31 +17555,31 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vluchtstatus is gewijzigd."
+            "value" : "Vluchtstatus is veranderd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Status lotu uległ zmianie."
+            "value" : "Status lotu się zmienił."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O status do voo mudou."
+            "value" : "O status do voo foi alterado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O estado do voo foi alterado."
+            "value" : "O estado do voo mudou."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Starea zborului s-a schimbat."
+            "value" : "Statusul zborului s-a schimbat."
           }
         },
         "ru" : {
@@ -17570,19 +17603,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สถานะเที่ยวบินเปลี่ยนแปลงแล้ว."
+            "value" : "สถานะเที่ยวบินได้เปลี่ยนแปลงแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uçuş durumu değiştirildi."
+            "value" : "Uçuş durumu değişti."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статус рейсу змінено."
+            "value" : "Статус рейсу змінився."
           }
         },
         "vi" : {
@@ -17600,7 +17633,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "航班狀態已更改。"
+            "value" : "航班狀態已變更。"
           }
         },
         "zh-HK" : {
@@ -17609,28 +17642,17 @@
             "value" : "航班狀態已更改。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.flightStatusHasChangedDot" : {
-      "comment" : "Message indicating that the flight status has been updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Flight status has changed."
-          }
-        }
-      }
-    },
-    "TK.Message.internetRequiredForNavigation" : {
+    "TK.Message.internetRequiredForNavigationDot" : {
       "comment" : "Message informing the user that internet is needed for navigation",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الإنترنت مطلوب للتنقل."
+            "value" : "يتطلب الإنترنت للتنقل."
           }
         },
         "bg" : {
@@ -17642,25 +17664,25 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Es requereix internet per a la navegació."
+            "value" : "Es requereix Internet per a la navegació."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pro navigaci je potřebný internet."
+            "value" : "Internet je vyžadován pro navigaci."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet påkrævet for navigation."
+            "value" : "Internet er påkrævet for navigation."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Für die Navigation ist eine Internetverbindung erforderlich."
+            "value" : "Internet erforderlich für die Navigation."
           }
         },
         "el" : {
@@ -17690,7 +17712,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se requiere internet para la navegación."
+            "value" : "Se requiere Internet para la navegación."
           }
         },
         "es-419" : {
@@ -17702,7 +17724,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet-yhteys vaaditaan navigointiin."
+            "value" : "Internet-yhteys vaaditaan navigointia varten."
           }
         },
         "fr" : {
@@ -17726,7 +17748,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नेविगेशन के लिए इंटरनेट की आवश्यकता है।"
+            "value" : "नेविगेशन के लिए इंटरनेट आवश्यक है।"
           }
         },
         "hr" : {
@@ -17762,13 +17784,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навигация үшін интернет керек."
+            "value" : "Навигация үшін интернет қажет."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "내비게이션에는 인터넷이 필요합니다."
+            "value" : "내비게이션에 인터넷이 필요합니다."
           }
         },
         "ms" : {
@@ -17786,7 +17808,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet nodig voor navigatie."
+            "value" : "Internet vereist voor navigatie."
           }
         },
         "pl" : {
@@ -17798,13 +17820,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet necessária para navegação."
+            "value" : "Internet requerida para navegação."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "É necessária internet para a navegação."
+            "value" : "É necessário internet para a navegação."
           }
         },
         "ro" : {
@@ -17816,43 +17838,43 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Для навигации требуется интернет."
+            "value" : "Необходим интернет для навигации."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet je potrebný na navigáciu."
+            "value" : "Na navigáciu je potrebný internet."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internet behövs för navigering."
+            "value" : "Internet krävs för navigering."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ต้องใช้อินเทอร์เน็ตสำหรับการนำทาง."
+            "value" : "อินเทอร์เน็ตจำเป็นสำหรับการนำทาง."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigasyon için internet gerekli."
+            "value" : "Navigasyon için internet gereklidir."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Для навігації потрібен інтернет."
+            "value" : "Для навігації потрібен Інтернет."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cần internet để dẫn đường."
+            "value" : "Cần có internet để điều hướng."
           }
         },
         "zh-Hans" : {
@@ -17864,32 +17886,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導航需要網路。"
+            "value" : "導航需要互聯網。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導航需要連接互聯網。"
+            "value" : "導航需連接至互聯網。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.internetRequiredForNavigationDot" : {
-      "comment" : "Message informing the user that internet is needed for navigation",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Internet required for navigation."
-          }
-        }
-      }
-    },
-    "TK.Message.locationAccessRequiredForNavigation" : {
+    "TK.Message.locationAccessRequiredForNavigationDot" : {
       "comment" : "Message informing the user that location access is required for navigation",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17906,31 +17917,31 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'accés a la ubicació és necessari per a la navegació."
+            "value" : "Es requereix accés a la ubicació per a la navegació."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je vyžadován přístup k poloze pro navigaci."
+            "value" : "Pro navigaci je vyžadován přístup k poloze."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Placeringstilgang kræves for navigation."
+            "value" : "Adgang til placering kræves for navigation."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Standortzugriff erforderlich für die Navigation."
+            "value" : "Zugriff auf den Standort erforderlich für die Navigation."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Απαιτείται πρόσβαση τοποθεσίας για πλοήγηση."
+            "value" : "Απαιτείται πρόσβαση στην τοποθεσία για πλοήγηση."
           }
         },
         "en" : {
@@ -17966,7 +17977,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sijaintipääsy tarvitaan navigointia varten."
+            "value" : "Sijaintikäyttöoikeus vaaditaan navigointiin."
           }
         },
         "fr" : {
@@ -17978,31 +17989,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accès à la localisation requis pour la navigation."
+            "value" : "Un accès à la localisation est requis pour la navigation."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "גישה למיקום דרושה עבור ניווט."
+            "value" : "נדרשת גישה למיקום עבור ניווט."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नेविगेशन के लिए स्थान एक्सेस की आवश्यकता है।"
+            "value" : "नेविगेशन के लिए स्थान एक्सेस आवश्यक है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potrebna je dozvola za lokaciju za navigaciju."
+            "value" : "Potrebno je pristupiti lokaciji za navigaciju."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hozzáférés szükséges a helyhez a navigációhoz."
+            "value" : "Hozzáférés szükséges a helymeghatározáshoz a navigáláshoz."
           }
         },
         "id" : {
@@ -18014,25 +18025,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "È necessario l'accesso alla posizione per la navigazione."
+            "value" : "Accesso alla posizione richiesto per la navigazione."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ナビゲーションに位置情報アクセスが必要です。"
+            "value" : "ナビゲーションには位置情報へのアクセスが必要です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навигация үшін мекенжайға қол жеткізу қажет."
+            "value" : "Навигация үшін орналасу қажет."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "내비게이션을 위해 위치 접근이 필요합니다."
+            "value" : "탐색을 위해 위치 접근이 필요합니다."
           }
         },
         "ms" : {
@@ -18044,25 +18055,25 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilgang til posisjon er nødvendig for navigering."
+            "value" : "Stedsadgang kreves for navigering."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toegang tot locatie is vereist voor navigatie."
+            "value" : "Toegang tot locatie vereist voor navigatie."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wymagana zgoda na dostęp do lokalizacji w celu nawigacji."
+            "value" : "Wymagany dostęp do lokalizacji dla nawigacji."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso à localização necessário para navegação."
+            "value" : "Acesso à localização é necessário para navegação."
           }
         },
         "pt-PT" : {
@@ -18074,49 +18085,49 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acces la locație necesar pentru navigare."
+            "value" : "Accesul la locație este necesar pentru navigare."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Требуется доступ к местоположению для навигации."
+            "value" : "Необходим доступ к местоположению для навигации."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Na navigáciu je potrebný prístup k polohe."
+            "value" : "Prístup k lokalizácii je potrebný na navigáciu."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Platsåtkomst krävs för navigering."
+            "value" : "Positionsåtkomst krävs för navigering."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ต้องการการเข้าถึงตำแหน่งสำหรับการนำทาง."
+            "value" : "ต้องการการเข้าถึงตำแหน่งสำหรับการนำทาง"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigasyon için konum erişimi gereklidir."
+            "value" : "Navigasyon için konum erişimi gerekli."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Доступ до локації необхідний для навігації."
+            "value" : "Необхідно доступ до місцезнаходження для навігації."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cần quyền truy cập vị trí cho điều hướng."
+            "value" : "Cần quyền truy cập vị trí cho việc điều hướng."
           }
         },
         "zh-Hans" : {
@@ -18128,32 +18139,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導航需要定位權限。"
+            "value" : "導航需要位置訪問。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導航需要位置訪問。"
+            "value" : "需要位置訪問以進行導航。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.locationAccessRequiredForNavigationDot" : {
-      "comment" : "Message informing the user that location access is required for navigation",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Location access required for navigation."
-          }
-        }
-      }
-    },
-    "TK.Message.noAvailableRoomsFound" : {
+    "TK.Message.noAvailableRoomsFoundDot" : {
       "comment" : "Message indicating no available rooms could be found",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18176,7 +18176,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyly nalezeny žádné dostupné pokoje."
+            "value" : "Nenalezeny žádné dostupné pokoje."
           }
         },
         "da" : {
@@ -18230,7 +18230,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei löytynyt vapaita huoneita."
+            "value" : "Saatavilla olevia huoneita ei löytynyt."
           }
         },
         "fr" : {
@@ -18242,7 +18242,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune chambre disponible."
+            "value" : "Aucune chambre disponible trouvée."
           }
         },
         "he" : {
@@ -18266,7 +18266,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs elérhető szoba."
+            "value" : "Nincsenek elérhető szobák."
           }
         },
         "id" : {
@@ -18284,7 +18284,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "空いている部屋は見つかりませんでした。"
+            "value" : "利用可能な部屋は見つかりませんでした。"
           }
         },
         "kk" : {
@@ -18296,7 +18296,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사용 가능한 방이 없습니다."
+            "value" : "사용 가능한 객실이 발견되지 않았습니다."
           }
         },
         "ms" : {
@@ -18350,7 +18350,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neboli nájdené žiadne dostupné izby."
+            "value" : "Nenašli sa žiadne dostupné izby."
           }
         },
         "sv" : {
@@ -18362,7 +18362,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบห้องว่าง."
+            "value" : "ไม่พบห้องว่าง"
           }
         },
         "tr" : {
@@ -18380,13 +18380,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không tìm thấy phòng nào."
+            "value" : "Không tìm thấy phòng nào có sẵn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到可用房间。"
+            "value" : "未找到可用的房间。"
           }
         },
         "zh-Hant" : {
@@ -18401,28 +18401,17 @@
             "value" : "未找到可用的房間。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noAvailableRoomsFoundDot" : {
-      "comment" : "Message indicating no available rooms could be found",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No available rooms found."
-          }
-        }
-      }
-    },
-    "TK.Message.noFlightsFoundForTheseDates" : {
+    "TK.Message.noFlightsFoundForTheseDatesDot" : {
       "comment" : "Message indicating no flights are available for the selected dates",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لم يتم العثور على رحلات لهذه التواريخ."
+            "value" : "لا توجد رحلات طيران لهذه التواريخ."
           }
         },
         "bg" : {
@@ -18440,7 +18429,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyly nalezeny žádné lety pro tato data."
+            "value" : "Žádné lety nenalezeny pro tyto data."
           }
         },
         "da" : {
@@ -18494,7 +18483,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei lentoja löytynyt näille päivämäärille."
+            "value" : "Näille päivämäärille ei löytynyt lentoja."
           }
         },
         "fr" : {
@@ -18512,31 +18501,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא נמצאו טיסות לתאריכים אלה."
+            "value" : "לא נמצאו טיסות עבור התאריכים האלה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इन तारीखों के लिए कोई उड़ान नहीं मिली।"
+            "value" : "इन तारीखों के लिए कोई फ़्लाइट नहीं मिली।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih letova za ove datume."
+            "value" : "Nema letova za ove datume."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs járat a kiválasztott dátumokhoz."
+            "value" : "Nincsenek járatok ezekre a dátumokra."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak ada penerbangan ditemukan untuk tanggal ini."
+            "value" : "Tidak ada penerbangan yang ditemukan untuk tanggal ini."
           }
         },
         "it" : {
@@ -18548,25 +18537,25 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "これらの日付に対するフライトは見つかりませんでした。"
+            "value" : "選択した日付に対するフライトは見つかりませんでした。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Таңдалған күндер үшін рейстер табылмады."
+            "value" : "Бұл күндерге рейстер табылған жоқ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "선택한 날짜에 대한 항공편이 없습니다."
+            "value" : "해당 날짜에 대한 항공편이 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada penerbangan yang ditemui untuk tarikh ini."
+            "value" : "Tiada penerbangan yang ditemukan untuk tarikh ini."
           }
         },
         "nb" : {
@@ -18584,13 +18573,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie znaleziono lotów na te daty."
+            "value" : "Nie znaleziono lotów w tym terminie."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum voo encontrado para estas datas."
+            "value" : "Nenhum voo encontrado para essas datas."
           }
         },
         "pt-PT" : {
@@ -18602,7 +18591,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu au fost găsite zboruri pentru aceste date."
+            "value" : "Nu au fost găsite zboruri disponibile pentru aceste date."
           }
         },
         "ru" : {
@@ -18614,25 +18603,25 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenašli sa žiadne lety pre tieto dátumy."
+            "value" : "Nenašli sa žiadne lety na tieto dátumy."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inga flygningar hittades för dessa datum."
+            "value" : "Inga flyg hittades för dessa datum."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบเที่ยวบินสำหรับวันที่เหล่านี้."
+            "value" : "ไม่พบเที่ยวบินสำหรับวันที่เหล่านี้"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu tarihler için hiç uçuş bulunamadı."
+            "value" : "Bu tarihler için uçuş bulunamadı."
           }
         },
         "uk" : {
@@ -18650,38 +18639,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这些日期没有找到航班。"
+            "value" : "未找到这些日期的航班。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此日期未找到航班。"
+            "value" : "在這些日期內未找到航班。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這些日期未找到航班。"
+            "value" : "這些日期沒有找到航班。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noFlightsFoundForTheseDatesDot" : {
-      "comment" : "Message indicating no flights are available for the selected dates",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No flights found for these dates."
-          }
-        }
-      }
-    },
-    "TK.Message.reservationConfirmedSuccessfully" : {
+    "TK.Message.reservationConfirmedSuccessfullyDot" : {
       "comment" : "Message confirming the reservation has been successfully made",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18698,7 +18676,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reserva confirmada correctament."
+            "value" : "Reserva confirmada amb èxit."
           }
         },
         "cs" : {
@@ -18722,7 +18700,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κράτηση επιβεβαιώθηκε με επιτυχία."
+            "value" : "Η κράτηση επιβεβαιώθηκε επιτυχώς."
           }
         },
         "en" : {
@@ -18752,13 +18730,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reserva confirmada con éxito."
+            "value" : "Reserva confirmada correctamente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varaus vahvistettu onnistuneesti."
+            "value" : "Varaus vahvistettiin onnistuneesti."
           }
         },
         "fr" : {
@@ -18776,13 +18754,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזמנה אושרה בהצלחה."
+            "value" : "ההזמנה אושרה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आरक्षण सफलतापूर्वक पुष्टि हो गया।"
+            "value" : "आरक्षण सफलतापूर्वक पुष्टि किया गया।"
           }
         },
         "hr" : {
@@ -18818,7 +18796,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бронь сәтті растаылды."
+            "value" : "Резервтеу сәтті түрде расталды."
           }
         },
         "ko" : {
@@ -18836,19 +18814,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservasjonen er bekreftet."
+            "value" : "Reservasjonen ble bekreftet."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservering succesvol bevestigd."
+            "value" : "Reservering is succesvol bevestigd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezerwacja została potwierdzona pomyślnie."
+            "value" : "Rezerwacja potwierdzona pomyślnie."
           }
         },
         "pt-BR" : {
@@ -18884,13 +18862,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservationen har bekräftats framgångsrikt."
+            "value" : "Reservation bekräftad framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การจองได้รับการยืนยันเรียบร้อยแล้ว"
+            "value" : "จองเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -18908,7 +18886,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xác nhận đặt chỗ thành công."
+            "value" : "Đặt chỗ đã được xác nhận thành công."
           }
         },
         "zh-Hans" : {
@@ -18920,37 +18898,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "預約已成功確認。"
+            "value" : "預訂已成功確認。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "預訂已成功確認。"
+            "value" : "預約已成功確認。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.reservationConfirmedSuccessfullyDot" : {
-      "comment" : "Message confirming the reservation has been successfully made",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reservation confirmed successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.routeCannotBeCalculatedOffline" : {
+    "TK.Message.routeCannotBeCalculatedOfflineDot" : {
       "comment" : "Message informing the user that route calculation requires an internet connection",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لا يمكن حساب المسار أثناء العمل بدون الإنترنت."
+            "value" : "لا يمكن حساب المسار دون اتصال بالإنترنت."
           }
         },
         "bg" : {
@@ -18962,19 +18929,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La ruta no es pot calcular offline."
+            "value" : "No es pot calcular la ruta sense connexió a Internet."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trasování nelze provést offline."
+            "value" : "Trasa nemůže být vypočítána offline."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rute kan ikke beregnes offline."
+            "value" : "Ruten kan ikke beregnes offline."
           }
         },
         "de" : {
@@ -19010,7 +18977,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La ruta no puede calcularse sin conexión."
+            "value" : "No se puede calcular la ruta sin conexión."
           }
         },
         "es-419" : {
@@ -19040,25 +19007,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא ניתן לחשב את המסלול באופן בלתי מקוון."
+            "value" : "לא ניתן לחשב מסלול במצב לא מקוון."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फ़ोन में मार्ग को ऑलाइन नहीं गणना किया जा सकता।"
+            "value" : "ऑफलाइन मार्ग की गणना नहीं की जा सकती।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rutu nije moguće izračunati offline."
+            "value" : "Ruta se ne može izračunati offline."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az útvonalat offline nem lehet kiszámítani."
+            "value" : "Az útvonal nem számítható ki offline."
           }
         },
         "id" : {
@@ -19070,37 +19037,37 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il percorso non può essere calcolato offline."
+            "value" : "Impossibile calcolare il percorso offline."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "オフラインではルートを計算できません。"
+            "value" : "オフラインでは経路を計算できません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маршрут офлайн режимінде есептелмейді."
+            "value" : "Маршрутты офлайн режимінде есептеуге болмайды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "오프라인에서는 경로를 계산할 수 없습니다."
+            "value" : "오프라인에서는 길을 계산할 수 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laluan tidak boleh dikira secara luar talian."
+            "value" : "Laluan tidak dapat dikira di luar talian."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ruten kan ikke beregnes uten internett."
+            "value" : "Ruten kan ikke beregnes offline."
           }
         },
         "nl" : {
@@ -19112,37 +19079,37 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trasa nie może być obliczana offline."
+            "value" : "Nie można obliczyć trasy offline."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rota não pode ser calculada offline."
+            "value" : "Não é possível calcular a rota offline."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rota não pode ser calculada offline."
+            "value" : "Não é possível calcular a rota offline."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ruta nu poate fi calculată offline."
+            "value" : "Traseul nu poate fi calculat offline."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маршрут не может быть рассчитан оффлайн."
+            "value" : "Маршрут не может быть рассчитан без интернета."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trasovanie nemôže byť vypočítané offline."
+            "value" : "Trasu nemožno vypočítať offline."
           }
         },
         "sv" : {
@@ -19154,25 +19121,25 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่สามารถคำนวณเส้นทางได้แบบออฟไลน์"
+            "value" : "ไม่สามารถคำนวณเส้นทางได้ในโหมดออฟไลน์"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rota çevrimdışı hesaplanamaz."
+            "value" : "Rota çevrimdışı olarak hesaplanamaz."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маршрут не може бути розраховано офлайн."
+            "value" : "Маршрут неможливо розрахувати без підключення до Інтернету."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể tính toán lộ trình khi không có mạng."
+            "value" : "Không thể tính toán lộ trình khi không có kết nối internet."
           }
         },
         "zh-Hans" : {
@@ -19184,296 +19151,274 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "路線無法在離線下計算。"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "路線無法在離線狀態下計算。"
           }
-        }
-      }
-    },
-    "TK.Message.routeCannotBeCalculatedOfflineDot" : {
-      "comment" : "Message informing the user that route calculation requires an internet connection",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Route cannot be calculated offline."
-          }
-        }
-      }
-    },
-    "TK.Message.severeWeatherAlertInYourArea" : {
-      "comment" : "Message warning about severe weather conditions",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تنبيه عن طقس سيء في منطقتك!"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Издадено е предупреждение за тежки метеорологични условия в района ви!"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alerta de clima sever a la teva àrea!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Upozornění na silné nepříznivé počasí ve vaší oblasti!"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Advarsel om alvorligt vejr i dit område!"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Warnung vor extremem Wetter in deiner Nähe!"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Προειδοποίηση για ακραία καιρικά φαινόμενα στην περιοχή σας!"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Severe weather alert in your area!"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Severe weather alert in your area!"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Severe weather alert in your area!"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Alerta de clima severo en tu área!"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Alerta de clima severo en tu área!"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vakava säävaroitus alueellasi!"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alerte de conditions météorologiques sévères dans votre région !"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alerte météorologique sévère dans votre région !"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "התראת מזג אוויר קשה באזור שלך!"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "आपके क्षेत्र में तेज़ मौसम चेतावनी!"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Upozorenje na loše vrijeme u vašem području!"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Súlyos időjárási figyelmeztetés a környékeden!"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Peringatan cuaca ekstrem di area Anda!"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allerta meteo severo nella tua area!"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "あなたの地域で暴風警報が発令されました！"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сіздің аймағыңызда қатты ауа райының ескертуі!"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "귀하의 지역에서 심각한 날씨 경고! "
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Amaran cuaca buruk di kawasan anda!"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alvorlig værvarsling i ditt område!"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zware weerswaarschuwing in jouw gebied!"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ostrzeżenie o groźnej pogodzie w Twojej okolicy!"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atenção: alerta de severas condições climáticas na sua região!"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alerta de mau tempo na sua área!"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alertă de vreme severă în zona ta!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сигнал о сильном ухудшении погоды в вашем районе!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varovanie pred extrémnym počasím vo vašej oblasti!"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svår vädervarning utfärdad i ditt område!"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การแจ้งเตือนสภาพอากาศเลวร้ายในพื้นที่ของคุณ!"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bölgenizde şiddetli hava uyarısı!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Попередження про сильну негоду у вашому районі!"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cảnh báo thời tiết khắc nghiệt trong khu vực của bạn!"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您所在地区的严重天气警报！"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您所在區域發出嚴重天氣警報！"
-          }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在區域的嚴重天氣警報！"
+            "value" : "無法離線計算路徑。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.severeWeatherAlertInYourAreaDot" : {
       "comment" : "Message warning about severe weather conditions",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنبيه بشدة الطقس في منطقتك."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предупреждение за тежки метеорологични условия във вашия район."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta meteorològica severa a la teva zona."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V oblasti je varování před silným počasím."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alvorlig vejrmelding i dit område."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwere Wetterwarnung in deiner Gegend."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προειδοποίηση σοβαρής καιρικής συνθήκης στην περιοχή σας."
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Severe weather alert in your area."
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Severe weather alert in your area."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Severe weather alert in your area."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta de severas condiciones meteorológicas en tu área."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta de clima severo en tu área."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vakava säävaroitus alueellasi."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerte météo sévère dans votre région."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerte météo sévère dans votre région."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "אזהרת מזג אוויר קיצוני באזור שלך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपके क्षेत्र में गंभीर मौसम चेतावनी।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upozorenje na teške vremenske uvjete u vašem području."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Súlyos időjárási figyelmeztetés a környékeden."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peringatan cuaca ekstrem di area Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allerta meteo severo nella tua area."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの地域で激しい気象警報が発令されています。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сіздің аймағыңызда қауіпті ауа-райы туралы ескерту."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "귀하의 지역에 심각한 기상 경보가 있습니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amaran cuaca buruk di kawasan anda."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advarsel om alvorlig vær i ditt område."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er is een waarschuwing voor ernstige weersomstandigheden in jouw gebied."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostrzeżenie przed ekstremalnymi warunkami pogodowymi w Twoim rejonie."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta de clima severo na sua área."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta de mau tempo na sua área."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alertă meteo severă în zona ta."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В вашем районе объявлено предупреждение о сильном погодном явлении."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V oblasti je varovanie pred zlým počasím."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allvarligt vädervarning i ditt område."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มีการแจ้งเตือนเกี่ยวกับสภาพอากาศรุนแรงในพื้นที่ของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bölgenizde şiddetli hava uyarısı."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вашому районі оголошено попередження про сильний погодний феномен."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảnh báo thời tiết khắc nghiệt ở khu vực của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您所在地区有严重天气警报。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您所在區域發出了嚴重天氣警報。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您所在區域有嚴重天氣警報。"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.trafficCongestionAheadExpectDelays" : {
+    "TK.Message.trafficCongestionAheadExpectDelaysDot" : {
       "comment" : "Message warning about traffic congestion on the route",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19484,31 +19429,31 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Очаквай задръстване напред. Очаквай закъснения."
+            "value" : "Задръстване напред. Очаквайте закъснения."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestió de trànsit al davant. Espereu retards."
+            "value" : "Congestió de trànsit a prop. Espera retards."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Před námi je dopravní zácpa. Očekávejte zpoždění."
+            "value" : "Na cestě je dopravní zácpa. Očekávejte zpoždění."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafikprop foran. Forvent forsinkelser."
+            "value" : "Trafikpropper foran. Forvent forsinkelser."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verkehrsbehinderungen voraus. Verzögerungen sind zu erwarten."
+            "value" : "Verkehrsbehinderung voraus. Erwarten Sie Verzögerungen."
           }
         },
         "el" : {
@@ -19538,19 +19483,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestión de tráfico adelante. Espera retrasos."
+            "value" : "Congestión de tráfico por delante. Espera retrasos."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestión de tráfico adelante. Espera retrasos."
+            "value" : "Esperen demoras."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liikenneongelmia edessä. Odota viivytyksiä."
+            "value" : "Liikenne ruuhkautuu edessä. Odota viivytyksiä."
           }
         },
         "fr" : {
@@ -19562,91 +19507,91 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestion routière devant. Attendez-vous à des retards."
+            "value" : "Congestion routière à venir. Attendez-vous à des retards."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "פקקי תנועה צפויים. צפו לעיכובים."
+            "value" : "עיכובי תנועה קדימה. צפו לעיכובים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ट्रैफ़िक भीड़ भाड़ है। देरी की अपेक्षा करें।"
+            "value" : "आगे यातायात भीड़ है। देरी की उम्मीद रखें।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prometna gužva ispred. Očekujte zastoje."
+            "value" : "Gužva na cesti ispred. Očekujte kašnjenja."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forgalmi dugó vár ránk. Késések várhatók."
+            "value" : "Forgalmi torlódás várható. Késedelmekre lehet számítani."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kemacetan lalu lintas di depan. Harap bersiap untuk penundaan."
+            "value" : "Kepadatan lalu lintas di depan. Harapkan keterlambatan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestione del traffico in arrivo. Aspettati dei ritardi."
+            "value" : "Congestione stradale in arrivo. Aspettati dei ritardi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "交通渋滞が予想されます。遅延にご注意ください。"
+            "value" : "前方に交通渋滞があります。遅延が予想されます。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Алда қозғалыс кептелісі. Кешігуге дайын болыңыз."
+            "value" : "Алда қозғалыс тығыздығы. Кешігулерді күтсеңіз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "교통 혼잡이 발생했습니다. 지체가 예상됩니다."
+            "value" : "앞에 교통 체증이 발생했습니다. 지연이 예상됩니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesak lalu lintas di hadapan. Harapkan kelewatan."
+            "value" : "Kesesakan lalu lintas di hadapan. Jangka kelewatan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafikkbelastning foran. Forvent forsinkelser."
+            "value" : "Trafikkork foran. Forvent forsinkelser."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verkeersopstopping voor je. Verwacht vertragingen."
+            "value" : "Verkeersdrukte voor je. Verwacht vertragingen."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Korki na trasie. Oczekuj opóźnień."
+            "value" : "Zator drogowy z przodu. Oczekuj opóźnień."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestionamento à frente. Aguarde atrasos."
+            "value" : "Vencimento à frente. Aguarde atrasos."
           }
         },
         "pt-PT" : {
@@ -19664,80 +19609,69 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дорожные пробки впереди. Ожидайте задержки."
+            "value" : "Далее пробка. Ожидайте задержек."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Na ceste je dopravná zápcha. Očakávajte meškanie."
+            "value" : "Pred nami je dopravná zápcha. Očakávajte oneskorenia."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafikstockning framöver. Förvänta dig förseningar."
+            "value" : "Trafikstockning framöver. Förvänta förseningar."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีการจราจรติดขัดข้างหน้า. คาดว่าจะล่าช้า."
+            "value" : "มีจราจรติดขัดข้างหน้า คาดว่าจะใช้เวลานาน"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafik sıkışıklığı var. Gecikme bekleyin."
+            "value" : "Yolda trafik yoğunluğu var. Gecikme bekleyin."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Попереду затор. Очікуйте затримок."
+            "value" : "Затори попереду. Очікуйте затримок."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Có ùn tắc giao thông phía trước. Mong bạn lưu ý."
+            "value" : "Kẹt xe phía trước. Dự kiến sẽ bị trễ."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前方交通拥堵，预期会延误。"
+            "value" : "前方有交通拥堵。预计会有延误。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前方交通擁塞，請預期延誤。"
+            "value" : "前方有交通堵塞，請預期延遲。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前方交通擁堵。預計會延遲。"
+            "value" : "前方交通擠塞，請預期延誤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.trafficCongestionAheadExpectDelaysDot" : {
-      "comment" : "Message warning about traffic congestion on the route",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Traffic congestion ahead. Expect delays."
-          }
-        }
-      }
-    },
-    "TK.Message.yourBookingHasBeenConfirmed" : {
+    "TK.Message.yourBookingHasBeenConfirmedDot" : {
       "comment" : "Confirmation message indicating the booking has been confirmed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19748,7 +19682,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервацията ви е потвърдена."
+            "value" : "Вашата резервация е потвърдена."
           }
         },
         "ca" : {
@@ -19760,7 +19694,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje rezervace byla potvrzena."
+            "value" : "Vaše rezervace byla potvrzena."
           }
         },
         "da" : {
@@ -19778,7 +19712,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κράτησή σου έχει επιβεβαιωθεί."
+            "value" : "Η κράτησή σας έχει επιβεβαιωθεί."
           }
         },
         "en" : {
@@ -19814,7 +19748,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varaus on vahvistettu."
+            "value" : "Varauksesi on vahvistettu."
           }
         },
         "fr" : {
@@ -19832,7 +19766,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה שלך אושרה."
+            "value" : "הזמנתך אושרה."
           }
         },
         "hi" : {
@@ -19844,19 +19778,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja rezervacija je potvrđena."
+            "value" : "Vaša rezervacija je potvrđena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A foglalásodat megerősítettük."
+            "value" : "A foglalásod megerősítve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemesanan Anda telah dikonfirmasi."
+            "value" : "Pemesananmu telah dikonfirmasi."
           }
         },
         "it" : {
@@ -19868,13 +19802,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "予約が確認されました。"
+            "value" : "ご予約が確認されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің бронь расталды."
+            "value" : "Сіздің брондауыңыз расталды."
           }
         },
         "ko" : {
@@ -19892,13 +19826,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestillingen din har blitt bekreftet."
+            "value" : "Bestillingen din er bekreftet."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je boeking is bevestigd."
+            "value" : "Je reservering is bevestigd."
           }
         },
         "pl" : {
@@ -19928,7 +19862,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваше бронирование подтверждено."
+            "value" : "Твоя бронь подтверждена."
           }
         },
         "sk" : {
@@ -19970,55 +19904,44 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的预订已确认。"
+            "value" : "您的预订已确认。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的訂票已確認。"
+            "value" : "您的預訂已被確認。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的預訂已確認。"
+            "value" : "您的預訂已確認。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.yourBookingHasBeenConfirmedDot" : {
-      "comment" : "Confirmation message indicating the booking has been confirmed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your booking has been confirmed."
-          }
-        }
-      }
-    },
-    "TK.Message.yourFlightHasBeenDelayed" : {
+    "TK.Message.yourFlightHasBeenDelayedDot" : {
       "comment" : "Message indicating that the flight has been delayed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تأخرت رحلتك."
+            "value" : "رحلتك تأخرت."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Полетът ви е забавен."
+            "value" : "Вашият полет е забавен."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El teu vol ha estat retardat."
+            "value" : "El teu vol s'ha retrassat."
           }
         },
         "cs" : {
@@ -20030,7 +19953,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din flyvning er blevet forsinket."
+            "value" : "Der er sket en forsinkelse med din flyvning."
           }
         },
         "de" : {
@@ -20042,7 +19965,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η πτήση σου έχει καθυστερήσει."
+            "value" : "Η πτήση σας έχει καθυστερήσει."
           }
         },
         "en" : {
@@ -20066,7 +19989,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu vuelo ha sido retrasado."
+            "value" : "Tu vuelo se ha retrasado."
           }
         },
         "es-419" : {
@@ -20078,7 +20001,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lentosi on myöhässä."
+            "value" : "Lentosi on myöhästynyt."
           }
         },
         "fr" : {
@@ -20102,7 +20025,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपकी उड़ान स्थगित कर दी गई है।"
+            "value" : "आपकी उड़ान में देरी हो गई है।"
           }
         },
         "hr" : {
@@ -20126,7 +20049,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo volo è stato ritardato."
+            "value" : "Il tuo volo è stato posticipato."
           }
         },
         "ja" : {
@@ -20144,13 +20067,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비행기가 지연되었습니다."
+            "value" : "항공편이 지연되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penerbangan anda telah ditangguhkan."
+            "value" : "Penerbangan anda telah ditunda."
           }
         },
         "nb" : {
@@ -20174,13 +20097,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seu voo foi adiado."
+            "value" : "Seu voo foi atrasado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O seu voo foi atrasado."
+            "value" : "O teu voo foi adiado."
           }
         },
         "ro" : {
@@ -20192,7 +20115,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш рейс задерживается."
+            "value" : "Твой рейс задерживается."
           }
         },
         "sk" : {
@@ -20210,322 +20133,300 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เที่ยวบินของคุณล่าช้า."
+            "value" : "เที่ยวบินของคุณถูกเลื่อนออกไปค่ะ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uçuşunuz gecikti."
+            "value" : "Uçağınızın kalkışı ertelendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш рейс затримується."
+            "value" : "Ваш рейс затримали."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chuyến bay của bạn đã bị trì hoãn."
+            "value" : "Chuyến bay của bạn đã bị hoãn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的航班已延误。"
+            "value" : "您的航班已被延误。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的航班已延遲。"
+            "value" : "您的航班已延誤。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的航班已延遲。"
+            "value" : "你的航班已被延遲。"
           }
         }
-      }
-    },
-    "TK.Message.yourFlightHasBeenDelayedDot" : {
-      "comment" : "Message indicating that the flight has been delayed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your flight has been delayed."
-          }
-        }
-      }
-    },
-    "TK.Message.yourRideIsOnTheWay" : {
-      "comment" : "Message informing the user that their ride is on the way",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "سيارتك في الطريق!"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пътуването ти е на път!"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La teva cursa està en camí!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoje jízda je na cestě!"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din tur er på vej!"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deine Fahrt ist unterwegs!"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Η διαδρομή σας είναι καθοδόν!"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your ride is on the way!"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your ride is on the way!"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your ride is on the way!"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Tu viaje está en camino!"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Tu viaje está en camino!"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kyytisi on matkalla!"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre course est en route !"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre course est en route !"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הנסיעה שלך בדרך!"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "आपकी राइड रास्ते में है!"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoja vožnja je na putu!"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A fuvarod úton van!"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tumpanganmu dalam perjalanan!"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Il tuo viaggio è in arrivo!"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "あなたの乗車が向かっています！"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сіздің таксиіңіз келе жатыр!"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "차가 도착 중입니다!"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pengangkutan anda sedang dalam perjalanan!"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Turen din er på vei!"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je rit is onderweg!"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Twoja jazda jest w drodze!"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seu transporte está a caminho!"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A tua viagem está a caminho!"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Călătoria ta este pe drum!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваше такси уже в пути!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoja jazda je na ceste!"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din åktur är på väg!"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "รถของคุณกำลังมาทางนี้!"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yolculuğunuz yolda!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваше таксі вже на підході!"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Xe của bạn đang trên đường đến! "
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的出行正在路上！"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的搭乘已在路上！"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的車正在來的路上！"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.yourRideIsOnTheWayDot" : {
       "comment" : "Message informing the user that their ride is on the way",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رحلتك في الطريق."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вашето пътуване е на път."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El teu viatge està en camí."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje jízda je na cestě."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din kørsel er på vej."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Fahrt ist unterwegs."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η διαδρομή σας είναι καθ' οδόν."
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Your ride is on the way."
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your ride is on the way."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your ride is on the way."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu viaje está en camino."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu viaje está en camino."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kyytisi on matkalla."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre trajet est en route."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre course est en route."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הנסיעה שלך בדרך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपकी सवारी रास्ते में है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaša vožnja je na putu."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úton van az utazásod."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tumpanganmu sedang dalam perjalanan."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo passaggio è in arrivo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライドは向かっています。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сіздің көлігіңіз жолда."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배차 중입니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perjalanan anda sedang dalam perjalanan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turen din er på vei."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je rit is onderweg."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoja jazda jest w drodze."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua corrida está a caminho."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tua viagem está a caminho."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cursa ta este pe drum."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоя поездка в пути."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje jazda je na ceste."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din resa är på väg."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รถของคุณกำลังมาถึง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Araç çağırma servisi yolda."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша поїздка в дорозі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyến đi của bạn đang trên đường đến."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的行程正在前往。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的搭乘正在前往的路上。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的搭乘服務已在路上。"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addADeliveryNoteDots" : {
       "comment" : "Placeholder for adding a delivery note",
@@ -20719,7 +20620,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить товарный чек…"
+            "value" : "Добавить примечание о доставке…"
           }
         },
         "sk" : {
@@ -20776,7 +20677,8 @@
             "value" : "新增配送說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.calculatingRouteDots" : {
       "comment" : "Placeholder for calculating a route",
@@ -21027,7 +20929,8 @@
             "value" : "正在計算路線…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkInDateDots" : {
       "comment" : "Placeholder for entering the check-in date",
@@ -21131,7 +21034,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "चेक-इन तिथि…"
+            "value" : "चेक-इन तिथि दर्ज करिए…"
           }
         },
         "hr" : {
@@ -21173,7 +21076,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "체크인 날짜…"
+            "value" : "체크인 날짜 입력…"
           }
         },
         "ms" : {
@@ -21257,7 +21160,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ngày nhận phòng…"
+            "value" : "Đang chọn ngày nhận phòng…"
           }
         },
         "zh-Hans" : {
@@ -21278,7 +21181,8 @@
             "value" : "入住日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkOutDateDots" : {
       "comment" : "Placeholder for entering the check-out date",
@@ -21358,7 +21262,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uloskirjautumispäivä…"
+            "value" : "Uloskirjautumispäivämäärä…"
           }
         },
         "fr" : {
@@ -21382,7 +21286,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "चेक-आउट तिथि…"
+            "value" : "चेक-आउट तिथि दर्ज करिए…"
           }
         },
         "hr" : {
@@ -21424,7 +21328,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "체크아웃 날짜…"
+            "value" : "체크아웃 날짜 입력…"
           }
         },
         "ms" : {
@@ -21508,7 +21412,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ngày trả phòng…"
+            "value" : "Đang chọn ngày trả phòng…"
           }
         },
         "zh-Hans" : {
@@ -21529,7 +21433,8 @@
             "value" : "退房日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseACategoryDots" : {
       "comment" : "Placeholder for selecting a category",
@@ -21780,7 +21685,8 @@
             "value" : "選擇類別…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.destinationCityDots" : {
       "comment" : "Placeholder for entering the destination city",
@@ -21926,7 +21832,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "목적지 도시…"
+            "value" : "목적지 도시 입력…"
           }
         },
         "ms" : {
@@ -22031,7 +21937,8 @@
             "value" : "目的地城市…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAddressDots" : {
       "comment" : "Placeholder for entering an address",
@@ -22171,7 +22078,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мекенжай енгізіңіз…"
+            "value" : "Мекенжайды енгізіңіз…"
           }
         },
         "ko" : {
@@ -22282,7 +22189,8 @@
             "value" : "輸入地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCityNameDots" : {
       "comment" : "Placeholder for entering a city name",
@@ -22374,7 +22282,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Entre le nom de la ville…"
           }
         },
         "he" : {
@@ -22392,7 +22300,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv grada…"
+            "value" : "Unesi naziv grada…"
           }
         },
         "hu" : {
@@ -22428,7 +22336,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "도시 이름 입력…"
+            "value" : "도시 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22458,7 +22366,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o nome da cidade…"
+            "value" : "Digite o nome da cidade…"
           }
         },
         "pt-PT" : {
@@ -22533,7 +22441,8 @@
             "value" : "輸入城市名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCityOrNeighborhoodDots" : {
       "comment" : "Placeholder for entering a city or neighborhood name",
@@ -22541,7 +22450,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل المدينة أو الحي…"
+            "value" : "أدخل اسم المدينة أو الحي…"
           }
         },
         "bg" : {
@@ -22625,7 +22534,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la ville ou le quartier…"
+            "value" : "Entre la ville ou le quartier…"
           }
         },
         "he" : {
@@ -22643,7 +22552,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite grad ili četvrt…"
+            "value" : "Unesi grad ili četvrt…"
           }
         },
         "hu" : {
@@ -22679,7 +22588,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "도시 또는 동네 입력…"
+            "value" : "도시 또는 동네를 입력하세요…"
           }
         },
         "ms" : {
@@ -22709,7 +22618,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira a cidade ou bairro…"
+            "value" : "Digite a cidade ou bairro…"
           }
         },
         "pt-PT" : {
@@ -22721,7 +22630,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu orasul sau cartierul…"
+            "value" : "Introdu orașul sau cartierul…"
           }
         },
         "ru" : {
@@ -22784,7 +22693,8 @@
             "value" : "輸入城市或地區…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterConfirmationNumberDots" : {
       "comment" : "Placeholder for entering a confirmation number",
@@ -22876,7 +22786,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de confirmation…"
+            "value" : "Entre le numéro de confirmation…"
           }
         },
         "he" : {
@@ -22930,7 +22840,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "확인 번호 입력…"
+            "value" : "확인 번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -23002,7 +22912,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onay numarasını girin…"
+            "value" : "Onay numarasını gir…"
           }
         },
         "uk" : {
@@ -23035,7 +22945,8 @@
             "value" : "輸入確認編號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDestinationDots" : {
       "comment" : "Placeholder for entering a destination",
@@ -23127,7 +23038,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la destination…"
+            "value" : "Entre la destination…"
           }
         },
         "he" : {
@@ -23145,7 +23056,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite odredište…"
+            "value" : "Unesi odredište…"
           }
         },
         "hu" : {
@@ -23181,7 +23092,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "목적지 입력…"
+            "value" : "목적지를 입력하세요…"
           }
         },
         "ms" : {
@@ -23199,7 +23110,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer bestemming in …"
+            "value" : "Voer bestemming in…"
           }
         },
         "pl" : {
@@ -23211,7 +23122,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o destino…"
+            "value" : "Digite o destino…"
           }
         },
         "pt-PT" : {
@@ -23253,7 +23164,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varış noktasını girin…"
+            "value" : "Varış noktasını gir…"
           }
         },
         "uk" : {
@@ -23286,7 +23197,8 @@
             "value" : "輸入目的地…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterFlightNumberDots" : {
       "comment" : "Placeholder for entering a flight number",
@@ -23378,7 +23290,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de vol…"
+            "value" : "Entre le numéro de vol…"
           }
         },
         "he" : {
@@ -23396,7 +23308,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj leta…"
+            "value" : "Unesi broj leta…"
           }
         },
         "hu" : {
@@ -23432,7 +23344,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "항공편 번호 입력…"
+            "value" : "항공편 번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -23462,7 +23374,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o número do voo…"
+            "value" : "Entre o número do voo…"
           }
         },
         "pt-PT" : {
@@ -23504,7 +23416,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uçuş numarasını girin…"
+            "value" : "Uçuş numarasını gir…"
           }
         },
         "uk" : {
@@ -23537,7 +23449,8 @@
             "value" : "輸入航班號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterHotelNameDots" : {
       "comment" : "Placeholder for entering a hotel name",
@@ -23629,7 +23542,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'hôtel…"
+            "value" : "Entre le nom de l'hôtel…"
           }
         },
         "he" : {
@@ -23647,7 +23560,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv hotela…"
+            "value" : "Unesi naziv hotela…"
           }
         },
         "hu" : {
@@ -23683,7 +23596,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "호텔 이름 입력…"
+            "value" : "호텔 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23749,13 +23662,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อโรงแรม…"
+            "value" : "กรอกชื่อโรงแรม…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Otel adını girin…"
+            "value" : "Otel adını gir…"
           }
         },
         "uk" : {
@@ -23788,7 +23701,8 @@
             "value" : "輸入酒店名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPassportNumberDots" : {
       "comment" : "Placeholder for entering a passport number",
@@ -23832,7 +23746,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε αριθμό διαβατηρίου…"
+            "value" : "Βάλε αριθμό διαβατηρίου…"
           }
         },
         "en" : {
@@ -23856,7 +23770,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa número de pasaporte…"
+            "value" : "Introduce número de pasaporte…"
           }
         },
         "es-419" : {
@@ -23898,7 +23812,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj putovnice…"
+            "value" : "Unesi broj putovnice…"
           }
         },
         "hu" : {
@@ -23934,7 +23848,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "여권 번호 입력…"
+            "value" : "여권 번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -24039,7 +23953,8 @@
             "value" : "輸入護照號碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTravelDatesDots" : {
       "comment" : "Placeholder for entering travel dates",
@@ -24149,7 +24064,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite datume putovanja…"
+            "value" : "Unesi datume putovanja…"
           }
         },
         "hu" : {
@@ -24215,7 +24130,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira as datas da viagem…"
+            "value" : "Digite as datas da viagem…"
           }
         },
         "pt-PT" : {
@@ -24290,7 +24205,8 @@
             "value" : "輸入旅行日期…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findingBestRoutesDots" : {
       "comment" : "Placeholder for finding the best routes",
@@ -24418,7 +24334,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trova i percorsi migliori…"
+            "value" : "Ricerca percorsi migliori…"
           }
         },
         "ja" : {
@@ -24541,7 +24457,8 @@
             "value" : "尋找最佳路線…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findNearbyRestaurantsDots" : {
       "comment" : "Placeholder for finding nearby restaurants",
@@ -24567,7 +24484,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najděte restaurace v okolí…"
+            "value" : "Najdi restaurace v okolí…"
           }
         },
         "da" : {
@@ -24765,7 +24682,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Знайти найближчі ресторани…"
+            "value" : "Шукаю найближчі ресторани…"
           }
         },
         "vi" : {
@@ -24792,7 +24709,8 @@
             "value" : "尋找附近的餐廳…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingNearbyPlacesDots" : {
       "comment" : "Placeholder for loading nearby places",
@@ -24986,7 +24904,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка ближайших мест..."
+            "value" : "Загружаются ближайшие места..."
           }
         },
         "sk" : {
@@ -25043,7 +24961,8 @@
             "value" : "加載附近地方中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.loadingWeatherForecastDots" : {
       "comment" : "Placeholder for loading the weather forecast",
@@ -25294,7 +25213,8 @@
             "value" : "加載氣象預報中..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.numberOfGuestsDots" : {
       "comment" : "Placeholder for entering the number of guests",
@@ -25545,7 +25465,8 @@
             "value" : "客人數量…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

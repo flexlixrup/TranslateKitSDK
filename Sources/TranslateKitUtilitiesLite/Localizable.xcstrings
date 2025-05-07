@@ -97,7 +97,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ארכיון"
+            "value" : "ארכב"
           }
         },
         "hi" : {
@@ -193,7 +193,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архив"
+            "value" : "Заархивировать"
           }
         },
         "sk" : {
@@ -223,7 +223,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В архів"
+            "value" : "Заархівувати"
           }
         },
         "vi" : {
@@ -250,7 +250,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.clearCache" : {
       "comment" : "Use for clearing temporary cache files",
@@ -384,7 +385,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "キャッシュをクリア"
+            "value" : "キャッシュを消去"
           }
         },
         "kk" : {
@@ -501,7 +502,8 @@
             "value" : "清除快取"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compress" : {
       "comment" : "Use for compressing files or data",
@@ -752,7 +754,8 @@
             "value" : "壓縮"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.convert" : {
       "comment" : "Use for converting file formats or data types",
@@ -892,7 +895,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Айланады"
+            "value" : "Түрлендіру"
           }
         },
         "ko" : {
@@ -1003,7 +1006,8 @@
             "value" : "轉換"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyToClipboard" : {
       "comment" : "Use for copying data to clipboard",
@@ -1017,7 +1021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Копирай в Clipboard"
+            "value" : "Копирай в клипборда"
           }
         },
         "ca" : {
@@ -1179,7 +1183,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar para a Área de Transferência"
+            "value" : "Copiar para a área de transferência"
           }
         },
         "pt-PT" : {
@@ -1191,7 +1195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază în clipboard"
+            "value" : "Copiere"
           }
         },
         "ru" : {
@@ -1254,7 +1258,8 @@
             "value" : "複製到剪貼板"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.debug" : {
       "comment" : "Use for debugging code or software",
@@ -1505,7 +1510,8 @@
             "value" : "調試"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.encrypt" : {
       "comment" : "Use for encrypting files or data",
@@ -1756,7 +1762,8 @@
             "value" : "加密"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting data as a PDF",
@@ -1890,7 +1897,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDFとして書き出す"
+            "value" : "PDFをエクスポートする"
           }
         },
         "kk" : {
@@ -2007,7 +2014,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.extract" : {
       "comment" : "Use for extracting data or files from a compressed format",
@@ -2171,7 +2179,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uitpakken"
+            "value" : "Extraheer"
           }
         },
         "pl" : {
@@ -2258,7 +2266,8 @@
             "value" : "提取"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.format" : {
       "comment" : "Use for formatting data, files, or settings",
@@ -2509,7 +2518,8 @@
             "value" : "格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateQRCode" : {
       "comment" : "Use for generating a QR code",
@@ -2760,7 +2770,8 @@
             "value" : "生成QR碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing data from external sources",
@@ -3008,10 +3019,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入数据"
+            "value" : "導入數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.install" : {
       "comment" : "Use for installing software or applications",
@@ -3262,7 +3274,8 @@
             "value" : "安裝"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.monitor" : {
       "comment" : "Use for monitoring system performance or processes",
@@ -3360,7 +3373,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נשק"
+            "value" : "ניטור"
           }
         },
         "hi" : {
@@ -3513,7 +3526,8 @@
             "value" : "监测"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.optimize" : {
       "comment" : "Use for optimizing system or application performance",
@@ -3593,7 +3607,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Optimoida"
+            "value" : "Optimoi"
           }
         },
         "fr" : {
@@ -3764,7 +3778,8 @@
             "value" : "優化"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use for printing documents or data",
@@ -4015,7 +4030,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use for recording audio, video, or data",
@@ -4266,7 +4282,8 @@
             "value" : "錄製"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.releaseMemory" : {
       "comment" : "Use for releasing system memory",
@@ -4388,7 +4405,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lepaskan Memori"
+            "value" : "Bebaskan Memori"
           }
         },
         "it" : {
@@ -4517,7 +4534,8 @@
             "value" : "釋放內存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resetSettings" : {
       "comment" : "Use for resetting system or app settings",
@@ -4681,7 +4699,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herstel Instellingen"
+            "value" : "Instellingen resetten"
           }
         },
         "pl" : {
@@ -4768,7 +4786,8 @@
             "value" : "重置設定"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.restoreBackup" : {
       "comment" : "Use for restoring a backup of data or settings",
@@ -5019,7 +5038,8 @@
             "value" : "恢復備份"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning documents, files, or devices",
@@ -5270,7 +5290,8 @@
             "value" : "掃描"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.selectDevice" : {
       "comment" : "Use for selecting a connected device",
@@ -5386,7 +5407,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eszköz Kiválasztása"
+            "value" : "Eszköz kiválasztása"
           }
         },
         "id" : {
@@ -5521,7 +5542,8 @@
             "value" : "選擇裝置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.selectNetwork" : {
       "comment" : "Use for selecting a network connection",
@@ -5637,7 +5659,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hálózat Kiválasztása"
+            "value" : "Hálózat kiválasztása"
           }
         },
         "id" : {
@@ -5772,7 +5794,8 @@
             "value" : "選擇網絡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting a recording process",
@@ -6002,7 +6025,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Ghi Âm"
+            "value" : "Bắt đầu ghi âm"
           }
         },
         "zh-Hans" : {
@@ -6023,7 +6046,8 @@
             "value" : "開始錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stopRecording" : {
       "comment" : "Use for stopping a recording process",
@@ -6274,7 +6298,8 @@
             "value" : "停止錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.testConnection" : {
       "comment" : "Use for testing network or device connection",
@@ -6525,7 +6550,8 @@
             "value" : "測試連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming audio, video, or data",
@@ -6623,7 +6649,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "פרק חלוץ"
+            "value" : "חתוך"
           }
         },
         "hi" : {
@@ -6776,7 +6802,8 @@
             "value" : "裁剪"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.uninstall" : {
       "comment" : "Use for uninstalling software or applications",
@@ -7027,7 +7054,8 @@
             "value" : "卸載"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unzip" : {
       "comment" : "Use for extracting files from a zip archive",
@@ -7278,7 +7306,8 @@
             "value" : "解壓"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.verifyConnection" : {
       "comment" : "Use for verifying the status of a network or device connection",
@@ -7529,7 +7558,8 @@
             "value" : "驗證連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.apiKey" : {
       "comment" : "Use for labeling an API key for authentication or access",
@@ -7639,13 +7669,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API ključevi"
+            "value" : "API ključ"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API kulcs"
+            "value" : "API-kulcs"
           }
         },
         "id" : {
@@ -7735,7 +7765,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API Nyckel"
+            "value" : "API-nyckel"
           }
         },
         "th" : {
@@ -7780,7 +7810,8 @@
             "value" : "API密鑰"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bandwidth" : {
       "comment" : "Use for displaying the bandwidth of a network connection",
@@ -7800,7 +7831,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Àmplia de banda"
+            "value" : "Amplada de banda"
           }
         },
         "cs" : {
@@ -8031,7 +8062,8 @@
             "value" : "带宽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.battery" : {
       "comment" : "Use for displaying the battery status of a device",
@@ -8282,7 +8314,8 @@
             "value" : "電池"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.batteryLevel" : {
       "comment" : "Use for showing the current level of the device's battery",
@@ -8533,7 +8566,8 @@
             "value" : "電池電量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cache" : {
       "comment" : "Use for labeling cached data or temporary storage",
@@ -8784,7 +8818,8 @@
             "value" : "缓存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cacheSize" : {
       "comment" : "Use for displaying the size of the cache",
@@ -9035,7 +9070,8 @@
             "value" : "缓存大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.clipboard" : {
       "comment" : "Use for labeling the clipboard content",
@@ -9286,7 +9322,8 @@
             "value" : "剪貼板"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.compression" : {
       "comment" : "Use for displaying information about compression settings or processes",
@@ -9537,7 +9574,8 @@
             "value" : "壓縮"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.connection" : {
       "comment" : "Use for labeling the current network or device connection",
@@ -9788,7 +9826,8 @@
             "value" : "連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for showing the current status of the connection",
@@ -10039,7 +10078,8 @@
             "value" : "連接狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.cpuUsage" : {
       "comment" : "Use for displaying the current usage of the CPU",
@@ -10290,7 +10330,8 @@
             "value" : "CPU 使用率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dataUsage" : {
       "comment" : "Use for displaying data consumption statistics",
@@ -10541,7 +10582,8 @@
             "value" : "數據使用量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.debugMode" : {
       "comment" : "Use for indicating if the application is in debug mode",
@@ -10792,7 +10834,8 @@
             "value" : "調試模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deviceInfo" : {
       "comment" : "Use for displaying information about the device",
@@ -11043,7 +11086,8 @@
             "value" : "設備信息"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deviceName" : {
       "comment" : "Use for displaying the name of the device",
@@ -11171,7 +11215,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nome Dispositivo"
+            "value" : "Nome del Dispositivo"
           }
         },
         "ja" : {
@@ -11294,7 +11338,8 @@
             "value" : "設備名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.deviceStatus" : {
       "comment" : "Use for displaying the current status of the device",
@@ -11422,7 +11467,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stato Dispositivo"
+            "value" : "Stato del Dispositivo"
           }
         },
         "ja" : {
@@ -11545,7 +11590,8 @@
             "value" : "設備狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.diskSpace" : {
       "comment" : "Use for displaying available or used disk space",
@@ -11796,7 +11842,8 @@
             "value" : "磁碟空間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.downloadSpeed" : {
       "comment" : "Use for displaying the speed of the download process",
@@ -12047,7 +12094,8 @@
             "value" : "下載速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.encryption" : {
       "comment" : "Use for labeling encryption settings or status",
@@ -12298,7 +12346,8 @@
             "value" : "加密"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for displaying the format of a file",
@@ -12549,7 +12598,8 @@
             "value" : "文件格式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileName" : {
       "comment" : "Use for displaying the name of a file",
@@ -12665,7 +12715,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fájl Név"
+            "value" : "Fájlnév"
           }
         },
         "id" : {
@@ -12800,7 +12850,8 @@
             "value" : "文件名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fileSize" : {
       "comment" : "Use for displaying the size of a file",
@@ -12868,7 +12919,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tamaño del Archivo"
+            "value" : "Tamaño del archivo"
           }
         },
         "es-419" : {
@@ -12916,7 +12967,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fájl Méret"
+            "value" : "Fájlméret"
           }
         },
         "id" : {
@@ -13051,7 +13102,8 @@
             "value" : "檔案大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.freeSpace" : {
       "comment" : "Use for displaying the available free space on a device or storage",
@@ -13302,7 +13354,8 @@
             "value" : "可用空間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.ipAddress" : {
       "comment" : "Use for displaying the device's IP address",
@@ -13553,7 +13606,8 @@
             "value" : "IP 地址"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.memoryUsage" : {
       "comment" : "Use for displaying memory usage statistics",
@@ -13561,7 +13615,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إحصائيات استخدام الذاكرة"
+            "value" : "استخدام الذاكرة"
           }
         },
         "bg" : {
@@ -13693,7 +13747,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жады пайдалану"
+            "value" : "Жады пайдаланылуы"
           }
         },
         "ko" : {
@@ -13771,7 +13825,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bellek Kullanımını Göster"
+            "value" : "Bellek Kullanımı"
           }
         },
         "uk" : {
@@ -13804,7 +13858,8 @@
             "value" : "內存使用量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.networkName" : {
       "comment" : "Use for labeling the name of the connected network",
@@ -14055,7 +14110,8 @@
             "value" : "網絡名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.networkType" : {
       "comment" : "Use for displaying the type of network (e.g., Wi-Fi, Cellular)",
@@ -14306,7 +14362,8 @@
             "value" : "網絡類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.passwordProtection" : {
       "comment" : "Use for indicating if password protection is enabled",
@@ -14557,7 +14614,8 @@
             "value" : "密碼保護"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.processingSpeed" : {
       "comment" : "Use for displaying the speed at which data is being processed",
@@ -14625,7 +14683,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configuraciones de privacidad"
+            "value" : "Velocidad de procesamiento"
           }
         },
         "es-419" : {
@@ -14808,7 +14866,8 @@
             "value" : "處理速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.resolution" : {
       "comment" : "Use for displaying the resolution of an image or display",
@@ -15059,7 +15118,8 @@
             "value" : "分辨率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.server" : {
       "comment" : "Use for labeling the server where data is hosted or processed",
@@ -15310,7 +15370,8 @@
             "value" : "伺服器"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.storage" : {
       "comment" : "Use for displaying available or used storage space",
@@ -15480,7 +15541,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miejsce"
+            "value" : "Rozmiar"
           }
         },
         "pt-BR" : {
@@ -15561,7 +15622,8 @@
             "value" : "儲存空間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.uploadSpeed" : {
       "comment" : "Use for displaying the speed of the upload process",
@@ -15812,7 +15874,8 @@
             "value" : "上傳速度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.versionNumber" : {
       "comment" : "Use for displaying the version number of the software or app",
@@ -16063,28 +16126,29 @@
             "value" : "版本號"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.backupCompletedSuccessfully" : {
+    "TK.Message.backupCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a backup has been completed successfully",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم إكمال النسخ الاحتياطي بنجاح."
+            "value" : "اكتمل النسخ الاحتياطي بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервното копие е успешно завършено."
+            "value" : "Резервното копие е завършено успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Còpia de seguretat completada correctament."
+            "value" : "Còpia de seguretat completada amb èxit."
           }
         },
         "cs" : {
@@ -16096,7 +16160,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sikkerhedskopiering gennemført med succes."
+            "value" : "Backup fuldført med succes."
           }
         },
         "de" : {
@@ -16108,7 +16172,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργήθηκε αντίγραφο ασφαλείας επιτυχώς."
+            "value" : "Η δημιουργία αντιγράφου ασφαλείας ολοκληρώθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -16132,13 +16196,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de seguridad completada con éxito."
+            "value" : "Backup completado con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de seguridad completada con éxito."
+            "value" : "Respaldo completado con éxito."
           }
         },
         "fi" : {
@@ -16150,19 +16214,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sauvegarde terminée avec succès."
+            "value" : "Sauvegarde réalisée avec succès."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sauvegarde complétée avec succès."
+            "value" : "Sauvegarde terminée avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "גיבוי הושלם בהצלחה."
+            "value" : "הגיבוי הושלם בהצלחה."
           }
         },
         "hi" : {
@@ -16174,13 +16238,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Backup je uspješno dovršen."
+            "value" : "Sigurnosna kopija je uspješno dovršena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biztonsági mentés sikeresen befejeződött."
+            "value" : "A biztonsági mentés sikeresen befejeződött."
           }
         },
         "id" : {
@@ -16204,7 +16268,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервтік көшірме сәтті аяқталды."
+            "value" : "Резервтік көшіру сәтті аяқталды."
           }
         },
         "ko" : {
@@ -16216,7 +16280,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sandaran telah berjaya diselesaikan."
+            "value" : "Penyimpanan berjaya diselesaikan."
           }
         },
         "nb" : {
@@ -16228,7 +16292,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Back-up succesvol voltooid."
+            "value" : "Back-up is succesvol voltooid."
           }
         },
         "pl" : {
@@ -16252,19 +16316,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Backup finalizat cu succes."
+            "value" : "Copiere finalizată cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервное копирование завершено успешно."
+            "value" : "Резервное копирование успешно завершено."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záložná kópia sa úspešne dokončila."
+            "value" : "Záloha bola úspešne dokončená."
           }
         },
         "sv" : {
@@ -16276,7 +16340,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การสำรองข้อมูลเสร็จสมบูรณ์แล้ว."
+            "value" : "การสำรองข้อมูลเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -16300,7 +16364,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "备份成功完成。"
+            "value" : "备份已成功完成。"
           }
         },
         "zh-Hant" : {
@@ -16312,26 +16376,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "備份已成功完成。"
+            "value" : "備份成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.backupCompletedSuccessfullyDot" : {
-      "comment" : "Confirmation when a backup has been completed successfully",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Backup completed successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.cacheClearedSuccessfully" : {
+    "TK.Message.cacheClearedSuccessfullyDot" : {
       "comment" : "Confirmation when the cache has been cleared successfully",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16348,31 +16401,31 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caché esborrada correctament."
+            "value" : "Cessió de memòria cau eliminada amb èxit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyrovnávací paměť byla úspěšně vyčištěna."
+            "value" : "Vyrovnávací paměť byla úspěšně vymazána."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache ryddet med succes."
+            "value" : "Cache er blevet ryddet med succes."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache erfolgreich gelöscht."
+            "value" : "Cache erfolgreich geleert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η κρυφή μνήμη εκκαθαρίστηκε επιτυχώς."
+            "value" : "Η προσωρινή μνήμη καθαρίστηκε με επιτυχία."
           }
         },
         "en" : {
@@ -16396,13 +16449,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache borrada exitosamente."
+            "value" : "Caché limpiada con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache borrado con éxito."
+            "value" : "Caché eliminada con éxito."
           }
         },
         "fi" : {
@@ -16420,25 +16473,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache effacé avec succès."
+            "value" : "Cache effacée avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מטמון נוקה בהצלחה."
+            "value" : "המטמון נוקה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कैश सफलतापूर्वक साफ़ कर दिया गया।"
+            "value" : "कैश सफलतापूर्वक साफ कर दिया गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache je uspješno očišćen."
+            "value" : "Predmemorija je uspješno očišćena."
           }
         },
         "hu" : {
@@ -16468,7 +16521,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кэш сәтті тазаланды."
+            "value" : "Кэш сәтті тазартылды."
           }
         },
         "ko" : {
@@ -16486,13 +16539,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache ble tømt."
+            "value" : "Cache tømmet med hell."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache succesvol gewist."
+            "value" : "Cache is succesvol gewist."
           }
         },
         "pl" : {
@@ -16516,7 +16569,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache curățat cu succes."
+            "value" : "Cache-ul a fost șters cu succes."
           }
         },
         "ru" : {
@@ -16534,13 +16587,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cache rensad med framgång."
+            "value" : "Cache har rensats framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ลบแคชเรียบร้อยแล้ว."
+            "value" : "ล้างแคชเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -16558,7 +16611,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bộ nhớ đệm đã được xóa thành công."
+            "value" : "Bộ nhớ cache đã được xóa thành công."
           }
         },
         "zh-Hans" : {
@@ -16570,32 +16623,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緩存已成功清除。"
+            "value" : "快取已成功清除。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緩存已成功清除。"
+            "value" : "快取已成功清除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.cacheClearedSuccessfullyDot" : {
-      "comment" : "Confirmation when the cache has been cleared successfully",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Cache cleared successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.clipboardIsEmpty" : {
+    "TK.Message.clipboardIsEmptyDot" : {
       "comment" : "Notification when the clipboard does not contain any content",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16606,7 +16648,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клипбордът е празен."
+            "value" : "Автоматичната памет е празна."
           }
         },
         "ca" : {
@@ -16636,7 +16678,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το πρόχειρο είναι κενό."
+            "value" : "Το πρόχειρο είναι άδειο."
           }
         },
         "en" : {
@@ -16714,7 +16756,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clipboard kosong."
+            "value" : "Papan klip kosong."
           }
         },
         "it" : {
@@ -16768,7 +16810,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Área de transferência está vazia."
+            "value" : "A área de transferência está vazia."
           }
         },
         "pt-PT" : {
@@ -16810,7 +16852,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Panoda hiç içerik yok."
+            "value" : "Pano boş."
           }
         },
         "uk" : {
@@ -16822,7 +16864,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clipboard trống."
+            "value" : "Clipboard đang trống."
           }
         },
         "zh-Hans" : {
@@ -16834,37 +16876,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "剪貼簿為空。"
+            "value" : "剪貼簿是空的。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "剪貼簿是空的"
+            "value" : "剪貼板是空的。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.clipboardIsEmptyDot" : {
-      "comment" : "Notification when the clipboard does not contain any content",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Clipboard is empty."
-          }
-        }
-      }
-    },
-    "TK.Message.dataProcessingComplete" : {
+    "TK.Message.dataProcessingCompleteDot" : {
       "comment" : "Confirmation when data processing has finished",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اكتمل معالجة البيانات."
+            "value" : "اكتملت معالجة البيانات."
           }
         },
         "bg" : {
@@ -16882,13 +16913,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zpracování dat dokončeno."
+            "value" : "Zpracování dat bylo dokončeno."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data behandling afsluttet."
+            "value" : "Behandling af data er fuldført."
           }
         },
         "de" : {
@@ -16930,13 +16961,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El procesamiento de datos está completo."
+            "value" : "Procesamiento de datos completo."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tietojenkäsittely valmis."
+            "value" : "Tietojen käsittely valmis."
           }
         },
         "fr" : {
@@ -16960,7 +16991,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डेटा प्रोसेसिंग पूर्ण हो गई।"
+            "value" : "डेटा प्रोसेसिंग पूर्ण।"
           }
         },
         "hr" : {
@@ -16972,13 +17003,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adatfeldolgozás befejeződött."
+            "value" : "Adatfeldolgozás befejezve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proses data selesai."
+            "value" : "Pemrosesan data selesai."
           }
         },
         "it" : {
@@ -17008,7 +17039,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemprosesan data lengkap."
+            "value" : "Pemprosesan data selesai."
           }
         },
         "nb" : {
@@ -17044,7 +17075,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Procesarea datelor este completă."
+            "value" : "Prelucrarea datelor s-a încheiat."
           }
         },
         "ru" : {
@@ -17062,13 +17093,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Databehandling slutförd."
+            "value" : "Databehandling är klar."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การประมวลผลข้อมูลเสร็จสิ้นแล้ว"
+            "value" : "การประมวลผลข้อมูลเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -17086,7 +17117,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xử lý dữ liệu hoàn tất."
+            "value" : "Hoàn tất xử lý dữ liệu."
           }
         },
         "zh-Hans" : {
@@ -17098,7 +17129,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "數據處理完成。"
+            "value" : "數據處理已完成。"
           }
         },
         "zh-HK" : {
@@ -17107,23 +17138,12 @@
             "value" : "數據處理完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.dataProcessingCompleteDot" : {
-      "comment" : "Confirmation when data processing has finished",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Data processing complete."
-          }
-        }
-      }
-    },
-    "TK.Message.deviceDisconnected" : {
+    "TK.Message.deviceDisconnectedDot" : {
       "comment" : "Notification when a device is disconnected",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17134,7 +17154,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Устройството е разкачено."
+            "value" : "Устройството е изключено."
           }
         },
         "ca" : {
@@ -17146,7 +17166,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zařízení bylo odpojeno."
+            "value" : "Zařízení odpojeno."
           }
         },
         "da" : {
@@ -17200,7 +17220,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laite irrotettu."
+            "value" : "Laite on katkaistu."
           }
         },
         "fr" : {
@@ -17224,7 +17244,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डिवाइस डिस्कनेक्टेड।"
+            "value" : "डिवाइस डिस्कनेक्ट हो गया।"
           }
         },
         "hr" : {
@@ -17266,13 +17286,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "장치가 연결 해제되었습니다."
+            "value" : "장치가 연결이 끊겼습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peranti terputus."
+            "value" : "Peranti telah diputuskan."
           }
         },
         "nb" : {
@@ -17284,13 +17304,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apparaat is losgekoppeld."
+            "value" : "Apparaat ontkoppeld."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urządzenie odłączone."
+            "value" : "Urządzenie rozłączone."
           }
         },
         "pt-BR" : {
@@ -17308,7 +17328,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispozitiv deconectat."
+            "value" : "Dispozitivul a fost deconectat."
           }
         },
         "ru" : {
@@ -17371,23 +17391,12 @@
             "value" : "設備已斷開連接。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.deviceDisconnectedDot" : {
-      "comment" : "Notification when a device is disconnected",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device disconnected."
-          }
-        }
-      }
-    },
-    "TK.Message.encryptionComplete" : {
+    "TK.Message.encryptionCompleteDot" : {
       "comment" : "Confirmation when the encryption process is finished",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17398,13 +17407,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шифрирането е завършено."
+            "value" : "Шифроването е завършено."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xifrat complet."
+            "value" : "Cifratge complet."
           }
         },
         "cs" : {
@@ -17416,7 +17425,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Krypteringen er fuldført."
+            "value" : "Kryptering fuldført."
           }
         },
         "de" : {
@@ -17452,13 +17461,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cifrado completado."
+            "value" : "Cifrado completo."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encriptación completa."
+            "value" : "Cifrado completo."
           }
         },
         "fi" : {
@@ -17488,19 +17497,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एन्क्रिप्शन पूरा हो गया।"
+            "value" : "एन्क्रिप्शन पूरा हो गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enkripcija je dovršena."
+            "value" : "Šifriranje je dovršeno."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Titkosítás befejezve."
+            "value" : "A titkosítás befejeződött."
           }
         },
         "id" : {
@@ -17536,7 +17545,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penyulitan selesai."
+            "value" : "Penyulitan lengkap."
           }
         },
         "nb" : {
@@ -17572,7 +17581,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Criptarea este finalizată."
+            "value" : "Criptarea s-a finalizat."
           }
         },
         "ru" : {
@@ -17596,7 +17605,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเข้ารหัสเสร็จสิ้น"
+            "value" : "การเข้ารหัสเสร็จสิ้นแล้ว"
           }
         },
         "tr" : {
@@ -17614,7 +17623,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mã hóa đã hoàn tất."
+            "value" : "Mã hóa hoàn tất."
           }
         },
         "zh-Hans" : {
@@ -17635,23 +17644,12 @@
             "value" : "加密完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.encryptionCompleteDot" : {
-      "comment" : "Confirmation when the encryption process is finished",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Encryption complete."
-          }
-        }
-      }
-    },
-    "TK.Message.filesExtractedSuccessfully" : {
+    "TK.Message.filesExtractedSuccessfullyDot" : {
       "comment" : "Confirmation when files have been successfully extracted",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17668,7 +17666,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fitxers extrets amb èxit."
+            "value" : "Fitxers extraïts amb èxit."
           }
         },
         "cs" : {
@@ -17680,7 +17678,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filer er blevet udtrukket med succes."
+            "value" : "Filer udtrukket succesfuldt."
           }
         },
         "de" : {
@@ -17692,7 +17690,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τα αρχεία εξάχθηκαν επιτυχώς."
+            "value" : "Τα αρχεία εξήχθησαν με επιτυχία."
           }
         },
         "en" : {
@@ -17728,7 +17726,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiedostot on onnistuneesti purettu."
+            "value" : "Tiedostot on purattu onnistuneesti."
           }
         },
         "fr" : {
@@ -17746,7 +17744,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקבצים הוסרו בהצלחה."
+            "value" : "הקבצים חולצו בהצלחה."
           }
         },
         "hi" : {
@@ -17764,7 +17762,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fájlok sikeresen kinyerve."
+            "value" : "A fájlok sikeresen ki lettek nyerve."
           }
         },
         "id" : {
@@ -17800,19 +17798,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fail telah berjaya diekstrak."
+            "value" : "Fail berjaya diekstrak."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filene ble hentet ut vellykket."
+            "value" : "Filer hentet med suksess."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestanden zijn succesvol geëxtraheerd."
+            "value" : "Bestanden succesvol uitgepakt."
           }
         },
         "pl" : {
@@ -17830,7 +17828,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ficheiros extraídos com sucesso."
+            "value" : "Arquivos extraídos com sucesso."
           }
         },
         "ro" : {
@@ -17872,19 +17870,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Файли успішно витягнуті."
+            "value" : "Файли успішно витягнено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tệp đã được giải nén thành công."
+            "value" : "Tập tin đã được trích xuất thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文件已成功提取。"
+            "value" : "文件提取成功。"
           }
         },
         "zh-Hant" : {
@@ -17896,26 +17894,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "檔案已成功提取。"
+            "value" : "文件已成功提取。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.filesExtractedSuccessfullyDot" : {
-      "comment" : "Confirmation when files have been successfully extracted",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Files extracted successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.lowMemoryWarning" : {
+    "TK.Message.lowMemoryWarningDot" : {
       "comment" : "Warning when the system is running low on memory",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17932,31 +17919,31 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advertència de poca memòria."
+            "value" : "Advertència de memòria baixa."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varování o nízké paměti."
+            "value" : "Varování: nízké paměťové kapacity."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advarsel om lav hukommelse."
+            "value" : "Advarsel: Lav hukommelse."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speicherplatzwarnung."
+            "value" : "Warnung bei niedrigem Speicherstand."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προειδοποίηση κατώτερης μνήμης."
+            "value" : "Προειδοποίηση χαμηλής μνήμης."
           }
         },
         "en" : {
@@ -17974,25 +17961,25 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Low memory warning"
+            "value" : "Low memory warning."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advertencia de memoria baja."
+            "value" : "Advertencia de poca memoria."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advertencia de poca memoria."
+            "value" : "Advertencia de baja memoria."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vähäinen muistin uusi varoitus."
+            "value" : "Alhainen muistin varoitus."
           }
         },
         "fr" : {
@@ -18004,7 +17991,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avertissement de mémoire faible."
+            "value" : "Alerte de faible mémoire."
           }
         },
         "he" : {
@@ -18016,19 +18003,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कम मेमोरी का चेतावनी।"
+            "value" : "कम मेमोरी चेतावनी।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upozorenje na nisku memoriju."
+            "value" : "Upozorenje na malo memorije."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alacsony memória figyelmeztetés."
+            "value" : "Alacsony memória állapot."
           }
         },
         "id" : {
@@ -18046,19 +18033,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "メモリ不足警告です。"
+            "value" : "メモリ不足の警告です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Төменгі жад туралы ескерту."
+            "value" : "Жадының жеткіліксіздігі туралы ескерту."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "메모리 부족 경고."
+            "value" : "메모리 부족 경고입니다."
           }
         },
         "ms" : {
@@ -18070,7 +18057,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advarsel om lavt minne."
+            "value" : "Lavt minnevarsel."
           }
         },
         "nl" : {
@@ -18088,7 +18075,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aviso de memória baixa."
+            "value" : "Aviso de pouca memória."
           }
         },
         "pt-PT" : {
@@ -18100,13 +18087,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avertisment de memorie insuficientă."
+            "value" : "Avertisment despre memorie insuficientă."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Предупреждение о низком уровне памяти."
+            "value" : "Предупреждение о низком объеме памяти."
           }
         },
         "sk" : {
@@ -18118,13 +18105,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Låg minnesvarning."
+            "value" : "Varning för lågt minne."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คำเตือนหน่วยความจำต่ำ."
+            "value" : "เตือนความจำ: หน่วยความจำน้อยลง"
           }
         },
         "tr" : {
@@ -18163,28 +18150,17 @@
             "value" : "內存不足警告。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.lowMemoryWarningDot" : {
-      "comment" : "Warning when the system is running low on memory",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low memory warning."
-          }
-        }
-      }
-    },
-    "TK.Message.networkConnectionLost" : {
+    "TK.Message.networkConnectionLostDot" : {
       "comment" : "Notification when the network connection is lost",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم فقدان الاتصال بالشبكة."
+            "value" : "فقدان الاتصال بالشبكة."
           }
         },
         "bg" : {
@@ -18202,13 +18178,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připojení k síti ztraceno."
+            "value" : "Ztráta síťového připojení."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Netværksforbindelse tabt."
+            "value" : "Netværksforbindelse mistet."
           }
         },
         "de" : {
@@ -18244,13 +18220,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se perdió la conexión de red."
+            "value" : "Conexión de red perdida."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La conexión de red perdida."
+            "value" : "Conexión de red perdida."
           }
         },
         "fi" : {
@@ -18274,7 +18250,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקשר לרשת אובד."
+            "value" : "חיבור הרשת אבד."
           }
         },
         "hi" : {
@@ -18286,13 +18262,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izgubljena mrežna veza."
+            "value" : "Veza s mrežom izgubljena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kapcsolat megszakadt."
+            "value" : "Hálózati kapcsolat megszakadt."
           }
         },
         "id" : {
@@ -18316,7 +18292,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Желі байланысы жоғалды."
+            "value" : "Желілік байланыс үзілді."
           }
         },
         "ko" : {
@@ -18334,7 +18310,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nettverksforbindelse tapt."
+            "value" : "Nettverkstilkoblingen er tapt."
           }
         },
         "nl" : {
@@ -18370,13 +18346,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потеряно соединение с сетью."
+            "value" : "Соединение с сетью потеряно."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sieťové pripojenie bolo stratené."
+            "value" : "Strata pripojenia k sieti."
           }
         },
         "sv" : {
@@ -18388,7 +18364,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเชื่อมต่อเครือข่ายถูกตัด."
+            "value" : "การเชื่อมต่อเครือข่ายขาดหายไป"
           }
         },
         "tr" : {
@@ -18406,7 +18382,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mất kết nối mạng."
+            "value" : "Kết nối mạng đã bị mất."
           }
         },
         "zh-Hans" : {
@@ -18418,79 +18394,68 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "網絡連接丟失。"
+            "value" : "網路連接已中斷。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "網絡連接丢失。"
+            "value" : "網絡連接已丟失。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.networkConnectionLostDot" : {
-      "comment" : "Notification when the network connection is lost",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Network connection lost."
-          }
-        }
-      }
-    },
-    "TK.Message.notEnoughStorageSpaceAvailable" : {
+    "TK.Message.notEnoughStorageSpaceAvailableDot" : {
       "comment" : "Warning when there is not enough storage space available",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لا يوجد مساحة تخزين كافية متاحة"
+            "value" : "لا توجد مساحة تخزين كافية متاحة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостатъчно свободно пространство за съхранение."
+            "value" : "Няма достатъчно налично пространство за съхранение."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hi ha prou espai d'emmagatzematge disponible"
+            "value" : "No hi ha prou espai d'emmagatzematge disponible."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Není dostatek volného místa na úložišti."
+            "value" : "Není dostatek volného místa v úložišti."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ikke nok lagerplads tilgængelig"
+            "value" : "Ikke nok lagerplads tilgængelig."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicht genügend Speicherplatz verfügbar"
+            "value" : "Nicht genug Speicherplatz verfügbar."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δεν υπάρχει αρκετός διαθέσιμος χώρος αποθήκευσης"
+            "value" : "Δεν υπάρχει αρκετός διαθέσιμος χώρος αποθήκευσης."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not enough storage space available"
+            "value" : "Not enough storage space available."
           }
         },
         "en-AU" : {
@@ -18514,85 +18479,85 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hay suficiente espacio de almacenamiento disponible"
+            "value" : "No hay suficiente espacio de almacenamiento disponible."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei tarpeeksi tallennustilaa saatavilla"
+            "value" : "Ei tarpeeksi tallennustilaa saatavilla."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espace de stockage insuffisant"
+            "value" : "Espace de stockage insuffisant."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espace de stockage insuffisant disponible"
+            "value" : "Espace de stockage insuffisant."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אין מספיק מקום אחסון זמין"
+            "value" : "אין מספיק מקום אחסון זמין."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पर्याप्त स्टोरेज स्पेस उपलब्ध नहीं है।"
+            "value" : "काफी संग्रहण स्थान उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema dovoljno slobodnog prostora za skladištenje"
+            "value" : "Nema dovoljno dostupnog prostora za pohranu."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs elég tárolóhely."
+            "value" : "Nincs elég szabad tárhely."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ruang penyimpanan tidak cukup tersedia"
+            "value" : "Ruang penyimpanan tidak cukup tersedia."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spazio di archiviazione insufficiente"
+            "value" : "Spazio di archiviazione insufficiente disponibile."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "空きストレージスペースが不足しています"
+            "value" : "ストレージスペースが不足しています。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жеткілікті сақтау орны жоқ"
+            "value" : "Жеткілікті сақтау сыйымдылығы жоқ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이용 가능한 저장 공간이 부족합니다."
+            "value" : "저장 공간이 충분하지 않습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada cukup ruang penyimpanan tersedia"
+            "value" : "Ruang penyimpanan tidak mencukupi."
           }
         },
         "nb" : {
@@ -18604,67 +18569,67 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niet genoeg opslagruimte beschikbaar"
+            "value" : "Niet genoeg opslagruimte beschikbaar."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niewystarczająca dostępna przestrzeń dyskowa"
+            "value" : "Brak wystarczającej ilości miejsca na przechowywanie."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espaço de armazenamento insuficiente"
+            "value" : "Espaço de armazenamento insuficiente."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Não há espaço de armazenamento disponível"
+            "value" : "Não há espaço suficiente de armazenamento disponível."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu este suficient spațiu de stocare disponibil."
+            "value" : "Spațiu de stocare insuficient disponibil."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостаточно свободного места для хранения"
+            "value" : "Недостаточно свободного места."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie je dostatok voľného miesta na ukladanie"
+            "value" : "Nie je dostatok dostupného úložného priestoru."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inte tillräckligt med lagringsutrymme tillgängligt"
+            "value" : "Inte tillräckligt med lagringsutrymme tillgängligt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พื้นที่จัดเก็บไม่เพียงพอ"
+            "value" : "พื้นที่เก็บข้อมูลไม่เพียงพอ."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeterli depolama alanı yok"
+            "value" : "Yeterli depolama alanı yok."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостатньо вільного місця для зберігання"
+            "value" : "Недостатньо вільного місця для зберігання."
           }
         },
         "vi" : {
@@ -18676,67 +18641,56 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有足够的存储空间可用。"
+            "value" : "可用存储空间不足。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可用的存儲空間不足"
+            "value" : "可用的儲存空間不足。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可用存储空间不足"
+            "value" : "可用的儲存空間不足。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.notEnoughStorageSpaceAvailableDot" : {
-      "comment" : "Warning when there is not enough storage space available",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Not enough storage space available."
-          }
-        }
-      }
-    },
-    "TK.Message.passwordProtectionEnabled" : {
+    "TK.Message.passwordProtectionEnabledDot" : {
       "comment" : "Confirmation when password protection has been enabled",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تمكين حماية كلمة المرور."
+            "value" : "تم تمكين حماية بكلمة مرور."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Активирана е защита с парола."
+            "value" : "Защитата с парола е активирана."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Protecció amb contrasenya activada."
+            "value" : "Protecció per contrasenya activada."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ochrana heslem byla povolena."
+            "value" : "Ochrana heslem byla aktivována."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adgangskodebeskyttelse er aktiveret."
+            "value" : "Adgangskodebeskyttelse aktiveret."
           }
         },
         "de" : {
@@ -18748,7 +18702,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ενεργοποιήθηκε η προστασία με κωδικό."
+            "value" : "Η προστασία με κωδικό πρόσβασης έχει ενεργοποιηθεί."
           }
         },
         "en" : {
@@ -18784,7 +18738,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salasuojaus on aktivoitu."
+            "value" : "Salasanasuojaus aktivoitu."
           }
         },
         "fr" : {
@@ -18814,25 +18768,25 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaštita lozinkom omogućena."
+            "value" : "Zaštita lozinkom je omogućena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jelszóvédelem engedélyezve."
+            "value" : "A jelszóvédelem engedélyezve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perlindungan kata sandi telah diaktifkan."
+            "value" : "Perlindungan kata sandi diaktifkan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Protezione con password attivata."
+            "value" : "Protezione con password abilitata."
           }
         },
         "ja" : {
@@ -18844,7 +18798,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пароль қорғауы қосылды."
+            "value" : "Құпия сөзбен қорғау қосылды."
           }
         },
         "ko" : {
@@ -18856,7 +18810,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perlindungan kata laluan telah diaktifkan."
+            "value" : "Perlindungan kata laluan diaktifkan."
           }
         },
         "nb" : {
@@ -18874,13 +18828,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Włączono ochronę hasłem."
+            "value" : "Zabezpieczenie hasłem włączone."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proteção por senha habilitada."
+            "value" : "Proteção por senha ativada."
           }
         },
         "pt-PT" : {
@@ -18898,7 +18852,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Защита паролем включена."
+            "value" : "Включена защита паролем."
           }
         },
         "sk" : {
@@ -18916,7 +18870,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิดใช้งานการป้องกันด้วยรหัสผ่าน."
+            "value" : "เปิดการป้องกันด้วยรหัสผ่านเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -18934,7 +18888,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bảo vệ bằng mật khẩu đã được bật."
+            "value" : "Đã bật bảo vệ bằng mật khẩu."
           }
         },
         "zh-Hans" : {
@@ -18955,23 +18909,12 @@
             "value" : "已啟用密碼保護。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.passwordProtectionEnabledDot" : {
-      "comment" : "Confirmation when password protection has been enabled",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Password protection enabled."
-          }
-        }
-      }
-    },
-    "TK.Message.recordingSavedSuccessfully" : {
+    "TK.Message.recordingSavedSuccessfullyDot" : {
       "comment" : "Confirmation when a recording has been saved successfully",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18988,13 +18931,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gravació desada correctament."
+            "value" : "Gravació desada amb èxit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahrávka byla úspěšně uložena."
+            "value" : "Nahrávání bylo úspěšně uloženo."
           }
         },
         "da" : {
@@ -19012,7 +18955,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ηχογράφηση αποθηκεύτηκε με επιτυχία."
+            "value" : "Η εγγραφή αποθηκεύτηκε επιτυχώς."
           }
         },
         "en" : {
@@ -19042,13 +18985,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grabación guardada con éxito."
+            "value" : "Grabación guardada exitosamente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Äänitys tallennettu onnistuneesti."
+            "value" : "Tallennus tallennettu onnistuneesti."
           }
         },
         "fr" : {
@@ -19060,31 +19003,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrement sauvegardé avec succès."
+            "value" : "Enregistrement enregistré avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקלטה נשמרה בהצלחה."
+            "value" : "ההקלטה נשמרה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रिकॉर्डिंग सफलतापूर्वक सुरक्षित की गई।"
+            "value" : "रिकॉर्डिंग सफलतापूर्वक सेव की गई।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snimka je uspješno pohranjena."
+            "value" : "Snimanje je uspješno spremljeno."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A felvétel sikeresen mentve."
+            "value" : "Felvétel sikeresen mentve."
           }
         },
         "id" : {
@@ -19108,7 +19051,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жазу сәтті сақталды."
+            "value" : "Жазба сәтті түрде сақталды."
           }
         },
         "ko" : {
@@ -19120,13 +19063,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rakaman telah disimpan dengan jayanya."
+            "value" : "Rakaman berjaya disimpan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opptak lagret."
+            "value" : "Opptaket ble lagret."
           }
         },
         "nl" : {
@@ -19138,7 +19081,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nagranie zostało zapisane pomyślnie."
+            "value" : "Nagranie zapisane pomyślnie."
           }
         },
         "pt-BR" : {
@@ -19174,13 +19117,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inspelningen har sparats framgångsrikt."
+            "value" : "Inspelning sparad framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การบันทึกถูกบันทึกเรียบร้อยแล้ว"
+            "value" : "บันทึกเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -19192,7 +19135,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запис збережено успішно."
+            "value" : "Запис успішно збережено."
           }
         },
         "vi" : {
@@ -19210,49 +19153,38 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄音已成功保存。"
+            "value" : "錄音已成功儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄音已成功保存。"
+            "value" : "錄音已成功儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.recordingSavedSuccessfullyDot" : {
-      "comment" : "Confirmation when a recording has been saved successfully",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Recording saved successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.scanCompletedSuccessfully" : {
+    "TK.Message.scanCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a scan has been completed successfully",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم المسح بنجاح."
+            "value" : "اكتمل المسح بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирането е завършено успешно."
+            "value" : "Сканирането е завършило успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exploració completada amb èxit."
+            "value" : "Escaneig completat amb èxit."
           }
         },
         "cs" : {
@@ -19264,7 +19196,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanningen er gennemført med succes."
+            "value" : "Scan fuldført med succes."
           }
         },
         "de" : {
@@ -19276,7 +19208,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η σάρωση ολοκληρώθηκε με επιτυχία."
+            "value" : "Η σάρωση ολοκληρώθηκε επιτυχώς."
           }
         },
         "en" : {
@@ -19306,19 +19238,19 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escaneo completado con éxito."
+            "value" : "Escaneo completado exitosamente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skannaus suoritettu onnistuneesti."
+            "value" : "Skannaus onnistui."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scan terminé avec succès."
+            "value" : "Numérisation terminée avec succès."
           }
         },
         "fr-CA" : {
@@ -19342,19 +19274,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skeniranje je uspješno dovršeno."
+            "value" : "Skener je uspješno završen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A beolvasás sikeresen befejeződött."
+            "value" : "Beolvasás sikeresen befejezve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemindaian selesai dengan sukses."
+            "value" : "Pemindaian berhasil diselesaikan."
           }
         },
         "it" : {
@@ -19366,7 +19298,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スキャンが正常に完了しました。"
+            "value" : "正常に読み込まれました。"
           }
         },
         "kk" : {
@@ -19390,13 +19322,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skanning fullført med suksess."
+            "value" : "Skanningen ble fullført."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scan succesvol voltooid."
+            "value" : "Scannen succesvol voltooid."
           }
         },
         "pl" : {
@@ -19408,13 +19340,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Digitalização concluída com êxito."
+            "value" : "Escaneamento concluído com sucesso."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scan concluído com sucesso."
+            "value" : "Digitalização concluída com sucesso."
           }
         },
         "ro" : {
@@ -19432,19 +19364,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scenovanie bolo úspešne dokončené."
+            "value" : "Skener bol úspešne dokončený."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skanningen har genomförts framgångsrikt."
+            "value" : "Skanningen slutfördes framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การสแกนเสร็จสมบูรณ์แล้ว"
+            "value" : "สแกนเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -19462,19 +19394,19 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quét hoàn tất thành công."
+            "value" : "Quá trình quét đã hoàn tất thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "扫描已成功完成。"
+            "value" : "扫描成功完成。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "掃描成功完成。"
+            "value" : "掃描已成功完成。"
           }
         },
         "zh-HK" : {
@@ -19483,52 +19415,41 @@
             "value" : "掃描已成功完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.scanCompletedSuccessfullyDot" : {
-      "comment" : "Confirmation when a scan has been completed successfully",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scan completed successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.storageSpaceIsRunningLow" : {
+    "TK.Message.storageSpaceIsRunningLowDot" : {
       "comment" : "Warning when storage space is almost full",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "سعة التخزين تقترب من النفاد."
+            "value" : "مساحة التخزين على وشك النفاد."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мястото за съхранение е почти запълнено."
+            "value" : "Местото за съхранение намалява."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espai d'emmagatzematge baixa."
+            "value" : "L'espai d'emmagatzematge s'està acabant."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Místo na úložišti se krátí."
+            "value" : "Místo na úložišti se blíží k zaplnění."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lagringspladsen er ved at være lav."
+            "value" : "Lagringspladsen er ved at løbe tør."
           }
         },
         "de" : {
@@ -19540,7 +19461,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο αποθηκευτικός χώρος είναι σχεδόν γεμάτος."
+            "value" : "Ο χώρος αποθήκευσης είναι σχεδόν γεμάτος."
           }
         },
         "en" : {
@@ -19564,7 +19485,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El espacio de almacenamiento se está acabando."
+            "value" : "El espacio de almacenamiento se está agotando."
           }
         },
         "es-419" : {
@@ -19582,7 +19503,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espace de stockage presque plein."
+            "value" : "L'espace de stockage est presque plein."
           }
         },
         "fr-CA" : {
@@ -19594,25 +19515,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המרחב לאחסון מתמלא."
+            "value" : "שטח האחסון כמעט מלא."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टोरेज स्पेस लगभग भरा हुआ है।"
+            "value" : "स्टोरेज स्पेस कम हो रहा है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prostor za pohranu se smanjuje."
+            "value" : "Prostor za pohranu se približava kraju."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tárolóhely majdnem betelt."
+            "value" : "A tárolóhely lassan betelik."
           }
         },
         "id" : {
@@ -19630,73 +19551,73 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ストレージスペースが不足しています。"
+            "value" : "ストレージの空き容量が不足しています。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сақтау орны толып бара жатыр."
+            "value" : "Кеңістігіңіз таусылуға жақын."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저장 공간이 거의 다 찼습니다."
+            "value" : "저장 공간이 부족해지고 있습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ruang penyimpanan semakin rendah."
+            "value" : "Ruang penyimpanan hampir penuh."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lagringsplassen er i ferd med å bli full."
+            "value" : "Lagringsplassen er i ferd med å gå tom."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opslagcapaciteit raakt bijna vol."
+            "value" : "Opslagruimte raakt op."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przestrzeń dyskowa jest bliska wyczerpania."
+            "value" : "Miejsce na dysku się kończy."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espaço de armazenamento está quase cheio."
+            "value" : "Espaço de armazenamento está ficando baixo."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espaço de armazenamento a ficar reduzido."
+            "value" : "Espaço de armazenamento está a ficar baixo."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spațiul de stocare este pe terminate."
+            "value" : "Spațiul de stocare este aproape plin."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостаточно свободного места."
+            "value" : "Место на диске заканчивается."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úložný priestor sa míňa."
+            "value" : "Úložný priestor sa blíži k vyčerpaniu."
           }
         },
         "sv" : {
@@ -19708,25 +19629,25 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พื้นที่จัดเก็บกำลังจะหมดแล้ว"
+            "value" : "หน่วยจัดเก็บข้อมูลใกล้เต็มแล้ว."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Depolama alanı bitmek üzere."
+            "value" : "Depolama alanı azalıyor."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Місце для зберігання майже заповнене."
+            "value" : "Вільний простір для зберігання вичерпується."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không gian lưu trữ đang dần cạn kiệt."
+            "value" : "Không gian lưu trữ đang gần đầy."
           }
         },
         "zh-Hans" : {
@@ -19738,32 +19659,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存空間即將不足。"
+            "value" : "儲存空間即將用完。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存空間不足。"
+            "value" : "存儲空間即將不足。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.storageSpaceIsRunningLowDot" : {
-      "comment" : "Warning when storage space is almost full",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Storage space is running low."
-          }
-        }
-      }
-    },
-    "TK.Message.vpnConnectionEstablished" : {
+    "TK.Message.vpnConnectionEstablishedDot" : {
       "comment" : "Confirmation when a VPN connection has been established",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19804,7 +19714,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η σύνδεση VPN έχει εγκατασταθεί."
+            "value" : "Η σύνδεση VPN έχει δημιουργηθεί."
           }
         },
         "en" : {
@@ -19840,7 +19750,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN-yhteys muodostettu."
+            "value" : "VPN-yhteys on muodostettu."
           }
         },
         "fr" : {
@@ -19882,7 +19792,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Koneksi VPN telah terhubung."
+            "value" : "Koneksi VPN telah terjalin."
           }
         },
         "it" : {
@@ -19918,7 +19828,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN-tilkobling opprettet."
+            "value" : "VPN-tilkobling etablert."
           }
         },
         "nl" : {
@@ -19930,7 +19840,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nawiązano połączenie VPN."
+            "value" : "VPN połączenie zostało nawiązane."
           }
         },
         "pt-BR" : {
@@ -19948,31 +19858,31 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexiune VPN stabilită."
+            "value" : "Conexiunea VPN a fost stabilită."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN-соединение установлено."
+            "value" : "Соединение VPN установлено."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN pripojenie bolo nadviazané."
+            "value" : "VPN pripojenie bolo vytvorené."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN-anslutningen har upprättats."
+            "value" : "VPN-anslutning etablerad."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เชื่อมต่อ VPN เสร็จสิ้นแล้ว."
+            "value" : "การเชื่อมต่อ VPN ถูกสร้างขึ้น."
           }
         },
         "tr" : {
@@ -19984,7 +19894,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN-з'єднання встановлено."
+            "value" : "З'єднання VPN встановлено."
           }
         },
         "vi" : {
@@ -20002,7 +19912,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VPN連線已建立。"
+            "value" : "VPN連接已建立。"
           }
         },
         "zh-HK" : {
@@ -20011,19 +19921,8 @@
             "value" : "VPN 連接已建立。"
           }
         }
-      }
-    },
-    "TK.Message.vpnConnectionEstablishedDot" : {
-      "comment" : "Confirmation when a VPN connection has been established",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "VPN connection established."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.analyzingNetworkSpeedDots" : {
       "comment" : "Placeholder when analyzing network speed",
@@ -20031,7 +19930,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تحليل سرعة الشبكة…"
+            "value" : "جارٍ تحليل سرعة الشبكة…"
           }
         },
         "bg" : {
@@ -20205,13 +20104,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A analisar velocidade de rede..."
+            "value" : "A analisar velocidade de rede…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analizează viteză rețea…"
+            "value" : "Se analizează viteza rețelei…"
           }
         },
         "ru" : {
@@ -20241,7 +20140,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ağ hızı analiz ediliyor..."
+            "value" : "Ağ hızını analiz etme…"
           }
         },
         "uk" : {
@@ -20274,7 +20173,8 @@
             "value" : "正在分析網絡速度…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.checkingStorageSpaceDots" : {
       "comment" : "Placeholder when checking available storage space",
@@ -20300,7 +20200,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontrola volného místa…"
+            "value" : "Kontrola úložiště…"
           }
         },
         "da" : {
@@ -20525,7 +20425,8 @@
             "value" : "正在檢查儲存空間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.chooseOutputFormatDots" : {
       "comment" : "Placeholder when selecting an output format",
@@ -20776,7 +20677,8 @@
             "value" : "選擇輸出格式…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.convertingFormatDots" : {
       "comment" : "Placeholder when converting a file format",
@@ -21027,259 +20929,8 @@
             "value" : "正在轉換格式…"
           }
         }
-      }
-    },
-    "TK.Placeholder.eG19216811" : {
-      "comment" : "Example of an IP address format",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "مثل 192.168.1.1"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "напр. 192.168.1.1"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "p.ex. 192.168.1.1"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "např. 192.168.1.1"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "f.eks. 192.168.1.1"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "z.B. 192.168.1.1"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "π.χ. 192.168.1.1"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "e.g. 192.168.1.1"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "e.g. 192.168.1.1"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "e.g. 192.168.1.1"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "p. ej. 192.168.1.1"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "p. ej. 192.168.1.1"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "esim. 192.168.1.1"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "par ex. 192.168.1.1"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "p. ex. 192.168.1.1"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "למשל 192.168.1.1"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "उदा. 192.168.1.1"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "npr. 192.168.1.1"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "pl. 192.168.1.1"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "cth. 192.168.1.1"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ad es. 192.168.1.1"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "例：192.168.1.1"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "мысалы, 192.168.1.1"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "예: 192.168.1.1"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "cth. 192.168.1.1"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "f.eks. 192.168.1.1"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "bijv. 192.168.1.1"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "np. 192.168.1.1"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ex. 192.168.1.1"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ex.: 192.168.1.1"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "de ex. 192.168.1.1"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "прим. 192.168.1.1"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "napr. 192.168.1.1"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "t.ex. 192.168.1.1"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เช่น 192.168.1.1"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "örn. 192.168.1.1"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "наприклад 192.168.1.1"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "e.g. 192.168.1.1"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "例如 192.168.1.1"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "例如 192.168.1.1"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "例如 192.168.1.1"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAPIKeyDots" : {
       "comment" : "Placeholder for entering an API key",
@@ -21425,7 +21076,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API 키 입력…"
+            "value" : "API 키를 입력하세요…"
           }
         },
         "ms" : {
@@ -21530,7 +21181,8 @@
             "value" : "輸入 API 密鑰…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDeviceNameDots" : {
       "comment" : "Placeholder for entering a device name",
@@ -21622,7 +21274,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'appareil…"
+            "value" : "Entre le nom de l'appareil…"
           }
         },
         "he" : {
@@ -21676,7 +21328,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기기 이름 입력…"
+            "value" : "기기 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -21694,7 +21346,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de naam van het apparaat in …"
+            "value" : "Voer de naam van het apparaat in…"
           }
         },
         "pl" : {
@@ -21742,13 +21394,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่ออุปกรณ์…"
+            "value" : "กรอกชื่ออุปกรณ์…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cihaz adını girin…"
+            "value" : "Cihaz adını gir…"
           }
         },
         "uk" : {
@@ -21781,7 +21433,8 @@
             "value" : "輸入設備名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDNSDots" : {
       "comment" : "Placeholder for entering DNS information",
@@ -21849,7 +21502,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa DNS…"
+            "value" : "Introduce el DNS…"
           }
         },
         "es-419" : {
@@ -21873,7 +21526,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le DNS…"
+            "value" : "Entre le DNS…"
           }
         },
         "he" : {
@@ -21927,7 +21580,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "DNS 입력…"
+            "value" : "DNS를 입력하세요…"
           }
         },
         "ms" : {
@@ -21999,7 +21652,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "DNS değerini girin…"
+            "value" : "DNS değerini gir…"
           }
         },
         "uk" : {
@@ -22032,7 +21685,8 @@
             "value" : "輸入DNS…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterFileNameDots" : {
       "comment" : "Placeholder for entering a file name",
@@ -22124,7 +21778,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du fichier…"
+            "value" : "Entre le nom du fichier…"
           }
         },
         "he" : {
@@ -22178,7 +21832,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "파일 이름 입력…"
+            "value" : "파일 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22250,7 +21904,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosya adını girin…"
+            "value" : "Dosya adını gir…"
           }
         },
         "uk" : {
@@ -22283,7 +21937,8 @@
             "value" : "輸入文件名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterIPAddressDots" : {
       "comment" : "Placeholder for entering an IP address",
@@ -22393,7 +22048,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite IP adresu…"
+            "value" : "Unesi IP adresu…"
           }
         },
         "hu" : {
@@ -22429,7 +22084,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "IP 주소 입력…"
+            "value" : "IP 주소를 입력하세요…"
           }
         },
         "ms" : {
@@ -22501,7 +22156,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "IP adresini girin…"
+            "value" : "IP adresini gir…"
           }
         },
         "uk" : {
@@ -22534,7 +22189,8 @@
             "value" : "輸入 IP 地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPortNumberDots" : {
       "comment" : "Placeholder for entering a port number",
@@ -22578,7 +22234,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε αριθμό θύρας…"
+            "value" : "Βάλε αριθμό θύρας…"
           }
         },
         "en" : {
@@ -22644,13 +22300,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj porta…"
+            "value" : "Unesi broj porta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a port számot…"
+            "value" : "Írd be a portszámot…"
           }
         },
         "id" : {
@@ -22734,7 +22390,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte číslo portu…"
+            "value" : "Zadaj číslo portu…"
           }
         },
         "sv" : {
@@ -22746,7 +22402,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่หมายเลขพอร์ต…"
+            "value" : "กรอกหมายเลขพอร์ต…"
           }
         },
         "tr" : {
@@ -22785,7 +22441,8 @@
             "value" : "輸入埠號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterServerAddressDots" : {
       "comment" : "Placeholder for entering a server address",
@@ -22829,7 +22486,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τη διεύθυνση διακομιστή…"
+            "value" : "Βάλε τη διεύθυνση διακομιστή…"
           }
         },
         "en" : {
@@ -22973,7 +22630,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti adresa serverului…"
+            "value" : "Introduceți adresa serverului…"
           }
         },
         "ru" : {
@@ -22997,7 +22654,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ที่อยู่เซิร์ฟเวอร์…"
+            "value" : "กรอกที่อยู่เซิร์ฟเวอร์…"
           }
         },
         "tr" : {
@@ -23036,19 +22693,261 @@
             "value" : "輸入伺服器地址…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.ipAddressExample" : {
       "comment" : "Example of an IP address format",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مثال على عنوان IP: 192.168.1.1"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "напр. 192.168.1.1"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 192.168.1.1"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "např. 192.168.1.1"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "f.eks. 192.168.1.1"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "z.B. 192.168.1.1"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "π.χ. 192.168.1.1"
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "e.g. 192.168.1.1"
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e.g. 192.168.1.1"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e.g. 192.168.1.1"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ej. 192.168.1.1"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ej. 192.168.1.1"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "esim. 192.168.1.1"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 192.168.1.1"
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 192.168.1.1"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "למשל, 192.168.1.1"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उदाहरण के लिए: 192.168.1.1"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "npr. 192.168.1.1"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pl. 192.168.1.1"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "contoh: 192.168.1.1"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "es. 192.168.1.1"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例：192.168.1.1"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "мысалы, 192.168.1.1"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예: 192.168.1.1"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cth. 192.168.1.1"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "f.eks. 192.168.1.1"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bijv. 192.168.1.1"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "np. 192.168.1.1"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex.: 192.168.1.1"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 192.168.1.1"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex. 192.168.1.1"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "пример: 192.168.1.1"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "napr. 192.168.1.1"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "t.ex. 192.168.1.1"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เช่น 192.168.1.1"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "örn. 192.168.1.1"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "наприклад, 192.168.1.1"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ví dụ: 192.168.1.1"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：192.168.1.1"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例：192.168.1.1"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "例如：192.168.1.1"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.measuringBandwidthDots" : {
       "comment" : "Placeholder when measuring network bandwidth",
@@ -23299,7 +23198,8 @@
             "value" : "測量頻寬…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.monitoringSystemResourcesDots" : {
       "comment" : "Placeholder when monitoring system resources",
@@ -23337,7 +23237,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Systemressourcen überwachen…"
+            "value" : "Benenne deine Lernkarte…"
           }
         },
         "el" : {
@@ -23550,7 +23450,8 @@
             "value" : "監控系統資源…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.processingFileDots" : {
       "comment" : "Placeholder when processing a file",
@@ -23801,7 +23702,8 @@
             "value" : "處理文件…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.scanningForDevicesDots" : {
       "comment" : "Placeholder when scanning for available devices",
@@ -23977,7 +23879,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando dispositivos…"
+            "value" : "Localizando dispositivos…"
           }
         },
         "pt-PT" : {
@@ -24052,7 +23954,8 @@
             "value" : "正在掃描設備…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.scanningForNetworksDots" : {
       "comment" : "Placeholder when scanning for available networks",
@@ -24264,7 +24167,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กำลังค้นหเครือข่าย…"
+            "value" : "กำลังค้นหาเครือข่าย…"
           }
         },
         "tr" : {
@@ -24303,7 +24206,8 @@
             "value" : "正在掃描網絡…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.testingConnectionSpeedDots" : {
       "comment" : "Placeholder when testing connection speed",
@@ -24554,7 +24458,8 @@
             "value" : "測試連線速度…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

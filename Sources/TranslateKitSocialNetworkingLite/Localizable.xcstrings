@@ -139,7 +139,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шақыруды қабылдау"
+            "value" : "Шақыруды қабылда"
           }
         },
         "ko" : {
@@ -250,7 +250,8 @@
             "value" : "接受邀请"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addFriend" : {
       "comment" : "Use when sending a friend request to someone",
@@ -264,7 +265,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете приятел"
+            "value" : "Добави приятел"
           }
         },
         "ca" : {
@@ -390,7 +391,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дос қосу"
+            "value" : "Досты қосу"
           }
         },
         "ko" : {
@@ -501,7 +502,8 @@
             "value" : "添加好友"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.approve" : {
       "comment" : "Use when accepting or allowing something or someone",
@@ -587,7 +589,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autoriser"
+            "value" : "Approuver"
           }
         },
         "fr-CA" : {
@@ -752,7 +754,8 @@
             "value" : "批准"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.archive" : {
       "comment" : "Use when storing content for later access or review",
@@ -850,7 +853,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ארכיון"
+            "value" : "ארכב"
           }
         },
         "hi" : {
@@ -946,7 +949,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архив"
+            "value" : "Заархивировать"
           }
         },
         "sk" : {
@@ -976,7 +979,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В архів"
+            "value" : "Заархівувати"
           }
         },
         "vi" : {
@@ -1003,7 +1006,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.block" : {
       "comment" : "Use when restricting someone from interacting with you or your content",
@@ -1254,7 +1258,8 @@
             "value" : "封鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.comment" : {
       "comment" : "Use when adding feedback or a response to content",
@@ -1280,7 +1285,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komentář"
+            "value" : "Poskytnout komentář"
           }
         },
         "da" : {
@@ -1442,13 +1447,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comentariu"
+            "value" : "Adăugați Comentariu"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Комментарий"
+            "value" : "Комментарировать"
           }
         },
         "sk" : {
@@ -1505,7 +1510,8 @@
             "value" : "註解"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.connect" : {
       "comment" : "Use when establishing a link or interaction with someone or something",
@@ -1756,7 +1762,8 @@
             "value" : "連線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.declineInvite" : {
       "comment" : "Use when declining an invitation to join a group or event",
@@ -2007,7 +2014,8 @@
             "value" : "拒絕邀請"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.delete" : {
       "comment" : "Use when permanently removing content or interactions",
@@ -2258,7 +2266,8 @@
             "value" : "刪除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.disconnect" : {
       "comment" : "Use when severing a connection or interaction",
@@ -2404,7 +2413,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "연결 해제"
+            "value" : "해제"
           }
         },
         "ms" : {
@@ -2488,7 +2497,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ngắt kết nối"
+            "value" : "Ngắt Kết nối"
           }
         },
         "zh-Hans" : {
@@ -2509,7 +2518,8 @@
             "value" : "中斷連線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.edit" : {
       "comment" : "Use when modifying content or settings",
@@ -2760,7 +2770,8 @@
             "value" : "編輯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.flag" : {
       "comment" : "Use when marking content as inappropriate or needing attention",
@@ -2804,7 +2815,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημαία"
+            "value" : "Σημείωση"
           }
         },
         "en" : {
@@ -2948,13 +2959,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puneți fanion"
+            "value" : "Marchează"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Флажок"
+            "value" : "Отметить"
           }
         },
         "sk" : {
@@ -2978,7 +2989,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yönlendir"
+            "value" : "Bayrağı İşaretle"
           }
         },
         "uk" : {
@@ -3011,7 +3022,8 @@
             "value" : "加上旗標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.follow" : {
       "comment" : "Use when subscribing to updates from a user or content",
@@ -3262,7 +3274,8 @@
             "value" : "關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.hide" : {
       "comment" : "Use when making content invisible or unviewable",
@@ -3306,7 +3319,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Απόκρυψη περιεχομένου"
+            "value" : "Απόκρυψη"
           }
         },
         "en" : {
@@ -3513,7 +3526,8 @@
             "value" : "隱藏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.join" : {
       "comment" : "Use when becoming a member of a group or community",
@@ -3605,7 +3619,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Joindre"
+            "value" : "Rejoindre"
           }
         },
         "he" : {
@@ -3764,7 +3778,8 @@
             "value" : "加入"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.leave" : {
       "comment" : "Use when exiting a group or community",
@@ -3952,7 +3967,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Părăsiți"
+            "value" : "Părăsește"
           }
         },
         "ru" : {
@@ -4015,7 +4030,8 @@
             "value" : "離開"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.like" : {
       "comment" : "Use when expressing approval or appreciation for content",
@@ -4266,7 +4282,8 @@
             "value" : "喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.mention" : {
       "comment" : "Use when referring to someone in content or a conversation",
@@ -4436,7 +4453,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wzmianka"
+            "value" : "Wzmiń"
           }
         },
         "pt-BR" : {
@@ -4508,7 +4525,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提及"
+            "value" : "提到"
           }
         },
         "zh-HK" : {
@@ -4517,7 +4534,8 @@
             "value" : "提及"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.muteUser" : {
       "comment" : "Use when silencing notifications from a specific user",
@@ -4603,7 +4621,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Couper l'utilisateur"
+            "value" : "Désactiver le microphone"
           }
         },
         "fr-CA" : {
@@ -4669,7 +4687,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sepikan Pengguna"
+            "value" : "Bisukan Pengguna"
           }
         },
         "nb" : {
@@ -4705,13 +4723,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mut"
+            "value" : "Dezactivează utilizatorul"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "заглушить пользователя"
+            "value" : "Заглушить пользователя"
           }
         },
         "sk" : {
@@ -4765,10 +4783,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "靜音"
+            "value" : "靜音用戶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pin" : {
       "comment" : "Use when marking content to remain at the top or important",
@@ -5019,7 +5038,8 @@
             "value" : "釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.post" : {
       "comment" : "Use when sharing content publicly or privately",
@@ -5270,7 +5290,8 @@
             "value" : "發佈"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.react" : {
       "comment" : "Use when expressing an emotion or response to content",
@@ -5314,7 +5335,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αντίδραση"
+            "value" : "Αντέδρασε"
           }
         },
         "en" : {
@@ -5380,7 +5401,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reagira"
+            "value" : "Reagiraj"
           }
         },
         "hu" : {
@@ -5410,7 +5431,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Реакция"
+            "value" : "Реакция жасау"
           }
         },
         "ko" : {
@@ -5521,7 +5542,8 @@
             "value" : "回應"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reply" : {
       "comment" : "Use when responding to a post, message, or comment",
@@ -5772,7 +5794,8 @@
             "value" : "回覆"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reportContent" : {
       "comment" : "Use when reporting content for violations or issues",
@@ -6023,7 +6046,8 @@
             "value" : "舉報內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.repost" : {
       "comment" : "Use when sharing content again on your own profile or feed",
@@ -6061,7 +6085,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beitrag erneut teilen"
+            "value" : "Beitrag erneut teilen "
           }
         },
         "el" : {
@@ -6181,7 +6205,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gjenpost"
+            "value" : "Repost"
           }
         },
         "nl" : {
@@ -6274,7 +6298,8 @@
             "value" : "重新分享"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestAccess" : {
       "comment" : "Use when asking for permission to access a resource or group",
@@ -6525,7 +6550,8 @@
             "value" : "請求訪問"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.save" : {
       "comment" : "Use when bookmarking or storing content for later use",
@@ -6776,7 +6802,8 @@
             "value" : "儲存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.sendMessage" : {
       "comment" : "Use when sending a message to a user or group",
@@ -7027,7 +7054,8 @@
             "value" : "傳送訊息"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.share" : {
       "comment" : "Use when sharing content with others",
@@ -7278,7 +7306,8 @@
             "value" : "分享"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.tag" : {
       "comment" : "Use when labeling content with specific keywords or identifiers",
@@ -7304,7 +7333,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Značka"
+            "value" : "Označit"
           }
         },
         "da" : {
@@ -7388,7 +7417,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etiketa"
+            "value" : "Označi"
           }
         },
         "hu" : {
@@ -7478,7 +7507,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Značka"
+            "value" : "Označiť"
           }
         },
         "sv" : {
@@ -7529,7 +7558,8 @@
             "value" : "標籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unblock" : {
       "comment" : "Use when removing a block and allowing interaction again",
@@ -7651,7 +7681,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Pemblokiran"
+            "value" : "Buka Blokir"
           }
         },
         "it" : {
@@ -7780,7 +7810,8 @@
             "value" : "解除封鎖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unsubscribing from updates from a user or content",
@@ -7836,7 +7867,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfavourite"
+            "value" : "Unfollow"
           }
         },
         "en-GB" : {
@@ -8031,7 +8062,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unlike" : {
       "comment" : "Use when retracting a like or approval for content",
@@ -8051,7 +8083,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No m'agrada"
+            "value" : "No agradar"
           }
         },
         "cs" : {
@@ -8069,7 +8101,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gefällt mir nicht"
+            "value" : "Gefällt mir nicht mehr"
           }
         },
         "el" : {
@@ -8159,13 +8191,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mi piace"
+            "value" : "Non mi piace"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "いいねを取り消す"
+            "value" : "「いいね」を取り消す"
           }
         },
         "kk" : {
@@ -8219,13 +8251,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezaprobat"
+            "value" : "Dezaprobați"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не нравится"
+            "value" : "Убрать отметку «Мне нравится»"
           }
         },
         "sk" : {
@@ -8273,7 +8305,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不喜歡"
+            "value" : "取消讚"
           }
         },
         "zh-HK" : {
@@ -8282,7 +8314,8 @@
             "value" : "不喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unpin" : {
       "comment" : "Use when removing a pin from content",
@@ -8533,7 +8566,8 @@
             "value" : "取消釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewProfile" : {
       "comment" : "Use when accessing a user's profile page",
@@ -8784,7 +8818,8 @@
             "value" : "檢視個人檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activityFeed" : {
       "comment" : "Use for a list of recent actions or updates by users",
@@ -8810,7 +8845,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivity"
+            "value" : "Přehled aktivit"
           }
         },
         "da" : {
@@ -8984,7 +9019,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivita kanála"
+            "value" : "Kanál aktivít"
           }
         },
         "sv" : {
@@ -9035,7 +9070,8 @@
             "value" : "活動動態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.blockedUsers" : {
       "comment" : "Use for users who are restricted from interacting with the account",
@@ -9223,7 +9259,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilizatori Blocați"
+            "value" : "Utilizator:s blocat:e"
           }
         },
         "ru" : {
@@ -9271,7 +9307,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "被封锁用户"
+            "value" : "已屏蔽用户"
           }
         },
         "zh-Hant" : {
@@ -9286,7 +9322,8 @@
             "value" : "已屏蔽用戶"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.chat" : {
       "comment" : "Use for direct communication between users in real time",
@@ -9537,7 +9574,8 @@
             "value" : "聊天"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.comments" : {
       "comment" : "Use for user feedback or responses on posts",
@@ -9788,7 +9826,8 @@
             "value" : "評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.community" : {
       "comment" : "Use for a group of individuals with common interests or activities",
@@ -10039,7 +10078,8 @@
             "value" : "社區"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.connections" : {
       "comment" : "Use for users who have a professional or social connection",
@@ -10065,7 +10105,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připojení"
+            "value" : "Profesionální spojení"
           }
         },
         "da" : {
@@ -10191,7 +10231,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sambungan-sambungan"
+            "value" : "Sambungan"
           }
         },
         "nb" : {
@@ -10281,7 +10321,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "連接"
+            "value" : "目前連接"
           }
         },
         "zh-HK" : {
@@ -10290,7 +10330,8 @@
             "value" : "連接"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.contentType" : {
       "comment" : "Use for categorizing the format or kind of content",
@@ -10541,7 +10582,8 @@
             "value" : "內容類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.directMessages" : {
       "comment" : "Use for private messaging between users",
@@ -10792,7 +10834,8 @@
             "value" : "直接信息"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.engagement" : {
       "comment" : "Use for interactions like likes, comments, or shares",
@@ -11043,7 +11086,8 @@
             "value" : "參與度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.followers" : {
       "comment" : "Use for a list of users following the account",
@@ -11225,7 +11269,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seguidores"
+            "value" : "A seguir"
           }
         },
         "ro" : {
@@ -11294,7 +11338,8 @@
             "value" : "追隨者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.following" : {
       "comment" : "Use for a list of users the account is following",
@@ -11338,7 +11383,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σε ακολούθηση"
+            "value" : "Ακολουθούμενοι"
           }
         },
         "en" : {
@@ -11545,7 +11590,8 @@
             "value" : "正在關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.friendRequests" : {
       "comment" : "Use for invitations to connect with other users",
@@ -11796,7 +11842,8 @@
             "value" : "好友請求"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.friends" : {
       "comment" : "Use for users who are connected or have mutual interactions",
@@ -12047,7 +12094,8 @@
             "value" : "朋友"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.groups" : {
       "comment" : "Use for communities or collections of users with shared interests",
@@ -12298,7 +12346,8 @@
             "value" : "群組"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lastActive" : {
       "comment" : "Use for displaying the last time a user was active",
@@ -12549,7 +12598,8 @@
             "value" : "最後活躍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.members" : {
       "comment" : "Use for individuals belonging to a group or community",
@@ -12800,7 +12850,8 @@
             "value" : "成員"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.mentions" : {
       "comment" : "Use when referencing or tagging a user in content",
@@ -12940,7 +12991,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Атап өту сілтемелері"
+            "value" : "Атулар"
           }
         },
         "ko" : {
@@ -12952,7 +13003,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sedutan"
+            "value" : "Sebut"
           }
         },
         "nb" : {
@@ -13051,7 +13102,8 @@
             "value" : "提及"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.mutualFriends" : {
       "comment" : "Use for friends that two users share in common",
@@ -13137,7 +13189,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amis Communes"
+            "value" : "Amis Communs"
           }
         },
         "fr-CA" : {
@@ -13251,7 +13303,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spoločný priatelia"
+            "value" : "Spoloční priatelia"
           }
         },
         "sv" : {
@@ -13302,7 +13354,8 @@
             "value" : "共同朋友"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notifications" : {
       "comment" : "Use for alerts or updates about activity on the platform",
@@ -13553,7 +13606,8 @@
             "value" : "通知"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.onlineStatus" : {
       "comment" : "Use for indicating if a user is currently online or active",
@@ -13597,7 +13651,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάσταση Διαδικτυακή"
+            "value" : "Κατάσταση Online"
           }
         },
         "en" : {
@@ -13663,7 +13717,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onlajn status"
+            "value" : "Online status"
           }
         },
         "hu" : {
@@ -13804,7 +13858,8 @@
             "value" : "在線狀態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.posts" : {
       "comment" : "Use for content shared by the user or in a group",
@@ -13920,7 +13975,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bejegyzések"
+            "value" : "Hozzászólások"
           }
         },
         "id" : {
@@ -14055,7 +14110,8 @@
             "value" : "帖子"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.profile" : {
       "comment" : "Use for viewing or editing a user's personal information",
@@ -14306,7 +14362,8 @@
             "value" : "描述檔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reactions" : {
       "comment" : "Use for emotional responses to content, such as like or dislike",
@@ -14557,7 +14614,8 @@
             "value" : "反應"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.savedPosts" : {
       "comment" : "Use for content that a user has bookmarked or saved",
@@ -14637,7 +14695,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tallennetut Postaukset"
+            "value" : "Tallennetut postaukset"
           }
         },
         "fr" : {
@@ -14808,7 +14866,8 @@
             "value" : "已保存帖子"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.sharedMedia" : {
       "comment" : "Use for content like photos or videos shared by users",
@@ -15014,7 +15073,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delad Media"
+            "value" : "Delade media"
           }
         },
         "th" : {
@@ -15059,7 +15118,8 @@
             "value" : "共享媒體"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.socialFeed" : {
       "comment" : "Use for a stream of posts or updates from others",
@@ -15265,7 +15325,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Social Flöde"
+            "value" : "Socialt flöde"
           }
         },
         "th" : {
@@ -15310,7 +15370,8 @@
             "value" : "社交動態"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.stories" : {
       "comment" : "Use for short-lived content, often in a slideshow format",
@@ -15390,7 +15451,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarinoita"
+            "value" : "Tarinat"
           }
         },
         "fr" : {
@@ -15561,7 +15622,8 @@
             "value" : "故事"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.tags" : {
       "comment" : "Use for labels or keywords assigned to content",
@@ -15812,7 +15874,8 @@
             "value" : "標籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.trending" : {
       "comment" : "Use for popular topics or content",
@@ -16063,7 +16126,8 @@
             "value" : "熱門"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.visibility" : {
       "comment" : "Use for settings that control who can view content",
@@ -16275,7 +16339,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มุมมอง"
+            "value" : "ทัศนวิสัย"
           }
         },
         "tr" : {
@@ -16314,11 +16378,12 @@
             "value" : "可見度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.accountHasBeenBlocked" : {
+    "TK.Message.accountHasBeenBlockedDot" : {
       "comment" : "Notification when an account is blocked",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16347,19 +16412,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontoen er blevet blokeret."
+            "value" : "Din konto er blevet blokeret."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konto wurde gesperrt."
+            "value" : "Das Konto wurde gesperrt."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο λογαριασμός έχει αποκλειστεί."
+            "value" : "Ο λογαριασμός έχει μπλοκαριστεί."
           }
         },
         "en" : {
@@ -16419,7 +16484,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "खाता ब्लॉक किया गया है।"
+            "value" : "खाता अवरुद्ध कर दिया गया है।"
           }
         },
         "hr" : {
@@ -16431,7 +16496,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A fiók le van tiltva."
+            "value" : "A fiók blokkolva lett."
           }
         },
         "id" : {
@@ -16449,13 +16514,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "アカウントはブロックされています。"
+            "value" : "アカウントがブロックされました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шот блокталып қалды."
+            "value" : "Шот блокталды."
           }
         },
         "ko" : {
@@ -16467,7 +16532,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Akaun telah diblokir."
+            "value" : "Akaun telah disekat."
           }
         },
         "nb" : {
@@ -16527,19 +16592,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บัญชีถูกบล็อกแล้ว."
+            "value" : "บัญชีถูกบล็อกแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hesap bloke edildi."
+            "value" : "Hesap engellendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рахунок заблоковано."
+            "value" : "Акаунт заблоковано."
           }
         },
         "vi" : {
@@ -16563,26 +16628,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帳戶已被封鎖。"
+            "value" : "帳戶已被禁止。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.accountHasBeenBlockedDot" : {
-      "comment" : "Notification when an account is blocked",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Account has been blocked."
-          }
-        }
-      }
-    },
-    "TK.Message.commentAddedSuccessfully" : {
+    "TK.Message.commentAddedSuccessfullyDot" : {
       "comment" : "Confirmation when a comment is successfully added",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16599,7 +16653,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comentari afegit correctament."
+            "value" : "Comentari afegit amb èxit."
           }
         },
         "cs" : {
@@ -16659,7 +16713,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kommentti on lisätty onnistuneesti."
+            "value" : "Kommentti lisättiin onnistuneesti."
           }
         },
         "fr" : {
@@ -16695,13 +16749,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A hozzászólás sikeresen hozzáadva."
+            "value" : "Hozzászólás sikeresen hozzáadva."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten di balik paywall."
+            "value" : "Komentar berhasil ditambahkan."
           }
         },
         "it" : {
@@ -16731,25 +16785,25 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komen berjaya ditambah."
+            "value" : "Komen telah berjaya ditambah."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kommentar lagt til."
+            "value" : "Kommentar lagt til med hell."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opmerking succesvol toegevoegd."
+            "value" : "Commentaar succesvol toegevoegd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komentarz dodany pomyślnie."
+            "value" : "Komentarz został pomyślnie dodany."
           }
         },
         "pt-BR" : {
@@ -16773,7 +16827,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Комментарий успешно добавлен."
+            "value" : "Комментарий добавлен успешно."
           }
         },
         "sk" : {
@@ -16785,13 +16839,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kommentaren har lagts till framgångsrikt."
+            "value" : "Kommentar tillagd framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มความคิดเห็นเรียบร้อยแล้ว."
+            "value" : "เพิ่มความคิดเห็นสำเร็จแล้ว"
           }
         },
         "tr" : {
@@ -16815,13 +16869,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "评论已成功添加。"
+            "value" : "评论添加成功。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "評論已成功加入。"
+            "value" : "評論成功添加。"
           }
         },
         "zh-HK" : {
@@ -16830,23 +16884,12 @@
             "value" : "評論已成功添加。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.commentAddedSuccessfullyDot" : {
-      "comment" : "Confirmation when a comment is successfully added",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Comment added successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.contentReportedSuccessfully" : {
+    "TK.Message.contentReportedSuccessfullyDot" : {
       "comment" : "Confirmation when content is successfully reported",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16863,7 +16906,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contingut informat amb èxit."
+            "value" : "Contingut reportat amb èxit."
           }
         },
         "cs" : {
@@ -16875,7 +16918,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indholdet er rapporteret med succes."
+            "value" : "Indhold rapporteret med succes."
           }
         },
         "de" : {
@@ -16887,7 +16930,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το περιεχόμενο αναφέρθηκε επιτυχώς."
+            "value" : "Το περιεχόμενο αναφέρθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -16911,7 +16954,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido informado con éxito."
+            "value" : "Contenido reportado con éxito."
           }
         },
         "es-419" : {
@@ -16923,7 +16966,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sisältö on ilmoitettu onnistuneesti."
+            "value" : "Sisältö on raportoitu onnistuneesti."
           }
         },
         "fr" : {
@@ -16995,13 +17038,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kandungan berjaya dilaporkan."
+            "value" : "Kandungan telah dilaporkan dengan jayanya."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innholdet er rapportert med suksess."
+            "value" : "Innholdet ble rapportert vellykket."
           }
         },
         "nl" : {
@@ -17013,19 +17056,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zawartość zgłoszona pomyślnie."
+            "value" : "Treść została pomyślnie zgłoszona."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo denunciado com sucesso."
+            "value" : "Conteúdo reportado com sucesso."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo reportado com sucesso."
+            "value" : "Relatório de conteúdo bem-sucedido."
           }
         },
         "ro" : {
@@ -17049,7 +17092,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innehållet rapporterat framgångsrikt."
+            "value" : "Innehåll har rapporterats framgångsrikt."
           }
         },
         "th" : {
@@ -17094,23 +17137,12 @@
             "value" : "內容已成功舉報。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.contentReportedSuccessfullyDot" : {
-      "comment" : "Confirmation when content is successfully reported",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Content reported successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.friendRequestAccepted" : {
+    "TK.Message.friendRequestAcceptedDot" : {
       "comment" : "Notification when a friend request is accepted",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17121,7 +17153,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заявката за приятелство е приета."
+            "value" : "Заявката за приятел е приета."
           }
         },
         "ca" : {
@@ -17133,25 +17165,25 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádost o přátelství byla přijata."
+            "value" : "Žádost o přítele byla přijata."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Venneanmodning er blevet accepteret."
+            "value" : "Venneanmodning accepteret."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Freundschaftsanfrage angenommen."
+            "value" : "Freundschaftsanfrage akzeptiert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αίτηση φιλίας έγινε αποδεκτή."
+            "value" : "Το αίτημα φιλίας έγινε αποδεκτό."
           }
         },
         "en" : {
@@ -17187,7 +17219,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kaveripyyntö on hyväksytty."
+            "value" : "Kaveripyyntö hyväksytty."
           }
         },
         "fr" : {
@@ -17205,25 +17237,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בקשת החברות התקבלה."
+            "value" : "בקשת ידידות התקבלה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मित्र अनुरोध स्वीकार कर लिया गया।"
+            "value" : "मित्र अनुरोध स्वीकार कर लिया गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zahtjev prijateljstva je prihvaćen."
+            "value" : "Zahtjev za prijateljstvo je prihvaćen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Barátkérés elfogadva."
+            "value" : "A barátjelölés elfogadva."
           }
         },
         "id" : {
@@ -17259,13 +17291,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permintaan kawan diterima."
+            "value" : "Permintaan rakan telah diterima."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vennforespørselen ble akseptert."
+            "value" : "Vennforespørsel akseptert."
           }
         },
         "nl" : {
@@ -17277,7 +17309,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prośba o przyjaźń została zaakceptowana."
+            "value" : "Zaproszenie do znajomych zaakceptowane."
           }
         },
         "pt-BR" : {
@@ -17289,7 +17321,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido de amizade aceite."
+            "value" : "Aceite!"
           }
         },
         "ro" : {
@@ -17301,25 +17333,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запрос на дружбу принят."
+            "value" : "Твой запрос в друзья принят."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žiadosť o priateľstvo bola akceptovaná."
+            "value" : "Žiadosť o priateľstvo bola prijatá."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vänförfrågan accepterad."
+            "value" : "Vänförfrågan accepterades."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การขอเป็นเพื่อนได้รับการตอบรับแล้ว"
+            "value" : "คำร้องขอเพื่อนถูกยอมรับแล้ว."
           }
         },
         "tr" : {
@@ -17343,7 +17375,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好友请求已被接受。"
+            "value" : "好友请求已接受。"
           }
         },
         "zh-Hant" : {
@@ -17355,26 +17387,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好友請求已被接受。"
+            "value" : "朋友請求已被接受。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.friendRequestAcceptedDot" : {
-      "comment" : "Notification when a friend request is accepted",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Friend request accepted."
-          }
-        }
-      }
-    },
-    "TK.Message.liveStreamEnded" : {
+    "TK.Message.liveStreamEndedDot" : {
       "comment" : "Notification when a live stream ends",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17397,13 +17418,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Živé vysílání skončilo."
+            "value" : "Živý přenos skončil."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Live stream er afsluttet."
+            "value" : "Livestreamen er afsluttet."
           }
         },
         "de" : {
@@ -17415,7 +17436,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ζωντανή μετάδοση έληξε."
+            "value" : "Η ζωντανή μετάδοση έχει τελειώσει."
           }
         },
         "en" : {
@@ -17439,7 +17460,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transmisión en vivo finalizada."
+            "value" : "La transmisión en vivo ha terminado."
           }
         },
         "es-419" : {
@@ -17457,7 +17478,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diffusion en direct terminée."
+            "value" : "Le live stream est terminé."
           }
         },
         "fr-CA" : {
@@ -17481,13 +17502,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izravni prijenos je završio."
+            "value" : "Izravni prijenos je završen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A közvetítés véget ért."
+            "value" : "Az élő közvetítés véget ért."
           }
         },
         "id" : {
@@ -17499,19 +17520,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Streaming live terminato."
+            "value" : "La diretta è terminata."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ライブストリームは終了しました。"
+            "value" : "ライブストリームが終了しました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тікелей эфир аяқталды."
+            "value" : "Тікелей трансляция аяқталды."
           }
         },
         "ko" : {
@@ -17523,13 +17544,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siaran langsung telah berakhir."
+            "value" : "Siaran langsung telah tamat."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Direktsendingen er avsluttet."
+            "value" : "Direktesendingen er avsluttet."
           }
         },
         "nl" : {
@@ -17559,13 +17580,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transmisia live s-a încheiat."
+            "value" : "Transmisiunea live s-a încheiat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прямая трансляция завершена."
+            "value" : "Прямой эфир завершен."
           }
         },
         "sk" : {
@@ -17577,13 +17598,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liveströmmen har avslutats."
+            "value" : "Livesändning avslutad."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การถ่ายทอดสดสิ้นสุดแล้ว."
+            "value" : "การถ่ายทอดสดได้สิ้นสุดลงแล้ว"
           }
         },
         "tr" : {
@@ -17595,13 +17616,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прямий ефір закінчився."
+            "value" : "Пряма трансляція закінчилась."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trực tiếp đã kết thúc."
+            "value" : "Truyền hình trực tiếp đã kết thúc."
           }
         },
         "zh-Hans" : {
@@ -17613,7 +17634,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "直播已結束。"
+            "value" : "直播結束了。"
           }
         },
         "zh-HK" : {
@@ -17622,28 +17643,17 @@
             "value" : "直播已結束。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.liveStreamEndedDot" : {
-      "comment" : "Notification when a live stream ends",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Live stream ended."
-          }
-        }
-      }
-    },
-    "TK.Message.postHasBeenRemoved" : {
+    "TK.Message.postHasBeenRemovedDot" : {
       "comment" : "Notification when a post is removed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم إزالة المشاركة."
+            "value" : "تمت إزالة المشاركة."
           }
         },
         "bg" : {
@@ -17655,7 +17665,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publicació eliminada."
+            "value" : "El post ha estat eliminat."
           }
         },
         "cs" : {
@@ -17679,7 +17689,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η δημοσίευση έχει αφαιρεθεί."
+            "value" : "Η ανάρτηση έχει αφαιρεθεί."
           }
         },
         "en" : {
@@ -17703,7 +17713,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publicación eliminada."
+            "value" : "La publicación ha sido eliminada."
           }
         },
         "es-419" : {
@@ -17715,19 +17725,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viesti on poistettu."
+            "value" : "Kohde on poistettu."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publication supprimée."
+            "value" : "La publication a été supprimée."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La publication a été supprimée."
+            "value" : "Le post a été retiré."
           }
         },
         "he" : {
@@ -17757,25 +17767,25 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postingan telah dihapus."
+            "value" : "Kirimannya telah dihapus."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Post rimosso."
+            "value" : "Il post è stato rimosso."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "投稿が削除されました。"
+            "value" : "投稿は削除されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пост жойылды."
+            "value" : "Жазба жойылды."
           }
         },
         "ko" : {
@@ -17787,13 +17797,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pos telah dipadamkan."
+            "value" : "Siaran telah dibuang."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innlegget har blitt fjernet."
+            "value" : "Innlegg har blitt fjernet."
           }
         },
         "nl" : {
@@ -17811,7 +17821,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postagem foi removida."
+            "value" : "Publicação removida."
           }
         },
         "pt-PT" : {
@@ -17823,7 +17833,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postarea a fost eliminată."
+            "value" : "Postarea a fost ștearsă."
           }
         },
         "ru" : {
@@ -17847,7 +17857,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โพสต์ได้ถูกลบแล้ว."
+            "value" : "โพสต์ถูกลบเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -17859,7 +17869,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публікацію видалено."
+            "value" : "Пост видалено."
           }
         },
         "vi" : {
@@ -17871,7 +17881,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帖子已被移除。"
+            "value" : "帖子已被删除。"
           }
         },
         "zh-Hant" : {
@@ -17883,43 +17893,32 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帖子已被移除。"
+            "value" : "帖子已被刪除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.postHasBeenRemovedDot" : {
-      "comment" : "Notification when a post is removed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Post has been removed."
-          }
-        }
-      }
-    },
-    "TK.Message.postSavedToBookmarks" : {
+    "TK.Message.postSavedToBookmarksDot" : {
       "comment" : "Confirmation when a post is saved to bookmarks",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم حفظ المشاركة في الإشارات المرجعية."
+            "value" : "تمت إضافة المشاركة إلى العلامات المرجعية."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публикацията е запазена в отметки."
+            "value" : "Публикацията е запазена в отметките."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publicació marcada com a favorit."
+            "value" : "Post guardat a favorits."
           }
         },
         "cs" : {
@@ -17931,19 +17930,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indlægget er gemt i bogmærker."
+            "value" : "Indlæg gemt til bogmærker."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beitrag zu Lesezeichen hinzugefügt."
+            "value" : "Beitrag zu den Lesezeichen gespeichert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η δημοσίευση αποθηκεύτηκε στους σελιδοδείκτες."
+            "value" : "Η ανάρτηση αποθηκεύτηκε στα σελιδοδείκτες."
           }
         },
         "en" : {
@@ -17967,7 +17966,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publicación guardada en favoritos."
+            "value" : "Publicación guardada en marcadores."
           }
         },
         "es-419" : {
@@ -17979,31 +17978,31 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viestisi on tallennettu kirjanmerkkeihin."
+            "value" : "Käynti on lisätty kirjanmerkkeihin."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publication enregistrée dans les favoris."
+            "value" : "Publication enregistrée dans les signets."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publication enregistrée dans les favoris."
+            "value" : "Post enregistré dans les favoris."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הפוסט נשמר למועדפים."
+            "value" : "הפוסט נשמר במועדפים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पोस्ट बुकमार्क्स में सहेजी गई।"
+            "value" : "पोस्ट को बुकमार्क में सहेजा गया।"
           }
         },
         "hr" : {
@@ -18015,13 +18014,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A bejegyzés könyvjelzőhöz mentve."
+            "value" : "A bejegyzés mentve a könyvjelzők közé."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postingan disimpan ke bookmark."
+            "value" : "Kirimannya disimpan ke bookmark."
           }
         },
         "it" : {
@@ -18039,25 +18038,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пост бетбелгілерге сақталды."
+            "value" : "Жазба белгіленгендерге сақталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "게시물이 북마크에 저장되었습니다."
+            "value" : "게시물이 즐겨찾기에 저장되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pos disimpan ke penanda buku."
+            "value" : "Siaran disimpan ke dalam penanda halaman."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innlegget lagret i bokmerker."
+            "value" : "Innlegg lagret i bokmerker."
           }
         },
         "nl" : {
@@ -18069,13 +18068,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Post zapisano do zakładek."
+            "value" : "Post zapisany w zakładkach."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postagem salva nos favoritos."
+            "value" : "Publicação salva nos favoritos."
           }
         },
         "pt-PT" : {
@@ -18087,13 +18086,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postarea a fost salvată în semnele de carte."
+            "value" : "Postarea a fost salvată în marcaje."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запись добавлена в закладки."
+            "value" : "Запись сохраняется в закладки"
           }
         },
         "sk" : {
@@ -18111,7 +18110,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โพสต์ถูกบันทึกในบุ๊คมาร์ค."
+            "value" : "โพสต์ถูกบันทึกในบุ๊กมาร์ก."
           }
         },
         "tr" : {
@@ -18123,13 +18122,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публікацію збережено у закладки."
+            "value" : "Пост збережено у закладках."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bài viết đã được lưu vào mục yêu thích."
+            "value" : "Bài viết đã được lưu vào mục đánh dấu."
           }
         },
         "zh-Hans" : {
@@ -18141,32 +18140,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帖子已加入書籤。"
+            "value" : "帖子已儲存至書籤。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帖子已儲存至書籤。"
+            "value" : "帖子已保存至書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.postSavedToBookmarksDot" : {
-      "comment" : "Confirmation when a post is saved to bookmarks",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Post saved to bookmarks."
-          }
-        }
-      }
-    },
-    "TK.Message.profileUpdatedSuccessfully" : {
+    "TK.Message.profileUpdatedSuccessfullyDot" : {
       "comment" : "Confirmation when a user's profile is successfully updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18177,13 +18165,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Профилът е актуализиран успешно!"
+            "value" : "Профилът е успешно актуализиран!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perfil actualitzat correctament!"
+            "value" : "Perfil actualitzat amb èxit!"
           }
         },
         "cs" : {
@@ -18243,7 +18231,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profiili päivitetty onnistuneesti!"
+            "value" : "Profiilisi on päivitetty onnistuneesti!"
           }
         },
         "fr" : {
@@ -18267,7 +18255,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रोफ़ाइल सफलतापूर्वक अपडेट की गई!"
+            "value" : "प्रोफ़ाइल सफलतापूर्वक अपडेट की गई!।"
           }
         },
         "hr" : {
@@ -18321,7 +18309,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil oppdatert."
+            "value" : "Profil oppdatert vellykket!"
           }
         },
         "nl" : {
@@ -18333,7 +18321,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil został pomyślnie zaktualizowany!"
+            "value" : "Profil zaktualizowany pomyślnie!"
           }
         },
         "pt-BR" : {
@@ -18351,13 +18339,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profilul a fost actualizat cu succes!"
+            "value" : "Profil actualizat cu succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Профиль успешно обновлён!"
+            "value" : "Профиль успешно обновлен!"
           }
         },
         "sk" : {
@@ -18369,13 +18357,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profilen har uppdaterats."
+            "value" : "Profilen har uppdaterats framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "อัปเดตโปรไฟล์เรียบร้อยแล้ว!"
+            "value" : "โปรไฟล์ได้รับการอัปเดตเรียบร้อยแล้ว!"
           }
         },
         "tr" : {
@@ -18399,38 +18387,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "个人资料已成功更新！"
+            "value" : "个人资料更新成功！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用戶檔案已成功更新！"
+            "value" : "個人資料已成功更新！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "個人檔案已成功更新！"
+            "value" : "個人資料已成功更新！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.profileUpdatedSuccessfullyDot" : {
-      "comment" : "Confirmation when a user's profile is successfully updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Profile updated successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.thisAccountIsPrivate" : {
+    "TK.Message.thisAccountIsPrivateDot" : {
       "comment" : "Notification when trying to view a private account",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18441,7 +18418,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тази сметка е частна."
+            "value" : "Този акаунт е частен."
           }
         },
         "ca" : {
@@ -18537,7 +18514,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ovaj račun je privatan."
+            "value" : "Ovaj račun je privatni."
           }
         },
         "hu" : {
@@ -18567,7 +18544,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұл есептік жазба жеке."
+            "value" : "Бұл аккаунт жеке."
           }
         },
         "ko" : {
@@ -18621,7 +18598,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Этот аккаунт частный."
+            "value" : "Этот аккаунт закрыт."
           }
         },
         "sk" : {
@@ -18639,19 +18616,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บัญชีนี้เป็นส่วนตัว"
+            "value" : "บัญชีนี้เป็นบัญชีส่วนตัว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu hesap özel."
+            "value" : "Bu hesap gizlidir."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цей акаунт є приватним."
+            "value" : "Цей обліковий запис приватний."
           }
         },
         "vi" : {
@@ -18663,38 +18640,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此账户是私人账户。"
+            "value" : "该账户是私密的。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此帳戶為私人帳戶。"
+            "value" : "這個帳戶是私人的。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該帳戶是私人的。"
+            "value" : "此帳戶為私密帳戶。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.thisAccountIsPrivateDot" : {
-      "comment" : "Notification when trying to view a private account",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This account is private."
-          }
-        }
-      }
-    },
-    "TK.Message.thisContentIsNoLongerAvailable" : {
+    "TK.Message.thisContentIsNoLongerAvailableDot" : {
       "comment" : "Notification when content is no longer accessible",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18705,7 +18671,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Това съдържание вече не е налично."
+            "value" : "Този контент вече не е наличен."
           }
         },
         "ca" : {
@@ -18717,7 +18683,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tento obsah již není k dispozici."
+            "value" : "Tento obsah již není dostupný."
           }
         },
         "da" : {
@@ -18789,7 +18755,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תוכן זה כבר אינו זמין."
+            "value" : "התוכן הזה אינו זמין יותר."
           }
         },
         "hi" : {
@@ -18807,7 +18773,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ez a tartalom már nem elérhető."
+            "value" : "Ez a tartalom már nem érhető el."
           }
         },
         "id" : {
@@ -18831,13 +18797,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұл контент енді қолжетімсіз."
+            "value" : "Бұл контент енді қолжетімді емес."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이 콘텐츠는 더 이상 이용할 수 없습니다."
+            "value" : "이 콘텐츠는 더 이상 사용할 수 없습니다."
           }
         },
         "ms" : {
@@ -18861,7 +18827,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ta treść jest już niedostępna."
+            "value" : "Ta treść nie jest już dostępna."
           }
         },
         "pt-BR" : {
@@ -18915,7 +18881,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цей контент більше недоступний."
+            "value" : "Цей контент більше не доступний."
           }
         },
         "vi" : {
@@ -18927,7 +18893,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此内容不再可用。"
+            "value" : "该内容不再可用。"
           }
         },
         "zh-Hant" : {
@@ -18939,26 +18905,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該內容不再可用。"
+            "value" : "此內容不再可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.thisContentIsNoLongerAvailableDot" : {
-      "comment" : "Notification when content is no longer accessible",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "This content is no longer available."
-          }
-        }
-      }
-    },
-    "TK.Message.youAreNowFollowingThisAccount" : {
+    "TK.Message.youAreNowFollowingThisAccountDot" : {
       "comment" : "Notification when a user starts following an account",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18969,7 +18924,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сега следите този акаунт."
+            "value" : "Сега следвате този акаунт."
           }
         },
         "ca" : {
@@ -18981,7 +18936,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nyní následujete tento účet."
+            "value" : "Nyní sledujete tento účet."
           }
         },
         "da" : {
@@ -18999,7 +18954,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ακολουθείς τώρα αυτόν τον λογαριασμό."
+            "value" : "Τώρα ακολουθείτε αυτόν τον λογαριασμό."
           }
         },
         "en" : {
@@ -19023,7 +18978,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ahora sigues esta cuenta."
+            "value" : "Ahora estás siguiendo esta cuenta."
           }
         },
         "es-419" : {
@@ -19041,19 +18996,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu suis maintenant ce compte."
+            "value" : "Vous suivez maintenant ce compte."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu suis maintenant ce compte."
+            "value" : "Vous suivez maintenant ce compte."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אתה עוקב עכשיו אחרי החשבון הזה."
+            "value" : "אתה עכשיו עוקב אחרי חשבון זה."
           }
         },
         "hi" : {
@@ -19083,7 +19038,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ora segui questo account."
+            "value" : "Stai seguendo ora questo account."
           }
         },
         "ja" : {
@@ -19095,13 +19050,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіз енді осы есептік жазбаны қадағалайсыз."
+            "value" : "Сіз енді осы есептік жазбаға жазылып жатырсыз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이 계정을 이제 팔로우 중입니다."
+            "value" : "이 계정을 팔로우하게 되었습니다."
           }
         },
         "ms" : {
@@ -19131,13 +19086,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agora você está seguindo esta conta."
+            "value" : "Você agora está seguindo esta conta."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agora está a seguir esta conta."
+            "value" : "Agora estás a seguir esta conta."
           }
         },
         "ro" : {
@@ -19149,7 +19104,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Теперь вы следите за этой учетной записью."
+            "value" : "Теперь ты подписан на этот аккаунт."
           }
         },
         "sk" : {
@@ -19173,13 +19128,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artık bu hesabı takip ediyorsun."
+            "value" : "Artık bu hesabı takip ediyorsunuz."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ти тепер підписаний на цей акаунт."
+            "value" : "Тепер ви підписані на цей акаунт."
           }
         },
         "vi" : {
@@ -19197,32 +19152,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你現在正在關注這個帳號。"
+            "value" : "您現在已關注此帳號。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你現在正在關注這個帳號。"
+            "value" : "您現在正在關注此帳戶。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.youAreNowFollowingThisAccountDot" : {
-      "comment" : "Notification when a user starts following an account",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "You are now following this account."
-          }
-        }
-      }
-    },
-    "TK.Message.yourCommentWasDeleted" : {
+    "TK.Message.yourCommentWasDeletedDot" : {
       "comment" : "Notification when a comment is deleted",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19233,19 +19177,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Коментарът ти е изтрит."
+            "value" : "Вашият коментар беше изтрит."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El teu comentari ha estat eliminat."
+            "value" : "El teu comentari ha estat esborrat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvůj komentář byl smazán."
+            "value" : "Váš komentář byl smazán."
           }
         },
         "da" : {
@@ -19263,7 +19207,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το σχόλιό σου διαγράφηκε."
+            "value" : "Το σχόλιό σας διαγράφηκε."
           }
         },
         "en" : {
@@ -19281,19 +19225,19 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your comment has been deleted."
+            "value" : "Your comment was deleted."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu comentario fue eliminado."
+            "value" : "Tu comentario ha sido eliminado."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tu comentario fue eliminado."
+            "value" : "Tu comentario ha sido eliminado."
           }
         },
         "fi" : {
@@ -19305,13 +19249,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ton message est bien supprimé."
+            "value" : "Votre commentaire a été supprimé."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ton commentaire a été supprimé."
+            "value" : "Votre commentaire a été supprimé."
           }
         },
         "he" : {
@@ -19329,7 +19273,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj komentar je obrisan."
+            "value" : "Vaš komentar je obrisan."
           }
         },
         "hu" : {
@@ -19341,7 +19285,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komentar kamu telah dihapus."
+            "value" : "Komentar Anda telah dihapus."
           }
         },
         "it" : {
@@ -19353,7 +19297,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コメントは削除されました。"
+            "value" : "コメントが削除されました。"
           }
         },
         "kk" : {
@@ -19365,13 +19309,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "당신의 댓글이 삭제되었습니다."
+            "value" : "댓글이 삭제되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komen anda telah dipadam."
+            "value" : "Komen anda telah dipadamkan."
           }
         },
         "nb" : {
@@ -19413,13 +19357,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш комментарий удалён."
+            "value" : "Твой комментарий был удалён."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj komentár bol vymazaný."
+            "value" : "Tvoj komentár bol odstránený."
           }
         },
         "sv" : {
@@ -19431,7 +19375,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ความเห็นของคุณถูกลบ."
+            "value" : "ความคิดเห็นของคุณถูกลบแล้ว."
           }
         },
         "tr" : {
@@ -19443,50 +19387,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш коментар видалено."
+            "value" : "Ваш коментар був видалений."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bình luận của bạn đã bị xóa."
+            "value" : "Bình luận của bạn đã bị xoá."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的评论已被删除。"
+            "value" : "您的评论已被删除。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的評論已被刪除。"
+            "value" : "您的評論已被刪除。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的评论已被删除。"
+            "value" : "您的評論已被刪除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.yourCommentWasDeletedDot" : {
-      "comment" : "Notification when a comment is deleted",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your comment was deleted."
-          }
-        }
-      }
-    },
-    "TK.Message.yourMessageWasDelivered" : {
+    "TK.Message.yourMessageWasDeliveredDot" : {
       "comment" : "Confirmation when a message is successfully delivered",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19497,13 +19430,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съобщението ти е доставено."
+            "value" : "Вашето съобщение беше доставено."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El teu missatge ha estat lliurat."
+            "value" : "El teu missatge ha estat entregat."
           }
         },
         "cs" : {
@@ -19515,7 +19448,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Din besked er blevet leveret."
+            "value" : "Din besked blev leveret."
           }
         },
         "de" : {
@@ -19527,7 +19460,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το μήνυμά σου παραδόθηκε."
+            "value" : "Το μήνυμά σας παραδόθηκε."
           }
         },
         "en" : {
@@ -19545,7 +19478,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your message has been delivered."
+            "value" : "Your message was delivered."
           }
         },
         "es" : {
@@ -19569,7 +19502,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ton message a bien été livré."
+            "value" : "Votre message a été livré."
           }
         },
         "fr-CA" : {
@@ -19587,25 +19520,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका संदेश भेज दिया गया।"
+            "value" : "आपका संदेश सफलतापूर्वक डिलीवर हो गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja poruka je isporučena."
+            "value" : "Vaša poruka je isporučena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az üzeneted kézbesítve lett."
+            "value" : "Az üzeneted megérkezett."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesanmu telah terkirim."
+            "value" : "Pesanmu telah dikirim."
           }
         },
         "it" : {
@@ -19629,7 +19562,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "메시지가 성공적으로 전달되었습니다."
+            "value" : "메시지가 전달되었습니다."
           }
         },
         "ms" : {
@@ -19677,7 +19610,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваше сообщение доставлено."
+            "value" : "Твое сообщение доставлено."
           }
         },
         "sk" : {
@@ -19695,62 +19628,51 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข้อความของคุณถูกส่งเรียบร้อยแล้ว."
+            "value" : "ข้อความของคุณถูกส่งแล้วค่ะ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesajınız teslim edildi."
+            "value" : "Mesajınız başarıyla iletildi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваше повідомлення доставлено."
+            "value" : "Ваше повідомлення було доставлено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tin nhắn của bạn đã được gửi."
+            "value" : "Tin nhắn của bạn đã được gửi thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的消息已送达。"
+            "value" : "您的消息已送达。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的消息已送達。"
+            "value" : "您的訊息已送達。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的消息已送达。"
+            "value" : "你的訊息已送達。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.yourMessageWasDeliveredDot" : {
-      "comment" : "Confirmation when a message is successfully delivered",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your message was delivered."
-          }
-        }
-      }
-    },
-    "TK.Message.yourPostWasPublishedSuccessfully" : {
+    "TK.Message.yourPostWasPublishedSuccessfullyDot" : {
       "comment" : "Confirmation when a post is successfully published",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19761,25 +19683,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публикацията ти е публикувана успешно!"
+            "value" : "Вашето публикация е публикувана успешно!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La teva publicació s'ha publicat amb èxit!"
+            "value" : "La teva publicació s'ha publicat correctament!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvůj příspěvek byl úspěšně publikován!"
+            "value" : "Tvoj příspěvek byl úspěšně publikován!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dit opslag er offentliggjort med succes!"
+            "value" : "Dit indlæg blev offentliggjort med succes!"
           }
         },
         "de" : {
@@ -19791,7 +19713,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ανάρτησή σου δημοσιεύθηκε με επιτυχία!"
+            "value" : "Η ανάρτησή σας δημοσιεύθηκε με επιτυχία!"
           }
         },
         "en" : {
@@ -19821,19 +19743,19 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Tu publicación se ha publicado exitosamente!"
+            "value" : "¡Tu publicación se ha publicado con éxito!"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tallennuksesi on onnistuneesti julkaistu!"
+            "value" : "Julkaisusi on julkaistu onnistuneesti!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre publication a été publiée avec succès !"
+            "value" : "Votre publication a été publiée avec succès !"
           }
         },
         "fr-CA" : {
@@ -19857,19 +19779,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj post je uspješno objavljen!"
+            "value" : "Vaš post je uspješno objavljen!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A bejegyzésed sikeresen közzé lett téve!"
+            "value" : "A posztod sikeresen megjelent!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postinganmu telah berhasil diterbitkan!"
+            "value" : "Pos kamu telah berhasil dipublikasikan!"
           }
         },
         "it" : {
@@ -19881,13 +19803,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの投稿は正常に公開されました！"
+            "value" : "投稿は正常に公開されました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің постыңыз сәтті жарияланды!"
+            "value" : "Сіздің жазбаңыз сәтті жарияланды!"
           }
         },
         "ko" : {
@@ -19899,13 +19821,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pos anda telah diterbitkan dengan jayanya!"
+            "value" : "Kongsi anda telah diterbitkan dengan jayanya!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innlegget ditt ble publisert vellykket!"
+            "value" : "Innlegget ditt er publisert!"
           }
         },
         "nl" : {
@@ -19917,19 +19839,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Twój post został pomyślnie opublikowany!"
+            "value" : "Twój post został opublikowany pomyślnie!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sua postagem foi publicada com sucesso!"
+            "value" : "Seu post foi publicado com sucesso!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua publicação foi publicada com sucesso!"
+            "value" : "O teu post foi publicado com sucesso!"
           }
         },
         "ro" : {
@@ -19941,13 +19863,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш пост успешно опубликован!"
+            "value" : "Твой пост успешно опубликован!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja publikácia bola úspešne zverejnená!"
+            "value" : "Tvoj príspevok bol úspešne publikovaný!"
           }
         },
         "sv" : {
@@ -19959,7 +19881,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โพสต์ของคุณถูกเผยแพร่เรียบร้อยแล้ว!"
+            "value" : "โพสต์ของคุณได้รับการเผยแพร่แล้ว!"
           }
         },
         "tr" : {
@@ -19971,7 +19893,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваш пост успішно опубліковано!"
+            "value" : "Ваш допис успішно опубліковано!"
           }
         },
         "vi" : {
@@ -19983,67 +19905,56 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的帖子已成功发布！"
+            "value" : "您的帖子已成功发布！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的帖子已成功發布！"
+            "value" : "您的帖子已成功發布!"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的帖子已成功发布！"
+            "value" : "你的帖子已成功發布！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.yourPostWasPublishedSuccessfullyDot" : {
-      "comment" : "Confirmation when a post is successfully published",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your post was published successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.youveBeenMentionedInAPost" : {
+    "TK.Message.youveBeenMentionedInAPostDot" : {
       "comment" : "Notification when a user is mentioned in a post",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لقد تم ذكرك في منشور."
+            "value" : "تم الإشارة إليك في منشور."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бил си споменат в публикация."
+            "value" : "Вие бяхте споменати в публикация."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "T'has esmentat en una publicació."
+            "value" : "T'han esmentat en una publicació."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Byl jsi zmíněn v příspěvku."
+            "value" : "Byl/a jsi zmíněn/a v příspěvku."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du er blevet nævnt i et opslag."
+            "value" : "Du er blevet nævnt i et indlæg."
           }
         },
         "de" : {
@@ -20055,7 +19966,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έχεις αναφερθεί σε μια ανάρτηση."
+            "value" : "Έχετε αναφερθεί σε ανάρτηση."
           }
         },
         "en" : {
@@ -20103,7 +20014,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vous avez été mentionné dans un post."
+            "value" : "Vous avez été mentionné dans un message."
           }
         },
         "he" : {
@@ -20115,25 +20026,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका उल्लेख एक पोस्ट में किया गया है।"
+            "value" : "आपको एक पोस्ट में उल्लेखित किया गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spomenut si u postu."
+            "value" : "Spomenuti ste u postu."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megemlítettek egy bejegyzésben."
+            "value" : "Megemlítettek egy posztban."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamu telah disebut dalam sebuah postingan."
+            "value" : "Kamu telah disebutkan dalam sebuah pos."
           }
         },
         "it" : {
@@ -20145,13 +20056,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "投稿で言及されました。"
+            "value" : "投稿に言及されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіз постта аталғансыз."
+            "value" : "Сіз жазбада аталдыңыз."
           }
         },
         "ko" : {
@@ -20181,19 +20092,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zostałeś_a wspomniany_a w poście."
+            "value" : "Zostałeś:łaś wspomniany:a w poście."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Você foi mencionado em uma postagem."
+            "value" : "Você foi mencionado em um post."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foste mencionado numa publicação."
+            "value" : "Foste mencionado num post."
           }
         },
         "ro" : {
@@ -20205,13 +20116,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вас упомянули в посте."
+            "value" : "Тебя упомянули в посте."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bol: si spomenut: v príspevku."
+            "value" : "Bol si spomenutý v príspevku."
           }
         },
         "sv" : {
@@ -20223,7 +20134,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คุณได้รับการกล่าวถึงในโพสต์."
+            "value" : "คุณถูกกล่าวถึงในโพสต์"
           }
         },
         "tr" : {
@@ -20235,7 +20146,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вас згадали в пості."
+            "value" : "Вас згадали в дописі."
           }
         },
         "vi" : {
@@ -20247,34 +20158,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你在帖子中被提到。"
+            "value" : "您在一篇帖子中被提到。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你在帖子中被提到。"
+            "value" : "您在帖子中被提及。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你在帖子中被提及。"
+            "value" : "你在帖子中被提及了。"
           }
         }
-      }
-    },
-    "TK.Message.youveBeenMentionedInAPostDot" : {
-      "comment" : "Notification when a user is mentioned in a post",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "You've been mentioned in a post."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addACaptionDots" : {
       "comment" : "Placeholder for adding a caption to media",
@@ -20525,7 +20425,8 @@
             "value" : "新增說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addAReactionDots" : {
       "comment" : "Placeholder for reacting to content with an emoji or response",
@@ -20776,7 +20677,8 @@
             "value" : "添加反应…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addEventDetailsDots" : {
       "comment" : "Placeholder for adding details about an event",
@@ -21018,7 +20920,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加活動詳情…"
+            "value" : "新增活動詳情…"
           }
         },
         "zh-HK" : {
@@ -21027,7 +20929,8 @@
             "value" : "添加活动详情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addLocationDots" : {
       "comment" : "Placeholder for adding location to a post or content",
@@ -21275,10 +21178,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加位置…"
+            "value" : "新增位置…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTopicsDots" : {
       "comment" : "Placeholder for adding topics to categorize content",
@@ -21298,7 +21202,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu temes…"
+            "value" : "Afegir temes…"
           }
         },
         "cs" : {
@@ -21496,7 +21400,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konu ekleyin..."
+            "value" : "Konu ekle…"
           }
         },
         "uk" : {
@@ -21529,7 +21433,8 @@
             "value" : "添加主題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.createPollQuestionDots" : {
       "comment" : "Placeholder for creating a poll question",
@@ -21633,7 +21538,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सर्वेक्षण प्रश्न बनाईए…"
+            "value" : "सर्वेक्षण प्रश्न बनाएं…"
           }
         },
         "hr" : {
@@ -21663,7 +21568,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "投票質問を作成…"
+            "value" : "投票質問を作成中…"
           }
         },
         "kk" : {
@@ -21747,7 +21652,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anket sorusu oluştur…"
+            "value" : "Anket sorusu oluşturuluyor…"
           }
         },
         "uk" : {
@@ -21759,7 +21664,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tạo câu hỏi khảo sát…"
+            "value" : "Đang tạo câu hỏi khảo sát…"
           }
         },
         "zh-Hans" : {
@@ -21780,7 +21685,8 @@
             "value" : "創建投票問題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterGroupDescriptionDots" : {
       "comment" : "Placeholder for typing a description for a group",
@@ -21872,7 +21778,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la description du groupe…"
+            "value" : "Entre la description du groupe…"
           }
         },
         "he" : {
@@ -21890,7 +21796,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite opis grupe…"
+            "value" : "Unesi opis grupe…"
           }
         },
         "hu" : {
@@ -21926,7 +21832,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "그룹 설명 입력…"
+            "value" : "그룹 설명을 입력하세요…"
           }
         },
         "ms" : {
@@ -21998,7 +21904,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup açıklamasını girin…"
+            "value" : "Grup açıklamasını gir…"
           }
         },
         "uk" : {
@@ -22031,7 +21937,8 @@
             "value" : "輸入群組描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterGroupNameDots" : {
       "comment" : "Placeholder for typing the name of a group",
@@ -22123,7 +22030,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du groupe…"
+            "value" : "Entre le nom du groupe…"
           }
         },
         "he" : {
@@ -22141,7 +22048,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv grupe…"
+            "value" : "Unesi naziv grupe…"
           }
         },
         "hu" : {
@@ -22177,7 +22084,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "그룹 이름 입력…"
+            "value" : "그룹 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22249,7 +22156,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup adını girin…"
+            "value" : "Grup adını gir…"
           }
         },
         "uk" : {
@@ -22282,7 +22189,8 @@
             "value" : "輸入群組名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterHashtagDots" : {
       "comment" : "Placeholder for typing a hashtag for search",
@@ -22326,7 +22234,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε ετικέτα #…"
+            "value" : "Εισάγετε hashtag…"
           }
         },
         "en" : {
@@ -22374,7 +22282,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le hashtag…"
+            "value" : "Entre le hashtag…"
           }
         },
         "he" : {
@@ -22428,7 +22336,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해시태그 입력…"
+            "value" : "해시태그를 입력하세요…"
           }
         },
         "ms" : {
@@ -22440,7 +22348,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn emneord…"
+            "value" : "Skriv inn emneknagg…"
           }
         },
         "nl" : {
@@ -22500,7 +22408,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hashtag girin…"
+            "value" : "Hashtag gir…"
           }
         },
         "uk" : {
@@ -22533,7 +22441,8 @@
             "value" : "輸入話題標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByUsernameDots" : {
       "comment" : "Placeholder for searching by a specific username",
@@ -22553,7 +22462,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant per nom d'usuari…"
+            "value" : "Cerca per nom d'usuari…"
           }
         },
         "cs" : {
@@ -22565,7 +22474,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger efter brugernavn…"
+            "value" : "Søg efter brugernavn…"
           }
         },
         "de" : {
@@ -22643,7 +22552,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem prema korisničkom imenu…"
+            "value" : "Pretraži prema korisničkom imenu…"
           }
         },
         "hu" : {
@@ -22721,7 +22630,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut după nume utilizator…"
+            "value" : "Caută după nume de utilizator…"
           }
         },
         "ru" : {
@@ -22775,7 +22684,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按用戶名搜尋中…"
+            "value" : "按用戶名搜尋中..."
           }
         },
         "zh-HK" : {
@@ -22784,7 +22693,8 @@
             "value" : "按用戶名搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchForFriendsDots" : {
       "comment" : "Placeholder for searching friends or connections",
@@ -22816,7 +22726,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger efter venner…"
+            "value" : "Søg efter venner…"
           }
         },
         "de" : {
@@ -22852,7 +22762,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar amigos…"
+            "value" : "Busca amigos…"
           }
         },
         "es-419" : {
@@ -22894,7 +22804,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tražim prijatelje…"
+            "value" : "Pretraži po prijateljima…"
           }
         },
         "hu" : {
@@ -22918,7 +22828,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "友達を検索中…"
+            "value" : "友達を検索…"
           }
         },
         "kk" : {
@@ -22936,7 +22846,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari rakan…"
+            "value" : "Cari rakan…"
           }
         },
         "nb" : {
@@ -23008,7 +22918,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук друзів…"
+            "value" : "Шукати друзів…"
           }
         },
         "vi" : {
@@ -23035,7 +22945,8 @@
             "value" : "搜尋朋友…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchInGroupDots" : {
       "comment" : "Placeholder for searching content within a group",
@@ -23055,7 +22966,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant en el grup…"
+            "value" : "Cerca en el grup…"
           }
         },
         "cs" : {
@@ -23067,7 +22978,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger i gruppe…"
+            "value" : "Søg i gruppe…"
           }
         },
         "de" : {
@@ -23115,7 +23026,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi ryhmästä…"
+            "value" : "Etsi ryhmästä..."
           }
         },
         "fr" : {
@@ -23145,7 +23056,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tražim u grupi…"
+            "value" : "Pretraži po grupi…"
           }
         },
         "hu" : {
@@ -23157,7 +23068,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari dalam grup…"
+            "value" : "Cari dalam grup…"
           }
         },
         "it" : {
@@ -23187,7 +23098,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari dalam kumpulan…"
+            "value" : "Cari dalam kumpulan…"
           }
         },
         "nb" : {
@@ -23286,7 +23197,8 @@
             "value" : "在群組中搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.shareYourStoryDots" : {
       "comment" : "Placeholder for sharing a personal story or experience",
@@ -23366,7 +23278,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jaa tarinasi..."
+            "value" : "Jaa tarinasi…"
           }
         },
         "fr" : {
@@ -23420,7 +23332,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたのストーリーを共有…"
+            "value" : "ストーリーを共有…"
           }
         },
         "kk" : {
@@ -23450,7 +23362,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deel je verhaal…"
+            "value" : "Deel jouw verhaal…"
           }
         },
         "pl" : {
@@ -23510,7 +23422,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поділіться своєю історією…"
+            "value" : "Поділитися своєю історією…"
           }
         },
         "vi" : {
@@ -23537,7 +23449,8 @@
             "value" : "分享你的故事…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.shareYourThoughtsDots" : {
       "comment" : "Placeholder for sharing personal thoughts or opinions",
@@ -23617,7 +23530,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jaa ajatuksesi..."
+            "value" : "Jaa ajatuksesi…"
           }
         },
         "fr" : {
@@ -23671,7 +23584,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの考えを共有…"
+            "value" : "考えを共有…"
           }
         },
         "kk" : {
@@ -23701,7 +23614,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deel je gedachten…"
+            "value" : "Deel jouw gedachten…"
           }
         },
         "pl" : {
@@ -23761,7 +23674,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поділіться своїми думками…"
+            "value" : "Поділитися своїми думками…"
           }
         },
         "vi" : {
@@ -23788,7 +23701,8 @@
             "value" : "分享你的想法…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.tagPeopleDots" : {
       "comment" : "Placeholder for tagging people in content",
@@ -23904,7 +23818,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Személyek címkézése…"
+            "value" : "Emberek megjelölése…"
           }
         },
         "id" : {
@@ -24012,7 +23926,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позначити людей…"
+            "value" : "Позначити між людьми…"
           }
         },
         "vi" : {
@@ -24039,7 +23953,8 @@
             "value" : "標記人員…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.tagYourLocationDots" : {
       "comment" : "Placeholder for tagging your location in a post",
@@ -24053,7 +23968,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тагни местоположението си…"
+            "value" : "Добави местоположението си…"
           }
         },
         "ca" : {
@@ -24131,7 +24046,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taguer votre emplacement…"
+            "value" : "Taguer ton emplacement…"
           }
         },
         "he" : {
@@ -24155,7 +24070,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helyszín címkézése…"
+            "value" : "Helyszín megjelölése…"
           }
         },
         "id" : {
@@ -24290,7 +24205,8 @@
             "value" : "標記你的位置…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.whatsOnYourMindDots" : {
       "comment" : "Placeholder for entering status or update",
@@ -24298,7 +24214,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ما رأيك يدور في ذهنك…"
+            "value" : "ما الذي يدور في ذهنك…"
           }
         },
         "bg" : {
@@ -24454,7 +24370,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wat denk je…"
+            "value" : "Wat houdt je bezig…"
           }
         },
         "pl" : {
@@ -24466,7 +24382,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O que está na sua mente…"
+            "value" : "O que você está pensando…"
           }
         },
         "pt-PT" : {
@@ -24508,7 +24424,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aklından ne geçiyor…"
+            "value" : "Aklında ne var…"
           }
         },
         "uk" : {
@@ -24541,7 +24457,8 @@
             "value" : "你在想什麼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeACommentDots" : {
       "comment" : "Placeholder for adding a comment to a post",
@@ -24741,7 +24658,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíšte komentár…"
+            "value" : "Napíš komentár…"
           }
         },
         "sv" : {
@@ -24792,7 +24709,8 @@
             "value" : "撰寫評論…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeAMessageDots" : {
       "comment" : "Placeholder for typing a message to someone",
@@ -24992,7 +24910,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíšte správu…"
+            "value" : "Napíš správu…"
           }
         },
         "sv" : {
@@ -25043,7 +24961,8 @@
             "value" : "撰寫訊息…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.writeAPostDots" : {
       "comment" : "Placeholder for writing a new post or status",
@@ -25213,7 +25132,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napisz post…"
+            "value" : "Opisz post…"
           }
         },
         "pt-BR" : {
@@ -25291,10 +25210,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫评论…"
+            "value" : "撰寫評論…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

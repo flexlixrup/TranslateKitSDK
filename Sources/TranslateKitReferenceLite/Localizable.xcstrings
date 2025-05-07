@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете бележка"
+            "value" : "Добави бележка"
           }
         },
         "ca" : {
@@ -250,7 +250,8 @@
             "value" : "添加注释"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when adding a document to the user's library",
@@ -318,7 +319,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir a la fototeca"
+            "value" : "Añadir a la biblioteca"
           }
         },
         "es-419" : {
@@ -474,7 +475,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до фототеки"
+            "value" : "Додати до бібліотеки"
           }
         },
         "vi" : {
@@ -501,7 +502,8 @@
             "value" : "加至圖庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when adding a document to a reading list",
@@ -752,7 +754,8 @@
             "value" : "加至閲讀列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving a page or section for quick access",
@@ -934,7 +937,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador"
+            "value" : "Adicionar marcador"
           }
         },
         "ro" : {
@@ -952,7 +955,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záložkovat"
+            "value" : "Záložkovať"
           }
         },
         "sv" : {
@@ -1003,7 +1006,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.browse" : {
       "comment" : "Use when browsing through available documents or materials",
@@ -1254,7 +1258,8 @@
             "value" : "瀏覽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.cite" : {
       "comment" : "Use when citing a document or resource",
@@ -1460,7 +1465,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citera"
+            "value" : "Referera"
           }
         },
         "th" : {
@@ -1505,7 +1510,8 @@
             "value" : "引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing two or more documents or sections",
@@ -1756,7 +1762,8 @@
             "value" : "比較"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyLink" : {
       "comment" : "Use when copying a link to a document or resource",
@@ -2007,7 +2014,8 @@
             "value" : "複製連結"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createNew" : {
       "comment" : "Use when creating a new document or resource",
@@ -2093,13 +2101,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer nouveau"
+            "value" : "Créer un nouveau"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer nouveau"
+            "value" : "Créer un nouveau"
           }
         },
         "he" : {
@@ -2201,7 +2209,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создать"
+            "value" : "Создать новый"
           }
         },
         "sk" : {
@@ -2249,7 +2257,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增"
+            "value" : "加入"
           }
         },
         "zh-HK" : {
@@ -2258,7 +2266,8 @@
             "value" : "創建新項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.define" : {
       "comment" : "Use when defining a term or concept",
@@ -2509,7 +2518,8 @@
             "value" : "定義"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use when downloading materials for offline use",
@@ -2547,7 +2557,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Materialien Herunterladen"
+            "value" : "Materialien herunterladen"
           }
         },
         "el" : {
@@ -2715,7 +2725,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Material ladda ner"
+            "value" : "Ladda ner material"
           }
         },
         "th" : {
@@ -2760,7 +2770,8 @@
             "value" : "下載資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting the current document as a PDF",
@@ -2894,7 +2905,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDFとして書き出す"
+            "value" : "PDFをエクスポートする"
           }
         },
         "kk" : {
@@ -3011,7 +3022,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a report from a document or data",
@@ -3121,7 +3133,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj Izvještaj"
+            "value" : "Generiraj izvještaj"
           }
         },
         "hu" : {
@@ -3262,7 +3274,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.goBack" : {
       "comment" : "Use when navigating back to the previous page or section",
@@ -3276,7 +3289,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Върни се назад"
+            "value" : "Намери"
           }
         },
         "ca" : {
@@ -3366,7 +3379,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पीछे की अधिकारिता"
+            "value" : "पीछे जाएं"
           }
         },
         "hr" : {
@@ -3450,7 +3463,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înapoi"
+            "value" : "Mergi înapoi"
           }
         },
         "ru" : {
@@ -3513,7 +3526,8 @@
             "value" : "返回"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.highlight" : {
       "comment" : "Use when highlighting text or sections in a document",
@@ -3683,7 +3697,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokaż"
+            "value" : "Zaznacz"
           }
         },
         "pt-BR" : {
@@ -3764,7 +3778,8 @@
             "value" : "螢光標示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.index" : {
       "comment" : "Use when indexing or searching for specific content in a document",
@@ -4015,7 +4030,8 @@
             "value" : "索引"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.lookUp" : {
       "comment" : "Use when looking up a specific term or reference",
@@ -4266,7 +4282,8 @@
             "value" : "查找"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when marking a document or section as read",
@@ -4340,7 +4357,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Leído"
+            "value" : "Marcar como leído"
           }
         },
         "fi" : {
@@ -4448,7 +4465,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Lido"
+            "value" : "Assinalar como Lido"
           }
         },
         "ro" : {
@@ -4517,7 +4534,8 @@
             "value" : "標示為已讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a document or link in a browser",
@@ -4768,7 +4786,8 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.organize" : {
       "comment" : "Use when organizing documents or resources into folders",
@@ -4800,7 +4819,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Organiser"
+            "value" : "Organisér"
           }
         },
         "de" : {
@@ -5019,7 +5038,8 @@
             "value" : "組織"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.print" : {
       "comment" : "Use when printing a document or resource",
@@ -5270,7 +5290,8 @@
             "value" : "列印"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.quickLook" : {
       "comment" : "Use when previewing a document or content quickly",
@@ -5521,7 +5542,8 @@
             "value" : "快速查看"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when reading a full article or document",
@@ -5709,7 +5731,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește articolul"
+            "value" : "Citește"
           }
         },
         "ru" : {
@@ -5772,7 +5794,8 @@
             "value" : "閱讀文章"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reference" : {
       "comment" : "Use when referencing a document or source",
@@ -5996,7 +6019,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Довідка"
+            "value" : "Довідник"
           }
         },
         "vi" : {
@@ -6023,7 +6046,8 @@
             "value" : "參考"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeAll" : {
       "comment" : "Use when removing all documents or items from a list",
@@ -6121,7 +6145,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הסרה של כולם"
+            "value" : "הסר הכל"
           }
         },
         "hi" : {
@@ -6163,7 +6187,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жоқ"
+            "value" : "Барлығын жою"
           }
         },
         "ko" : {
@@ -6274,7 +6298,8 @@
             "value" : "全部移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.research" : {
       "comment" : "Use when conducting research or looking up sources",
@@ -6306,7 +6331,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forskn"
+            "value" : "Forskning"
           }
         },
         "de" : {
@@ -6525,7 +6550,8 @@
             "value" : "研究"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.review" : {
       "comment" : "Use when reviewing a document or material",
@@ -6617,7 +6643,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valider"
+            "value" : "Examiner"
           }
         },
         "he" : {
@@ -6776,7 +6802,8 @@
             "value" : "檢視"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving a document for future reference",
@@ -7027,7 +7054,8 @@
             "value" : "稍後保存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveToFavorites" : {
       "comment" : "Use when saving a document to favorites",
@@ -7278,7 +7306,8 @@
             "value" : "保存到收藏夾"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.searchInFiles" : {
       "comment" : "Use when searching for documents or items in files",
@@ -7529,7 +7558,8 @@
             "value" : "在檔案中搜尋"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document or resource",
@@ -7780,7 +7810,8 @@
             "value" : "分享文件"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.showHint" : {
       "comment" : "Use when showing a helpful hint or suggestion",
@@ -7848,7 +7879,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Sugerencia"
+            "value" : "Mostrar sugerencia"
           }
         },
         "es-419" : {
@@ -8031,7 +8062,8 @@
             "value" : "顯示提示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.study" : {
       "comment" : "Use when studying or reviewing content",
@@ -8282,7 +8314,8 @@
             "value" : "學習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to updates or newsletters",
@@ -8458,7 +8491,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assinar"
+            "value" : "Assinar e Economizar"
           }
         },
         "pt-PT" : {
@@ -8533,7 +8566,8 @@
             "value" : "訂閱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating text or documents",
@@ -8637,13 +8671,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्थानांतरण"
+            "value" : "स्थानांतरण करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prijevod"
+            "value" : "Prevedi"
           }
         },
         "hu" : {
@@ -8784,7 +8818,8 @@
             "value" : "翻譯"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing additional details or information",
@@ -8798,7 +8833,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виж детайли"
+            "value" : "Прегледай детайли"
           }
         },
         "ca" : {
@@ -8852,7 +8887,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver detalles"
+            "value" : "Ver Detalles"
           }
         },
         "es-419" : {
@@ -9008,7 +9043,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладніше"
+            "value" : "Переглянути деталі"
           }
         },
         "vi" : {
@@ -9035,7 +9070,8 @@
             "value" : "檢視詳細資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.abbreviation" : {
       "comment" : "Use when referring to an abbreviation or shortened form of a word or phrase",
@@ -9286,7 +9322,8 @@
             "value" : "縮寫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.audioVersion" : {
       "comment" : "Use when referring to the audio format of a book or document",
@@ -9444,7 +9481,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lydversjon"
+            "value" : "Lydformat"
           }
         },
         "nl" : {
@@ -9537,7 +9574,8 @@
             "value" : "音频版本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a document or book",
@@ -9788,7 +9826,8 @@
             "value" : "作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bibliography" : {
       "comment" : "Use when referring to the list of sources used in a document",
@@ -10039,7 +10078,8 @@
             "value" : "参考书目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmark" : {
       "comment" : "Use when referring to a saved location in a document",
@@ -10290,7 +10330,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to multiple saved locations in a document",
@@ -10412,7 +10453,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda (jamak)"
+            "value" : "Penanda Buku"
           }
         },
         "it" : {
@@ -10442,7 +10483,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda Buku-buku"
+            "value" : "Buku tanda"
           }
         },
         "nb" : {
@@ -10541,7 +10582,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.categories" : {
       "comment" : "Use when displaying or organizing documents by category",
@@ -10792,7 +10834,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section of a book or document",
@@ -11043,7 +11086,8 @@
             "value" : "章节"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.citation" : {
       "comment" : "Use when referring to a source reference in a document",
@@ -11294,7 +11338,8 @@
             "value" : "引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.contents" : {
       "comment" : "Use when displaying the table of contents in a document or book",
@@ -11386,13 +11431,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenu"
+            "value" : "Contenus"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תוכן"
+            "value" : "תכנים"
           }
         },
         "hi" : {
@@ -11470,7 +11515,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo"
+            "value" : "Conteúdos"
           }
         },
         "pt-PT" : {
@@ -11545,7 +11590,8 @@
             "value" : "目錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.definition" : {
       "comment" : "Use when displaying the meaning of a term or concept",
@@ -11796,7 +11842,8 @@
             "value" : "定義"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.downloads" : {
       "comment" : "Use when referring to available download options",
@@ -12047,7 +12094,8 @@
             "value" : "下載項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.encyclopedia" : {
       "comment" : "Use when referring to an encyclopedia or reference book",
@@ -12298,7 +12346,8 @@
             "value" : "百科全書"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.entry" : {
       "comment" : "Use when referring to an individual item or definition in a reference work",
@@ -12306,7 +12355,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مدخل"
+            "value" : "المدخل"
           }
         },
         "bg" : {
@@ -12549,7 +12598,8 @@
             "value" : "條目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.examples" : {
       "comment" : "Use when providing examples of terms or concepts",
@@ -12743,7 +12793,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Примеры"
+            "value" : "Пример"
           }
         },
         "sk" : {
@@ -12800,7 +12850,8 @@
             "value" : "例子"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use when referring to the user's favorite documents or resources",
@@ -12910,7 +12961,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omiljeno"
+            "value" : "Omiljene"
           }
         },
         "hu" : {
@@ -12994,7 +13045,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избранное"
+            "value" : "Избранные"
           }
         },
         "sk" : {
@@ -13051,7 +13102,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.glossary" : {
       "comment" : "Use when referring to a list of terms and definitions",
@@ -13302,7 +13354,8 @@
             "value" : "詞彙表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to the history or past activities of the user",
@@ -13553,7 +13606,8 @@
             "value" : "瀏覽記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.index" : {
       "comment" : "Use when referring to the alphabetical list of topics in a book or document",
@@ -13804,7 +13858,8 @@
             "value" : "索引"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.keywords" : {
       "comment" : "Use when referring to important terms or topics in a document",
@@ -14055,7 +14110,8 @@
             "value" : "關鍵字"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.language" : {
       "comment" : "Use when referring to the language of the document or content",
@@ -14306,7 +14362,8 @@
             "value" : "語言"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lastUpdated" : {
       "comment" : "Use when displaying the last update date of a document",
@@ -14557,7 +14614,8 @@
             "value" : "最近更新"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.meaning" : {
       "comment" : "Use when referring to the definition or significance of a term",
@@ -14808,7 +14866,8 @@
             "value" : "意思"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to additional comments or annotations",
@@ -15059,7 +15118,8 @@
             "value" : "備忘錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a single page in a document",
@@ -15310,7 +15370,8 @@
             "value" : "頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pageNumber" : {
       "comment" : "Use when displaying the page number in a document",
@@ -15561,7 +15622,8 @@
             "value" : "頁碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.references" : {
       "comment" : "Use when referring to the list of sources cited in a document",
@@ -15812,7 +15874,8 @@
             "value" : "參考文獻"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.resources" : {
       "comment" : "Use when referring to materials or sources for further reading",
@@ -16063,7 +16126,8 @@
             "value" : "資源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.searchHistory" : {
       "comment" : "Use when referring to the history of searches made by the user",
@@ -16143,7 +16207,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Haku Historia"
+            "value" : "Hakuhistoria"
           }
         },
         "fr" : {
@@ -16314,7 +16378,8 @@
             "value" : "搜索歷史"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.source" : {
       "comment" : "Use when referring to the original source of a document or information",
@@ -16565,7 +16630,8 @@
             "value" : "來源"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.summary" : {
       "comment" : "Use when providing a brief overview or summary of a document",
@@ -16603,7 +16669,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurze Übersicht"
+            "value" : "„Kurze Übersicht“"
           }
         },
         "el" : {
@@ -16816,11 +16882,12 @@
             "value" : "摘要"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.addToFavoritesForQuickAccessLater" : {
+    "TK.Message.addToFavoritesForQuickAccessLaterDot" : {
       "comment" : "Confirmation when adding an item to favorites",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16837,7 +16904,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegeix a favorits per accedir ràpidament més tard."
+            "value" : "Afegir a favorits per accés ràpid més tard."
           }
         },
         "cs" : {
@@ -16855,7 +16922,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Für später zu Favoriten hinzufügen."
+            "value" : "Zu den Favoriten für schnellen Zugriff später hinzufügen."
           }
         },
         "el" : {
@@ -16885,19 +16952,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir a favoritos para un acceso rápido más tarde."
+            "value" : "Añadir a favoritos para acceder más tarde rápidamente."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir a favoritos para un acceso rápido más tarde."
+            "value" : "Añadir a favoritos para acceder rápidamente después."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää suosikkeihin nopeaa käyttöä varten."
+            "value" : "Lisää suosikkeihin nopeaa pääsyä varten myöhemmin."
           }
         },
         "fr" : {
@@ -16915,13 +16982,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוסף למועדפים לגישה מהירה מאוחר יותר."
+            "value" : "הוסף למועדפים לגישה מהירה בהמשך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "जल्द पहुँच के लिए पसंदीदा में जोड़े।"
+            "value" : "जल्द ही पहुँच के लिए पसंदीदा में जोड़ें।"
           }
         },
         "hr" : {
@@ -16933,7 +17000,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add hozzá a kedvencekhez a gyors hozzáféréshez később."
+            "value" : "A példányt helyezd a kedvencekhez a gyors elérés érdekében."
           }
         },
         "id" : {
@@ -16951,31 +17018,31 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お気に入りに追加して、後で簡単にアクセスできるようにします。"
+            "value" : "後で簡単にアクセスできるようにお気に入りに追加します。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жылдам қолжетімділік үшін таңдаулыларға қосыңыз."
+            "value" : "Кейін жылдам қол жеткізу үшін таңдаулыларға қосыңыз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "즐겨찾기로 추가하여 나중에 빠르게 접근하세요."
+            "value" : "나중에 빠르게 접근할 수 있도록 즐겨찾기에 추가하세요."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tambah ke senarai kegemaran untuk akses cepat kemudian."
+            "value" : "Tambah ke kegemaran untuk akses cepat nanti."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til favoritter for rask tilgang senere."
+            "value" : "Legg til i favoritter for rask tilgang senere."
           }
         },
         "nl" : {
@@ -16987,19 +17054,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj do ulubionych, aby uzyskać szybki dostęp później."
+            "value" : "Dodaj do ulubionych, aby szybko uzyskać dostęp później."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar aos favoritos para acesso rápido depois."
+            "value" : "Conquista desbloqueada."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar aos favoritos para acesso rápido mais tarde."
+            "value" : "Adicione aos favoritos para acesso rápido depois."
           }
         },
         "ro" : {
@@ -17011,25 +17078,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в избранное для быстрого доступа позже."
+            "value" : "Добавь в избранное, чтобы позже быстро получить доступ."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať medzi obľúbené pre rýchly prístup neskôr."
+            "value" : "Pridať do obľúbených pre rýchly prístup neskôr."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg till i favoriter för snabb åtkomst senare."
+            "value" : "Lägg till favoriter för snabb åtkomst senare."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มลงในรายการโปรดเพื่อเข้าถึงได้อย่างรวดเร็วในภายหลัง."
+            "value" : "เพิ่มในรายการโปรดเพื่อเข้าถึงได้ง่ายในภายหลัง"
           }
         },
         "tr" : {
@@ -17041,50 +17108,39 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до обраного для швидкого доступу пізніше."
+            "value" : "Додати до улюбленого для швидкого доступу пізніше."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm vào danh sách yêu thích để truy cập nhanh sau này."
+            "value" : "Thêm vào yêu thích để truy cập nhanh sau."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已添加到收藏夹以便稍后快速访问。"
+            "value" : "已添加到收藏夹，以便稍后快速访问。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加到最愛以便稍後快速訪問。"
+            "value" : "將其加入收藏，以便以後快速訪問。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入收藏以便日後快速訪問。"
+            "value" : "加入最愛以便稍後快速訪問。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.addToFavoritesForQuickAccessLaterDot" : {
-      "comment" : "Confirmation when adding an item to favorites",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add to favorites for quick access later."
-          }
-        }
-      }
-    },
-    "TK.Message.articleHasBeenSavedForOfflineReading" : {
+    "TK.Message.articleSavedForOfflineReadingDot" : {
       "comment" : "Message when an article is saved for offline use",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17095,13 +17151,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статията е запазена за офлайн четене."
+            "value" : "Статията беше запазена за офлайн четене."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'article ha estat guardat per a la lectura offline."
+            "value" : "L'article s'ha desat per a lectura offline."
           }
         },
         "cs" : {
@@ -17125,7 +17181,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το άρθρο έχει αποθηκευτεί για ανάγνωση εκτός σύνδεσης."
+            "value" : "Το άρθρο έχει αποθηκευτεί για offline ανάγνωση."
           }
         },
         "en" : {
@@ -17185,49 +17241,49 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेख को ऑफलाइन पढ़ाई के लिए सहेजा गया है।"
+            "value" : "लेख ऑफ़लाइन पढ़ने के लिए सहेजा गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Članak je spremljen za čitanje offline."
+            "value" : "Članak je spremljen za offline čitanje."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A cikk offline olvasásra lett mentve."
+            "value" : "A cikk offline olvasásra mentve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel telah disimpan untuk bacaan offline."
+            "value" : "Artikel telah disimpan untuk dibaca secara offline."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'articolo è stato salvato per la lettura offline."
+            "value" : "Articolo salvato per la lettura offline."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記事がオフラインリーディング用に保存されました。"
+            "value" : "記事はオフライン読み用に保存されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақала оффлайн оқу үшін сақталды."
+            "value" : "Мақала офлайн оқу үшін сақталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기사가 오프라인 독서를 위해 저장되었습니다."
+            "value" : "게시물이 오프라인 읽기를 위해 저장되었습니다."
           }
         },
         "ms" : {
@@ -17239,7 +17295,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikkelen er lagret for offline lesing."
+            "value" : "Artikkel er lagret for offline lesing."
           }
         },
         "nl" : {
@@ -17251,19 +17307,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artykuł został zapisany do odczytu offline."
+            "value" : "Artykuł zapisany do czytania offline."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo salvo para leitura offline."
+            "value" : "Artigo foi salvo para leitura offline."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo guardado para leitura offline."
+            "value" : "Artigo foi guardado para leitura offline."
           }
         },
         "ro" : {
@@ -17275,25 +17331,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статья сохранена для чтения офлайн."
+            "value" : "Статья сохранена для чтения оффлайн."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článok bol uložený pre offline čítanie."
+            "value" : "Článok bol uložený na offline čítanie."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikeln har sparats för offline-läsning."
+            "value" : "Artikel har sparats för offline-läsning."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บทความถูกบันทึกสำหรับการอ่านแบบออฟไลน์แล้ว."
+            "value" : "บทความถูกบันทึกเพื่อการอ่านออฟไลน์."
           }
         },
         "tr" : {
@@ -17305,13 +17361,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статтю збережено для офлайн-читання."
+            "value" : "Статтю збережено для читання без підключення."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bài viết đã được lưu cho đọc offline."
+            "value" : "Bài viết đã được lưu cho việc đọc ngoại tuyến."
           }
         },
         "zh-Hans" : {
@@ -17329,43 +17385,32 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文章已被保存以供離線閱讀。"
+            "value" : "文章已儲存以供離線閱讀。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.articleSavedForOfflineReadingDot" : {
-      "comment" : "Message when an article is saved for offline use",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Article has been saved for offline reading."
-          }
-        }
-      }
-    },
-    "TK.Message.bookmarkAddedSuccessfully" : {
+    "TK.Message.bookmarkAddedSuccessfullyDot" : {
       "comment" : "Confirmation when a bookmark is added",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت إضافة الإشارة المرجعية بنجاح."
+            "value" : "تم إضافة علامة مرجعية بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отметката е добавена успешно."
+            "value" : "Забележката е добавена успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador afegit correctament."
+            "value" : "Marcador afegit amb èxit."
           }
         },
         "cs" : {
@@ -17377,7 +17422,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bogmærke tilføjet med succes."
+            "value" : "Bogmærket er blevet tilføjet med succes."
           }
         },
         "de" : {
@@ -17389,7 +17434,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο σελιδοδείκτης προστέθηκε επιτυχώς."
+            "value" : "Ο σελιδοδείκτης προστέθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -17413,13 +17458,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador agregado exitosamente."
+            "value" : "Marcador añadido con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador agregado con éxito."
+            "value" : "Marcador añadido con éxito."
           }
         },
         "fi" : {
@@ -17431,7 +17476,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marque-page ajouté avec succès."
+            "value" : "Favori ajouté avec succès."
           }
         },
         "fr-CA" : {
@@ -17455,19 +17500,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znak je uspješno dodan."
+            "value" : "Zabilješka je uspješno dodana."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Könyvjelző sikeresen hozzáadva."
+            "value" : "A könyvjelző sikeresen hozzáadva."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bookmark berhasil ditambahkan."
+            "value" : "Tanda buku berhasil ditambahkan."
           }
         },
         "it" : {
@@ -17485,7 +17530,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгі сәтті қосылды."
+            "value" : "Бұрылмалы белгі сәтті қосылды."
           }
         },
         "ko" : {
@@ -17497,13 +17542,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda halaman telah berjaya ditambah."
+            "value" : "Tanda halaman telah berjaya ditambah."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bokmerke ble lagt til."
+            "value" : "Bokmerke lagt til."
           }
         },
         "nl" : {
@@ -17521,19 +17566,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorito adicionado com sucesso."
+            "value" : "Marcador adicionado com sucesso."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorito adicionado com sucesso."
+            "value" : "Marcador adicionado com sucesso."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcajul a fost adăugat cu succes."
+            "value" : "Marcaj adăugat cu succes."
           }
         },
         "ru" : {
@@ -17551,68 +17596,57 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bokmärke tillagt med framgång."
+            "value" : "Bokmärke tillagt framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บุ๊กมาร์กถูกเพิ่มเรียบร้อยแล้ว."
+            "value" : "เพิ่มบุ๊กมาร์กเรียบร้อยแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer işareti başarıyla eklendi."
+            "value" : "Yer imi başarıyla eklendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Закладку успішно збережено."
+            "value" : "Закладка успішно додана."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã thêm đánh dấu thành công."
+            "value" : "Đánh dấu đã được thêm thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "书签成功添加。"
+            "value" : "书签已成功添加。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "書籤已成功添加。"
+            "value" : "書籤已成功新增。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已成功添加書籤。"
+            "value" : "書籤已成功添加。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.bookmarkAddedSuccessfullyDot" : {
-      "comment" : "Confirmation when a bookmark is added",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bookmark added successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.citationCopiedToClipboard" : {
+    "TK.Message.citationCopiedToClipboardDot" : {
       "comment" : "Confirmation when a citation is copied",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17623,13 +17657,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цитатът е копиран в клипборда."
+            "value" : "Цитатът е копиран в автоматичната памет."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La cita s'ha copiat al porta-retalls."
+            "value" : "Cita copiada al porta-retalls."
           }
         },
         "cs" : {
@@ -17641,7 +17675,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citering kopieret til udklipsholder."
+            "value" : "Citeringen er kopieret til udklipsholderen."
           }
         },
         "de" : {
@@ -17653,7 +17687,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η αναφορά έχει αντιγραφεί στο πρόχειρο."
+            "value" : "Η παραπομπή αντιγράφηκε στο πρόχειρο."
           }
         },
         "en" : {
@@ -17677,7 +17711,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cita copiada en el portapapeles."
+            "value" : "Cita copiada al portapapeles."
           }
         },
         "es-419" : {
@@ -17713,7 +17747,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उद्धरण क्लिपबोर्ड में कॉपी कर दिया गया है।"
+            "value" : "उद्धरण क्लिपबोर्ड पर कॉपी किया गया।"
           }
         },
         "hr" : {
@@ -17725,13 +17759,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A hivatkozás másolva lett a vágólapra."
+            "value" : "Idézet másolva a vágólapra."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kutipan telah disalin ke clipboard."
+            "value" : "Kutipan telah disalin ke papan klip."
           }
         },
         "it" : {
@@ -17749,7 +17783,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цитата буферге көшірілді."
+            "value" : "Дәйексөз буферге көшірілді."
           }
         },
         "ko" : {
@@ -17761,7 +17795,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Petikan telah disalin ke papan klip."
+            "value" : "Sumber rujukan telah disalin ke papan klip."
           }
         },
         "nb" : {
@@ -17773,7 +17807,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citaat gekopieerd naar het klembord."
+            "value" : "Citaat naar het klembord gekopieerd."
           }
         },
         "pl" : {
@@ -17785,7 +17819,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citação copiada para área de transferência."
+            "value" : "Citação copiada para a área de transferência."
           }
         },
         "pt-PT" : {
@@ -17797,7 +17831,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citația a fost copiată în clipboard."
+            "value" : "Citarea a fost copiată în clipboard."
           }
         },
         "ru" : {
@@ -17809,7 +17843,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citácia bola skopírovaná do schránky."
+            "value" : "Citácia skopírovaná do schránky."
           }
         },
         "sv" : {
@@ -17821,7 +17855,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การอ้างอิงได้ถูกคัดลอกไปยังคลิปบอร์ดแล้ว"
+            "value" : "อ้างอิงได้ถูกคัดลอกไปยังคลิปบอร์ดแล้ว"
           }
         },
         "tr" : {
@@ -17833,7 +17867,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посилання скопійовано в буфер обміну."
+            "value" : "Цитата скопійована в буфер обміну."
           }
         },
         "vi" : {
@@ -17845,7 +17879,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "引文已复制到剪贴板。"
+            "value" : "引用已复制到剪贴板。"
           }
         },
         "zh-Hant" : {
@@ -17857,235 +17891,224 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "引用已複製到剪貼簿。"
+            "value" : "引用已複製到剪貼板。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.citationCopiedToClipboardDot" : {
-      "comment" : "Confirmation when a citation is copied",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Citation copied to clipboard."
-          }
-        }
-      }
-    },
-    "TK.Message.contentNotAvailableInYourRegion" : {
+    "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Message when content is unavailable in a region",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "المحتوى غير متاح في منطقتك"
+            "value" : "المحتوى غير متوفر في منطقتك."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съдържанието не е налично в твоя регион"
+            "value" : "Съдържанието не е налично във вашия регион."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contingut no disponible a la teva regió"
+            "value" : "El contingut no està disponible a la teva regió."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah není dostupný ve vaší oblasti"
+            "value" : "Obsah není dostupný ve tvém regionu."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indhold ikke tilgængeligt i din region"
+            "value" : "Indholdet er ikke tilgængeligt i din region."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In deiner Region nicht verfügbar"
+            "value" : "Inhalt nicht in deiner Region verfügbar."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το περιεχόμενο δεν είναι διαθέσιμο στην περιοχή σας"
+            "value" : "Το περιεχόμενο δεν είναι διαθέσιμο στην περιοχή σας."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content not available in your region"
+            "value" : "Content not available in your region."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido no disponible en tu región"
+            "value" : "Contenido no disponible en tu región."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenido no disponible en tu región"
+            "value" : "Contenido no disponible en tu región."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sisältöä ei ole saatavilla alueellasi."
+            "value" : "Sisältö ei ole saatavilla alueellasi."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenu non disponible dans votre région"
+            "value" : "Contenu non disponible dans votre région."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenu non disponible dans votre région"
+            "value" : "Le contenu n'est pas disponible dans votre région."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התוכן לא זמין באזור שלך"
+            "value" : "התוכן אינו זמין באזור שלך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपके क्षेत्र में सामग्री उपलब्ध नहीं है"
+            "value" : "सामग्री आपके क्षेत्र में उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sadržaj nije dostupan u tvojoj regiji"
+            "value" : "Sadržaj nije dostupan u tvojoj regiji."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tartalom nem érhető el a régiódban"
+            "value" : "A tartalom nem elérhető a régiódban."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten tidak tersedia di wilayah Anda"
+            "value" : "Konten tidak tersedia di wilayah Anda."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contenuto non disponibile nella tua regione"
+            "value" : "Contenuto non disponibile nella tua regione."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの地域ではコンテンツが利用できません"
+            "value" : "コンテンツはあなたの地域では利用できません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мазмұн сіздің өңіріңізде қолжетімсіз"
+            "value" : "Контент сіздің өңіріңізде қолжетімсіз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 지역에서 사용할 수 없는 콘텐츠."
+            "value" : "귀하의 지역에서는 콘텐츠를 사용할 수 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kandungan tidak tersedia di kawasan anda"
+            "value" : "Kandungan tidak tersedia di kawasan anda."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innholdet er ikke tilgjengelig i regionen din"
+            "value" : "Innholdet er ikke tilgjengelig i din region."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inhoud niet beschikbaar in jouw regio"
+            "value" : "Inhoud niet beschikbaar in jouw regio."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Treść niedostępna w Twoim regionie"
+            "value" : "Treść niedostępna w twoim regionie."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo não disponível na sua região"
+            "value" : "Conteúdo não disponível na sua região."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo não disponível na sua região"
+            "value" : "Conteúdo não disponível na tua região."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conținutul nu este disponibil în regiunea ta"
+            "value" : "Conținutul nu este disponibil în regiunea ta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент недоступен в вашем регионе"
+            "value" : "Контент недоступен в твоем регионе."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah nie je dostupný vo vašej oblasti"
+            "value" : "Obsah nie je dostupný vo tvojej oblasti."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innehållet är inte tillgängligt i din region"
+            "value" : "Innehållet är inte tillgängligt i din region."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เนื้อหาไม่สามารถเข้าถึงได้ในภูมิภาคของคุณ"
+            "value" : "เนื้อหาไม่สามารถใช้งานได้ในภูมิภาคของคุณ"
           }
         },
         "tr" : {
@@ -18097,61 +18120,50 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент недоступний у вашому регіоні"
+            "value" : "Контент недоступний у вашому регіоні."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nội dung không có sẵn ở khu vực của bạn."
+            "value" : "Nội dung không khả dụng trong khu vực của bạn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该内容在您的地区不可用"
+            "value" : "您所在地区无法获取该内容。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "內容在您的地區不可用"
+            "value" : "該內容在您的地區不可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該內容在你的區域不可用"
+            "value" : "此內容在你的地區無法獲取。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.contentNotAvailableInYourRegionDot" : {
-      "comment" : "Message when content is unavailable in a region",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Content not available in your region."
-          }
-        }
-      }
-    },
-    "TK.Message.definitionNotFoundInOfflineMode" : {
+    "TK.Message.definitionNotFoundOfflineDot" : {
       "comment" : "Message when the definition is unavailable offline",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "التعريف غير متوفر في وضع عدم الاتصال."
+            "value" : "التعريف غير موجود في وضع عدم الاتصال."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дефиницията не е намерена в офлайн режим."
+            "value" : "Определението не е намерено в офлайн режим."
           }
         },
         "ca" : {
@@ -18163,13 +18175,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definice není k dispozici v offline režimu."
+            "value" : "Definice není dostupná v offline režimu."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definition ikke fundet i offline-tilstand."
+            "value" : "Definition ikke fundet offline."
           }
         },
         "de" : {
@@ -18181,7 +18193,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο ορισμός δεν βρέθηκε σε offline λειτουργία."
+            "value" : "Ο ορισμός δεν βρέθηκε σε εκτός σύνδεσης λειτουργία."
           }
         },
         "en" : {
@@ -18205,7 +18217,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definición no encontrada en modo offline."
+            "value" : "Definición no encontrada en modo sin conexión."
           }
         },
         "es-419" : {
@@ -18223,7 +18235,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définition introuvable en mode hors connexion."
+            "value" : "Définition non trouvée en mode hors ligne."
           }
         },
         "fr-CA" : {
@@ -18235,25 +18247,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הגדרה לא נמצאה במצב לא מקוון."
+            "value" : "ההגדרה לא נמצאה במצב לא מקוון."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ऑफलाइन मोड में परिभाषा नहीं मिली।"
+            "value" : "ऑफलाइन मोड में परिभाषा उपलब्ध नहीं है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definicija nije pronađena u offline modu."
+            "value" : "Definicija nije pronađena u izvanmrežnom modu."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meghatározás offline módban nem található."
+            "value" : "A definíció offline módban nem található."
           }
         },
         "id" : {
@@ -18271,13 +18283,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "定義がオフラインモードでは見つかりませんでした。"
+            "value" : "オフラインモードで定義が見つかりません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түсінік оффлайн режимінде табылмады."
+            "value" : "Анықтама оффлайн режимде табылмады."
           }
         },
         "ko" : {
@@ -18289,19 +18301,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definisi tidak dijumpai dalam mod luar talian."
+            "value" : "Definisi tidak ditemui dalam mod luar talian."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definisjonen ble ikke funnet i offline-modus."
+            "value" : "Definisjon ble ikke funnet i offline-modus."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definitie is niet beschikbaar in de offline-modus."
+            "value" : "Definitie niet gevonden in offline modus."
           }
         },
         "pl" : {
@@ -18319,7 +18331,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definição não encontrada no modo offline."
+            "value" : "Definição não encontrada em modo offline."
           }
         },
         "ro" : {
@@ -18331,7 +18343,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определение недоступно в оффлайн-режиме."
+            "value" : "Определение не найдено в оффлайн-режиме."
           }
         },
         "sk" : {
@@ -18343,7 +18355,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definitionen hittades inte i offline-läge."
+            "value" : "Definition kunde inte hittas offline."
           }
         },
         "th" : {
@@ -18355,19 +18367,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tanım, çevrimdışı modda bulunamadı."
+            "value" : "Tanım çevrimdışı modda bulunamadı."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Визначення недоступне в офлайн-режимі."
+            "value" : "Визначення не знайдено в офлайн-режимі."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không tìm thấy định nghĩa trong chế độ offline."
+            "value" : "Định nghĩa không tìm thấy trong chế độ ngoại tuyến."
           }
         },
         "zh-Hans" : {
@@ -18379,7 +18391,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "離線模式下未找到定義。"
+            "value" : "離線模式下找不到定義。"
           }
         },
         "zh-HK" : {
@@ -18388,100 +18400,89 @@
             "value" : "離線模式下找不到定義。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.definitionNotFoundOfflineDot" : {
-      "comment" : "Message when the definition is unavailable offline",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Definition not found in offline mode."
-          }
-        }
-      }
-    },
-    "TK.Message.downloadComplete" : {
+    "TK.Message.downloadCompleteDot" : {
       "comment" : "Confirmation when the download is finished",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اكتمل التنزيل"
+            "value" : "اكتمل التنزيل."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтегляне завършено"
+            "value" : "Изтеглянето е завършено."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descàrrega completa"
+            "value" : "Descàrrega completa."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stahování dokončeno"
+            "value" : "Stahování dokončeno."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download fuldført"
+            "value" : "Download fuldført."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download abgeschlossen"
+            "value" : "Download abgeschlossen."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η λήψη ολοκληρώθηκε"
+            "value" : "Η λήψη ολοκληρώθηκε."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download complete"
+            "value" : "Download complete."
           }
         },
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download complete"
+            "value" : "Download complete."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download complete"
+            "value" : "Download complete."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarga completa"
+            "value" : "Descarga completa."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarga completa"
+            "value" : "Descarga completa."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lataus valmis"
+            "value" : "Lataus valmis."
           }
         },
         "fr" : {
@@ -18493,127 +18494,127 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Téléchargement complet"
+            "value" : "Téléchargement terminé."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההורדה הושלמה"
+            "value" : "ההורדה הושלמה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डाउनलोड पूरा हो गया"
+            "value" : "डाउनलोड पूरा हो गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzimanje je završeno"
+            "value" : "Preuzimanje dovršeno."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Letöltés befejezve"
+            "value" : "A letöltés befejeződött."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unduhan selesai"
+            "value" : "Unduhan selesai."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download completato"
+            "value" : "Download completato."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ダウンロード完了"
+            "value" : "ダウンロードが完了しました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жүктеу аяқталды"
+            "value" : "Жүктеу аяқталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "다운로드 완료"
+            "value" : "다운로드가 완료되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muat turun lengkap"
+            "value" : "Muat turun lengkap."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedlasting fullført"
+            "value" : "Nedlasting fullført."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download voltooid"
+            "value" : "Download voltooid."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie zakończone"
+            "value" : "Pobieranie zakończone."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download completo"
+            "value" : "Download concluído."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarregamento completo"
+            "value" : "Download completo."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descărcare completă"
+            "value" : "Descărcare completă."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка завершена"
+            "value" : "Загрузка завершена."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiahnutie dokončené"
+            "value" : "Stiahnutie dokončené."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedladdning klar"
+            "value" : "Nedladdning klar."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ดาวน์โหลดเสร็จสมบูรณ์"
+            "value" : "การดาวน์โหลดเสร็จสิ้นแล้ว"
           }
         },
         "tr" : {
@@ -18625,61 +18626,50 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завантаження завершено"
+            "value" : "Завантаження завершено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tải xuống hoàn tất"
+            "value" : "Tải xuống hoàn tất."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下载完成"
+            "value" : "下载完成。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下載完成"
+            "value" : "下載完成。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下載完成"
+            "value" : "下載完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.downloadCompleteDot" : {
-      "comment" : "Confirmation when the download is finished",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Download complete."
-          }
-        }
-      }
-    },
-    "TK.Message.entryHasBeenUpdatedWithLatestInformation" : {
+    "TK.Message.entryUpdatedWithLatestInfoDot" : {
       "comment" : "Confirmation when an entry is updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تحديث الإدخال بأحدث المعلومات."
+            "value" : "تم تحديث السجل بأحدث المعلومات."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записът е обновен с актуалната информация."
+            "value" : "Записът е актуализиран с най-новата информация."
           }
         },
         "ca" : {
@@ -18691,13 +18681,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záznam byl aktualizován o nejnovější informace."
+            "value" : "Záznam byl aktualizován s nejnovějšími informacemi."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtastning er blevet opdateret med de nyeste oplysninger."
+            "value" : "Posten er blevet opdateret med de nyeste oplysninger."
           }
         },
         "de" : {
@@ -18733,19 +18723,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La entrada ha sido actualizada con la información más reciente."
+            "value" : "Entrada actualizada con la información más reciente."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La información más reciente ha sido actualizada a la entrada."
+            "value" : "La entrada ha sido actualizada con la información más reciente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Merkintä on päivitetty uusimmalla tiedolla."
+            "value" : "Tieto on päivitetty uusimmalla tiedolla."
           }
         },
         "fr" : {
@@ -18763,13 +18753,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הערך עודכן עם המידע העדכני ביותר."
+            "value" : "הפריט עודכן עם המידע האחרון."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सूचना को नवीनतम जानकारी से अपडेट किया गया है।"
+            "value" : "प्रविष्टि को नवीनतम जानकारी के साथ अपडेट किया गया है।"
           }
         },
         "hr" : {
@@ -18781,7 +18771,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A bejegyzés friss információkkal lett frissítve."
+            "value" : "A bejegyzést a legfrissebb információkkal frissítették."
           }
         },
         "id" : {
@@ -18793,13 +18783,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voce aggiornata con le informazioni più recenti."
+            "value" : "Voce aggiornata con le ultime informazioni."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "エントリーが最新情報で更新されました。"
+            "value" : "エントリーが最新の情報で更新されました。"
           }
         },
         "kk" : {
@@ -18823,7 +18813,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Posten har blitt oppdatert med den nyeste informasjonen."
+            "value" : "Oppføringen har blitt oppdatert med den nyeste informasjonen."
           }
         },
         "nl" : {
@@ -18835,19 +18825,19 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpis został zaktualizowany o najnowsze informacje."
+            "value" : "Wpis został zaktualizowany z najnowszymi informacjami."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrada foi atualizada com as informações mais recentes."
+            "value" : "Entrada atualizada com as informações mais recentes."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrada foi atualizada com as informações mais recentes."
+            "value" : "Entrada atualizada com as informações mais recentes."
           }
         },
         "ro" : {
@@ -18859,7 +18849,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запись обновлена с последней информацией."
+            "value" : "Твоя запись обновлена с самой последней информацией."
           }
         },
         "sk" : {
@@ -18877,19 +18867,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข้อมูลได้รับการอัปเดตล่าสุดแล้ว"
+            "value" : "ข้อมูลได้ถูกอัปเดตด้วยข้อมูลล่าสุดแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Giriş, en son bilgilerle güncellendi."
+            "value" : "Girdi en son bilgilerle güncellendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запис оновлено новою інформацією."
+            "value" : "Запис оновлено з останньою інформацією."
           }
         },
         "vi" : {
@@ -18913,302 +18903,268 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "條目已更新，包含最新信息。"
+            "value" : "條目已更新至最新資訊。"
           }
         }
-      }
-    },
-    "TK.Message.entryUpdatedWithLatestInfoDot" : {
-      "comment" : "Confirmation when an entry is updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Entry has been updated with latest information."
-          }
-        }
-      }
-    },
-    "TK.Message.featureNotAvailableOffline" : {
-      "comment" : "Message when a feature is unavailable offline",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الميزة غير متاحة دون اتصال"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Функцията не е налична офлайн"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funcionalitat no disponible offline"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funkce není dostupná offline"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funktion ikke tilgængelig offline"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funktion offline nicht verfügbar"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Η δυνατότητα δεν είναι διαθέσιμη εκτός σύνδεσης"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feature not available offline"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feature not available offline"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feature not available offline"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Función no disponible sin conexión"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La función no está disponible sin conexión"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ominaisuus ei ole saatavilla offline-tilassa"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fonction non disponible hors ligne"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fonctionnalité non disponible hors ligne"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "תכונה אינה זמינה במצב לא מקוון"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ऑफलाइन में यह फ़ीचर उपलब्ध नहीं है"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Značajka nije dostupna offline"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A funkció offline nem érhető el"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fitur tidak tersedia secara offline"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funzione non disponibile offline"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "オフラインでは利用できない機能です"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Функция оффлайн режимінде қол жетімді емес"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오프라인에서는 이 기능을 사용할 수 없습니다."
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ciri tidak tersedia dalam mod luar talian"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funksjon ikke tilgjengelig offline"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Functie offline niet beschikbaar"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funkcja niedostępna w trybie offline"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recurso não disponível offline"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recurso não disponível offline"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funcția nu este disponibilă offline"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Функция недоступна офлайн"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funkcia nie je dostupná offline"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Funktion inte tillgänglig offline"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ฟีเจอร์นี้ไม่สามารถใช้งานได้ในออฟไลน์"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Özellik çevrimdışı kullanılamıyor."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Функція недоступна в режимі офлайн"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tính năng không có sẵn khi ngoại tuyến"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "离线时不可用此功能"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "離線時此功能不可用"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "該功能在離線狀態下不可用"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.featureNotAvailableOfflineDot" : {
       "comment" : "Message when a feature is unavailable offline",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الميزة غير متاحة دون اتصال."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функцията не е достъпна офлайн."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funció no disponible fora de línia."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkce není k dispozici offline."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funktion ikke tilgængelig offline."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funktion offline nicht verfügbar."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η δυνατότητα δεν είναι διαθέσιμη εκτός σύνδεσης."
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Feature not available offline."
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feature not available offline."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feature not available offline."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Característica no disponible offline."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Función no disponible sin conexión."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ominaisuus ei ole saatavilla offline-tilassa."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonctionnalité non disponible hors ligne."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonctionnalité non disponible hors ligne."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הפונקציה אינה זמינה במצב לא מקוון."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऑफ़लाइन में उपलब्ध नहीं है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkcija nije dostupna offline."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A funkció offline nem elérhető."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitur tidak tersedia offline."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funzione non disponibile offline."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オフラインでは利用できない機能です。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция оффлайн қол жетімді емес."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오프라인에서 사용할 수 없는 기능입니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciri tidak tersedia luar talian."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funksjonen er ikke tilgjengelig offline."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Functie is offline niet beschikbaar."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkcja niedostępna offline."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recurso não disponível offline."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funcionalidade não disponível offline."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funcția nu este disponibilă offline."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция недоступна офлайн."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkcia nie je dostupná offline."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funktionen är inte tillgänglig offline."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฟีเจอร์ไม่สามารถใช้งานได้แบบออฟไลน์"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özellik çevrimdışı kullanımda mevcut değil."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функція недоступна в офлайн-режимі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tính năng không có sẵn khi offline."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该功能在离线状态下不可用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能無法離線使用。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此功能在離線下無法使用。"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.noMatchesFoundForTermDot" : {
       "comment" : "Message when a search term has no results",
       "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No matches found for this term."
-          }
-        }
-      }
-    },
-    "TK.Message.noMatchesFoundForThisTerm" : {
-      "comment" : "Message when a search term has no results",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19219,25 +19175,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Няма намерени съвпадения за този термин."
+            "value" : "Не са намерени резултати за този термин."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No s'han trobat coincidències per aquest terme."
+            "value" : "No s'han trobat coincidències per a aquest terme."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyly nalezeny žádné shody pro tento termín."
+            "value" : "Nenalezena žádná shoda pro tento termín."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen resultater fundet for denne søgning."
+            "value" : "Ingen match fundet for dette søgeord."
           }
         },
         "de" : {
@@ -19249,7 +19205,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δεν βρέθηκαν αποτελέσματα για αυτόν τον όρο."
+            "value" : "Δεν βρέθηκαν αποτελέσματα για τον όρο."
           }
         },
         "en" : {
@@ -19285,7 +19241,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei osumia tästä termistä."
+            "value" : "Tälle hakutermille ei löytynyt osumia."
           }
         },
         "fr" : {
@@ -19309,13 +19265,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इस शब्द के लिए कोई मैच नहीं मिला।"
+            "value" : "इस शब्द के लिए कोई मेल नहीं मिले।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih podudaranja za ovaj pojam."
+            "value" : "Nema podudaranja za ovaj pojam."
           }
         },
         "hu" : {
@@ -19327,7 +19283,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak ditemukan kecocokan untuk istilah ini."
+            "value" : "Tidak ada hasil yang ditemukan untuk istilah ini."
           }
         },
         "it" : {
@@ -19339,37 +19295,37 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "この用語の一致が見つかりませんでした。"
+            "value" : "この用語に対する一致は見つかりませんでした。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұл термин бойынша ешбір нәтиже табылмады."
+            "value" : "Бұл термин бойынша ешқандай сәйкес жазбалар табылмады."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 용어에 대한 일치 항목을 찾을 수 없습니다."
+            "value" : "이 검색어에 대한 결과가 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada padanan ditemui untuk istilah ini."
+            "value" : "Tiada padanan yang ditemukan untuk terma ini."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen treff funnet for denne termen."
+            "value" : "Ingen treff funnet for dette søkeordet."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen resultaten gevonden voor deze zoekterm."
+            "value" : "Geen overeenkomsten gevonden voor deze term."
           }
         },
         "pl" : {
@@ -19381,19 +19337,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma correspondência encontrada para este termo."
+            "value" : "Nenhum resultado encontrado para este termo."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma correspondência encontrada para este termo."
+            "value" : "Nenhum resultado encontrado para este termo."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niciun rezultat găsit pentru acest termen."
+            "value" : "Nu s-au găsit potriviri pentru acest termen."
           }
         },
         "ru" : {
@@ -19405,7 +19361,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenašli sa žiadne zhodujúce sa výsledky pre tento výraz."
+            "value" : "Nenašli sa žiadne zhodné výrazy pre tento výraz."
           }
         },
         "sv" : {
@@ -19417,13 +19373,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบผลลัพธ์สำหรับคำค้นหานี้."
+            "value" : "ไม่พบผลลัพธ์สำหรับคำค้นนี้"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu terim için eşleşme bulunamadı."
+            "value" : "Bu terime uygun eşleşme bulunamadı."
           }
         },
         "uk" : {
@@ -19435,32 +19391,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không tìm thấy kết quả cho từ này."
+            "value" : "Không tìm thấy kết quả nào cho cụm từ này."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有找到与该条目匹配的结果。"
+            "value" : "未找到此术语的匹配项。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匹配項"
+            "value" : "未找到此條件的匹配項。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到此條目相關的配對。"
+            "value" : "該術語未找到匹配項。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.notesSavedSuccessfully" : {
+    "TK.Message.notesSavedSuccessfullyDot" : {
       "comment" : "Confirmation when notes are saved",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19477,7 +19434,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notes desades correctament."
+            "value" : "Anotacions guardades correctament."
           }
         },
         "cs" : {
@@ -19501,7 +19458,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Οι σημειώσεις αποθηκεύτηκαν με επιτυχία."
+            "value" : "Οι σημειώσεις αποθηκεύτηκαν επιτυχώς."
           }
         },
         "en" : {
@@ -19525,7 +19482,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notas guardadas correctamente."
+            "value" : "Notas guardadas con éxito."
           }
         },
         "es-419" : {
@@ -19585,7 +19542,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Appunti salvati con successo."
+            "value" : "Note salvate con successo."
           }
         },
         "ja" : {
@@ -19597,25 +19554,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпелер сәтті сақталды."
+            "value" : "Ескерту жазбалары сәтті сақталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "메모가 성공적으로 저장되었습니다."
+            "value" : "메모들이 성공적으로 저장되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nota-Nota berjaya disimpan."
+            "value" : "Nota-nota berjaya disimpan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notater lagret vellykket."
+            "value" : "Notater ble lagret."
           }
         },
         "nl" : {
@@ -19645,7 +19602,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notițele au fost salvate cu succes."
+            "value" : "Note salvate cu succes."
           }
         },
         "ru" : {
@@ -19663,13 +19620,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anteckningar sparade."
+            "value" : "Anteckningar har sparats."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกหลายรายการเรียบร้อยแล้ว."
+            "value" : "บันทึกโน้ตเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -19687,7 +19644,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ghi chú đã được lưu thành công."
+            "value" : "Các ghi chú đã được lưu thành công."
           }
         },
         "zh-Hans" : {
@@ -19699,61 +19656,50 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆記已成功保存。"
+            "value" : "筆記已成功儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆記已成功保存。"
+            "value" : "筆記已成功儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.notesSavedSuccessfullyDot" : {
-      "comment" : "Confirmation when notes are saved",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Notes saved successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.referenceMaterialsAreDownloading" : {
+    "TK.Message.referenceMaterialsDownloadingDot" : {
       "comment" : "Message when reference materials are being downloaded",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يتم تحميل المواد المرجعية."
+            "value" : "المواد المرجعية قيد التنزيل."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтеглят се справочни материали."
+            "value" : "Материалите за справка се изтеглят."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Els materials de referència s'estan baixant."
+            "value" : "Els materials de referència s'estan descarregant."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referenční materiály se stahují."
+            "value" : "Stahují se reference materiály."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencematerialer downloader."
+            "value" : "Referencematerialer er ved at blive downloadet."
           }
         },
         "de" : {
@@ -19765,7 +19711,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατεβάζονται τα υλικά αναφοράς."
+            "value" : "Τα υλικά αναφοράς κατεβαίνουν."
           }
         },
         "en" : {
@@ -19795,7 +19741,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los materiales de referencia se están descargando."
+            "value" : "Se están descargando los materiales de referencia."
           }
         },
         "fi" : {
@@ -19807,19 +19753,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matériaux de référence en cours de téléchargement."
+            "value" : "Les documents de référence sont en cours de téléchargement."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matériaux de référence en téléchargement."
+            "value" : "Les documents de référence sont en cours de téléchargement."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "חומרי עזר מורדים."
+            "value" : "חומרי עזר יורדים."
           }
         },
         "hi" : {
@@ -19837,7 +19783,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referenciaanyagok letöltése folyamatban."
+            "value" : "Hivatkozási anyagok töltődnek le."
           }
         },
         "id" : {
@@ -19849,25 +19795,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "I materiali di riferimento si stanno scaricando."
+            "value" : "I materiali di riferimento sono in fase di download."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "参考資料をダウンロード中です。"
+            "value" : "参考資料がダウンロード中です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сілтеме материалдары жүктелуде."
+            "value" : "Сілтемелік материалдар жүктеліп жатыр."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "참조 자료가 다운로드 중입니다."
+            "value" : "참고 자료가 다운로드되고 있습니다."
           }
         },
         "ms" : {
@@ -19879,13 +19825,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referansemateriell lastes ned."
+            "value" : "Referansematerialet lastes ned."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referentiemateriaal wordt gedownload."
+            "value" : "Referentiematerialen worden gedownload."
           }
         },
         "pl" : {
@@ -19903,7 +19849,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Materiais de referência a serem descarregados."
+            "value" : "Os materiais de referência estão a ser transferidos."
           }
         },
         "ro" : {
@@ -19915,7 +19861,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Справочные материалы загружаются."
+            "value" : "Словарные материалы загружаются."
           }
         },
         "sk" : {
@@ -19933,7 +19879,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กำลังดาวน์โหลดเอกสารอ้างอิง"
+            "value" : "กำลังดาวน์โหลดเอกสารอ้างอิง."
           }
         },
         "tr" : {
@@ -19945,7 +19891,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Матеріали для посилання завантажуються."
+            "value" : "Матеріали для довідки завантажуються."
           }
         },
         "vi" : {
@@ -19957,7 +19903,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "参考材料正在下载中。"
+            "value" : "参考资料正在下载。"
           }
         },
         "zh-Hant" : {
@@ -19972,23 +19918,12 @@
             "value" : "參考資料正在下載中。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.referenceMaterialsDownloadingDot" : {
-      "comment" : "Message when reference materials are being downloaded",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reference materials are downloading."
-          }
-        }
-      }
-    },
-    "TK.Message.searchHistoryCleared" : {
+    "TK.Message.searchHistoryClearedDot" : {
       "comment" : "Confirmation when search history is cleared",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19999,25 +19934,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Историята на търсенията е изчистена."
+            "value" : "Историята на търсенето е изчистена."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historial de cerca esborrat."
+            "value" : "Historial de cerques esborrat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historie vyhledávání byla vymazána."
+            "value" : "Historie hledání byla vymazána."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søgehistorik er ryddet."
+            "value" : "Søgehistorik ryddet."
           }
         },
         "de" : {
@@ -20029,7 +19964,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ιστορία αναζητήσεων διαγράφηκε."
+            "value" : "Το ιστορικό αναζητήσεων διαγράφηκε."
           }
         },
         "en" : {
@@ -20053,7 +19988,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historial de búsqueda eliminado."
+            "value" : "Historial de búsqueda borrado."
           }
         },
         "es-419" : {
@@ -20077,19 +20012,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historique des recherches effacé."
+            "value" : "Historique de recherche effacé."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההיסטוריה של החיפושים נמחקה."
+            "value" : "היסטוריית החיפושים נוקתה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "खोज इतिहास मिटाया गया।"
+            "value" : "खोज इतिहास साफ़ हो गया।"
           }
         },
         "hr" : {
@@ -20101,19 +20036,19 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A keresési előzmények törölve lettek."
+            "value" : "Keresési előzményeid törölve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Riwayat pencarian dihapus."
+            "value" : "Riwayat pencarian telah dihapus."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cronologia delle ricerche cancellata."
+            "value" : "Cronologia ricerche svuotata."
           }
         },
         "ja" : {
@@ -20125,7 +20060,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Іздеу тарихы тазартылды."
+            "value" : "Із тарихы тазартылды."
           }
         },
         "ko" : {
@@ -20167,7 +20102,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Histórico de buscas limpo."
+            "value" : "Histórico de pesquisas limpo."
           }
         },
         "ro" : {
@@ -20233,26 +20168,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋歷史已清除。"
+            "value" : "已清除搜索記錄。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.searchHistoryClearedDot" : {
-      "comment" : "Confirmation when search history is cleared",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Search history cleared."
-          }
-        }
-      }
-    },
-    "TK.Message.textCopiedToClipboard" : {
+    "TK.Message.textCopiedToClipboardDot" : {
       "comment" : "Confirmation when text is copied",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20281,7 +20205,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekst kopieret til udklipsholder."
+            "value" : "Tekst er kopieret til udklipsholderen."
           }
         },
         "de" : {
@@ -20347,13 +20271,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הטקסט הועתק ללוח."
+            "value" : "הטקסט הועתק ללוח הגזרים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "टेक्स्ट को क्लिपबोर्ड पर कॉपी कर दिया गया है।"
+            "value" : "पाठ क्लिपबोर्ड में कॉपी किया गया।"
           }
         },
         "hr" : {
@@ -20389,7 +20313,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мәтін буферге көшірілді."
+            "value" : "Мәтін көшірілді."
           }
         },
         "ko" : {
@@ -20401,19 +20325,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teks telah disalin ke papan keratan."
+            "value" : "Teks telah disalin ke papan klip."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekst kopiert til utklippstavlen."
+            "value" : "Teksten er kopiert til utklippstavlen."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekst naar het klembord gekopieerd."
+            "value" : "Tekst gekopieerd naar het klembord."
           }
         },
         "pl" : {
@@ -20437,7 +20361,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Text copiat în clipboard."
+            "value" : "Textul a fost copiat în clipboard."
           }
         },
         "ru" : {
@@ -20449,13 +20373,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Text bol skopírovaný do schránky."
+            "value" : "Text skopírovaný do schránky."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Texten har kopierats till urklipp."
+            "value" : "Text kopierad till urklipp."
           }
         },
         "th" : {
@@ -20479,7 +20403,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Văn bản đã được sao chép vào clipboard."
+            "value" : "Đã sao chép văn bản vào clipboard."
           }
         },
         "zh-Hans" : {
@@ -20491,109 +20415,98 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文本已複製到剪貼板。"
+            "value" : "文字已複製到剪貼板。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文本已複製到剪貼板。"
+            "value" : "文字已複製到剪貼板。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.textCopiedToClipboardDot" : {
-      "comment" : "Confirmation when text is copied",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Text copied to clipboard."
-          }
-        }
-      }
-    },
-    "TK.Message.unableToLoadData" : {
+    "TK.Message.unableToLoadDataDot" : {
       "comment" : "Message when data cannot be loaded",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "غير قادر على تحميل البيانات"
+            "value" : "غير قادر على تحميل البيانات."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Неуспешно зареждане на данни"
+            "value" : "Не е възможно да се зареди данните."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No és possible carregar dades"
+            "value" : "No es pot carregar les dades."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Není možné načíst data"
+            "value" : "Nepodařilo se načíst data."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunne ikke indlæse data"
+            "value" : "Kunne ikke indlæse data."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daten können nicht geladen werden"
+            "value" : "Daten können nicht geladen werden."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αδύνατη η φόρτωση δεδομένων"
+            "value" : "Αδυναμία φόρτωσης δεδομένων."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to Load Data"
+            "value" : "Unable to load data."
           }
         },
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to Load Data."
+            "value" : "Unable to load data."
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to Load Data"
+            "value" : "Unable to load data."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se pueden cargar los datos"
+            "value" : "No se pueden cargar los datos."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se pueden cargar datos."
+            "value" : "No se pueden cargar los datos."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tietojen lataaminen epäonnistui"
+            "value" : "Tietoja ei voida ladata."
           }
         },
         "fr" : {
@@ -20605,19 +20518,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossible de charger les données"
+            "value" : "Impossible de charger les données."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא ניתן לטעון נתונים"
+            "value" : "לא ניתן לטעון נתונים."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डेटा लोड करने में असमर्थ"
+            "value" : "डेटा लोड करने में असमर्थ।"
           }
         },
         "hr" : {
@@ -20629,43 +20542,43 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az adatokat nem lehet betölteni"
+            "value" : "Nem lehet betölteni az adatokat."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak dapat Memuat Data"
+            "value" : "Tidak dapat memuat data."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile caricare i dati"
+            "value" : "Impossibile caricare i dati."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "データを読み込めませんでした"
+            "value" : "データを読み込めません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деректерді жүктеу мүмкін болмады"
+            "value" : "Деректерді жүктеп алу мүмкін емес."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "데이터를 로드할 수 없습니다"
+            "value" : "데이터를 로드할 수 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak dapat memuatkan data"
+            "value" : "Tidak dapat memuatkan data."
           }
         },
         "nb" : {
@@ -20677,110 +20590,99 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan gegevens niet laden"
+            "value" : "Kan gegevens niet laden."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie można załadować danych"
+            "value" : "Nie można załadować danych."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Não foi possível carregar os dados"
+            "value" : "Não é possível carregar os dados."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossível carregar dados"
+            "value" : "Não é possível carregar os dados."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposibil de încărcat datele"
+            "value" : "Imposibil de încărcat datele."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не удалось загрузить данные"
+            "value" : "Невозможно загрузить данные."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nemožno načítať dáta"
+            "value" : "Nepodarilo sa načítať údaje."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunde inte ladda data"
+            "value" : "Det går inte att ladda data."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่สามารถโหลดข้อมูลได้"
+            "value" : "ไม่สามารถโหลดข้อมูลได้."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veri Yüklenemiyor"
+            "value" : "Veri yüklenemedi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не вдалося завантажити дані"
+            "value" : "Неможливо завантажити дані."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể tải dữ liệu"
+            "value" : "Không thể tải dữ liệu."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法加载数据"
+            "value" : "无法加载数据。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法載入資料"
+            "value" : "無法加載數據。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法載入數據"
+            "value" : "無法加載數據。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.unableToLoadDataDot" : {
-      "comment" : "Message when data cannot be loaded",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to load data."
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addANoteDots" : {
+    "TK.Placeholder.addNoteDots" : {
       "comment" : "Placeholder for adding a new note",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20791,19 +20693,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави бележка…"
+            "value" : "Добавете бележка…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir una nota…"
+            "value" : "Afegeix una nota…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidej poznámku…"
+            "value" : "Přidat poznámku…"
           }
         },
         "da" : {
@@ -20815,13 +20717,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notiz hinzufügen…"
+            "value" : "Füge eine Notiz hinzu…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε μια σημείωση…"
+            "value" : "Προσθέστε μια σημείωση…"
           }
         },
         "en" : {
@@ -20851,7 +20753,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar una nota…"
+            "value" : "Añadir una nota…"
           }
         },
         "fi" : {
@@ -20881,7 +20783,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एक नोट जोड़ें…"
+            "value" : "एक नोट जोड़ें..."
           }
         },
         "hr" : {
@@ -20911,13 +20813,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "メモを追加…"
+            "value" : "ノートを追加…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескерту қосу…"
+            "value" : "Ескертпе қосу…"
           }
         },
         "ko" : {
@@ -20971,7 +20873,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте заметку…"
+            "value" : "Добавить заметку…"
           }
         },
         "sk" : {
@@ -20983,25 +20885,25 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg till en anteckning…"
+            "value" : "Lägg till en notering…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มบันทึก…"
+            "value" : "เพิ่มโน้ต…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir not ekleyin…"
+            "value" : "Yeni bir not ekleyin…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додайте нотатку…"
+            "value" : "Додати нотатки…"
           }
         },
         "vi" : {
@@ -21013,34 +20915,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加备注…"
+            "value" : "添加注释…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加備註…"
+            "value" : "新增備註…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加备注…"
+            "value" : "添加便條…"
           }
         }
-      }
-    },
-    "TK.Placeholder.addNoteDots" : {
-      "comment" : "Placeholder for adding a new note",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a note…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addReferenceDots" : {
       "comment" : "Placeholder for adding a reference or source",
@@ -21258,7 +21149,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referans ekleyin..."
+            "value" : "Referans ekle…"
           }
         },
         "uk" : {
@@ -21282,7 +21173,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加參考…"
+            "value" : "新增參考…"
           }
         },
         "zh-HK" : {
@@ -21291,7 +21182,8 @@
             "value" : "添加參考…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addStudyNoteDots" : {
       "comment" : "Placeholder for adding a study-related note",
@@ -21509,7 +21401,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çalışma notu ekleyin..."
+            "value" : "Çalışma notu ekle…"
           }
         },
         "uk" : {
@@ -21542,7 +21434,8 @@
             "value" : "添加學習筆記…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.browseByCategoryDots" : {
       "comment" : "Placeholder for browsing by category",
@@ -21574,7 +21467,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Browse efter kategori..."
+            "value" : "Gennemse efter kategori..."
           }
         },
         "de" : {
@@ -21793,7 +21686,8 @@
             "value" : "按類別瀏覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.browseTopicsDots" : {
       "comment" : "Placeholder for browsing topics",
@@ -21813,7 +21707,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navegar per temes…"
+            "value" : "Trieu categoria…"
           }
         },
         "cs" : {
@@ -21825,7 +21719,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Browse emner..."
+            "value" : "Gennemse emner..."
           }
         },
         "de" : {
@@ -21951,7 +21845,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bla emner…"
+            "value" : "Bla gjennom emner…"
           }
         },
         "nl" : {
@@ -21969,7 +21863,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navegar por tópicos…"
+            "value" : "Escolher por tópicos…"
           }
         },
         "pt-PT" : {
@@ -21993,7 +21887,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prehliadať témy…"
+            "value" : "Prehliadanie tém…"
           }
         },
         "sv" : {
@@ -22005,7 +21899,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เรียกดูหัวข้อ…"
+            "value" : "กำลังเรียกดูหัวข้อ…"
           }
         },
         "tr" : {
@@ -22044,11 +21938,12 @@
             "value" : "按主題瀏覽…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Placeholder.chooseACategoryDots" : {
+    "TK.Placeholder.chooseCategoryDots" : {
       "comment" : "Placeholder for selecting a category",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -22065,13 +21960,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escollir una categoria…"
+            "value" : "Trieu una categoria…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybrat kategorii…"
+            "value" : "Vyberte kategorii…"
           }
         },
         "da" : {
@@ -22083,13 +21978,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kategorie auswählen…"
+            "value" : "Wähle eine Kategorie…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επιλέξτε μια κατηγορία…"
+            "value" : "Επίλεξε κατηγορία…"
           }
         },
         "en" : {
@@ -22113,13 +22008,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elegir una categoría…"
+            "value" : "Elige una categoría…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elegir una categoría…"
+            "value" : "Elige una categoría…"
           }
         },
         "fi" : {
@@ -22131,7 +22026,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisir une catégorie…"
+            "value" : "Choisissez une catégorie…"
           }
         },
         "fr-CA" : {
@@ -22149,7 +22044,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एक श्रेणी चुनें…"
+            "value" : "श्रेणी चुनें…"
           }
         },
         "hr" : {
@@ -22161,7 +22056,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz ki egy kategóriát…"
+            "value" : "Válassz egy kategóriát…"
           }
         },
         "id" : {
@@ -22179,19 +22074,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "カテゴリを選択…"
+            "value" : "カテゴリーを選択…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Санат таңдаңыз…"
+            "value" : "Категорияны таңда…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "카테고리 선택…"
+            "value" : "카테고리를 선택하세요…"
           }
         },
         "ms" : {
@@ -22221,7 +22116,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escolher uma categoria…"
+            "value" : "Escolha uma categoria…"
           }
         },
         "pt-PT" : {
@@ -22233,13 +22128,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege o categorie…"
+            "value" : "Alege o categorie..."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбрать категорию…"
+            "value" : "Выбери категорию…"
           }
         },
         "sk" : {
@@ -22269,7 +22164,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вибрати категорію…"
+            "value" : "Оберіть категорію…"
           }
         },
         "vi" : {
@@ -22293,22 +22188,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇類別…"
+            "value" : "選擇一個類別…"
           }
         }
-      }
-    },
-    "TK.Placeholder.chooseCategoryDots" : {
-      "comment" : "Placeholder for selecting a category",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a category…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.citeThisEntryDots" : {
       "comment" : "Placeholder for citing the current entry",
@@ -22334,7 +22218,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citovat tento záznam…"
+            "value" : "Citování záznamu…"
           }
         },
         "da" : {
@@ -22346,7 +22230,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Eingabe zitieren…"
+            "value" : "Deine Eingabe zitieren…"
           }
         },
         "el" : {
@@ -22406,7 +22290,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ציטט רשומה זו…"
+            "value" : "ציין רשומה זו…"
           }
         },
         "hi" : {
@@ -22448,7 +22332,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұл жазбаны сілтеме жасаңыз…"
+            "value" : "Бұл жазбаны сілтеме жасау…"
           }
         },
         "ko" : {
@@ -22490,7 +22374,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citar esta entrada…"
+            "value" : "Citar esta citação…"
           }
         },
         "ro" : {
@@ -22514,7 +22398,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citerar detta inlägg…"
+            "value" : "Citera detta inlägg…"
           }
         },
         "th" : {
@@ -22559,7 +22443,8 @@
             "value" : "引用此條目…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.defineTermDots" : {
       "comment" : "Placeholder for defining a term",
@@ -22663,7 +22548,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "शब्द को परिभाषित कीजिये…"
+            "value" : "शब्द को परिभाषित करें…"
           }
         },
         "hr" : {
@@ -22687,13 +22572,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definisci termine…"
+            "value" : "Definire il termine…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用語を定義…"
+            "value" : "用語を定義中…"
           }
         },
         "kk" : {
@@ -22810,7 +22695,8 @@
             "value" : "定義術語…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterKeywordsDots" : {
       "comment" : "Placeholder for entering search keywords",
@@ -22854,7 +22740,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε λέξεις-κλειδιά…"
+            "value" : "Γράψε λέξεις-κλειδιά…"
           }
         },
         "en" : {
@@ -22956,7 +22842,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "키워드 입력…"
+            "value" : "키워드를 입력하세요…"
           }
         },
         "ms" : {
@@ -23022,13 +22908,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่คำหลัก…"
+            "value" : "กรอกคำหลัก…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anahtar kelimeleri girin…"
+            "value" : "Anahtar kelimeleri gir…"
           }
         },
         "uk" : {
@@ -23061,7 +22947,8 @@
             "value" : "輸入關鍵詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSearchTermDots" : {
       "comment" : "Placeholder for entering a search term",
@@ -23105,7 +22992,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όρο αναζήτησης…"
+            "value" : "Βάλε όρο αναζήτησης…"
           }
         },
         "en" : {
@@ -23267,13 +23154,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange sökterm…"
+            "value" : "Ange sökterm här…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่คำค้น…"
+            "value" : "กรอกคำค้น…"
           }
         },
         "tr" : {
@@ -23312,7 +23199,8 @@
             "value" : "輸入搜尋詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a topic or keyword",
@@ -23422,7 +23310,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite temu ili ključnu riječ…"
+            "value" : "Unesi temu ili ključnu riječ…"
           }
         },
         "hu" : {
@@ -23476,7 +23364,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer onderwerp of trefwoord in..."
+            "value" : "Voer onderwerp of trefwoord in…"
           }
         },
         "pl" : {
@@ -23488,7 +23376,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o tópico ou palavra-chave…"
+            "value" : "Digite o tópico ou palavra-chave…"
           }
         },
         "pt-PT" : {
@@ -23560,10 +23448,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入主題或關鍵字…"
+            "value" : "輸入主題或關鍵詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -23727,7 +23616,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter resultaten..."
+            "value" : "Filter resultaten…"
           }
         },
         "pl" : {
@@ -23814,7 +23703,8 @@
             "value" : "過濾結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within an article",
@@ -23840,7 +23730,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najděte v článku…"
+            "value" : "Najdi v článku…"
           }
         },
         "da" : {
@@ -23900,7 +23790,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouver dans l'article…"
+            "value" : "Rechercher dans l'article…"
           }
         },
         "fr-CA" : {
@@ -24065,7 +23955,8 @@
             "value" : "在文章中查找…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.lookUpWordDots" : {
       "comment" : "Placeholder for looking up a word or term",
@@ -24091,7 +23982,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyhledejte slovo…"
+            "value" : "Vyhledej slovo…"
           }
         },
         "da" : {
@@ -24241,7 +24132,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar palavra…"
+            "value" : "Consultar palavra…"
           }
         },
         "pt-PT" : {
@@ -24265,7 +24156,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyhľadávanie slova…"
+            "value" : "Vyhľadávam slovo…"
           }
         },
         "sv" : {
@@ -24289,7 +24180,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук слова…"
+            "value" : "Дивлюсь слово…"
           }
         },
         "vi" : {
@@ -24316,7 +24207,8 @@
             "value" : "查詢單詞…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no search results are found",
@@ -24558,7 +24450,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到結果…"
+            "value" : "未找到結果..."
           }
         },
         "zh-HK" : {
@@ -24567,7 +24459,8 @@
             "value" : "未找到結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.quickSearchDots" : {
       "comment" : "Placeholder for quick searching",
@@ -24671,7 +24564,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रभाव रेंडर कर रहे हैं..."
+            "value" : "त्वरित खोज…"
           }
         },
         "hr" : {
@@ -24803,7 +24696,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "快速搜索…"
+            "value" : "快速搜索中…"
           }
         },
         "zh-Hant" : {
@@ -24818,7 +24711,8 @@
             "value" : "快速搜索…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByKeywordDots" : {
       "comment" : "Placeholder for searching by keyword",
@@ -24838,7 +24732,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant per paraula clau…"
+            "value" : "Cerca per paraula clau…"
           }
         },
         "cs" : {
@@ -24928,7 +24822,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem prema ključnoj riječi…"
+            "value" : "Pretraži prema ključnoj riječi…"
           }
         },
         "hu" : {
@@ -25060,7 +24954,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按關鍵字搜尋中…"
+            "value" : "按關鍵字搜尋中..."
           }
         },
         "zh-HK" : {
@@ -25069,7 +24963,8 @@
             "value" : "按關鍵字搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchEncyclopediaDots" : {
       "comment" : "Placeholder for searching an encyclopedia",
@@ -25101,7 +24996,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger encyklopædi…"
+            "value" : "Søg i encyklopædi…"
           }
         },
         "de" : {
@@ -25143,7 +25038,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar enciclopedia…"
+            "value" : "Buscar en la enciclopedia…"
           }
         },
         "fi" : {
@@ -25203,7 +25098,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "百科事典を検索中…"
+            "value" : "百科事典を検索…"
           }
         },
         "kk" : {
@@ -25227,7 +25122,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søk i encyklopedi…"
+            "value" : "Søk i oppslagsverk…"
           }
         },
         "nl" : {
@@ -25251,13 +25146,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar enciclopédia..."
+            "value" : "Pesquisar enciclopédia…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut enciclopedie…"
+            "value" : "Caută enciclopedii…"
           }
         },
         "ru" : {
@@ -25320,7 +25215,8 @@
             "value" : "搜索百科全书…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchReferencesDots" : {
       "comment" : "Placeholder for searching references",
@@ -25352,7 +25248,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg referencer…"
+            "value" : "Søg i referencer…"
           }
         },
         "de" : {
@@ -25400,7 +25296,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi viittauksia..."
+            "value" : "Etsi viittauksia…"
           }
         },
         "fr" : {
@@ -25460,7 +25356,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сілтемелерді іздеу…"
+            "value" : "Сілтемелерді іздеңіз..."
           }
         },
         "ko" : {
@@ -25514,7 +25410,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем справки…"
+            "value" : "Ищем справочные материалы…"
           }
         },
         "sk" : {
@@ -25526,7 +25422,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök referenser..."
+            "value" : "Sök referenser…"
           }
         },
         "th" : {
@@ -25562,7 +25458,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋參考資料..."
+            "value" : "搜尋參考資料…"
           }
         },
         "zh-HK" : {
@@ -25571,7 +25467,8 @@
             "value" : "搜尋參考資料…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeToSearchDots" : {
       "comment" : "Placeholder to indicate the user can type to search",
@@ -25705,7 +25602,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "検索するには入力…"
+            "value" : "検索するには入力してください…"
           }
         },
         "kk" : {
@@ -25819,10 +25716,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入搜索…"
+            "value" : "輸入以搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

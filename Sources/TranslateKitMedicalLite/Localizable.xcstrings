@@ -250,7 +250,8 @@
             "value" : "分析"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a report or record",
@@ -501,7 +502,8 @@
             "value" : "附加檔案"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -611,7 +613,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezerviši termin"
+            "value" : "Rezerviraj termin"
           }
         },
         "hu" : {
@@ -641,7 +643,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кездесу жоспарлау"
+            "value" : "Кездесуге жазылу"
           }
         },
         "ko" : {
@@ -653,7 +655,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预约"
+            "value" : "Buat Jadual Temu"
           }
         },
         "nb" : {
@@ -752,7 +754,8 @@
             "value" : "预约"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.compareResults" : {
       "comment" : "Use for comparing different medical results",
@@ -760,7 +763,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "قارن النتائج"
+            "value" : "مقارنة النتائج"
           }
         },
         "bg" : {
@@ -808,7 +811,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compare"
+            "value" : "Compare Results"
           }
         },
         "en-GB" : {
@@ -850,7 +853,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "השוואת תוצאות"
+            "value" : "השווה תוצאות"
           }
         },
         "hi" : {
@@ -910,7 +913,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sammenlign"
+            "value" : "Sammenlign resultater"
           }
         },
         "nl" : {
@@ -940,7 +943,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compară rezultate"
+            "value" : "Compară Rezultatele"
           }
         },
         "ru" : {
@@ -1003,7 +1006,8 @@
             "value" : "比較結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.contactDoctor" : {
       "comment" : "Use for initiating contact with a doctor",
@@ -1077,7 +1081,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contactar doctor"
+            "value" : "Contactar al doctor"
           }
         },
         "fi" : {
@@ -1254,7 +1258,8 @@
             "value" : "聯絡醫生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.contactSupport" : {
       "comment" : "Use for reaching out to customer support",
@@ -1274,7 +1279,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Departament de suport"
+            "value" : "Contactar amb Suport"
           }
         },
         "cs" : {
@@ -1478,7 +1483,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Звернутися до Служби підтримки"
+            "value" : "Зв'язатися з підтримкою"
           }
         },
         "vi" : {
@@ -1505,7 +1510,8 @@
             "value" : "聯絡支援"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.deleteReport" : {
       "comment" : "Use for removing a medical report from the system",
@@ -1633,7 +1639,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimina report"
+            "value" : "Elimina Report"
           }
         },
         "ja" : {
@@ -1756,7 +1762,8 @@
             "value" : "刪除報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.diagnose" : {
       "comment" : "Use for diagnosing a medical condition",
@@ -2007,7 +2014,8 @@
             "value" : "診斷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportData" : {
       "comment" : "Use for exporting medical data",
@@ -2258,7 +2266,8 @@
             "value" : "導出數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting a medical report as a PDF",
@@ -2392,7 +2401,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDFとして書き出す"
+            "value" : "PDFをエクスポートする"
           }
         },
         "kk" : {
@@ -2509,7 +2518,8 @@
             "value" : "輸出為PDF"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportResults" : {
       "comment" : "Use for exporting medical test or analysis results",
@@ -2523,7 +2533,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортируй резултати"
+            "value" : "Експортирай резултати"
           }
         },
         "ca" : {
@@ -2760,7 +2770,8 @@
             "value" : "導出結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a medical report",
@@ -3011,7 +3022,8 @@
             "value" : "生成報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing medical data into the system",
@@ -3259,10 +3271,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入数据"
+            "value" : "導入數據"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logMeasurement" : {
       "comment" : "Use for recording medical measurements",
@@ -3486,7 +3499,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Логувати вимірювання"
+            "value" : "Записати вимірювання"
           }
         },
         "vi" : {
@@ -3513,7 +3526,8 @@
             "value" : "记录测量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.logSymptom" : {
       "comment" : "Use for documenting medical symptoms",
@@ -3737,7 +3751,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Логувати симптоми"
+            "value" : "Записати симптоми"
           }
         },
         "vi" : {
@@ -3764,7 +3778,8 @@
             "value" : "记录症状"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use for marking a task or report as complete",
@@ -4015,7 +4030,8 @@
             "value" : "標記為完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.measure" : {
       "comment" : "Use for taking a medical measurement",
@@ -4035,7 +4051,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mesures"
+            "value" : "Mesurar"
           }
         },
         "cs" : {
@@ -4143,7 +4159,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metro"
+            "value" : "Maschera"
           }
         },
         "ja" : {
@@ -4185,7 +4201,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miarka"
+            "value" : "Mierz"
           }
         },
         "pt-BR" : {
@@ -4215,13 +4231,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meradlo"
+            "value" : "Zmerať"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mätverktyg"
+            "value" : "Mäta"
           }
         },
         "th" : {
@@ -4266,7 +4282,8 @@
             "value" : "測距儀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.monitor" : {
       "comment" : "Use for monitoring health conditions or progress",
@@ -4304,7 +4321,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Überwachen"
+            "value" : "überwachen"
           }
         },
         "el" : {
@@ -4364,7 +4381,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נשק"
+            "value" : "ניטור"
           }
         },
         "hi" : {
@@ -4517,7 +4534,8 @@
             "value" : "监测"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.printReport" : {
       "comment" : "Use for printing a medical report",
@@ -4645,7 +4663,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporto"
+            "value" : "Stampa rapporto"
           }
         },
         "ja" : {
@@ -4768,7 +4786,8 @@
             "value" : "列印報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use for recording medical data or information",
@@ -5004,7 +5023,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "录制"
+            "value" : "记录"
           }
         },
         "zh-Hant" : {
@@ -5016,10 +5035,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄製"
+            "value" : "記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordResult" : {
       "comment" : "Use for recording the result of a medical test",
@@ -5270,7 +5290,8 @@
             "value" : "記錄結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.recordValue" : {
       "comment" : "Use for recording a value from a medical measurement",
@@ -5518,10 +5539,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄數據"
+            "value" : "紀錄數值"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestAppointment" : {
       "comment" : "Use for requesting a medical appointment",
@@ -5772,7 +5794,8 @@
             "value" : "要求約見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestData" : {
       "comment" : "Use for requesting medical data or records",
@@ -6023,7 +6046,8 @@
             "value" : "要求資料"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.requestRefill" : {
       "comment" : "Use for requesting a prescription refill",
@@ -6139,7 +6163,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Receptúra Kérése"
+            "value" : "Receptúra kérése"
           }
         },
         "id" : {
@@ -6157,7 +6181,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "処方箋の再注入をリクエスト"
+            "value" : "リフィルをリクエスト"
           }
         },
         "kk" : {
@@ -6217,7 +6241,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запросить дозу"
+            "value" : "Запросить дозаправку"
           }
         },
         "sk" : {
@@ -6235,7 +6259,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ขอเพิ่มยาค่ะ"
+            "value" : "ขอเพิ่มยา"
           }
         },
         "tr" : {
@@ -6247,13 +6271,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запросити повторний рецепт"
+            "value" : "Запросити поповнення"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yêu cầu Đơn thuốc"
+            "value" : "Yêu cầu Đơn thuốc bổ sung"
           }
         },
         "zh-Hans" : {
@@ -6274,7 +6298,8 @@
             "value" : "要求補充處方"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.reviewResults" : {
       "comment" : "Use for reviewing medical test or analysis results",
@@ -6525,7 +6550,8 @@
             "value" : "檢閱結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling a medical event or appointment",
@@ -6611,7 +6637,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programme"
+            "value" : "Programmer"
           }
         },
         "fr-CA" : {
@@ -6665,7 +6691,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кесте"
+            "value" : "Жоспарлау"
           }
         },
         "ko" : {
@@ -6776,7 +6802,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.scheduleAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -6790,7 +6817,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планиране на среща"
+            "value" : "Планирай среща"
           }
         },
         "ca" : {
@@ -7006,7 +7033,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lên lịch Lịch hẹn"
+            "value" : "Lên lịch Cuộc hẹn"
           }
         },
         "zh-Hans" : {
@@ -7027,7 +7054,8 @@
             "value" : "安排約見"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareReport" : {
       "comment" : "Use for sharing a medical report",
@@ -7278,7 +7306,8 @@
             "value" : "分享報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareResults" : {
       "comment" : "Use for sharing the results of a medical test or analysis",
@@ -7529,7 +7558,8 @@
             "value" : "分享結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startMeasurement" : {
       "comment" : "Use for starting a measurement process",
@@ -7645,7 +7675,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mérés Indítása"
+            "value" : "Mérés indítása"
           }
         },
         "id" : {
@@ -7669,7 +7699,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өлшем бастау"
+            "value" : "Өлшеуді бастау"
           }
         },
         "ko" : {
@@ -7759,7 +7789,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Đo Đạc"
+            "value" : "Bắt đầu đo đạc"
           }
         },
         "zh-Hans" : {
@@ -7780,7 +7810,8 @@
             "value" : "開始測量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting a recording session for data",
@@ -8010,7 +8041,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Ghi Âm"
+            "value" : "Bắt đầu ghi âm"
           }
         },
         "zh-Hans" : {
@@ -8031,7 +8062,8 @@
             "value" : "開始錄音"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.submitReport" : {
       "comment" : "Use for submitting a medical report",
@@ -8282,7 +8314,8 @@
             "value" : "提交報告"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takeReading" : {
       "comment" : "Use for taking a reading, such as blood pressure or temperature",
@@ -8398,7 +8431,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mérés Végzése"
+            "value" : "Eredmény Végzése"
           }
         },
         "id" : {
@@ -8422,7 +8455,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқу жүргізу"
+            "value" : "Өлшем жүргізу"
           }
         },
         "ko" : {
@@ -8482,7 +8515,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odobrať vzorku"
+            "value" : "Odmerať hodnotu"
           }
         },
         "sv" : {
@@ -8533,7 +8566,8 @@
             "value" : "進行讀取"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking medical conditions or health metrics",
@@ -8559,7 +8593,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Sledovat"
           }
         },
         "da" : {
@@ -8577,7 +8611,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Παρακολούθησε"
           }
         },
         "en" : {
@@ -8703,7 +8737,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trak"
+            "value" : "Śledź"
           }
         },
         "pt-BR" : {
@@ -8715,7 +8749,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Rastrear"
           }
         },
         "ro" : {
@@ -8775,7 +8809,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "追蹤"
           }
         },
         "zh-HK" : {
@@ -8784,7 +8818,8 @@
             "value" : "Track"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.verifyReading" : {
       "comment" : "Use for verifying the accuracy of a medical reading",
@@ -9035,7 +9070,8 @@
             "value" : "驗證讀數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.address" : {
       "comment" : "Use for labeling address fields",
@@ -9286,7 +9322,8 @@
             "value" : "地址"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.age" : {
       "comment" : "Use for labeling age-related information",
@@ -9537,7 +9574,8 @@
             "value" : "年齡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.allergies" : {
       "comment" : "Use for labeling allergy information",
@@ -9788,7 +9826,8 @@
             "value" : "過敏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.appointments" : {
       "comment" : "Use for listing medical appointments",
@@ -10039,7 +10078,8 @@
             "value" : "約會"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use for tracking blood pressure readings",
@@ -10233,7 +10273,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Давление крови"
+            "value" : "Кровяное давление"
           }
         },
         "sk" : {
@@ -10290,7 +10330,8 @@
             "value" : "血压"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bloodSugar" : {
       "comment" : "Use for tracking blood sugar levels",
@@ -10541,7 +10582,8 @@
             "value" : "血糖"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bodyTemperature" : {
       "comment" : "Use for recording body temperature readings",
@@ -10792,7 +10834,8 @@
             "value" : "体温"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.diagnosis" : {
       "comment" : "Use for labeling a diagnosis",
@@ -11043,7 +11086,8 @@
             "value" : "診斷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.doctor" : {
       "comment" : "Use for referring to a healthcare professional",
@@ -11294,7 +11338,8 @@
             "value" : "醫生"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.documentation" : {
       "comment" : "Use for referring to medical documentation",
@@ -11428,7 +11473,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文書"
+            "value" : "ドキュメント"
           }
         },
         "kk" : {
@@ -11545,7 +11590,8 @@
             "value" : "文檔"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dosage" : {
       "comment" : "Use for referring to prescribed medication dosage",
@@ -11625,7 +11671,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annospitoisuus"
+            "value" : "Annospituus"
           }
         },
         "fr" : {
@@ -11733,7 +11779,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosare"
+            "value" : "Doză"
           }
         },
         "ru" : {
@@ -11796,7 +11842,8 @@
             "value" : "劑量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.emergencyContact" : {
       "comment" : "Use for labeling emergency contact information",
@@ -12047,7 +12094,8 @@
             "value" : "緊急聯絡人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.expirationDate" : {
       "comment" : "Use for labeling medication expiration dates",
@@ -12193,7 +12241,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "만료일"
+            "value" : "만료 날짜"
           }
         },
         "ms" : {
@@ -12298,7 +12346,8 @@
             "value" : "到期日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.gender" : {
       "comment" : "Use for labeling gender information",
@@ -12549,7 +12598,8 @@
             "value" : "性別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking heart rate readings",
@@ -12800,7 +12850,8 @@
             "value" : "心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.hospital" : {
       "comment" : "Use for labeling hospital or medical facility information",
@@ -13051,7 +13102,8 @@
             "value" : "醫院"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.id" : {
       "comment" : "Use for labeling identification information",
@@ -13302,7 +13354,8 @@
             "value" : "識別碼"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.insurance" : {
       "comment" : "Use for referring to insurance details",
@@ -13376,7 +13429,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seguro"
+            "value" : "Aseguranza"
           }
         },
         "fi" : {
@@ -13553,7 +13606,8 @@
             "value" : "保險"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.labResults" : {
       "comment" : "Use for referring to laboratory test results",
@@ -13801,10 +13855,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "化驗結果"
+            "value" : "檢驗結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.measurement" : {
       "comment" : "Use for referring to medical measurements",
@@ -13968,7 +14023,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metingen"
+            "value" : "Meting"
           }
         },
         "pl" : {
@@ -14055,7 +14110,8 @@
             "value" : "測量"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.medicalHistory" : {
       "comment" : "Use for referring to a patient's medical history",
@@ -14087,7 +14143,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sundhedsoplysninger"
+            "value" : "Medicinsk historie"
           }
         },
         "de" : {
@@ -14189,7 +14245,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "履歴"
+            "value" : "医療歴"
           }
         },
         "kk" : {
@@ -14306,7 +14362,8 @@
             "value" : "病歷"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.medication" : {
       "comment" : "Use for referring to prescribed medications",
@@ -14557,7 +14614,8 @@
             "value" : "藥物"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.name" : {
       "comment" : "Use for labeling name fields",
@@ -14808,7 +14866,8 @@
             "value" : "名稱"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.patient" : {
       "comment" : "Use for referring to a patient",
@@ -15059,7 +15118,8 @@
             "value" : "病人"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pharmacy" : {
       "comment" : "Use for labeling pharmacy or prescription information",
@@ -15310,7 +15370,8 @@
             "value" : "藥房"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.prescription" : {
       "comment" : "Use for referring to a medical prescription",
@@ -15348,7 +15409,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verschreibung"
+            "value" : "Rezept"
           }
         },
         "el" : {
@@ -15510,7 +15571,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recept"
+            "value" : "Predpis"
           }
         },
         "sv" : {
@@ -15561,7 +15622,8 @@
             "value" : "處方"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.provider" : {
       "comment" : "Use for referring to a healthcare provider",
@@ -15701,7 +15763,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дәрігер"
+            "value" : "Жеткізуші"
           }
         },
         "ko" : {
@@ -15713,7 +15775,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penyedia"
+            "value" : "Penyedia Perkhidmatan Kesihatan"
           }
         },
         "nb" : {
@@ -15797,7 +15859,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提供者"
+            "value" : "个人医生"
           }
         },
         "zh-Hant" : {
@@ -15812,7 +15874,8 @@
             "value" : "提供者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pulse" : {
       "comment" : "Use for tracking pulse rate",
@@ -16063,7 +16126,8 @@
             "value" : "脈搏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.results" : {
       "comment" : "Use for referring to medical test or report results",
@@ -16083,7 +16147,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultats"
           }
         },
         "cs" : {
@@ -16131,7 +16195,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Resultados"
           }
         },
         "es-419" : {
@@ -16143,7 +16207,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Tulokset"
           }
         },
         "fr" : {
@@ -16191,7 +16255,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Risultati"
           }
         },
         "ja" : {
@@ -16233,7 +16297,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Results"
+            "value" : "Wyniki"
           }
         },
         "pt-BR" : {
@@ -16314,7 +16378,8 @@
             "value" : "結果"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.symptoms" : {
       "comment" : "Use for referring to symptoms reported by the patient",
@@ -16565,7 +16630,8 @@
             "value" : "症狀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.treatment" : {
       "comment" : "Use for referring to medical treatment options",
@@ -16816,16 +16882,17 @@
             "value" : "治療"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.abnormalReadingDetected" : {
+    "TK.Message.abnormalReadingDetectedDot" : {
       "comment" : "Use to notify of an abnormal medical reading",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم الكشف عن قراءة غير طبيعية."
+            "value" : "تم اكتشاف قراءة غير طبيعية."
           }
         },
         "bg" : {
@@ -16837,19 +16904,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S'ha detectat una lectura anòmala."
+            "value" : "Lectura anormal detectada."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bylo detekováno abnormální měření."
+            "value" : "Byl zjištěn abnormální výsledek."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unormal måling registreret."
+            "value" : "Unormal aflæsning registreret."
           }
         },
         "de" : {
@@ -16861,7 +16928,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ανεπίτρεπτη μέτρηση ανιχνεύθηκε."
+            "value" : "Αποκλίνουσα μέτρηση ανιχνεύθηκε."
           }
         },
         "en" : {
@@ -16897,7 +16964,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Poikkeava lukema havaittu."
+            "value" : "Hälytys: ei normaali lukema havaittu."
           }
         },
         "fr" : {
@@ -16915,25 +16982,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נמצא קריאה לא תקינה."
+            "value" : "זיהוי קריאה לא נורמלית."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अनियमित रीडिंग का पता चला है।"
+            "value" : "असामान्य रीडिंग का पता चला है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nepostojano očitanje"
+            "value" : "Otkriveno abnormalno očitanje."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szokatlan értékelés észlelve."
+            "value" : "Abnormális olvasás észlelve."
           }
         },
         "id" : {
@@ -16945,37 +17012,37 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rilevamento di una lettura anomala."
+            "value" : "È stata rilevata una lettura anomala."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "異常な読み取りが検出されました。"
+            "value" : "異常な読みが検出されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Аномальды өлшем анықталды."
+            "value" : "Аномальды оқу анықталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비정상적인 수치가 감지되었습니다."
+            "value" : "비정상적인 판독값이 감지되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pembacaan yang tidak normal dikesan."
+            "value" : "Bacaan tidak normal dikesan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unormal avlesning oppdaget."
+            "value" : "Unormal avlesning registrert."
           }
         },
         "nl" : {
@@ -16987,7 +17054,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wykryto nietypowy odczyt."
+            "value" : "Wykryto nieprawidłowy odczyt."
           }
         },
         "pt-BR" : {
@@ -17005,49 +17072,49 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S-a detectat o citire anormală."
+            "value" : "A fost detectată o citire anormală."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обнаружено аномальное значение."
+            "value" : "Обнаружено аномальное показание."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zistené abnormálne hodnoty."
+            "value" : "Detekovaná anomália merania."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onormal avläsning upptäckt."
+            "value" : "Onormal avläsning upptäcktes."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตรวจพบการอ่านค่าผิดปกติแล้ว."
+            "value" : "มีการตรวจพบการอ่านที่ผิดปกติ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anormal bir okuma algılandı."
+            "value" : "Anormal okuma tespit edildi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виявлено аномальне показання."
+            "value" : "Виявлено аномальне зчитування."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phát hiện chỉ số bất thường."
+            "value" : "Đã phát hiện đọc bất thường."
           }
         },
         "zh-Hans" : {
@@ -17068,23 +17135,12 @@
             "value" : "檢測到異常讀數。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.abnormalReadingDetectedDot" : {
-      "comment" : "Use to notify of an abnormal medical reading",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Abnormal reading detected."
-          }
-        }
-      }
-    },
-    "TK.Message.appointmentBookingConfirmed" : {
+    "TK.Message.appointmentBookingConfirmedDot" : {
       "comment" : "Use to confirm appointment booking",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17095,25 +17151,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервацията на срещата е потвърдена."
+            "value" : "Записването на срещата е потвърдено."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservar cita confirmada."
+            "value" : "Reserva de cita confirmada."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schůzka byla potvrzena."
+            "value" : "Rezervace schůzky byla potvrzena."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aftale booking bekræftet."
+            "value" : "Aftalebooking bekræftet."
           }
         },
         "de" : {
@@ -17173,25 +17229,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réservation de rendez-vous confirmée."
+            "value" : "Réservation d'un rendez-vous confirmée."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזמנת תור אושרה."
+            "value" : "הזמנת הפגישה אושרה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अपॉइंटमेंट बुकिंग की पुष्टि हो गई है।"
+            "value" : "अपॉइंटमेंट बुकिंग की पुष्टि हो गई।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrđena rezervacija termina."
+            "value" : "Potvrda rezervacije sastanka."
           }
         },
         "hu" : {
@@ -17203,7 +17259,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengaturan janji temu dikonfirmasi."
+            "value" : "Pemesanan janji telah dikonfirmasi."
           }
         },
         "it" : {
@@ -17215,73 +17271,73 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "予約が確認されました。"
+            "value" : "予約が確定しました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кездесуді брондау расталды."
+            "value" : "Кездесу брондалды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "약속 예약이 확인되었습니다."
+            "value" : "예약이 확인되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempahan janji temu telah disahkan."
+            "value" : "Pengesahan tempahan janji temu."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avtalen er bekreftet."
+            "value" : "Avtale bestilt."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afspraakboeking bevestigd."
+            "value" : "Afspraakbevestiging bevestigd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezerwacja wizyty potwierdzona."
+            "value" : "Potwierdzenie rezerwacji wizyty."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agendamento confirmado."
+            "value" : "Reserva de consulta confirmada."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmação de marcação de consulta."
+            "value" : "Agendamento da consulta confirmado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmare rezervare de întâlnire."
+            "value" : "Confirmarea programării a fost efectuată."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бронирование встречи подтверждено."
+            "value" : "Запись на прием подтверждена."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrdenie rezervácie schôdzky."
+            "value" : "Rezervácia schôdzky bola potvrdená."
           }
         },
         "sv" : {
@@ -17293,7 +17349,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การจองนัดหมายได้รับการยืนยันแล้ว."
+            "value" : "ยืนยันการจองนัดเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -17305,7 +17361,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Підтверджено бронювання зустрічі."
+            "value" : "Бронювання прийому підтверджено."
           }
         },
         "vi" : {
@@ -17332,46 +17388,276 @@
             "value" : "預約已確認。"
           }
         }
-      }
-    },
-    "TK.Message.appointmentBookingConfirmedDot" : {
-      "comment" : "Use to confirm appointment booking",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Appointment booking confirmed."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.appointmentConfirmedDot" : {
       "comment" : "Confirmation that an appointment is scheduled",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Your appointment has been confirmed."
-          }
-        }
-      }
-    },
-    "TK.Message.contactEmergencyServicesImmediately" : {
-      "comment" : "Urgent message to contact emergency services",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اتصل بخدمات الطوارئ على الفور."
+            "value" : "تم تأكيد موعدك."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Свържете се незабавно с спешните служби."
+            "value" : "Вашата среща е потвърдена."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La teva cita ha estat confirmada."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje schůzka byla potvrzena."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din aftale er bekræftet."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Termin wurde bestätigt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το ραντεβού σας έχει επιβεβαιωθεί."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your appointment has been confirmed."
+          }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your appointment has been confirmed."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your appointment has been confirmed."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu cita ha sido confirmada."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu cita ha sido confirmada."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aikasi on vahvistettu."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre rendez-vous a été confirmé."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre rendez-vous a été confirmé."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הפגישה שלך אושרה."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपका अपॉइंटमेंट पुष्टि हो गया है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoj sastanak je potvrđen."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Az időpontod megerősítve."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Janji Anda telah dikonfirmasi."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo appuntamento è stato confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの予約は確認されました。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сіздің брондауыңыз расталды."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예약이 확인되었습니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Janji temu anda telah disahkan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avtalen din er bekreftet."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je afspraak is bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoja wizyta została potwierdzona."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua consulta foi confirmada."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tua consulta foi confirmada."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Programarea ta a fost confirmată."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоя запись на прием подтверждена."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoja schôdzka bola potvrdená."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din tid har bekräftats."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นัดของคุณได้รับการยืนยันแล้ว."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Randevunuz onaylandı."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш прийом підтверджено."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch hẹn của bạn đã được xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的预约已被确认。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的預約已被確認。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的預約已經確認。"
+          }
+        }
+      },
+      "proofread" : true
+    },
+    "TK.Message.contactEmergencyServicesImmediatelyDot" : {
+      "comment" : "Urgent message to contact emergency services",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يرجى الاتصال بفرق الطوارئ على الفور."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свържете се незабавно с службите за спешна помощ."
           }
         },
         "ca" : {
@@ -17383,25 +17669,25 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okamžitě kontaktujte pohotovostní služby."
+            "value" : "Okamžitě kontaktuj záchranářské služby."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt straks nødservices."
+            "value" : "Kontakt straks nødberedskabet."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontaktiere umgehend die Notdienste."
+            "value" : "Kontaktiere umgehend den Notdienst."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επικοινωνήστε αμέσως με τις υπηρεσίες έκτακτης ανάγκης."
+            "value" : "Επικοινώνησε άμεσα με τις υπηρεσίες έκτακτης ανάγκης."
           }
         },
         "en" : {
@@ -17425,7 +17711,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contacta con los servicios de emergencia inmediatamente."
+            "value" : "Contacta con los servicios de emergencia de inmediato."
           }
         },
         "es-419" : {
@@ -17449,13 +17735,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contactez les services d'urgence immédiatement."
+            "value" : "Contactez immédiatement les services d'urgence."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "יצרו קשר עם שירותי החירום מיד."
+            "value" : "צרו קשר עם שירותי החירום מיד."
           }
         },
         "hi" : {
@@ -17467,19 +17753,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odmah kontaktirajte hitnu pomoć."
+            "value" : "Odmah kontaktiraj hitnu pomoć."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Azonnal vedd fel a kapcsolatot a sürgősségi szolgálatokkal."
+            "value" : "Hívj sürgősségi szolgáltatásokat azonnal."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten di balik paywall."
+            "value" : "Hubungi layanan darurat segera."
           }
         },
         "it" : {
@@ -17491,25 +17777,25 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "すぐに緊急サービスに連絡してください。"
+            "value" : "直ちに緊急サービスに連絡してください。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шұғыл түрде жедел қызметке хабарласыңыз."
+            "value" : "Шұғыл жағдайда дереу жедел қызметтермен хабарласыңыз."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "즉시 응급 서비스에 연락하십시오."
+            "value" : "즉시 긴급 서비스에 연락하세요."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hubungi perkhidmatan kecemasan dengan segera."
+            "value" : "Hubungi perkhidmatan kecemasan segera."
           }
         },
         "nb" : {
@@ -17527,49 +17813,49 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Natychmiast skontaktuj się z służbami ratunkowymi."
+            "value" : "Skontaktuj się natychmiast z służbami ratunkowymi."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contate os serviços de emergência imediatamente."
+            "value" : "Entre em contato com os serviços de emergência imediatamente."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contacte imediatamente os serviços de emergência."
+            "value" : "Contacta os serviços de emergência imediatamente."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contactați imediat serviciile de urgență."
+            "value" : "Contactează imediat serviciile de urgență."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Немедленно свяжитесь с экстренными службами."
+            "value" : "Срочно свяжись с экстренными службами."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ihneď kontaktujte pohotovostné služby."
+            "value" : "Okamžite kontaktuj záchranné služby."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakta nödjouren omedelbart."
+            "value" : "Kontakta akuttjänster omedelbart."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาติดต่อบริการฉุกเฉินทันที."
+            "value" : "ติดต่อบริการฉุกเฉินทันที"
           }
         },
         "tr" : {
@@ -17581,13 +17867,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Негайно зв'яжіться з екстреними службами."
+            "value" : "Терміново зв’яжіться з екстреними службами."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liên hệ với dịch vụ khẩn cấp ngay lập tức."
+            "value" : "Liên hệ ngay với dịch vụ khẩn cấp."
           }
         },
         "zh-Hans" : {
@@ -17599,7 +17885,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請立即聯繫緊急服務。"
+            "value" : "請立即聯絡緊急服務。"
           }
         },
         "zh-HK" : {
@@ -17608,35 +17894,12 @@
             "value" : "請立即聯絡緊急服務。"
           }
         }
-      }
-    },
-    "TK.Message.contactEmergencyServicesImmediatelyDot" : {
-      "comment" : "Urgent message to contact emergency services",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact emergency services immediately."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.dataSuccessfullyUploadedDot" : {
       "comment" : "Confirmation of data upload to a provider",
       "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Data successfully uploaded to your healthcare provider."
-          }
-        }
-      }
-    },
-    "TK.Message.dataSuccessfullyUploadedToYourHealthcareProvider" : {
-      "comment" : "Confirmation of data upload to a provider",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17647,13 +17910,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Данните успешно се качиха на вашия здравен доставчик."
+            "value" : "Данните са успешно качени при вашия доставчик на здравни услуги."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dades pujades satisfactòriament al teu proveïdor de salut."
+            "value" : "Dades pujades amb èxit al teu proveïdor de salut."
           }
         },
         "cs" : {
@@ -17665,7 +17928,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data blev uploadet til din sundhedsudbyder."
+            "value" : "Data er blevet uploadet til din sundhedsudbyder."
           }
         },
         "de" : {
@@ -17677,7 +17940,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τα δεδομένα ανέβηκαν επιτυχώς στον παροχέα υγειονομικής περίθαλψης."
+            "value" : "Τα δεδομένα ανεβάστηκαν επιτυχώς στον πάροχο υγειονομικής περίθαλψης σας."
           }
         },
         "en" : {
@@ -17701,25 +17964,25 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datos subidos correctamente a tu proveedor de salud."
+            "value" : "Datos subidos con éxito a su proveedor de salud."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datos subidos con éxito a tu proveedor de salud."
+            "value" : "Datos subidos exitosamente a tu proveedor de salud."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tieto on ladattu onnistuneesti terveydenhuollon tarjoajallesi."
+            "value" : "Tiedot on onnistuneesti ladattu terveydenhuoltoasiantuntijalle."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Données uploadées avec succès chez votre fournisseur de soins de santé."
+            "value" : "Données téléchargées avec succès sur votre fournisseur de soins de santé."
           }
         },
         "fr-CA" : {
@@ -17731,19 +17994,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הנתונים הועלו בהצלחה לספק הבריאות שלך."
+            "value" : "הנתונים הועלו בהצלחה למוקד הבריאות שלך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डेटा सफलतापूर्वक आपके स्वास्थ्य सेवा प्रदाता को अपलोड कर दिया गया।"
+            "value" : "डेटा आपके स्वास्थ्य सेवा प्रदाता को सफलतापूर्वक अपलोड किया गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podaci su uspješno preneseni vašem pružatelju zdravstvenih usluga."
+            "value" : "Podaci su uspješno preneseni vašem zdravstvenom pružatelju."
           }
         },
         "hu" : {
@@ -17761,49 +18024,49 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dati caricati con successo al tuo fornitore di assistenza sanitaria."
+            "value" : "Dati caricati con successo sul tuo fornitore sanitario."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "データがあなたのヘルスケアプロバイダーに正常にアップロードされました。"
+            "value" : "データが医療提供者に正常にアップロードされました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деректер сіздің денсаулық сақтау провайдеріңізге сәтті жүктелді."
+            "value" : "Деректер денсаулық сақтау провайдеріңізге сәтті жүктелді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "데이터가 귀하의 건강 관리 제공자에게 성공적으로 업로드되었습니다."
+            "value" : "데이터가 귀하의 의료 제공자에게 성공적으로 업로드되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data berjaya dimuat naik kepada penyedia perkhidmatan kesihatan anda."
+            "value" : "Data telah dimuat naik dengan jayanya kepada penyedia penjagaan kesihatan anda."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data lastet opp til helseleverandøren din."
+            "value" : "Data ble lastet opp til helseleverandøren din."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gegevens zijn succesvol geüpload naar je zorgverlener."
+            "value" : "Gegevens succesvol geüpload naar uw zorgverlener."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dane pomyślnie przesłane do Twojego dostawcy opieki zdrowotnej."
+            "value" : "Dane zostały pomyślnie przesłane do Twojego dostawcy usług zdrowotnych."
           }
         },
         "pt-BR" : {
@@ -17815,25 +18078,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dados enviados com sucesso para o seu prestador de cuidados de saúde."
+            "value" : "Dados carregados com sucesso para o seu prestador de saúde."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datele au fost încărcate cu succes la furnizorul tău de servicii de sănătate."
+            "value" : "Datele au fost încărcate cu succes la furnizorul dumneavoastră de servicii medicale."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Данные успешно загружены вашему поставщику медицинских услуг."
+            "value" : "Данные успешно загружены к твоему поставщику медицинских услуг."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dáta boli úspešne nahraté poskytovateľovi zdravotnej starostlivosti."
+            "value" : "Dáta boli úspešne nahrané k vášmu poskytovateľovi zdravotnej starostlivosti."
           }
         },
         "sv" : {
@@ -17845,62 +18108,51 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข้อมูลถูกอัปโหลดอย่างสำเร็จไปยังผู้ให้บริการด้านสุขภาพของคุณแล้ว"
+            "value" : "อัปโหลดข้อมูลไปยังผู้ให้บริการดูแลสุขภาพของคุณเรียบร้อยแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veri, sağlık sağlayıcınıza başarıyla yüklendi."
+            "value" : "Veri sağlık hizmeti sağlayıcınıza başarıyla yüklendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дані успішно завантажені до вашого постачальника медичних послуг."
+            "value" : "Дані успішно завантажені до вашого медичного закладу."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dữ liệu đã được tải lên thành công cho nhà cung cấp dịch vụ y tế của bạn."
+            "value" : "Dữ liệu đã được tải lên thành công cho nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "数据已成功上传到您的医疗服务提供者。"
+            "value" : "数据已成功上传至您的医疗保健提供者。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "數據已成功上傳到您的醫療提供者。"
+            "value" : "數據已成功上傳到您的醫療服務提供者。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "數據已成功上傳到您的醫療服務提供者。"
+            "value" : "數據已成功上傳到您的醫療提供者。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.documentSuccessfullyUploadedDot" : {
       "comment" : "Confirmation that a document has been uploaded to records",
       "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Document successfully uploaded to your records."
-          }
-        }
-      }
-    },
-    "TK.Message.documentSuccessfullyUploadedToYourRecords" : {
-      "comment" : "Confirmation that a document has been uploaded to records",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17911,13 +18163,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Документът е успешно качен в записите ви."
+            "value" : "Документът е успешно качен в записите."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Document pujat satisfactòriament als teus registres."
+            "value" : "Document pujat amb èxit als teus registres."
           }
         },
         "cs" : {
@@ -17929,7 +18181,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokument uploadet til dine optegnelser."
+            "value" : "Dokument er blevet uploadet til dine optegnelser."
           }
         },
         "de" : {
@@ -17941,7 +18193,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το έγγραφο ανέβηκε επιτυχώς στα αρχεία σας."
+            "value" : "Το έγγραφο ανέβηκε με επιτυχία στα αρχεία σας."
           }
         },
         "en" : {
@@ -17965,7 +18217,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documento subido exitosamente a tus registros."
+            "value" : "Documento subido con éxito a sus registros."
           }
         },
         "es-419" : {
@@ -17977,13 +18229,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asiakirja on ladattu onnistuneesti tallennuksiisi."
+            "value" : "Asiakirja on onnistuneesti ladattu tallennettavaksi."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Document uploadé avec succès dans vos dossiers."
+            "value" : "Document téléchargé avec succès dans vos dossiers."
           }
         },
         "fr-CA" : {
@@ -18001,19 +18253,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "दस्तावेज़ सफलतापूर्वक आपके रिकॉर्ड में अपलोड किया गया।"
+            "value" : "दस्तावेज़ को आपके रिकॉर्ड में सफलतापूर्वक अपलोड किया गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokument uspješno prenesen na vaše zapise."
+            "value" : "Dokument je uspješno učitan u vaše evidencije."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokumentum sikeresen feltöltve a nyilvántartásaidba."
+            "value" : "A dokumentum sikeresen feltöltve a nyilvántartásba."
           }
         },
         "id" : {
@@ -18025,19 +18277,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documento caricato con successo nei tuoi registri."
+            "value" : "Documento caricato con successo nei tuoi archivi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ドキュメントがあなたの記録に正常にアップロードされました。"
+            "value" : "ドキュメントが記録に正常にアップロードされました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Құжат жазбаларыңызға сәтті жүктелді."
+            "value" : "Құжат дерекқорға сәтті жүктелді."
           }
         },
         "ko" : {
@@ -18049,67 +18301,67 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokumen berjaya dimuat naik ke rekod anda."
+            "value" : "Dokumen telah dimuat naik ke rekod anda dengan jayanya."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokumentet er vellykket lastet opp til registrene dine."
+            "value" : "Dokumentet ble lastet opp til arkivene dine."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Document is succesvol geüpload naar je dossiers."
+            "value" : "Document succesvol geüpload naar uw archief."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokument pomyślnie załadowany do Twoich zasobów."
+            "value" : "Dokument został pomyślnie przesłany do Twoich zasobów."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documento carregado com sucesso nos seus registros."
+            "value" : "Documento enviado com sucesso para seus registros."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documento carregado com sucesso nos seus registos."
+            "value" : "Documento carregado com sucesso para os seus registos."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Documentul a fost încărcat cu succes în înregistrările tale."
+            "value" : "Documentul a fost încărcat cu succes în înregistrările dumneavoastră."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Документ успешно загружен в ваши записи."
+            "value" : "Документ успешно загружен в твои записи."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokument bol úspešne nahratý do vašich záznamov."
+            "value" : "Dokument bol úspešne nahraný do vašich záznamov."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dokumentet har framgångsrikt laddats upp till dina uppgifter."
+            "value" : "Dokumentet har framgångsrikt laddats upp till dina poster."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เอกสารถูกอัปโหลดไปยังบันทึกของคุณอย่างสำเร็จแล้ว"
+            "value" : "เอกสารถูกอัปโหลดไปยังบันทึกของคุณเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -18127,55 +18379,56 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tài liệu đã được tải lên thành công vào hồ sơ của bạn."
+            "value" : "Tài liệu đã được tải lên hồ sơ của bạn thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文档已成功上传到您的记录。"
+            "value" : "文档已成功上传到您的记录中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文件已成功上傳到您的檔案。"
+            "value" : "文件已成功上傳到您的記錄。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文件已成功上傳到您的檔案。"
+            "value" : "文件已成功上傳到您的記錄。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.emergencyContactHasBeenNotified" : {
+    "TK.Message.emergencyContactNotifiedDot" : {
       "comment" : "Notification that emergency contact has been alerted",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم إبلاغ جهة الاتصال في حالات الطوارئ."
+            "value" : "تم إبلاغ جهات الاتصال في حالات الطوارئ."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Лице за спешни случаи е уведомено."
+            "value" : "Контактът за спешни случаи е уведомен."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El contacte d'emergència ha estat notificat."
+            "value" : "S'ha notificat el contacte d'emergència."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt pro nouzové situace byl informován."
+            "value" : "Nouzový kontakt byl informován."
           }
         },
         "da" : {
@@ -18193,7 +18446,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η επαφή ανάγκης έχει ειδοποιηθεί."
+            "value" : "Ο/Η επείγων/-ουσα επαφή έχει ειδοποιηθεί."
           }
         },
         "en" : {
@@ -18217,55 +18470,55 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se ha notificado al contacto de emergencia."
+            "value" : "Contacto de emergencia ha sido notificado."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se ha notificado al contacto de emergencia."
+            "value" : "Contacto de emergencia ha sido notificado."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hätäyhteyshenkilölle on ilmoitettu."
+            "value" : "Hätäyhteyshenkilö on ilmoitettu."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le contact d'urgence a été notifié."
+            "value" : "Le contact d'urgence a été informé."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le contact d'urgence a été notifié."
+            "value" : "Contact d'urgence a été averti."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוצג איש קשר חירום."
+            "value" : "הקשר החירום עודכן."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपातकालीन संपर्क को सूचित किया गया है।"
+            "value" : "आपात संपर्क को सूचित कर दिया गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt za hitne slučajeve je obaviješten."
+            "value" : "Obaviješten je kontakt u hitnim slučajevima."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sürgősségi kapcsolat értesítve lett."
+            "value" : "A sürgősségi kapcsolattal értesítve."
           }
         },
         "id" : {
@@ -18277,25 +18530,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il contatto di emergenza è stato avvisato."
+            "value" : "Contatto di emergenza è stato avvisato."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緊急連絡先に通知されました。"
+            "value" : "緊急連絡先が通知されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Төтенше байланысушы хабарланды."
+            "value" : "Шұғыл байланыс хабарланды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "긴급 연락처에 알림이 전송되었습니다."
+            "value" : "긴급 연락처에 통보되었습니다."
           }
         },
         "ms" : {
@@ -18307,31 +18560,31 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nødkontakt har blitt varslet."
+            "value" : "Nødkontakt er blitt varslet."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Noodcontact is op de hoogte gesteld."
+            "value" : "Noodcontact is op de hoogte gebracht."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontakt alarmowy został powiadomiony."
+            "value" : "Osoba kontaktowa w nagłych wypadkach została powiadomiona."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contato de emergência foi notificade."
+            "value" : "Contato de emergência foi notificado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O contato de emergência foi notificado."
+            "value" : "Contacto de emergência foi notificado."
           }
         },
         "ro" : {
@@ -18349,19 +18602,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontaktná osoba pre núdzové situácie bola informovaná."
+            "value" : "Núdzový kontakt bol informovaný."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nödkontakt har blivit meddelad."
+            "value" : "Nödkontakt har blivit underrättad."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ติดต่อฉุกเฉินได้ถูกแจ้งแล้ว"
+            "value" : "ได้แจ้งติดต่อฉุกเฉินแล้ว"
           }
         },
         "tr" : {
@@ -18373,7 +18626,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контакт для екстрених випадків сповіщений."
+            "value" : "Контакт екстреної допомоги був сповіщений."
           }
         },
         "vi" : {
@@ -18391,32 +18644,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緊急聯絡人已通知。"
+            "value" : "已通知緊急聯絡人。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緊急聯絡人已被通知。"
+            "value" : "緊急聯絡人已獲通知。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.emergencyContactNotifiedDot" : {
-      "comment" : "Notification that emergency contact has been alerted",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Emergency contact has been notified."
-          }
-        }
-      }
-    },
-    "TK.Message.labResultsAreNowAvailable" : {
+    "TK.Message.labResultsAvailableDot" : {
       "comment" : "Notification that lab results are ready",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18427,7 +18669,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резултатите от лабораторията вече са налични."
+            "value" : "Резултатите от лабораторните изследвания вече са налични."
           }
         },
         "ca" : {
@@ -18439,13 +18681,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Výsledky laboratorních testů jsou nyní k dispozici."
+            "value" : "Laboratorní výsledky jsou nyní k dispozici."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laboratorieresultater er nu tilgængelige."
+            "value" : "Laboratorieresultaterne er nu tilgængelige."
           }
         },
         "de" : {
@@ -18457,7 +18699,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τα αποτελέσματα εργαστηρίου είναι διαθέσιμα."
+            "value" : "Οι εξετάσεις εργαστηρίου είναι τώρα διαθέσιμες."
           }
         },
         "en" : {
@@ -18481,13 +18723,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los resultados de laboratorio ya están disponibles."
+            "value" : "Los resultados del laboratorio ya están disponibles."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los resultados de laboratorio ya están disponibles."
+            "value" : "Los resultados del laboratorio ya están disponibles."
           }
         },
         "fi" : {
@@ -18505,25 +18747,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les résultats du laboratoire sont maintenant disponibles."
+            "value" : "Les résultats de laboratoire sont maintenant disponibles."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תוצאות המעבדה זמינות כעת."
+            "value" : "תוצאות המעבדה זמינות עכשיו."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लेबोरेटरी के परिणाम अब उपलब्ध हैं।"
+            "value" : "लैब के परिणाम अब उपलब्ध हैं।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laboratorijski nalazi su sada dostupni."
+            "value" : "Laboratorijski rezultati su sada dostupni."
           }
         },
         "hu" : {
@@ -18535,31 +18777,31 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hasil lab sekarang tersedia."
+            "value" : "Hasil lab kini tersedia."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "I risultati di laboratorio sono ora disponibili."
+            "value" : "I risultati del laboratorio sono ora disponibili."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "検査結果が利用可能です。"
+            "value" : "検査結果が利用可能になりました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lab нәтижелері қол жетімді."
+            "value" : "Лаборатория нәтижелері дайын."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lab 결과가 이제 이용 가능합니다."
+            "value" : "검사 결과가 이제 확인 가능합니다."
           }
         },
         "ms" : {
@@ -18589,55 +18831,55 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resultados do laboratório já estão disponíveis."
+            "value" : "Os resultados do laboratório estão disponíveis."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resultados laboratoriais agora disponíveis."
+            "value" : "Resultados das análises disponíveis."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezultatele testelor de laborator sunt acum disponibile."
+            "value" : "Rezultatele de laborator sunt acum disponibile."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Результаты анализов теперь доступны."
+            "value" : "Результаты лабораторных исследований теперь доступны."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Výsledky laboratória sú teraz k dispozícii."
+            "value" : "Laboratórne výsledky sú teraz k dispozícii."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Labbrapporter är nu tillgängliga."
+            "value" : "Laboratorieresultaten är nu tillgängliga."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ผลการตรวจห้องปฏิบัติการพร้อมแล้ว."
+            "value" : "ผลการตรวจแลบพร้อมแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laboratuvar sonuçları şimdi mevcut."
+            "value" : "Laboratuvar sonuçları artık mevcut."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Результати аналізів вже доступні."
+            "value" : "Результати аналізів уже доступні."
           }
         },
         "vi" : {
@@ -18655,37 +18897,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "實驗室結果現在可以查看了。"
+            "value" : "檢驗結果現在可用。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "實驗室結果現已可用。"
+            "value" : "化驗結果現在可用。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.labResultsAvailableDot" : {
-      "comment" : "Notification that lab results are ready",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Lab results are now available."
-          }
-        }
-      }
-    },
-    "TK.Message.measurementComplete" : {
+    "TK.Message.measurementCompleteDot" : {
       "comment" : "Confirmation that a measurement has been completed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم الانتهاء من القياس."
+            "value" : "اكتمل القياس."
           }
         },
         "bg" : {
@@ -18745,19 +18976,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medición completa."
+            "value" : "Medición completada."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medición completada."
+            "value" : "Medición completa."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mittaaminen valmis."
+            "value" : "Mittaus on valmis."
           }
         },
         "fr" : {
@@ -18781,7 +19012,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "माप पूरा हुआ।"
+            "value" : "माप पूरा हो गया।"
           }
         },
         "hr" : {
@@ -18799,7 +19030,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengukuran telah selesai."
+            "value" : "Pengukuran selesai."
           }
         },
         "it" : {
@@ -18829,7 +19060,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengukuran selesai."
+            "value" : "Pengukuran telah selesai."
           }
         },
         "nb" : {
@@ -18853,7 +19084,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medida completa."
+            "value" : "Medida concluída."
           }
         },
         "pt-PT" : {
@@ -18865,7 +19096,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Măsurarea este completă."
+            "value" : "Măsurătoarea este completă."
           }
         },
         "ru" : {
@@ -18883,13 +19114,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mätningen är slutförd."
+            "value" : "Mätningen är klar."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การวัดเสร็จสมบูรณ์แล้ว."
+            "value" : "การวัดเสร็จสิ้นแล้ว"
           }
         },
         "tr" : {
@@ -18907,19 +19138,19 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đo đã hoàn thành."
+            "value" : "Đo đạc đã hoàn tất."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "测量完成。"
+            "value" : "测量已完成。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測量完成。"
+            "value" : "測量已完成。"
           }
         },
         "zh-HK" : {
@@ -18928,23 +19159,12 @@
             "value" : "測量已完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.measurementCompleteDot" : {
-      "comment" : "Confirmation that a measurement has been completed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Measurement complete."
-          }
-        }
-      }
-    },
-    "TK.Message.medicalHistoryHasBeenUpdated" : {
+    "TK.Message.medicalHistoryUpdatedDot" : {
       "comment" : "Confirmation that medical history has been updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18961,25 +19181,25 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S'ha actualitzat l'historial mèdic."
+            "value" : "Els antecedents mèdics s'han actualitzat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zdravotní historie byla aktualizována."
+            "value" : "Historie nemocí byla aktualizována."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medicinsk historik er blevet opdateret."
+            "value" : "Medicinsk historie er blevet opdateret."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die medizinische Vorgeschichte wurde aktualisiert."
+            "value" : "Die Krankengeschichte wurde aktualisiert."
           }
         },
         "el" : {
@@ -19009,19 +19229,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se ha actualizado la historia médica."
+            "value" : "La historia clínica ha sido actualizada."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La historia médica ha sido actualizada."
+            "value" : "El historial médico ha sido actualizado."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sairauskertomus on päivitetty."
+            "value" : "Potilaan historia on päivitetty."
           }
         },
         "fr" : {
@@ -19045,7 +19265,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "चिकित्सा इतिहास अपडेट हो गया है।"
+            "value" : "चिकित्सा इतिहास अपडेट कर दिया गया है।"
           }
         },
         "hr" : {
@@ -19099,7 +19319,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sykehistorien har blitt oppdatert."
+            "value" : "Medisinsk historie har blitt oppdatert."
           }
         },
         "nl" : {
@@ -19135,13 +19355,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Медицинская история обновлена."
+            "value" : "История болезни обновлена."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zdravotná história bola aktualizovaná."
+            "value" : "Rodinná anamnéza bola aktualizovaná."
           }
         },
         "sv" : {
@@ -19153,7 +19373,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ประวัติการแพทย์ได้รับการปรับปรุงแล้ว."
+            "value" : "ประวัติทางการแพทย์ได้รับการอัปเดตแล้ว"
           }
         },
         "tr" : {
@@ -19165,19 +19385,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Медична історія оновлена."
+            "value" : "Медичну історію оновлено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch sử y tế đã được cập nhật."
+            "value" : "Lịch sử bệnh án đã được cập nhật."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "医疗记录已更新。"
+            "value" : "医疗历史已更新。"
           }
         },
         "zh-Hant" : {
@@ -19189,49 +19409,26 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "醫療歷史已更新。"
+            "value" : "病歷已更新。"
           }
         }
-      }
-    },
-    "TK.Message.medicalHistoryUpdatedDot" : {
-      "comment" : "Confirmation that medical history has been updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Medical history has been updated."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.reminderTakeMedicationDot" : {
       "comment" : "Reminder to take prescribed medication",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reminder: Take your medication."
-          }
-        }
-      }
-    },
-    "TK.Message.reminderTakeYourMedication" : {
-      "comment" : "Reminder to take prescribed medication",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تذكير: تناول الأدوية الخاصة بك."
+            "value" : "تذكير: تناول أدويتك."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напомняне: Вземи лекарствата си."
+            "value" : "Напомняне: Вземете лекарствата си."
           }
         },
         "ca" : {
@@ -19243,7 +19440,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připomínka: Vezmi si své léky."
+            "value" : "Připomínka: Vezmi si léky."
           }
         },
         "da" : {
@@ -19291,7 +19488,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recordatorio: Toma tu medicamento."
+            "value" : "Recordatorio: Toma tu medicación."
           }
         },
         "fi" : {
@@ -19303,61 +19500,61 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rappel : Prends ton médicament."
+            "value" : "Rappel : Prenez votre médicament."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rappel : Prends tes médicaments."
+            "value" : "Rappel : Prenez vos médicaments."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התראה: קח/י את התרופה שלך."
+            "value" : "תזכורת: קח את התרופות שלך."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "याद दिलाने वाला: अपनी दवा लें।"
+            "value" : "अनुस्मारक: अपनी दवा लें।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podsjetnik: Uzmite svoju medicinu."
+            "value" : "Podsjetnik: Uzmi svoju terapiju."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Emlékeztető: Vedd be a gyógyszereidet."
+            "value" : "Emlékeztető: Vedd be a gyógyszert."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengingat: Minum obatmu."
+            "value" : "Pengingat: Minum obat Anda."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Promemoria: Prendi la tua medicina."
+            "value" : "Promemoria: prendi i tuoi farmaci."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "リマインダー：処方された薬を服用してください。"
+            "value" : "リマインダー: 薬を服用してください。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпе: Дәрі-дәрмектеріңізді қабылдаңыз."
+            "value" : "Ескерту: Дәріңізді алыңыз."
           }
         },
         "ko" : {
@@ -19369,37 +19566,37 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peringatan: Ambil ubat anda."
+            "value" : "Pengingat: Ambil ubat anda."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Påminnelse: Ta medisinene dine."
+            "value" : "Påminnelse: Ta medisinen din."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herinnering: Neem uw medicatie."
+            "value" : "Herinnering: Neem je medicatie."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przypomnienie: Weź swoje lekarstwo."
+            "value" : "Przypomnienie: Weź swoje leki."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lembrete: Tome sua medicação."
+            "value" : "Lembrete: Tome seu medicamento."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lembrete: toma a tua medicação."
+            "value" : "Lembrete: Tome a sua medicação."
           }
         },
         "ro" : {
@@ -19411,13 +19608,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напоминание: примите свои лекарства."
+            "value" : "Напоминание: Прими свои лекарства."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pripomienka: Vezmite si svoju liečbu."
+            "value" : "Pripomienka: Zober si svoje lieky."
           }
         },
         "sv" : {
@@ -19429,19 +19626,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เตือน: ถึงเวลาทานยาของคุณแล้ว"
+            "value" : "เตือน: ทานยาตามกำหนดเวลา"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hatırlatıcı: İlaçlarını al."
+            "value" : "İlaçlarınızı almayı unutmayın."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нагадування: прийміть вашу медикацію."
+            "value" : "Нагадування: прийміть свої ліки."
           }
         },
         "vi" : {
@@ -19459,20 +19656,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提醒：記得按時服藥。"
+            "value" : "提醒：按時服藥。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提醒：請服用您的藥物。"
+            "value" : "提醒：請按時服藥。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.reportHasBeenSentToYourDoctor" : {
+    "TK.Message.reportSentToDoctorDot" : {
       "comment" : "Confirmation that a report has been sent to the doctor",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19483,13 +19681,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладът е изпратен на твоя лекар."
+            "value" : "Докладът е изпратен на вашия лекар."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'informe s'ha enviat al teu metge."
+            "value" : "L'informe ha estat enviat al teu metge."
           }
         },
         "cs" : {
@@ -19501,7 +19699,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport er sendt til din læge."
+            "value" : "Rapporten er blevet sendt til din læge."
           }
         },
         "de" : {
@@ -19513,7 +19711,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η αναφορά έχει σταλεί στον γιατρό σας."
+            "value" : "Η αναφορά έχει σταλεί στον γιατρό σου."
           }
         },
         "en" : {
@@ -19561,13 +19759,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le rapport a été envoyé à ton médecin."
+            "value" : "Le rapport a été envoyé à votre médecin."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הדו\"ח נשלח לרופא שלך."
+            "value" : "הדו״ח נשלח לרופא שלך."
           }
         },
         "hi" : {
@@ -19579,31 +19777,31 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izvještaj je poslan vašem liječniku."
+            "value" : "Izvještaj je poslan tvom liječniku."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jelentés elküldve az orvosának."
+            "value" : "A jelentés el lett küldve az orvosodnak."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laporan telah dikirim ke doktermu."
+            "value" : "Laporan telah dikirim ke dokter Anda."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il rapporto è stato inviato al tuo medico."
+            "value" : "Il report è stato inviato al tuo medico."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レポートがあなたの医師に送信されました。"
+            "value" : "レポートが医師に送信されました。"
           }
         },
         "kk" : {
@@ -19627,25 +19825,25 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport har blitt sendt til legen din."
+            "value" : "Rapporten har blitt sendt til legen din."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport is naar uw arts verzonden."
+            "value" : "Rapport is naar je dokter gestuurd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raport został wysłany do twojego lekarza."
+            "value" : "Raport został wysłany do lekarza."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Relatório enviado ao seu médico."
+            "value" : "Relatório foi enviado ao seu médico."
           }
         },
         "pt-PT" : {
@@ -19669,31 +19867,31 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Správa bola zaslaná vášmu lekárovi."
+            "value" : "Správa bola zaslaná tvojmu lekárovi."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporten har skickats till din läkare."
+            "value" : "Rapport har skickats till din läkare."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "รายงานได้ถูกส่งไปยังแพทย์ของคุณแล้ว"
+            "value" : "รายงานถูกส่งไปยังแพทย์แล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapor doktoruna gönderildi."
+            "value" : "Rapor doktorunuza gönderildi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Звіт було надіслано вашому лікарю."
+            "value" : "Звіт надіслано вашому лікареві."
           }
         },
         "vi" : {
@@ -19711,7 +19909,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "報告已發送給您的醫生。"
+            "value" : "報告已發送給你的醫生。"
           }
         },
         "zh-HK" : {
@@ -19720,23 +19918,12 @@
             "value" : "報告已發送至您的醫生。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.reportSentToDoctorDot" : {
-      "comment" : "Confirmation that a report has been sent to the doctor",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Report has been sent to your doctor."
-          }
-        }
-      }
-    },
-    "TK.Message.resultsHaveBeenSaved" : {
+    "TK.Message.resultsSavedDot" : {
       "comment" : "Confirmation that results have been stored",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19753,7 +19940,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Els resultats s'han desat."
+            "value" : "Els resultats han estat desats."
           }
         },
         "cs" : {
@@ -19765,7 +19952,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resultater er gemt."
+            "value" : "Resultaterne er blevet gemt."
           }
         },
         "de" : {
@@ -19831,19 +20018,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תוצאות נשמרו."
+            "value" : "התוצאות נשמרו."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "परिणाम सुरक्षित किए गए हैं।"
+            "value" : "परिणामों को सेव किया गया है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezultati su pohranjeni."
+            "value" : "Rezultati su spremljeni."
           }
         },
         "hu" : {
@@ -19909,13 +20096,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resultados salvos."
+            "value" : "Resultados foram salvos."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Os resultados foram guardados."
+            "value" : "Resultados foram salvos."
           }
         },
         "ro" : {
@@ -19945,7 +20132,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ผลลัพธ์ถูกบันทึกเรียบร้อยแล้ว"
+            "value" : "ผลลัพธ์ได้ถูกบันทึกไว้แล้ว"
           }
         },
         "tr" : {
@@ -19957,7 +20144,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Результати збережено."
+            "value" : "Результати були збережені."
           }
         },
         "vi" : {
@@ -19975,32 +20162,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "結果已被保存。"
+            "value" : "結果已儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "結果已保存。"
+            "value" : "結果已儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.resultsSavedDot" : {
-      "comment" : "Confirmation that results have been stored",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Results have been saved."
-          }
-        }
-      }
-    },
-    "TK.Message.testCompletedSuccessfully" : {
+    "TK.Message.testCompletedSuccessfullyDot" : {
       "comment" : "Confirmation that a medical test was successful",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20011,13 +20187,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тестът е успешно завършен."
+            "value" : "Тестът завърши успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prova completada amb èxit."
+            "value" : "La prova s'ha completat amb èxit."
           }
         },
         "cs" : {
@@ -20029,7 +20205,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test afsluttet med succes."
+            "value" : "Testet blev gennemført med succes."
           }
         },
         "de" : {
@@ -20041,7 +20217,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η εξέταση ολοκληρώθηκε με επιτυχία."
+            "value" : "Η δοκιμή ολοκληρώθηκε επιτυχώς."
           }
         },
         "en" : {
@@ -20071,7 +20247,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prueba completada con éxito."
+            "value" : "La prueba se completó con éxito."
           }
         },
         "fi" : {
@@ -20083,31 +20259,31 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test terminé avec succès."
+            "value" : "Le test a été terminé avec succès."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test complété avec succès."
+            "value" : "Le test a été complété avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המבחן הושלם בהצלחה."
+            "value" : "הבדיקה הושלמה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "परीक्षा सफलतापूर्वक पूरी हुई।"
+            "value" : "परीक्षण सफलतापूर्वक पूरा हुआ।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test je uspješno dovršen."
+            "value" : "Test je uspješno završen."
           }
         },
         "hu" : {
@@ -20149,13 +20325,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ujian telah berjaya diselesaikan."
+            "value" : "Ujian selesai dengan jayanya."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Testen ble fullført vellykket."
+            "value" : "Testen ble fullført med suksess."
           }
         },
         "nl" : {
@@ -20167,7 +20343,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test wykonany pomyślnie."
+            "value" : "Test zakończony pomyślnie."
           }
         },
         "pt-BR" : {
@@ -20179,7 +20355,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exame realizado com sucesso."
+            "value" : "Teste concluído com sucesso."
           }
         },
         "ro" : {
@@ -20191,43 +20367,43 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тест успешно завершен."
+            "value" : "Тест завершён успешно."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test bol úspešne dokončený."
+            "value" : "Test dokončený úspešne."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Testet har slutförts framgångsrikt."
+            "value" : "Testet slutfördes framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การทดสอบเสร็จเรียบร้อยแล้ว"
+            "value" : "การทดสอบเสร็จสิ้นเรียบร้อยแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test başarıyla tamamlandı."
+            "value" : "Test başarılı bir şekilde tamamlandı."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тест успішно пройдено."
+            "value" : "Тест успішно завершено."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bài kiểm tra đã hoàn thành thành công."
+            "value" : "Kiểm tra đã hoàn tất thành công."
           }
         },
         "zh-Hans" : {
@@ -20239,7 +20415,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測試已成功完成。"
+            "value" : "測試成功完成。"
           }
         },
         "zh-HK" : {
@@ -20248,58 +20424,35 @@
             "value" : "測試已成功完成。"
           }
         }
-      }
-    },
-    "TK.Message.testCompletedSuccessfullyDot" : {
-      "comment" : "Confirmation that a medical test was successful",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Test completed successfully."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.timeForNextDoseDot" : {
       "comment" : "Reminder for the next medication dose",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Time for your next dose."
-          }
-        }
-      }
-    },
-    "TK.Message.timeForYourNextDose" : {
-      "comment" : "Reminder for the next medication dose",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حان وقت الجرعة التالية."
+            "value" : "حان الوقت لجرعتك التالية."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е за следващата ви доза."
+            "value" : "Време за следващата доза."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "És hora de la teva próxima dosi."
+            "value" : "Hora de la teva pròxima dosi."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je čas na tvoji další dávku."
+            "value" : "Čas na vaši další dávku."
           }
         },
         "da" : {
@@ -20311,13 +20464,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeit für deine nächste Dosis."
+            "value" : "Zeit für die nächste Dosis."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ώρα για τη δόση σου."
+            "value" : "Ώρα για την επόμενη δόση."
           }
         },
         "en" : {
@@ -20353,19 +20506,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aika seuraavalle annokselle."
+            "value" : "Aikaa seuraavalle annokselle."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il est temps de prendre votre prochaine dose."
+            "value" : "Temps pour votre prochaine dose."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "C'est le temps pour ta prochaine dose."
+            "value" : "Il est temps pour votre prochaine dose."
           }
         },
         "he" : {
@@ -20377,49 +20530,49 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपकी अगली डोज़ का समय आ गया है।"
+            "value" : "आपके अगले डोज़ का समय।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme je za vašu sljedeću dozu."
+            "value" : "Vrijeme za sljedeću dozu."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Itt az ideje a következő dózisnak."
+            "value" : "Itt az idő a következő adag bevételére."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saatnya untuk dosis berikutnya."
+            "value" : "Waktunya untuk dosis berikutnya."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "È tempo per la tua prossima dose."
+            "value" : "Tempo per la tua prossima dose."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "次の服用の時間です。"
+            "value" : "次の服用時間です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Келесі доза уақыты."
+            "value" : "Келесі доза уақыты келді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "다음 약 복용 시간입니다."
+            "value" : "다음 복용 시간입니다."
           }
         },
         "ms" : {
@@ -20443,7 +20596,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Czas na twoją następną dawkę."
+            "value" : "Czas na Twoją następną dawkę."
           }
         },
         "pt-BR" : {
@@ -20461,37 +20614,37 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E timpul pentru următoarea doză."
+            "value" : "Este timpul pentru următoarea doză."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Время для вашего следующего приема."
+            "value" : "Время принять следующую дозу."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas na tvoju ďalšiu dávku."
+            "value" : "Čas na ďalšiu dávku."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dags för din nästa dos."
+            "value" : "Dags för nästa dos."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ถึงเวลาน้ำยาโดสถัดไป"
+            "value" : "ถึงเวลาใช้ยาครั้งต่อไป"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir sonraki dozun zamanı."
+            "value" : "Bir sonraki doz için zaman."
           }
         },
         "uk" : {
@@ -20503,280 +20656,29 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đến thời gian uống liều tiếp theo."
+            "value" : "Đến lúc dùng liều tiếp theo."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该服用下一剂了。"
+            "value" : "该是您下次剂量的时间。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是時候吃下次藥了。"
+            "value" : "該服用藥物的時間到了。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是時候服用下一劑了。"
+            "value" : "需要進行下一劑的時間。"
           }
         }
-      }
-    },
-    "TK.Message.yourAppointmentHasBeenConfirmed" : {
-      "comment" : "Confirmation that an appointment is scheduled",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تم تأكيد موعدك."
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Твоето назначение е потвърдено."
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La teva cita ha estat confirmada."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoje schůzka byla potvrzena."
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din aftale er bekræftet."
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dein Termin wurde bestätigt."
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Το ραντεβού σου έχει επιβεβαιωθεί."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your appointment has been confirmed."
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your appointment has been confirmed."
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Your appointment has been confirmed."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tu cita ha sido confirmada."
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tu cita ha sido confirmada."
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajanvarauksesi on vahvistettu."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre rendez-vous a été confirmé."
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre rendez-vous a été confirmé."
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הפגישה שלך אושרה."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "आप की नियुक्ति की पुष्टि हो गई है।"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoj termin je potvrđen."
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A találkozód megerősítve van."
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Janji temu sudah dikonfirmasi."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Il tuo appuntamento è stato confermato."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "あなたの予約が確認されました。"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сіздің кездесуіңіз расталды."
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "당신의 예약이 확인되었습니다."
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Janji temu anda telah disahkan."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avtalen din har blitt bekreftet."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je afspraak is bevestigd."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Twoja rezerwacja została potwierdzona."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sua consulta foi confirmada."
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A tua consulta foi confirmada."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Programarea ta a fost confirmată."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваша запись подтверждена."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvoja rezervácia bola potvrdená."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ditt möte har bekräftats."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การนัดหมายของคุณได้รับการยืนยันแล้ว."
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Randevunuz onaylandı."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вашу зустріч підтверджено."
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cuộc hẹn của bạn đã được xác nhận."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的预约已经确认。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的約會已經確認。"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的预约已确认。"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -20784,7 +20686,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أضف الأعراض…"
+            "value" : "الأعراض…"
           }
         },
         "bg" : {
@@ -20994,7 +20896,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Belirti ekleyin..."
+            "value" : "Belirti ekle…"
           }
         },
         "uk" : {
@@ -21027,7 +20929,8 @@
             "value" : "添加症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.bloodPressureReadingDots" : {
       "comment" : "Placeholder for entering a blood pressure reading",
@@ -21161,7 +21064,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "血圧を測定中…"
+            "value" : "血圧を入力…"
           }
         },
         "kk" : {
@@ -21185,7 +21088,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bloodtrykkmåling…"
+            "value" : "Blodtrykksmåling…"
           }
         },
         "nl" : {
@@ -21209,7 +21112,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medição de pressão arterial..."
+            "value" : "Medição da pressão arterial…"
           }
         },
         "ro" : {
@@ -21239,13 +21142,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การอ่านความดันโลหิต…"
+            "value" : "กำลังอ่านความดันโลหิต…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan basıncı okuması…"
+            "value" : "Kan basıncını okuma…"
           }
         },
         "uk" : {
@@ -21257,7 +21160,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đọc huyết áp…"
+            "value" : "Đang đọc huyết áp…"
           }
         },
         "zh-Hans" : {
@@ -21278,7 +21181,8 @@
             "value" : "血壓讀數…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.bodyTemperatureDots" : {
       "comment" : "Placeholder for entering body temperature",
@@ -21382,7 +21286,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "शरीर का तापमान…"
+            "value" : "शरीर का तापमान दर्ज करिए…"
           }
         },
         "hr" : {
@@ -21466,7 +21370,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatură corp…"
+            "value" : "Temperatura corpului…"
           }
         },
         "ru" : {
@@ -21496,7 +21400,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vücut sıcaklığı…"
+            "value" : "Vücut sıcaklığını okuma…"
           }
         },
         "uk" : {
@@ -21508,7 +21412,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhiệt độ cơ thể…"
+            "value" : "Đang đo nhiệt độ cơ thể…"
           }
         },
         "zh-Hans" : {
@@ -21529,7 +21433,8 @@
             "value" : "體溫…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.describeSymptomsDots" : {
       "comment" : "Placeholder for describing symptoms",
@@ -21633,7 +21538,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लक्षण का वर्णन कीजिये…"
+            "value" : "लक्षणों का वर्णन करें…"
           }
         },
         "hr" : {
@@ -21723,7 +21628,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Описание симптомов…"
+            "value" : "Опиши симптомы…"
           }
         },
         "sk" : {
@@ -21780,7 +21685,8 @@
             "value" : "描述症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.doctorsNameDots" : {
       "comment" : "Placeholder for entering the doctor's name",
@@ -21950,7 +21856,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nazwisko lekarza…"
+            "value" : "Imię i nazwisko lekarza…"
           }
         },
         "pt-BR" : {
@@ -22028,10 +21934,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "醫生的名字…"
+            "value" : "醫生姓名…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAllergiesDots" : {
       "comment" : "Placeholder for entering allergies",
@@ -22279,10 +22186,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入過敏…"
+            "value" : "輸入過敏症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterBloodSugarLevelDots" : {
       "comment" : "Placeholder for entering blood sugar level",
@@ -22374,7 +22282,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer le taux de sucre dans le sang…"
+            "value" : "Entre le taux de sucre dans le sang…"
           }
         },
         "he" : {
@@ -22428,7 +22336,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "혈당 수치 입력…"
+            "value" : "혈당 수치를 입력하세요…"
           }
         },
         "ms" : {
@@ -22446,7 +22354,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer bloedsuikerniveau in …"
+            "value" : "Voer bloedsuikerniveau in…"
           }
         },
         "pl" : {
@@ -22488,7 +22396,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enter blood sugar level…"
+            "value" : "Ange blodsockernivå…"
           }
         },
         "th" : {
@@ -22533,7 +22441,8 @@
             "value" : "輸入血糖水平…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterDiagnosisDots" : {
       "comment" : "Placeholder for entering a diagnosis",
@@ -22625,7 +22534,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le diagnostic…"
+            "value" : "Entre le diagnostic…"
           }
         },
         "he" : {
@@ -22679,7 +22588,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "진단 입력…"
+            "value" : "진단을 입력하세요…"
           }
         },
         "ms" : {
@@ -22697,7 +22606,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de diagnose in …"
+            "value" : "Voer de diagnose in…"
           }
         },
         "pl" : {
@@ -22745,7 +22654,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่การวินิจฉัย…"
+            "value" : "กรอกการวินิจฉัย…"
           }
         },
         "tr" : {
@@ -22784,7 +22693,8 @@
             "value" : "輸入診斷…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterEmergencyContactDots" : {
       "comment" : "Placeholder for entering emergency contact details",
@@ -22876,13 +22786,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un contact d'urgence…"
+            "value" : "Entre un contact d'urgence…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס פרטי קשר חירום…"
+            "value" : "הזן איש קשר חירום…"
           }
         },
         "hi" : {
@@ -22930,7 +22840,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "비상 연락처 입력…"
+            "value" : "비상 연락처를 입력하세요…"
           }
         },
         "ms" : {
@@ -22984,7 +22894,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj núdzového kontaktu…"
+            "value" : "Zadaj núdzový kontakt…"
           }
         },
         "sv" : {
@@ -23002,7 +22912,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acil durum kişisini girin…"
+            "value" : "Acil durum kişisini gir…"
           }
         },
         "uk" : {
@@ -23035,7 +22945,8 @@
             "value" : "輸入緊急聯絡人…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMedicalHistoryDots" : {
       "comment" : "Placeholder for entering medical history",
@@ -23079,7 +22990,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε ιατρικό ιστορικό…"
+            "value" : "Βάλε ιατρικό ιστορικό…"
           }
         },
         "en" : {
@@ -23145,7 +23056,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite medicinsku povijest…"
+            "value" : "Unesi medicinsku povijest…"
           }
         },
         "hu" : {
@@ -23163,7 +23074,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci storia medica…"
+            "value" : "Inserisci la storia medica…"
           }
         },
         "ja" : {
@@ -23181,7 +23092,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "의료 기록 입력…"
+            "value" : "의료 기록을 입력하세요…"
           }
         },
         "ms" : {
@@ -23205,7 +23116,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz historię choroby…"
+            "value" : "Wprowadź historię choroby…"
           }
         },
         "pt-BR" : {
@@ -23247,13 +23158,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ประวัติการรักษา…"
+            "value" : "กรอกประวัติการรักษา…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tıbbi geçmişi girin…"
+            "value" : "Tıbbi geçmişi gir…"
           }
         },
         "uk" : {
@@ -23286,7 +23197,8 @@
             "value" : "輸入病歷…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMedicationNameDots" : {
       "comment" : "Placeholder for entering medication name",
@@ -23330,7 +23242,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε όνομα φαρμάκου…"
+            "value" : "Γράψε όνομα φαρμάκου…"
           }
         },
         "en" : {
@@ -23396,7 +23308,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv lijeka…"
+            "value" : "Unesi naziv lijeka…"
           }
         },
         "hu" : {
@@ -23432,7 +23344,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "약물 이름 입력…"
+            "value" : "약물 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23456,7 +23368,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz nazwę leku…"
+            "value" : "Wprowadź nazwę leku…"
           }
         },
         "pt-BR" : {
@@ -23498,13 +23410,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อยา…"
+            "value" : "กรอกชื่อยา…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İlaç adını girin…"
+            "value" : "İlaç adını gir…"
           }
         },
         "uk" : {
@@ -23537,7 +23449,8 @@
             "value" : "輸入藥物名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPatientIDDots" : {
       "comment" : "Placeholder for entering patient ID",
@@ -23581,7 +23494,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε ID ασθενούς…"
+            "value" : "Βάλε ID ασθενούς…"
           }
         },
         "en" : {
@@ -23647,7 +23560,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite identifikaciju pacijenta…"
+            "value" : "Unesi identifikaciju pacijenta…"
           }
         },
         "hu" : {
@@ -23707,7 +23620,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz ID pacjenta…"
+            "value" : "Wprowadź ID pacjenta…"
           }
         },
         "pt-BR" : {
@@ -23749,7 +23662,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสผู้ป่วย…"
+            "value" : "กรอกรหัสผู้ป่วย…"
           }
         },
         "tr" : {
@@ -23785,10 +23698,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入病人ID…"
+            "value" : "輸入病人 ID…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPharmacyDetailsDots" : {
       "comment" : "Placeholder for entering pharmacy details",
@@ -23832,7 +23746,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε λεπτομέρειες φαρμακείου…"
+            "value" : "Γράψε λεπτομέρειες φαρμακείου…"
           }
         },
         "en" : {
@@ -23898,7 +23812,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite podatke o ljekarni…"
+            "value" : "Unesi podatke o ljekarni…"
           }
         },
         "hu" : {
@@ -23958,7 +23872,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wpisz szczegóły apteki…"
+            "value" : "Wprowadź szczegóły apteki…"
           }
         },
         "pt-BR" : {
@@ -24000,7 +23914,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รายละเอียดของร้านขายยา…"
+            "value" : "กรอกรายละเอียดร้านขายยา…"
           }
         },
         "tr" : {
@@ -24039,7 +23953,8 @@
             "value" : "輸入藥房詳情…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPrescriptionNumberDots" : {
       "comment" : "Placeholder for entering prescription number",
@@ -24083,7 +23998,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τον αριθμό συνταγής…"
+            "value" : "Βάλε αριθμό συνταγής…"
           }
         },
         "en" : {
@@ -24107,7 +24022,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir número de receta…"
+            "value" : "Introduce número de receta…"
           }
         },
         "es-419" : {
@@ -24149,13 +24064,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj recepata…"
+            "value" : "Unesi broj recepta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a recept számot…"
+            "value" : "Írd be a recepten számolva…"
           }
         },
         "id" : {
@@ -24251,7 +24166,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่หมายเลขใบสั่งยา…"
+            "value" : "กรอกหมายเลขใบสั่งยา…"
           }
         },
         "tr" : {
@@ -24290,7 +24205,8 @@
             "value" : "輸入處方號…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterProviderNameDots" : {
       "comment" : "Placeholder for entering healthcare provider's name",
@@ -24334,7 +24250,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε το όνομα παρόχου…"
+            "value" : "Γράψε το όνομα παρόχου…"
           }
         },
         "en" : {
@@ -24358,7 +24274,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir nombre del proveedor…"
+            "value" : "Introduce nombre del proveedor…"
           }
         },
         "es-419" : {
@@ -24484,7 +24400,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите имя поставщика…"
+            "value" : "Введите название поставщика…"
           }
         },
         "sk" : {
@@ -24502,7 +24418,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อผู้ให้บริการ…"
+            "value" : "กรอกชื่อผู้ให้บริการ…"
           }
         },
         "tr" : {
@@ -24541,7 +24457,8 @@
             "value" : "輸入提供者名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -24729,7 +24646,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți simptomele…"
+            "value" : "Introdu simptomele…"
           }
         },
         "ru" : {
@@ -24753,7 +24670,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่อาการ…"
+            "value" : "กรอกอาการ…"
           }
         },
         "tr" : {
@@ -24792,7 +24709,8 @@
             "value" : "輸入症狀…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTreatmentNotesDots" : {
       "comment" : "Placeholder for entering treatment notes",
@@ -24902,7 +24820,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite bilješke o tretmanu…"
+            "value" : "Unesi bilješke o tretmanu…"
           }
         },
         "hu" : {
@@ -24968,7 +24886,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira as anotações do tratamento…"
+            "value" : "Digite as anotações do tratamento…"
           }
         },
         "pt-PT" : {
@@ -25043,7 +24961,8 @@
             "value" : "輸入治療記錄…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.heartRateDots" : {
       "comment" : "Placeholder for entering heart rate reading",
@@ -25294,7 +25213,8 @@
             "value" : "心率…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.insuranceIDDots" : {
       "comment" : "Placeholder for entering insurance ID",
@@ -25302,7 +25222,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "رقم التأمين..."
+            "value" : "رقم التأمين…"
           }
         },
         "bg" : {
@@ -25326,7 +25246,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forsikrings-ID…"
+            "value" : "Forsikrings-id'er…"
           }
         },
         "de" : {
@@ -25545,7 +25465,8 @@
             "value" : "保險證號..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.patientNameDots" : {
       "comment" : "Placeholder for entering patient's name",
@@ -25727,7 +25648,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nome do paciente…"
+            "value" : "Nome de paciente…"
           }
         },
         "ro" : {
@@ -25796,7 +25717,8 @@
             "value" : "病人姓名…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

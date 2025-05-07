@@ -97,7 +97,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ארכיון"
+            "value" : "ארכב"
           }
         },
         "hi" : {
@@ -193,7 +193,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архив"
+            "value" : "Заархивировать"
           }
         },
         "sk" : {
@@ -223,7 +223,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В архів"
+            "value" : "Заархівувати"
           }
         },
         "vi" : {
@@ -250,7 +250,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when making a reservation or booking an activity",
@@ -432,7 +433,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservar Agora"
+            "value" : "Reservar"
           }
         },
         "ro" : {
@@ -501,7 +502,8 @@
             "value" : "立即預訂"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.complete" : {
       "comment" : "Use when finishing a task or process",
@@ -515,7 +517,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключено"
+            "value" : "Завърши"
           }
         },
         "ca" : {
@@ -581,7 +583,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suoritettu"
+            "value" : "Suorita"
           }
         },
         "fr" : {
@@ -629,7 +631,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Completato"
+            "value" : "Concludi"
           }
         },
         "ja" : {
@@ -671,7 +673,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uzupełnij"
+            "value" : "Zakończ"
           }
         },
         "pt-BR" : {
@@ -689,7 +691,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Finalizată"
+            "value" : "Finalizează"
           }
         },
         "ru" : {
@@ -719,7 +721,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tamamlandı"
+            "value" : "Tamamla"
           }
         },
         "uk" : {
@@ -752,7 +754,8 @@
             "value" : "完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.connect" : {
       "comment" : "Use when establishing a connection or linking accounts",
@@ -1003,7 +1006,8 @@
             "value" : "連線"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new task or to-do item",
@@ -1254,7 +1258,8 @@
             "value" : "創建任務"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.endSession" : {
       "comment" : "Use when concluding a session or activity",
@@ -1382,7 +1387,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termina sessione"
+            "value" : "Termina Sessione"
           }
         },
         "ja" : {
@@ -1505,7 +1510,8 @@
             "value" : "結束會話"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.follow" : {
       "comment" : "Use when following a person, activity, or content",
@@ -1756,7 +1762,8 @@
             "value" : "關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.getStarted" : {
       "comment" : "Use when initiating a process or beginning an activity",
@@ -1854,7 +1861,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התחלה"
+            "value" : "התחל"
           }
         },
         "hi" : {
@@ -1944,7 +1951,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începeți"
+            "value" : "Începe"
           }
         },
         "ru" : {
@@ -2007,7 +2014,8 @@
             "value" : "開始使用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.like" : {
       "comment" : "Use when liking or approving content or a post",
@@ -2258,7 +2266,8 @@
             "value" : "喜歡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.log" : {
       "comment" : "Use when recording an event or logging an activity",
@@ -2509,7 +2518,8 @@
             "value" : "記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use when marking a task as finished or done",
@@ -2643,7 +2653,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完了とマーク"
+            "value" : "完了とする"
           }
         },
         "kk" : {
@@ -2760,7 +2770,8 @@
             "value" : "標記為完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsDone" : {
       "comment" : "Use when marking a task or action as completed",
@@ -2864,7 +2875,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मार्क कंप्लीट"
+            "value" : "पूरा किया हुआ चिह्नित करें"
           }
         },
         "hr" : {
@@ -3011,7 +3022,8 @@
             "value" : "標記為已完成"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.meditate" : {
       "comment" : "Use when starting a meditation session",
@@ -3262,7 +3274,8 @@
             "value" : "冥想"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.plan" : {
       "comment" : "Use when creating a plan or scheduling an activity",
@@ -3513,7 +3526,8 @@
             "value" : "計劃"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.practice" : {
       "comment" : "Use when engaging in practice or rehearsing a skill",
@@ -3551,7 +3565,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Üben"
+            "value" : "üben"
           }
         },
         "el" : {
@@ -3764,7 +3778,8 @@
             "value" : "練習"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rate" : {
       "comment" : "Use when providing a rating or feedback for something",
@@ -3928,7 +3943,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snelheid Beoordelen"
+            "value" : "Beoordeel"
           }
         },
         "pl" : {
@@ -4015,7 +4030,8 @@
             "value" : "評分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.record" : {
       "comment" : "Use when recording an event, session, or piece of data",
@@ -4251,7 +4267,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "录制"
+            "value" : "记录"
           }
         },
         "zh-Hant" : {
@@ -4263,10 +4279,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄製"
+            "value" : "記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.remind" : {
       "comment" : "Use when setting up a reminder for an event or task",
@@ -4517,7 +4534,8 @@
             "value" : "提醒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.remindMe" : {
       "comment" : "Use when requesting a reminder for a specific task or event",
@@ -4768,7 +4786,8 @@
             "value" : "提醒我"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.schedule" : {
       "comment" : "Use when scheduling an event, task, or meeting",
@@ -4854,7 +4873,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programme"
+            "value" : "Programmer"
           }
         },
         "fr-CA" : {
@@ -4908,7 +4927,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кесте"
+            "value" : "Жоспарлау"
           }
         },
         "ko" : {
@@ -4962,7 +4981,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Расписание"
+            "value" : "Запланировать"
           }
         },
         "sk" : {
@@ -5019,7 +5038,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when establishing a goal or target to achieve",
@@ -5051,7 +5071,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Mål"
+            "value" : "Sæt mål"
           }
         },
         "de" : {
@@ -5270,7 +5290,8 @@
             "value" : "設定目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setReminder" : {
       "comment" : "Use when setting up a reminder for a future task or event",
@@ -5302,7 +5323,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Påmindelse"
+            "value" : "Sæt påmindelse"
           }
         },
         "de" : {
@@ -5521,7 +5542,8 @@
             "value" : "設定提醒"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.skipToday" : {
       "comment" : "Use when skipping a task or activity for the day",
@@ -5529,7 +5551,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تخطي اليوم"
+            "value" : " بدء من جديد"
           }
         },
         "bg" : {
@@ -5772,7 +5794,8 @@
             "value" : "跳過今天"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when beginning an exercise session or workout",
@@ -5930,7 +5953,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Start trening"
+            "value" : "Start øvelse"
           }
         },
         "nl" : {
@@ -5978,7 +6001,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Börja övning"
+            "value" : "Starta övning"
           }
         },
         "th" : {
@@ -6023,7 +6046,8 @@
             "value" : "開始運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startSession" : {
       "comment" : "Use when starting a session or activity",
@@ -6139,7 +6163,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Munkamenet Indítása"
+            "value" : "Munkamenet indítása"
           }
         },
         "id" : {
@@ -6187,7 +6211,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sessies Starten"
+            "value" : "Sessie starten"
           }
         },
         "pl" : {
@@ -6253,7 +6277,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Phiên"
+            "value" : "Bắt đầu phiên"
           }
         },
         "zh-Hans" : {
@@ -6274,7 +6298,8 @@
             "value" : "開始會議"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startTimer" : {
       "comment" : "Use when initiating a timer for a task or session",
@@ -6318,7 +6343,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Χρονομετρητή"
+            "value" : "Ξεκίνησε Χρονομετρητή"
           }
         },
         "en" : {
@@ -6504,7 +6529,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Đồng Hồ Đếm Ngược"
+            "value" : "Bắt đầu đồng hồ đếm ngược"
           }
         },
         "zh-Hans" : {
@@ -6525,7 +6550,8 @@
             "value" : "開始計時"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startWorkout" : {
       "comment" : "Use when starting a workout or fitness session",
@@ -6569,7 +6595,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Προπόνηση"
+            "value" : "Ξεκίνησε Προπόνηση"
           }
         },
         "en" : {
@@ -6755,7 +6781,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Tập Luyện"
+            "value" : "Bắt đầu tập luyện"
           }
         },
         "zh-Hans" : {
@@ -6776,7 +6802,8 @@
             "value" : "開始鍛煉"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.stop" : {
       "comment" : "Use when stopping a task, activity, or process",
@@ -7027,7 +7054,8 @@
             "value" : "停止"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.track" : {
       "comment" : "Use when tracking progress, habits, or metrics",
@@ -7053,7 +7081,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Sledovat"
           }
         },
         "da" : {
@@ -7071,7 +7099,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Παρακολούθησε"
           }
         },
         "en" : {
@@ -7197,7 +7225,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trak"
+            "value" : "Śledź"
           }
         },
         "pt-BR" : {
@@ -7209,7 +7237,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Rastrear"
           }
         },
         "ro" : {
@@ -7269,7 +7297,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "追蹤"
           }
         },
         "zh-HK" : {
@@ -7278,7 +7306,8 @@
             "value" : "Track"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use when monitoring progress over time",
@@ -7529,7 +7558,8 @@
             "value" : "追蹤進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unfollowing someone or something",
@@ -7585,7 +7615,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unfavourite"
+            "value" : "Unfollow"
           }
         },
         "en-GB" : {
@@ -7780,7 +7810,8 @@
             "value" : "取消關注"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.unpin" : {
       "comment" : "Use when unpinning content or removing a pinned item",
@@ -8031,7 +8062,8 @@
             "value" : "取消釘選"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.writeAReview" : {
       "comment" : "Use when writing a review or feedback",
@@ -8099,7 +8131,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir reseña"
+            "value" : "Escribir una reseña"
           }
         },
         "es-419" : {
@@ -8207,7 +8239,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avaliar"
+            "value" : "Escrever uma Avaliação"
           }
         },
         "pt-PT" : {
@@ -8282,7 +8314,8 @@
             "value" : "撰寫評論"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.achievementPoints" : {
       "comment" : "Reward metrics or points for accomplishments",
@@ -8533,7 +8566,8 @@
             "value" : "成就點數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Time spent in physical activity or exercise",
@@ -8784,7 +8818,8 @@
             "value" : "活躍分鐘數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.activity" : {
       "comment" : "Use to describe a single event or logged activity",
@@ -9035,7 +9070,8 @@
             "value" : "健身記錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying a person's or an item's age",
@@ -9286,7 +9322,8 @@
             "value" : "年齡"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.anniversary" : {
       "comment" : "Use when referring to an anniversary celebration or reminder",
@@ -9537,7 +9574,8 @@
             "value" : "周年紀念"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.appearance" : {
       "comment" : "Use for display settings or theme-related options",
@@ -9788,7 +9826,8 @@
             "value" : "外觀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.available" : {
       "comment" : "Use when indicating availability of items or users",
@@ -10039,7 +10078,8 @@
             "value" : "可用空間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.birthday" : {
       "comment" : "Use when displaying a date of birth",
@@ -10221,7 +10261,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data de nascimento"
+            "value" : "Aniversário"
           }
         },
         "ro" : {
@@ -10290,7 +10330,8 @@
             "value" : "生日"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.calories" : {
       "comment" : "Use for nutritional or fitness tracking",
@@ -10514,7 +10555,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "калорії"
+            "value" : "Калорії"
           }
         },
         "vi" : {
@@ -10541,7 +10582,8 @@
             "value" : "卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when displaying calories burned from activities",
@@ -10783,7 +10825,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "燃燒的卡路里"
+            "value" : "卡路里消耗"
           }
         },
         "zh-HK" : {
@@ -10792,7 +10834,8 @@
             "value" : "已燃燒卡路里"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyGoal" : {
       "comment" : "Use for daily targets or objectives to achieve",
@@ -10962,7 +11005,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dzienne cele"
+            "value" : "Dzienny cel"
           }
         },
         "pt-BR" : {
@@ -11043,7 +11086,8 @@
             "value" : "每日目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.darkMode" : {
       "comment" : "Use for theme selection between light and dark modes",
@@ -11267,7 +11311,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Темна тема"
+            "value" : "Темний режим"
           }
         },
         "vi" : {
@@ -11294,7 +11338,8 @@
             "value" : "黑暗模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying time spans or length of events",
@@ -11545,7 +11590,8 @@
             "value" : "持續時間"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.event" : {
       "comment" : "Use for activities or appointments that are planned or scheduled",
@@ -11796,7 +11842,8 @@
             "value" : "行程"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.exercise" : {
       "comment" : "Use for physical activity or fitness sessions",
@@ -11882,7 +11929,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "M’entraîner"
+            "value" : "Exercice"
           }
         },
         "fr-CA" : {
@@ -12047,7 +12094,8 @@
             "value" : "運動"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use for marking or listing favorite items",
@@ -12157,7 +12205,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omiljeno"
+            "value" : "Omiljene"
           }
         },
         "hu" : {
@@ -12298,7 +12346,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.goal" : {
       "comment" : "Use when referring to a target or objective to achieve",
@@ -12540,7 +12589,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "頭條"
+            "value" : "目標"
           }
         },
         "zh-HK" : {
@@ -12549,7 +12598,8 @@
             "value" : "目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.goals" : {
       "comment" : "Use when referring to multiple objectives or targets",
@@ -12800,7 +12850,8 @@
             "value" : "目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.habits" : {
       "comment" : "Use for routines or behaviors that are repeated regularly",
@@ -13051,7 +13102,8 @@
             "value" : "習慣"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying heart rate data or monitoring",
@@ -13302,7 +13354,8 @@
             "value" : "心率"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.hydration" : {
       "comment" : "Use for tracking water intake or hydration levels",
@@ -13316,7 +13369,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Хидратация"
+            "value" : "Навици"
           }
         },
         "ca" : {
@@ -13553,7 +13606,8 @@
             "value" : "水分補充"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.milestones" : {
       "comment" : "Use when referring to significant achievements or progress points",
@@ -13804,7 +13858,8 @@
             "value" : "里程碑"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.mood" : {
       "comment" : "Use when tracking emotional state or mood levels",
@@ -14055,7 +14110,8 @@
             "value" : "心情"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.privacySettings" : {
       "comment" : "Use for managing privacy-related configurations",
@@ -14195,7 +14251,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Құпиялылық саясаты"
+            "value" : "Құпиялылық баптаулары"
           }
         },
         "ko" : {
@@ -14306,7 +14362,8 @@
             "value" : "隱私設置"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.progress" : {
       "comment" : "Use when referring to advancement or completion of tasks or goals",
@@ -14557,7 +14614,8 @@
             "value" : "進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reminders" : {
       "comment" : "Use for managing or listing reminders",
@@ -14697,7 +14755,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Еске салғыш"
+            "value" : "Еске салғыштар"
           }
         },
         "ko" : {
@@ -14808,7 +14866,8 @@
             "value" : "提醒事項"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.routine" : {
       "comment" : "Use for regular activities or actions performed consistently",
@@ -14912,7 +14971,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आमद का समय"
+            "value" : "नियमित गतिविधि"
           }
         },
         "hr" : {
@@ -15059,7 +15118,8 @@
             "value" : "常規"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.schedule" : {
       "comment" : "Use for displaying or setting up a planned series of activities or events",
@@ -15127,7 +15187,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustar"
+            "value" : "Horario"
           }
         },
         "es-419" : {
@@ -15310,7 +15370,8 @@
             "value" : "時間表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.steps" : {
       "comment" : "Use for tracking steps taken during physical activities",
@@ -15324,7 +15385,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стъпки"
+            "value" : " Стъпки"
           }
         },
         "ca" : {
@@ -15561,7 +15622,8 @@
             "value" : "步數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.workout" : {
       "comment" : "Use when referring to exercise or fitness sessions",
@@ -15812,82 +15874,83 @@
             "value" : "體能訓練"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.achievementUnlocked" : {
+    "TK.Message.achievementUnlockedDot" : {
       "comment" : "Message when a user achieves a milestone or accomplishment",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم فتح الإنجاز"
+            "value" : "تم فتح الإنجاز!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Постижението е отключено"
+            "value" : "Постижението е отключено!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Èxit desbloquejat"
+            "value" : "Logro desbloquejat!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úspěch odemčen"
+            "value" : "Úspěch odemknut!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Præstation låst op!"
+            "value" : "Præstation opnået!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errungenschaft freigeschaltet"
+            "value" : "Ziel erreicht!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το επίτευγμα ξεκλειδώθηκε"
+            "value" : "Επίτευγμα ξεκλειδώθηκε!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Achievement unlocked"
+            "value" : "Achievement unlocked!"
           }
         },
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Achievement unlocked"
+            "value" : "Achievement unlocked!"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Achievement unlocked"
+            "value" : "Achievement unlocked!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logro desbloqueado"
+            "value" : "¡Logro desbloqueado!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logro desbloqueado"
+            "value" : "¡Logro desbloqueado!"
           }
         },
         "fi" : {
@@ -15899,205 +15962,194 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Succès déverrouillé"
+            "value" : "Succès déverrouillé !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Succès débloqué"
+            "value" : "Succès débloqué !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההישג הושג"
+            "value" : "הושג הישג!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उपलब्धि अनलॉक की गई।"
+            "value" : "उपलब्धि अनलॉक की गई!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postignuće otključano"
+            "value" : "Postignuće otključano!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teljesítmény feloldva"
+            "value" : "Teljesítmény elérve!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pencapaian tercapai"
+            "value" : "Pencapaian terbuka!"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obiettivo sbloccato"
+            "value" : "Obiettivo sbloccato!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成目標が解除されました"
+            "value" : "達成が解除されました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жетістік ашылды"
+            "value" : "Жетістік ашылды!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "업적이 잠금 해제되었습니다."
+            "value" : "업적을 달성했습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pencapaian dibuka"
+            "value" : "Pencapaian dibuka!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prestasjon låst opp"
+            "value" : "Prestasjon låst opp!"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prestatie ontgrendeld"
+            "value" : "Prestatie ontgrendeld!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Osiągnięcie odblokowane"
+            "value" : "Osiągnięcie odblokowane!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conquista desbloqueada"
+            "value" : "Conquista desbloqueada!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conquista desbloqueada"
+            "value" : "Conquista desbloqueada!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deblocată"
+            "value" : "Realizare deblocată!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Достижение разблокировано"
+            "value" : "Достижение разблокировано!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úspech odomknutý"
+            "value" : "Úspech odomknutý!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prestationen upplåst"
+            "value" : "Prestationen upplåst!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ได้รับการปลดล็อกแล้ว"
+            "value" : "สำเร็จแล้ว!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Başarı kazanıldı"
+            "value" : "Başarı açıldı!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Досягнення розблоковано"
+            "value" : "Досягнення розблоковано!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thành tựu đã mở khóa"
+            "value" : "Thành tựu đã mở khóa!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "成就解锁"
+            "value" : "成就解锁！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "成就解鎖"
+            "value" : "成就解鎖！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "成就已解鎖"
+            "value" : "成就解鎖！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.achievementUnlockedDot" : {
-      "comment" : "Message when a user achieves a milestone or accomplishment",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Achievement unlocked!"
-          }
-        }
-      }
-    },
-    "TK.Message.almostThere" : {
+    "TK.Message.almostThereDot" : {
       "comment" : "Motivational message indicating progress towards a goal",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "قريباً ستصل!"
+            "value" : "نحن تقريبًا هناك!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Почти готово!"
+            "value" : "Почти сме готови!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ja quasi hi ets!"
+            "value" : "Quasi a punt!"
           }
         },
         "cs" : {
@@ -16109,19 +16161,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Næsten fremme!"
+            "value" : "Næsten færdig!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fast geschafft!"
+            "value" : "Fast da!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σχεδόν τα κατάφερες!"
+            "value" : "Σχεδόν έτοιμοι!"
           }
         },
         "en" : {
@@ -16145,7 +16197,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Casi estás ahí!"
+            "value" : "¡Casi ahí!"
           }
         },
         "es-419" : {
@@ -16163,7 +16215,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Presque là ! "
+            "value" : "Presque là !"
           }
         },
         "fr-CA" : {
@@ -16181,19 +16233,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लगभग पहुँच गए!"
+            "value" : "लगभग वहाँ!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gotovo smo!"
+            "value" : "Gotovo ste tu!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Majdnem kész!"
+            "value" : "Majdnem elkészültél!"
           }
         },
         "id" : {
@@ -16205,25 +16257,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quasi lì!"
+            "value" : "Quasi arrivato!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "もう少し！"
+            "value" : "もう少しです！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақсатқа жақындап қалдыңыз!"
+            "value" : "Дәл жетуге аз қалды!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "거의 다 왔어요!"
+            "value" : "거의 다 왔습니다!"
           }
         },
         "ms" : {
@@ -16235,7 +16287,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nesten der!"
+            "value" : "Nå er vi nesten der!"
           }
         },
         "nl" : {
@@ -16247,7 +16299,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prawie tam!"
+            "value" : "Prawie na miejscu!"
           }
         },
         "pt-BR" : {
@@ -16277,43 +16329,43 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Takmer tam!"
+            "value" : "Už takmer na mieste!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nästan där!"
+            "value" : "Nästan framme!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใกล้จะถึงแล้ว!"
+            "value" : "เกือบถึงแล้ว!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neredeyse oradasın!"
+            "value" : "Neredeyse oradayız!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Майже там!"
+            "value" : "Майже готово!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sắp đến nơi rồi!"
+            "value" : "Gần tới nơi rồi!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "快要完成了！"
+            "value" : "快到了！"
           }
         },
         "zh-Hant" : {
@@ -16328,23 +16380,12 @@
             "value" : "快到了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.almostThereDot" : {
-      "comment" : "Motivational message indicating progress towards a goal",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Almost there!"
-          }
-        }
-      }
-    },
-    "TK.Message.dailyGoalAchieved" : {
+    "TK.Message.dailyGoalAchievedDot" : {
       "comment" : "Message when a user successfully reaches their daily goal",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16367,7 +16408,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denní cíl dosažen!"
+            "value" : "Denní cíl byl dosažen!"
           }
         },
         "da" : {
@@ -16409,7 +16450,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Objetivo diario alcanzado!"
+            "value" : "¡Objetivo diario cumplido!"
           }
         },
         "es-419" : {
@@ -16433,37 +16474,37 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objectif quotidien atteint !"
+            "value" : "Objectif quotidien atteint!"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "היעד היומי הושג!"
+            "value" : "השגת היעד היומי!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "दैनिक लक्ष्य प्राप्त हुआ!"
+            "value" : "दैनिक लक्ष्य पूरा हुआ!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dnevni cilj postignut!"
+            "value" : "Dnevni cilj je postignut!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napi cél megvalósítva!"
+            "value" : "Napi cél teljesítve!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tujuan harian tercapai!"
+            "value" : "Target harian tercapai!"
           }
         },
         "it" : {
@@ -16475,25 +16516,25 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日次の目標を達成しました！"
+            "value" : "デイリーゴールを達成しました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті мақсат орындалды!"
+            "value" : "Күнделікті мақсатыңызға жетілді!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일일 목표 달성!"
+            "value" : "일일 목표를 달성하였습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matlamat harian tercapai!"
+            "value" : "Matlamat harian telah dicapai!"
           }
         },
         "nb" : {
@@ -16505,7 +16546,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagelijks doel bereikt!"
+            "value" : "Dagelijkse doelstelling behaald!"
           }
         },
         "pl" : {
@@ -16529,7 +16570,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obiectivul zilnic realizat!"
+            "value" : "Obiectivul zilnic a fost realizat!"
           }
         },
         "ru" : {
@@ -16541,13 +16582,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denný cieľ dosiahnutý!"
+            "value" : "Denný cieľ bol dosiahnutý!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagsmålet uppnått!"
+            "value" : "Dagens mål uppnått!"
           }
         },
         "th" : {
@@ -16565,13 +16606,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щоденна мета досягнута!"
+            "value" : "Щоденну мету досягнуто!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mục tiêu hàng ngày đã hoàn thành!"
+            "value" : "Mục tiêu hàng ngày đã đạt được!"
           }
         },
         "zh-Hans" : {
@@ -16583,61 +16624,50 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日目標達成！"
+            "value" : "每日目標已達成！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日目標達成！"
+            "value" : "每日目標已達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.dailyGoalAchievedDot" : {
-      "comment" : "Message when a user successfully reaches their daily goal",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Daily goal achieved!"
-          }
-        }
-      }
-    },
-    "TK.Message.dailyStreakAchieved" : {
+    "TK.Message.dailyStreakAchievedDot" : {
       "comment" : "Confirmation of maintaining a daily streak",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تحقيق سلسلة يومية!"
+            "value" : "تم تحقيق السلسلة اليومية!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дневната серия е постигната!"
+            "value" : "Ежедневната поредица е постигната!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "S'ha aconseguit la ratxa diària!"
+            "value" : "Rècord diari assolit!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denní série dosažena!"
+            "value" : "Denní série byla dosažena!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daglig streak opnået!"
+            "value" : "Daglig stime opnået!"
           }
         },
         "de" : {
@@ -16649,7 +16679,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ημερήσια σειρά επιτεύχθηκε!"
+            "value" : "Επιτεύχθηκε η ημερήσια ακολουθία!"
           }
         },
         "en" : {
@@ -16673,13 +16703,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Racha diaria lograda!"
+            "value" : "¡Racha diaria conseguida!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Racha diaria lograda!"
+            "value" : "¡Racha diaria alcanzada!"
           }
         },
         "fi" : {
@@ -16691,37 +16721,37 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Série quotidienne atteinte."
+            "value" : "Série quotidienne atteinte !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Série journalière atteinte !"
+            "value" : "Série quotidienne réalisée!"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההשג של היום הושג!"
+            "value" : "השגת רצף יומי!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "दैनिक स्ट्रीक प्राप्त किया!"
+            "value" : "दैनिक स्ट्रीक प्राप्त हुआ!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postignuta dnevna serija!"
+            "value" : "Dnevni niz je postignut!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napi sorozat teljesítve!"
+            "value" : "Napi streak teljesítve!"
           }
         },
         "id" : {
@@ -16733,31 +16763,31 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obiettivo raggiunto per la serie giornaliera!"
+            "value" : "Serie quotidiana raggiunta!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "デイリーストリーク達成！"
+            "value" : "デイリーストリークを達成しました！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті жетістікті сақтадыңыз!"
+            "value" : "Күнделікті үздіксіздікке жетілді!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일일 연속 기록 달성!"
+            "value" : "일일 연속성을 달성하였습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Streak harian dicapai!"
+            "value" : "Rantaian harian telah dicapai!"
           }
         },
         "nb" : {
@@ -16769,13 +16799,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagelijkse serie behaald!"
+            "value" : "Dagelijkse streak behaald!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Codzienna passa osiągnięta!"
+            "value" : "Osiągnięto codzienny streak!"
           }
         },
         "pt-BR" : {
@@ -16787,92 +16817,81 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desempenho diário alcançado!"
+            "value" : "Sequência diária atingida!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seria zilnică realizată!"
+            "value" : "Seria zilnică a fost realizată!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дневная серия выполнена!"
+            "value" : "Ежедневная серия достигнута!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Denná séria dosiahnutá!"
+            "value" : "Denná séria bola dosiahnutá!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daglig streak uppnådd!"
+            "value" : "Daglig serieserie uppnådd!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ลำดับประจำวันบรรลุแล้ว!"
+            "value" : "รักษาสตรีคประจำวันได้สำเร็จ!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Günlük seriyi tamamladın!"
+            "value" : "Günlük sıralama başarıyla elde edildi!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щоденна серія виконана!"
+            "value" : "Щоденну серію досягнуто!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đạt được chuỗi hàng ngày!"
+            "value" : "Duy trì chuỗi hàng ngày!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日连续签到成功！"
+            "value" : "每日连胜已达成！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日任務完成！"
+            "value" : "每日連續達成！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日連續達成！"
+            "value" : "每日連續績效已達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.dailyStreakAchievedDot" : {
-      "comment" : "Confirmation of maintaining a daily streak",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Daily streak achieved!"
-          }
-        }
-      }
-    },
-    "TK.Message.goalCompletedSuccessfully" : {
+    "TK.Message.goalCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a goal has been completed",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -16895,7 +16914,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cíl byl úspěšně splněn!"
+            "value" : "Cíl byl úspěšně dokončen!"
           }
         },
         "da" : {
@@ -16907,13 +16926,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ziel erfolgreich erreicht!"
+            "value" : "Ziel erfolgreich abgeschlossen!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο στόχος ολοκληρώθηκε με επιτυχία!"
+            "value" : "Ο στόχος ολοκληρώθηκε επιτυχώς!"
           }
         },
         "en" : {
@@ -16937,31 +16956,31 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Meta completada con éxito!"
+            "value" : "¡Objetivo completado con éxito!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Meta completada con éxito!"
+            "value" : "¡Objetivo completado con éxito!"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tavoite saavutettu onnistuneesti!"
+            "value" : "Tavoite saavutettu!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objectif réussi !"
+            "value" : "Objectif atteint avec succès !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objectif réalisé avec succès !"
+            "value" : "Objectif complété avec succès !"
           }
         },
         "he" : {
@@ -16973,19 +16992,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लक्ष्य सफलतापूर्वक पूरा हुआ!"
+            "value" : "लक्ष्य सफलतापूर्वक पूरा हो गया! "
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cilj je uspješno završen!"
+            "value" : "Cilj je uspješno ostvaren!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cél sikeresen teljesítve!"
+            "value" : "Cél teljesítve!"
           }
         },
         "id" : {
@@ -17009,19 +17028,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақсатыңыз сәтті орындалды!"
+            "value" : "Мақсат табысты аяқталды!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "목표를 성공적으로 완료했습니다!"
+            "value" : "목표가 성공적으로 완료되었습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matlamat telah berjaya diselesaikan!"
+            "value" : "Matlamat telah diselesaikan dengan jayanya!"
           }
         },
         "nb" : {
@@ -17033,13 +17052,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doel succesvol voltooid!"
+            "value" : "Doel succesvol behaald!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cel osiągnięty pomyślnie!"
+            "value" : "Cel został pomyślnie zrealizowany!"
           }
         },
         "pt-BR" : {
@@ -17051,19 +17070,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta alcançada com sucesso!"
+            "value" : "Meta concluída com sucesso!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obiectivul a fost finalizat cu succes!"
+            "value" : "Obiectivul a fost realizat cu succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цель успешно выполнена!"
+            "value" : "Цель успешно достигнута!"
           }
         },
         "sk" : {
@@ -17075,13 +17094,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mål har slutförts framgångsrikt!"
+            "value" : "Mål slutfört!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บรรลุเป้าหมายสำเร็จแล้ว!"
+            "value" : "บรรลุเป้าหมายสำเร็จเรียบร้อย!"
           }
         },
         "tr" : {
@@ -17093,7 +17112,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завдання успішно виконано!"
+            "value" : "Ціль успішно виконана!"
           }
         },
         "vi" : {
@@ -17111,73 +17130,62 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目標成功完成！"
+            "value" : "目標已成功完成！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目標成功完成！"
+            "value" : "目標已成功完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.goalCompletedSuccessfullyDot" : {
-      "comment" : "Confirmation when a goal has been completed",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Goal completed successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.greatJobKeepingUpYourStreak" : {
+    "TK.Message.greatJobKeepingUpYourStreakDot" : {
       "comment" : "Praise for maintaining a streak",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "عمل رائع في الحفاظ على سلسلتك!"
+            "value" : "عمل رائع في المحافظة على السلسلة!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Страхотна работа, че запази серията си!"
+            "value" : "Страхотна работа, че поддържаш своята серия!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Molt bé per mantenir la teva rànquing!"
+            "value" : "Molt bon treball mantenint la teva ratxa!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skvělá práce, že udržuješ svou sérii!"
+            "value" : "Skvělá práce udržet svou sérii!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Godt gjort med at holde din stime ved lige!"
+            "value" : "Godt arbejde med at holde din streak!"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hervorragend, dass du deine Serie aufrechterhältst!"
+            "value" : "Tolle Arbeit beim Halten deiner Serie!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μπράβο που τηρείς τη σειρά σου!"
+            "value" : "Μπράβο που διατηρείς τη σειρά σου!"
           }
         },
         "en" : {
@@ -17201,7 +17209,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Gran trabajo manteniendo tu racha!"
+            "value" : "¡Buen trabajo manteniendo tu racha!"
           }
         },
         "es-419" : {
@@ -17213,43 +17221,43 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hienoa, että pystyt jatkamaan putkea!"
+            "value" : "Hienoa, että pidit sarjasi!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bravo pour avoir maintenu ta série !"
+            "value" : "Super travail pour maintenir votre série !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bravo pour avoir maintenu ta série !"
+            "value" : "Excellent travail pour avoir maintenu votre série !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עבודה נהדרת לשמור על הרצף שלך!"
+            "value" : "עבודה מצוינת שהצלחת לשמור על הרצף שלך!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अपनी स्ट्रीक को बनाए रखने के लिए शानदार काम!"
+            "value" : "आपकी धारा को बनाए रखने के लिए अच्छा काम! "
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odlično, zadržao si svoju seriju!"
+            "value" : "Odličan posao, nastavite s nizom!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nagyszerű munka a sorozatod megtartásában!"
+            "value" : "Nagyszerű, hogy tartod a sorozatodat!"
           }
         },
         "id" : {
@@ -17267,43 +17275,43 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ストリークを続けていて素晴らしい！"
+            "value" : "ストリークを維持して素晴らしい！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіз кезекті сақтап қалуда керемет жұмыс істедіңіз!"
+            "value" : "Сіздің жолаңызды сақтау үшін керемет жұмыс!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "연속 기록을 잘 유지하고 있어요!"
+            "value" : "연속 기록을 유지하신 것 잘하셨습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kerja yang bagus mengikut streak anda!"
+            "value" : "Kerja bagus mengekalkan rentak anda!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flott jobba med å holde oppe rekken din!"
+            "value" : "Flott jobb med å opprettholde rekken din!"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Goed gedaan met het volhouden van je streak!"
+            "value" : "Geweldig dat je je reeks hebt volgehouden!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Świetna robota, że utrzymujesz swoją serię!"
+            "value" : "Świetna robota w utrzymywaniu swojej serii!"
           }
         },
         "pt-BR" : {
@@ -17315,7 +17323,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bom trabalho a manter a tua sequência!"
+            "value" : "Ótimo trabalho a manter a sua sequência!"
           }
         },
         "ro" : {
@@ -17327,13 +17335,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отличная работа, что ты удерживаешь свой успех!"
+            "value" : "Отличная работа, что продолжаешь свою серию!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skvelá práca, že si si udržal: svoju sériovú aktivitu!"
+            "value" : "Skvelá práca, že si udržal svoj sled!"
           }
         },
         "sv" : {
@@ -17345,67 +17353,56 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ทำได้ดีในการรักษาสถิติของคุณ!"
+            "value" : "ทำได้ดีมากในการรักษาสถิติ!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Serini koruduğun için harika bir iş çıkardın!"
+            "value" : "Serinizi koruduğun için harika iş!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чудова робота, продовжуй свій серійний успіх!"
+            "value" : "Чудова робота, що підтримуєш свою серію!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Làm tốt lắm, giữ vững chuỗi của bạn!"
+            "value" : "Làm tốt việc giữ vững chuỗi thành tích!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保持连续，干得不错！"
+            "value" : "干得好，保持你的持续记录！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保持連續，幹得好！"
+            "value" : "保持連續不斷，表現出色！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保持你的連續紀錄，幹得好！"
+            "value" : "堅持不懈，做得好！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.greatJobKeepingUpYourStreakDot" : {
-      "comment" : "Praise for maintaining a streak",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Great job keeping up your streak!"
-          }
-        }
-      }
-    },
-    "TK.Message.keepUpTheGoodWork" : {
+    "TK.Message.keepUpTheGoodWorkDot" : {
       "comment" : "Motivational message encouraging continued effort",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استمر في العمل الجيد!"
+            "value" : "واصل العمل الجيد!"
           }
         },
         "bg" : {
@@ -17417,13 +17414,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Segueix amb la bona feina!"
+            "value" : "Continua així!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jen tak dál!"
+            "value" : "Pokračuj v dobré práci!"
           }
         },
         "da" : {
@@ -17453,7 +17450,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keep up the great work!"
+            "value" : "Keep up the good work!"
           }
         },
         "en-GB" : {
@@ -17471,7 +17468,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sigue así!"
+            "value" : "¡Sigue con el buen trabajo!"
           }
         },
         "fi" : {
@@ -17483,43 +17480,43 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue ton bon travail !"
+            "value" : "Continue sur ta lancée !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue ton excellent travail !"
+            "value" : "Continue le bon travail!"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שמור על העבודה הטובה!"
+            "value" : "מעולה, תמשיך כך!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अच्छा काम करते रहो!"
+            "value" : "अच्छा काम करते रहिए!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastavi s dobrim radom!"
+            "value" : "Nastavite s dobrim radom!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Folytasd a jó munkát!"
+            "value" : "Tartsd meg a jó munkát!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertahankan kerja bagus!"
+            "value" : "Terus lakukan pekerjaan yang baik!"
           }
         },
         "it" : {
@@ -17531,49 +17528,49 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "その調子を続けてください！"
+            "value" : "良い調子を保ってください！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жақсы жұмыс істей беріңіз!"
+            "value" : "Жарайсың, осылай жалғастыр!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "좋은 작업 계속하세요!"
+            "value" : "좋은 작업을 계속해서 하세요!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teruskan kerja yang baik!"
+            "value" : "Teruskan kerja baik!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fortsett det gode arbeidet!"
+            "value" : "Stå på videre!"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blijf goed werk leveren!"
+            "value" : "Ga zo door!"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontynuuj dobrą pracę!"
+            "value" : "Trzymaj dobrą robotę!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue com o bom trabalho!"
+            "value" : "Continue o bom trabalho!"
           }
         },
         "pt-PT" : {
@@ -17585,13 +17582,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă munca bună!"
+            "value" : "Continuați munca bună!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продолжайте в том же духе!"
+            "value" : "Продолжай в том же духе!"
           }
         },
         "sk" : {
@@ -17609,91 +17606,80 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ทำดีต่อไปนะ!"
+            "value" : "ทำดีต่อไป!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İyi iş çıkarmaya devam edin!"
+            "value" : "İyi çalışmaya devam et!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продовжуй хорошу роботу!"
+            "value" : "Продовжуй у тому ж дусі!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hãy tiếp tục công việc tốt đẹp nhé!"
+            "value" : "Cứ duy trì công việc tốt nhé!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "继续保持良好工作！"
+            "value" : "继续保持良好表现！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "繼續努力！"
+            "value" : "繼續保持良好的工作！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "继续保持优秀的表现！"
+            "value" : "保持良好表現！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.keepUpTheGoodWorkDot" : {
-      "comment" : "Motivational message encouraging continued effort",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep up the good work!"
-          }
-        }
-      }
-    },
-    "TK.Message.newMilestoneReached" : {
+    "TK.Message.newMilestoneReachedDot" : {
       "comment" : "Message when a new achievement or milestone is reached",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم الوصول إلى إنجاز جديد!"
+            "value" : "مرحلة ماشية جديدة"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нов етап е достигнат!"
+            "value" : "Постигане на нова цел!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nou assoliment assolit!"
+            "value" : "Nou assoliment aconseguit!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nového milníku bylo dosaženo!"
+            "value" : "Nový milník byl dosažen!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ny milepæl nået!"
+            "value" : "Nyt mål nået!"
           }
         },
         "de" : {
@@ -17705,7 +17691,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Νέος στόχος επιτεύχθηκε!"
+            "value" : "Επιτεύχθηκε νέο ορόσημο!"
           }
         },
         "en" : {
@@ -17753,37 +17739,37 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouvel objectif atteint !"
+            "value" : "Nouveau jalon atteint !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ציון דרך חדש הושג!"
+            "value" : "מין צד חדש הושג!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नई उपलब्धि प्राप्त हुई!"
+            "value" : "नया मील का पत्थर हासिल किया!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novi cilj je dostignut!"
+            "value" : "Novi cilj je postignut!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Új mérföldkő érve el!"
+            "value" : "Új mérföldkő teljesítve!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tonggak baru telah tercapai!"
+            "value" : "Tonggak baru telah dicapai!"
           }
         },
         "it" : {
@@ -17801,7 +17787,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа жетістікке жетілді!"
+            "value" : "Жаңа кезеңге қол жеткізілді!"
           }
         },
         "ko" : {
@@ -17813,13 +17799,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pencapaian baru telah dicapai!"
+            "value" : "Pencapaian baru dicapai!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nytt milepæl nådd!"
+            "value" : "Ny milepæl nådd!"
           }
         },
         "nl" : {
@@ -17831,7 +17817,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Osiągnięto nowy kamień milowy!"
+            "value" : "Nowy kamień milowy osiągnięty!"
           }
         },
         "pt-BR" : {
@@ -17849,13 +17835,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Noua etapă a fost atinsă!"
+            "value" : "Nouă etapă atinsă!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Достигнута новая веха!"
+            "value" : "Достигнут новый рубеж!"
           }
         },
         "sk" : {
@@ -17867,19 +17853,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ny milstolpe nådd!"
+            "value" : "Nytt mål nått!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เกณฑ์ใหม่ถูกเข้าถึงแล้ว!"
+            "value" : "บรรลุเป้าหมายใหม่แล้ว!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni kilometre taşına ulaşıldı!"
+            "value" : "Yeni kilometre taşı ulaşıldı!"
           }
         },
         "uk" : {
@@ -17891,44 +17877,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã đạt cột mốc mới!"
+            "value" : "Đã đạt được cột mốc mới!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "达成新里程碑!"
+            "value" : "新的里程碑已经达到！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達到新里程碑！"
+            "value" : "達成新的里程碑！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成新里程碑！"
+            "value" : "新里程碑已達成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.newMilestoneReachedDot" : {
-      "comment" : "Message when a new achievement or milestone is reached",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "New milestone reached!"
-          }
-        }
-      }
-    },
-    "TK.Message.noTasksDueForToday" : {
+    "TK.Message.noTasksDueForTodayDot" : {
       "comment" : "Notification when there are no tasks scheduled for the day",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17939,7 +17914,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Няма задачи с падеж за днес."
+            "value" : "Няма задачи, които да изтичат днес."
           }
         },
         "ca" : {
@@ -17951,25 +17926,25 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádné úkoly na dnešek."
+            "value" : "Dnes nejsou žádné úkoly."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen opgaver forfaldet i dag."
+            "value" : "Ingen opgaver forfaldne i dag."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Aufgaben für heute fällig."
+            "value" : "Es sind keine Aufgaben für heute fällig."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δεν υπάρχουν καθήκοντα που λήγουν σήμερα."
+            "value" : "Δεν υπάρχουν καθήκοντα προγραμματισμένα για σήμερα."
           }
         },
         "en" : {
@@ -17993,7 +17968,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hay tareas pendientes para hoy."
+            "value" : "No hay tareas programadas para hoy."
           }
         },
         "es-419" : {
@@ -18005,67 +17980,67 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei tänään erääntyviä tehtäviä."
+            "value" : "Ei tänään erääntyneitä tehtäviä."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune tâche due pour aujourd'hui."
+            "value" : "Aucune tâche prévue pour aujourd'hui."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune tâche prévue pour aujourd’hui."
+            "value" : "Aucune tâche prévue pour aujourd'hui."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אין משימות שדורשות ביצוע היום."
+            "value" : "אין משימות שיש להן תאריך יעד היום."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आज के लिए कोई कार्य नहीं हैं।"
+            "value" : "आज के लिए कोई कार्य निर्धारित नहीं हैं।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema zadataka za danas."
+            "value" : "Nema zadataka koji su na rasporedu za danas."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs mai határidős feladat."
+            "value" : "Ma nincs esedékes feladatod."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak ada tugas yang jatuh tempo hari ini."
+            "value" : "Tidak ada tugas yang jatuh tempo untuk hari ini."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessun compito programmato per oggi."
+            "value" : "Nessun compito in scadenza per oggi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日の期限付きタスクはありません。"
+            "value" : "まだタスクはありません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бүгінгі күні орындалатын тапсырмалар жоқ."
+            "value" : "Бүгінге тағайындалған тапсырмалар жоқ."
           }
         },
         "ko" : {
@@ -18077,7 +18052,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada tugas yang harus diselesaikan hari ini."
+            "value" : "Tiada tugas yang dijadualkan untuk hari ini."
           }
         },
         "nb" : {
@@ -18089,13 +18064,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen taken gepland voor vandaag."
+            "value" : "Geen taken die vandaag vervallen."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brak zadań do wykonania dzisiaj."
+            "value" : "Brak zadań na dzisiaj."
           }
         },
         "pt-BR" : {
@@ -18107,61 +18082,61 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma tarefa devida para hoje."
+            "value" : "Não há tarefas agendadas para hoje."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niciun task scadent pentru astăzi."
+            "value" : "Nu aveți sarcini programate pentru astăzi."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заданий на сегодня нет."
+            "value" : "Нет задач, срок выполнения которых истекает сегодня."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žiadne úlohy na dnes nie sú splatné."
+            "value" : "Žiadne úlohy dnes nie sú naplánované."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inga uppgifter för idag."
+            "value" : "Inga uppgifter förfaller idag."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่มีงานที่กำหนดสำหรับวันนี้."
+            "value" : "ไม่มีงานที่ครบกำหนดสำหรับวันนี้."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bugün teslim tarihi olan görev yok."
+            "value" : "Bugün yapılacak görev yok."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сьогодні немає запланованих завдань."
+            "value" : "Сьогодні немає термінових завдань."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không có công việc nào hết hạn hôm nay."
+            "value" : "Không có nhiệm vụ nào phải làm hôm nay."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今天没有到期的任务。"
+            "value" : "今天没有任务到期。"
           }
         },
         "zh-Hant" : {
@@ -18173,26 +18148,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今天沒有待辦任務。"
+            "value" : "今天沒有到期的任務。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noTasksDueForTodayDot" : {
-      "comment" : "Notification when there are no tasks scheduled for the day",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No tasks due for today."
-          }
-        }
-      }
-    },
-    "TK.Message.reminderSetSuccessfully" : {
+    "TK.Message.reminderSetSuccessfullyDot" : {
       "comment" : "Confirmation when a reminder is successfully set",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18209,7 +18173,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recordatori configurat correctament."
+            "value" : "Recordatori configurat amb èxit."
           }
         },
         "cs" : {
@@ -18263,7 +18227,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recordatorio establecido con éxito."
+            "value" : "Recordatorio establecido correctamente."
           }
         },
         "fi" : {
@@ -18275,25 +18239,25 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rappel défini avec succès."
+            "value" : "Rappel créé avec succès."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rappel fixé avec succès."
+            "value" : "Rappel établi avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תזכורת הוגדרה בהצלחה."
+            "value" : "התזכורת הוגדרה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रिमाइंडर सफलतापूर्वक सेट कर दिया गया।"
+            "value" : "अनुस्मारक सफलतापूर्वक सेट किया गया।"
           }
         },
         "hr" : {
@@ -18329,7 +18293,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескерту сәтті қойылды."
+            "value" : "Ескерту сәтті түрде орнатылды."
           }
         },
         "ko" : {
@@ -18341,7 +18305,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peringatan ditetapkan dengan jayanya."
+            "value" : "Pengingat berjaya ditetapkan."
           }
         },
         "nb" : {
@@ -18377,13 +18341,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Memento-ul a fost setat cu succes."
+            "value" : "Memento setat cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напоминание успешно установлено."
+            "value" : "Напоминание установлено успешно."
           }
         },
         "sk" : {
@@ -18395,7 +18359,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Påminnelse har ställts in framgångsrikt."
+            "value" : "Påminnelse ställd framgångsrikt."
           }
         },
         "th" : {
@@ -18419,44 +18383,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhắc nhở đã được cài đặt thành công."
+            "value" : "Đã thiết lập nhắc nhở thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提醒已成功设置。"
+            "value" : "提醒设置成功。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提醒已成功設定。"
+            "value" : "提醒已成功設置。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提醒已成功設置。"
+            "value" : "提醒已成功設定。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.reminderSetSuccessfullyDot" : {
-      "comment" : "Confirmation when a reminder is successfully set",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reminder set successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.sessionCompletedSuccessfully" : {
+    "TK.Message.sessionCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a session or activity is finished",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18467,7 +18420,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сесията е завършена успешно!"
+            "value" : "Сесията приключи успешно!"
           }
         },
         "ca" : {
@@ -18479,13 +18432,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sezení bylo úspěšně dokončeno!"
+            "value" : "Relace byla úspěšně dokončena!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sessionen er gennemført med succes!"
+            "value" : "Session fuldført med succes!"
           }
         },
         "de" : {
@@ -18497,7 +18450,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η συνεδρία ολοκληρώθηκε με επιτυχία!"
+            "value" : "Η συνεδρία ολοκληρώθηκε επιτυχώς!"
           }
         },
         "en" : {
@@ -18527,7 +18480,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sesión completada con éxito!"
+            "value" : "¡Sesión completada exitosamente!"
           }
         },
         "fi" : {
@@ -18557,25 +18510,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सत्र सफलतापूर्वक पूरा हो गया!"
+            "value" : "सत्र सफलतापूर्वक पूरा हुआ!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesija je uspješno dovršena!"
+            "value" : "Sesija je uspješno završena!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A szekció sikeresen befejeződött!"
+            "value" : "Az ülés sikeresen befejeződött!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesi selesai dengan sukses!"
+            "value" : "Sesi berhasil diselesaikan!"
           }
         },
         "it" : {
@@ -18605,13 +18558,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesi selesai dengan jayanya!"
+            "value" : "Sesi berjaya diselesaikan!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Økten er fullført!"
+            "value" : "Økten ble fullført!"
           }
         },
         "nl" : {
@@ -18629,7 +18582,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sessão concluída com êxito!"
+            "value" : "Sessão concluída com sucesso!"
           }
         },
         "pt-PT" : {
@@ -18641,13 +18594,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesiunea a fost finalizată cu succes!"
+            "value" : "Sesiunea s-a finalizat cu succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сессия завершена успешно!"
+            "value" : "Сессия успешно завершена!"
           }
         },
         "sk" : {
@@ -18659,13 +18612,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sessionen har genomförts framgångsrikt!"
+            "value" : "Sessionen slutfördes framgångsrikt!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเซสชันเสร็จสมบูรณ์แล้ว!"
+            "value" : "เซสชันเสร็จสมบูรณ์เรียบร้อยแล้ว!"
           }
         },
         "tr" : {
@@ -18683,67 +18636,56 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phiên đã hoàn tất thành công!"
+            "value" : "Buổi làm việc đã hoàn tất thành công!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "会话已成功完成！"
+            "value" : "会话成功完成！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "會議成功完成！"
+            "value" : "會話已成功完成！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "會議已成功完成！"
+            "value" : "會話已成功完成！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.sessionCompletedSuccessfullyDot" : {
-      "comment" : "Confirmation when a session or activity is finished",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Session completed successfully!"
-          }
-        }
-      }
-    },
-    "TK.Message.timeToCheckIn" : {
+    "TK.Message.timeToCheckInDot" : {
       "comment" : "Reminder to check in for an activity or session",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حان الوقت لتسجيل الوصول!"
+            "value" : "حان الوقت للتحقق!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е да се проверите!"
+            "value" : "Време е за регистрация!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "És hora de fer el check-in!"
+            "value" : "Hora d'inscriure's!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je čas se přihlásit!"
+            "value" : "Čas na přihlášení!"
           }
         },
         "da" : {
@@ -18761,7 +18703,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ώρα να κάνεις check-in!"
+            "value" : "Ώρα να κάνετε check-in!"
           }
         },
         "en" : {
@@ -18785,13 +18727,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Es hora de registrarse!"
+            "value" : "¡Es hora de registrarte!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Es hora de registrarse!"
+            "value" : "¡Es hora de hacer el registro!"
           }
         },
         "fi" : {
@@ -18803,49 +18745,49 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il est temps de faire le point !"
+            "value" : "C'est le moment de s'enregistrer !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "C'est le temps de faire le check-in !"
+            "value" : "Il est temps de faire votre enregistrement !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "זמן להיבדק!"
+            "value" : "זמן לבדוק!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "चेक-इन करने का समय है!"
+            "value" : "चेक इन करने का समय!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme je za prijavu!"
+            "value" : "Vrijeme za prijavu!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Itt az idő, hogy bejelentkezz!"
+            "value" : "Itt az idő jelentkezni!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saatnya untuk check-in!"
+            "value" : "Waktunya untuk check-in!"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "È tempo di registrarsi!"
+            "value" : "È tempo di effettuare il check-in!"
           }
         },
         "ja" : {
@@ -18857,7 +18799,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тіркелу уақыты келді!"
+            "value" : "Кіру уақыты!"
           }
         },
         "ko" : {
@@ -18869,13 +18811,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masa untuk mendaftar!"
+            "value" : "Masa untuk semak masuk!"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tid for å sjekke inn!"
+            "value" : "Tid for innsjekking!"
           }
         },
         "nl" : {
@@ -18893,19 +18835,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de fazer o check-in!"
+            "value" : "Hora de fazer check-in!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de fazer check-in!"
+            "value" : "É hora de fazer check-in!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E vremea să te înregistrezi!"
+            "value" : "Este timpul să te înregistrezi!"
           }
         },
         "ru" : {
@@ -18917,7 +18859,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas na registráciu!"
+            "value" : "Čas na prihlásenie!"
           }
         },
         "sv" : {
@@ -18929,62 +18871,51 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ถึงเวลาตรวจสอบแล้ว!"
+            "value" : "ถึงเวลาเช็คอิน!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontrol zamanı!"
+            "value" : "Giriş yapma zamanı!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час зареєструватися!"
+            "value" : "Час на реєстрацію!"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đến lúc kiểm tra!"
+            "value" : "Đến lúc check-in!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是时候签到了！"
+            "value" : "该是签到的时间！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該是簽到的時候了！"
+            "value" : "該報到的時間到了！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "是時候簽到！"
+            "value" : "時候檢查入境！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.timeToCheckInDot" : {
-      "comment" : "Reminder to check in for an activity or session",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Time to check in!"
-          }
-        }
-      }
-    },
-    "TK.Message.timeToFocus" : {
+    "TK.Message.timeToFocusDot" : {
       "comment" : "Message prompting the user to focus on a task or activity",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -18995,19 +18926,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е да се съсредоточите!"
+            "value" : "Време да се концентрираш!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "És hora de concentrar-se!"
+            "value" : "Hora de concentrar-se!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je čas se soustředit!"
+            "value" : "Čas na soustředění!"
           }
         },
         "da" : {
@@ -19019,13 +18950,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeit zum Fokussieren!"
+            "value" : "Zeit, um sich zu konzentrieren!"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ώρα να συγκεντρωθείς!"
+            "value" : "Ώρα να επικεντρωθείτε!"
           }
         },
         "en" : {
@@ -19049,13 +18980,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Es hora de concentrarse!"
+            "value" : "¡Es hora de concentrarte!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Es hora de concentrarse!"
+            "value" : "¡Es hora de enfocarse!"
           }
         },
         "fi" : {
@@ -19067,43 +18998,43 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il est temps de se concentrer !"
+            "value" : "C'est le moment de se concentrer !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "C'est le temps de se concentrer !"
+            "value" : "Il est temps de se concentrer !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "זמן להתמקד!"
+            "value" : "זמן להתרכז!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ध्यान केंद्रित करने का समय है!"
+            "value" : "ध्यान केंद्रित करने का समय!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme je da se fokusirate!"
+            "value" : "Vrijeme za fokus!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Itt az idő a fókuszálásra!"
+            "value" : "Itt az idő, hogy összpontosíts!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saatnya untuk fokus!"
+            "value" : "Waktunya untuk fokus!"
           }
         },
         "it" : {
@@ -19121,7 +19052,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мазмұнға көңіл бөлетін уақыт!"
+            "value" : "Назар аударатын уақыт!"
           }
         },
         "ko" : {
@@ -19133,7 +19064,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masa untuk fokus!"
+            "value" : "Masa untuk memberi tumpuan!"
           }
         },
         "nb" : {
@@ -19157,19 +19088,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de se concentrar!"
+            "value" : "Hora de focar!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de concentrar-se!"
+            "value" : "É hora de se concentrar!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E vremea să te concentrezi!"
+            "value" : "Este timpul să te concentrezi!"
           }
         },
         "ru" : {
@@ -19181,7 +19112,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas sa sústrediť!"
+            "value" : "Čas na sústredenie!"
           }
         },
         "sv" : {
@@ -19193,7 +19124,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ถึงเวลาที่จะมุ่งเน้น!"
+            "value" : "ถึงเวลาโฟกัส!"
           }
         },
         "tr" : {
@@ -19217,13 +19148,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该专注的时候了！"
+            "value" : "该是专注的时间！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "該是專注的時候了！"
+            "value" : "該專注的時間到了！"
           }
         },
         "zh-HK" : {
@@ -19232,23 +19163,12 @@
             "value" : "是時候專注了！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.timeToFocusDot" : {
-      "comment" : "Message prompting the user to focus on a task or activity",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Time to focus!"
-          }
-        }
-      }
-    },
-    "TK.Message.welcomeBack" : {
+    "TK.Message.welcomeBackDot" : {
       "comment" : "Greeting message when a user returns to the app or platform",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19259,13 +19179,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добре дошло обратно!"
+            "value" : "Добре дошли отново!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Benvingut de nou!"
+            "value" : "Bentornada!"
           }
         },
         "cs" : {
@@ -19289,7 +19209,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καλωσόρισες πίσω!"
+            "value" : "Καλώς ήρθατε ξανά!"
           }
         },
         "en" : {
@@ -19337,25 +19257,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Content de te revoir !"
+            "value" : "Bon retour !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ברוך הבא שוב!"
+            "value" : "ברוך שובך!"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका स्वागत है!"
+            "value" : "स्वागत है!"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dobro došao natrag!"
+            "value" : "Dobrodošli natrag!"
           }
         },
         "hu" : {
@@ -19379,13 +19299,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お帰りなさい！"
+            "value" : "おかえりなさい！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қайтып келдіңіз!"
+            "value" : "Қайта оралдыңыз!"
           }
         },
         "ko" : {
@@ -19427,7 +19347,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bem-vindx de volta!"
+            "value" : "Bem-vindo de volta!"
           }
         },
         "ro" : {
@@ -19445,7 +19365,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vitáme späť!"
+            "value" : "Vitaj späť!"
           }
         },
         "sv" : {
@@ -19457,19 +19377,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ยินดีต้อนรับกลับ!"
+            "value" : "ยินดีต้อนกลับ!"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hoş geldin tekrar!"
+            "value" : "Hoş geldiniz!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ласкаво просимо!"
+            "value" : "Ласкаво просимо назад!"
           }
         },
         "vi" : {
@@ -19496,23 +19416,12 @@
             "value" : "歡迎回來！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.welcomeBackDot" : {
-      "comment" : "Greeting message when a user returns to the app or platform",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Welcome back!"
-          }
-        }
-      }
-    },
-    "TK.Message.wellDone" : {
+    "TK.Message.wellDoneDot" : {
       "comment" : "Praise for completing a task or achieving a goal",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19529,7 +19438,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Molt bé!"
+            "value" : "Bé fet!"
           }
         },
         "cs" : {
@@ -19553,7 +19462,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μπράβο!"
+            "value" : "Καλή δουλειά!"
           }
         },
         "en" : {
@@ -19601,13 +19510,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bien joué !"
+            "value" : "Bien fait !"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עשה עבודה טובה!"
+            "value" : "עשית עבודה נהדרת!"
           }
         },
         "hi" : {
@@ -19619,19 +19528,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dobro odrađeno!"
+            "value" : "Odlično!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jól sikerült!"
+            "value" : "Szép munka!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kerja yang bagus!"
+            "value" : "Bagus sekali!"
           }
         },
         "it" : {
@@ -19649,19 +19558,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жақсы істедіңіз!"
+            "value" : "Жақсы жасайсыз!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "잘했습니다!"
+            "value" : "잘 하셨습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bagus!"
+            "value" : "Bagus sekali!"
           }
         },
         "nb" : {
@@ -19679,25 +19588,25 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dobrze zrobione!"
+            "value" : "Dobra robota!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bom trabalho!"
+            "value" : "Muito bem!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muito bem!"
+            "value" : "Bem feito!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foarte bine!"
+            "value" : "Bravo!"
           }
         },
         "ru" : {
@@ -19709,7 +19618,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dobrá práca!"
+            "value" : "Dobre si to zvládla!"
           }
         },
         "sv" : {
@@ -19733,7 +19642,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Молодець!"
+            "value" : "Чудово зроблено!"
           }
         },
         "vi" : {
@@ -19760,40 +19669,29 @@
             "value" : "做得好！"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.wellDoneDot" : {
-      "comment" : "Praise for completing a task or achieving a goal",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Well done!"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addACaptionDots" : {
+    "TK.Placeholder.addCaptionDots" : {
       "comment" : "Placeholder for adding a caption to an image or media",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أضف عنوانًا…"
+            "value" : "أضف وصفًا…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави надпис…"
+            "value" : "Добавете надпис…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir un subtítol…"
+            "value" : "Afegeix una descripció…"
           }
         },
         "cs" : {
@@ -19811,13 +19709,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bildunterschrift hinzufügen…"
+            "value" : "Füge eine Bildunterschrift hinzu…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη λεζάντας…"
+            "value" : "Προσθέστε μια λεζάντα…"
           }
         },
         "en" : {
@@ -19841,19 +19739,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir un título…"
+            "value" : "Añadir un pie de foto…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar un título…"
+            "value" : "Añadir un pie de foto…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää kuvaus…"
+            "value" : "Lisää selite…"
           }
         },
         "fr" : {
@@ -19871,13 +19769,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוסף כתב תג"
+            "value" : "הוסף כיתוב…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कैप्शन जोड़ें…"
+            "value" : "छवि या मीडिया के लिए कैप्शन जोड़ें..."
           }
         },
         "hr" : {
@@ -19889,7 +19787,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add hozzá a feliratot…"
+            "value" : "Felirat hozzáadása…"
           }
         },
         "id" : {
@@ -19931,19 +19829,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til bildetekst…"
+            "value" : "Legg til en bildetekst…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg een bijschrift toe…"
+            "value" : "Voeg een onderschrift toe…"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj opis…"
+            "value" : "Dodaj podpis…"
           }
         },
         "pt-BR" : {
@@ -19973,7 +19871,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať popis…"
+            "value" : "Pridaj popis…"
           }
         },
         "sv" : {
@@ -19991,7 +19889,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Başlık ekle…"
+            "value" : "Bir başlık ekleyin…"
           }
         },
         "uk" : {
@@ -20009,26 +19907,27 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加标题…"
+            "value" : "添加说明……"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入說明文字…"
+            "value" : "加入說明…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增說明…"
+            "value" : "添加說明…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Placeholder.addADescriptionDots" : {
+    "TK.Placeholder.addDescriptionDots" : {
       "comment" : "Placeholder for adding a description or details",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20045,7 +19944,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir una descripció…"
+            "value" : "Afegeix una descripció…"
           }
         },
         "cs" : {
@@ -20063,13 +19962,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beschreibung hinzufügen…"
+            "value" : "Füge eine Beschreibung hinzu…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη περιγραφής…"
+            "value" : "Προσθέστε μια περιγραφή…"
           }
         },
         "en" : {
@@ -20099,7 +19998,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar una descripción…"
+            "value" : "Añadir una descripción…"
           }
         },
         "fi" : {
@@ -20129,19 +20028,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "विवरण जोड़ें…"
+            "value" : "एक विवरण या जानकारी जोड़ें..."
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj opis…"
+            "value" : "Dodajte opis…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add meg a leírást…"
+            "value" : "Leírás hozzáadása…"
           }
         },
         "id" : {
@@ -20183,7 +20082,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til beskrivelse…"
+            "value" : "Legg til en beskrivelse…"
           }
         },
         "nl" : {
@@ -20225,7 +20124,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať popis…"
+            "value" : "Pridaj popis…"
           }
         },
         "sv" : {
@@ -20243,7 +20142,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Açıklama ekle…"
+            "value" : "Bir açıklama ekleyin…"
           }
         },
         "uk" : {
@@ -20261,298 +20160,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "添加描述……"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "添加描述…"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "新增描述…"
-          }
-        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增描述…"
+            "value" : "添加描述…"
           }
         }
-      }
-    },
-    "TK.Placeholder.addATitleDots" : {
-      "comment" : "Placeholder for adding a title to content or a task",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "أضف عنوانًا…"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добави заглавие…"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afegir un títol…"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Přidej název…"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilføj en titel…"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titel hinzufügen…"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Προσθήκη τίτλου…"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add a title…"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add a title…"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add a title…"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Añadir un título…"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Agregar un título…"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lisää otsikko…"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajouter un titre…"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajouter un titre…"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הוסף כותרת…"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "शीर्षक जोड़ें…"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dodaj naslov…"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cím hozzáadása…"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tambahkan judul…"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aggiungi un titolo…"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "タイトルを追加…"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Атау қосу…"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "제목 추가…"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tambah tajuk…"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Legg til tittel…"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voeg een titel toe…"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dodaj tytuł…"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Adicionar um título…"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Adicionar um título…"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Adaugă un titlu…"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавить заголовок…"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pridať názov…"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lägg till en titel…"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เพิ่มชื่อเรื่อง…"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Başlık ekle…"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Додайте заголовок…"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thêm tiêu đề…"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "添加标题…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "新增標題…"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "新增標題…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addCaptionDots" : {
-      "comment" : "Placeholder for adding a caption to an image or media",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a caption…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addDescriptionDots" : {
-      "comment" : "Placeholder for adding a description or details",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a description…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addNoteDots" : {
       "comment" : "Placeholder for adding a note or comment",
@@ -20566,7 +20190,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави бележка…"
+            "value" : "Добавете бележка…"
           }
         },
         "ca" : {
@@ -20668,7 +20292,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add meg a megjegyzést…"
+            "value" : "Adj hozzá egy megjegyzést…"
           }
         },
         "id" : {
@@ -20803,7 +20427,8 @@
             "value" : "新增備註…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTaskDescriptionDots" : {
       "comment" : "Placeholder for describing a task",
@@ -21054,19 +20679,261 @@
             "value" : "新增任務描述…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTitleDots" : {
       "comment" : "Placeholder for adding a title to content or a task",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف عنوانًا…"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавете заглавие…"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afegeix un títol…"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidat název…"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj en titel…"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge einen Titel hinzu…"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθέστε έναν τίτλο…"
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Add a title…"
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a title…"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a title…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir un título…"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir un título…"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisää otsikko…"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un titre…"
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un titre…"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הוסף כותרת…"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक शीर्षक जोड़ें..."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodajte naslov…"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cím hozzáadása…"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambahkan judul…"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi un titolo…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトルを追加…"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ат қою…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제목 추가…"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambah tajuk…"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legg til en tittel…"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg een titel toe…"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodaj tytuł…"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar um título…"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar um título…"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adaugă un titlu…"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить название…"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pridaj názov…"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till en titel…"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพิ่มชื่อ…"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir başlık ekle…"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додати заголовок…"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm tiêu đề…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加标题……"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增標題…"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加標題…"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.describeYourTaskDots" : {
       "comment" : "Placeholder for task description or details",
@@ -21158,7 +21025,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Décris ta tâche…"
+            "value" : "Décrire votre tâche…"
           }
         },
         "he" : {
@@ -21200,7 +21067,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "タスクを説明…"
+            "value" : "タスクを説明中…"
           }
         },
         "kk" : {
@@ -21290,7 +21157,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опишіть своє завдання…"
+            "value" : "Описати своє завдання…"
           }
         },
         "vi" : {
@@ -21317,7 +21184,8 @@
             "value" : "描述你的任務…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterMeditationDurationDots" : {
       "comment" : "Placeholder for entering the duration of a meditation session",
@@ -21361,7 +21229,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε διάρκεια διαλογισμού…"
+            "value" : "Βάλε διάρκεια διαλογισμού…"
           }
         },
         "en" : {
@@ -21427,7 +21295,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite trajanje meditacije…"
+            "value" : "Unesi trajanje meditacije…"
           }
         },
         "hu" : {
@@ -21463,7 +21331,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "명상 시간 입력…"
+            "value" : "명상 시간을 입력하세요…"
           }
         },
         "ms" : {
@@ -21493,7 +21361,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira a duração da meditação…"
+            "value" : "Digite a duração da meditação…"
           }
         },
         "pt-PT" : {
@@ -21505,7 +21373,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu durata meditației…"
+            "value" : "Introduceți durata meditației…"
           }
         },
         "ru" : {
@@ -21535,7 +21403,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meditasyon süresini girin…"
+            "value" : "Meditasyon süresini gir…"
           }
         },
         "uk" : {
@@ -21568,7 +21436,8 @@
             "value" : "輸入冥想時長…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTaskNameDots" : {
       "comment" : "Placeholder for entering a task name",
@@ -21678,7 +21547,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naziv zadatka…"
+            "value" : "Unesi naziv zadatka…"
           }
         },
         "hu" : {
@@ -21744,7 +21613,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o nome da tarefa…"
+            "value" : "Digite o nome da tarefa…"
           }
         },
         "pt-PT" : {
@@ -21819,7 +21688,8 @@
             "value" : "輸入任務名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTaskTitleDots" : {
       "comment" : "Placeholder for entering the title of a task",
@@ -21929,7 +21799,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite naslov zadatka…"
+            "value" : "Unesi naslov zadatka…"
           }
         },
         "hu" : {
@@ -21995,7 +21865,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o título da tarefa…"
+            "value" : "Digite o título da tarefa…"
           }
         },
         "pt-PT" : {
@@ -22070,7 +21940,8 @@
             "value" : "輸入任務標題…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterTimeSpentDots" : {
       "comment" : "Placeholder for tracking or entering time spent on an activity",
@@ -22180,7 +22051,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite vrijeme provedeno…"
+            "value" : "Unesi vrijeme provedeno…"
           }
         },
         "hu" : {
@@ -22198,7 +22069,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci tempo trascorso…"
+            "value" : "Inserisci il tempo trascorso…"
           }
         },
         "ja" : {
@@ -22246,7 +22117,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira o tempo gasto…"
+            "value" : "Digite o tempo gasto…"
           }
         },
         "pt-PT" : {
@@ -22321,7 +22192,8 @@
             "value" : "輸入花費的時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterWeightDots" : {
       "comment" : "Placeholder for entering weight data or fitness information",
@@ -22431,13 +22303,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite težinu…"
+            "value" : "Unesi težinu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Súly megadása…"
+            "value" : "Írd be a súlyt…"
           }
         },
         "id" : {
@@ -22449,7 +22321,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci peso…"
+            "value" : "Inserisci il peso…"
           }
         },
         "ja" : {
@@ -22485,7 +22357,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer gewicht in..."
+            "value" : "Voer gewicht in…"
           }
         },
         "pl" : {
@@ -22503,7 +22375,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o peso…"
+            "value" : "Introduzir o peso…"
           }
         },
         "ro" : {
@@ -22521,13 +22393,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte hmotnosť…"
+            "value" : "Zadaj hmotnosť…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv in vikt…"
+            "value" : "din vikt…"
           }
         },
         "th" : {
@@ -22572,7 +22444,8 @@
             "value" : "輸入體重…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterWorkoutDurationDots" : {
       "comment" : "Placeholder for entering the duration of a workout",
@@ -22682,13 +22555,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite trajanje vježbanja…"
+            "value" : "Unesi trajanje vježbanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edzés időtartamának megadása…"
+            "value" : "Írd be az edzés időtartamát…"
           }
         },
         "id" : {
@@ -22700,7 +22573,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci durata dell'allenamento…"
+            "value" : "Inserisci la durata dell'allenamento…"
           }
         },
         "ja" : {
@@ -22736,7 +22609,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer trainingsduur in..."
+            "value" : "Voer trainingsduur in…"
           }
         },
         "pl" : {
@@ -22748,7 +22621,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insira a duração do treino…"
+            "value" : "Digite a duração do treino…"
           }
         },
         "pt-PT" : {
@@ -22823,7 +22696,8 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -22987,7 +22861,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter resultaten..."
+            "value" : "Filter resultaten…"
           }
         },
         "pl" : {
@@ -23074,7 +22948,8 @@
             "value" : "過濾結果…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.noItemsYetDots" : {
       "comment" : "Placeholder for empty lists or sections",
@@ -23196,13 +23071,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Belum ada item…"
+            "value" : "Belum ada item-item…"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessun elemento ancora…"
+            "value" : "Ancora nessun elemento…"
           }
         },
         "ja" : {
@@ -23325,7 +23200,8 @@
             "value" : "尚未有項目…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchForAnExerciseDots" : {
       "comment" : "Placeholder for searching exercises or activities",
@@ -23393,7 +23269,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar un ejercicio…"
+            "value" : "Busca un ejercicio…"
           }
         },
         "es-419" : {
@@ -23477,7 +23353,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari latihan…"
+            "value" : "Cari latihan…"
           }
         },
         "nb" : {
@@ -23489,7 +23365,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek een oefening…"
+            "value" : "Zoek naar oefening…"
           }
         },
         "pl" : {
@@ -23576,7 +23452,8 @@
             "value" : "搜索練習…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchResourcesDots" : {
       "comment" : "Placeholder for searching available resources or content",
@@ -23608,7 +23485,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søg efter ressourcer…"
+            "value" : "Søg ressourcer…"
           }
         },
         "de" : {
@@ -23668,7 +23545,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche de ressources…"
+            "value" : "Rechercher des ressources…"
           }
         },
         "he" : {
@@ -23716,7 +23593,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ресурстарды іздеу…"
+            "value" : "Ресурстарды іздеңіз..."
           }
         },
         "ko" : {
@@ -23827,7 +23704,8 @@
             "value" : "搜索資源…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setAFitnessGoalDots" : {
       "comment" : "Placeholder for setting a personal fitness target or goal",
@@ -24075,10 +23953,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設好開學目標…"
+            "value" : "選擇仿音語音…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setDueDateDots" : {
       "comment" : "Placeholder for setting a due date for tasks or activities",
@@ -24098,13 +23977,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estableix la data de venciment…"
+            "value" : "Estableix data de venciment…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stanovit termín…"
+            "value" : "Nastav termín…"
           }
         },
         "da" : {
@@ -24122,7 +24001,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίζω προθεσμία…"
+            "value" : "Ορισμός προθεσμίας…"
           }
         },
         "en" : {
@@ -24206,7 +24085,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposta la data di scadenza…"
+            "value" : "Imposta data di scadenza…"
           }
         },
         "ja" : {
@@ -24248,7 +24127,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustaw datę realizacji…"
+            "value" : "Ustal termin realizacji…"
           }
         },
         "pt-BR" : {
@@ -24272,7 +24151,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Установите срок выполнения…"
+            "value" : "Установи срок выполнения…"
           }
         },
         "sk" : {
@@ -24296,7 +24175,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son teslim tarihini belirle…"
+            "value" : "Son teslim tarihini belirleyin…"
           }
         },
         "uk" : {
@@ -24326,10 +24205,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設好設置截止日期…"
+            "value" : "設置學習目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.setReminderDots" : {
       "comment" : "Placeholder for setting up a reminder for an event or task",
@@ -24373,7 +24253,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίζω υπενθύμιση…"
+            "value" : "Ορισμός υπενθύμισης…"
           }
         },
         "en" : {
@@ -24523,7 +24403,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Установите напоминание…"
+            "value" : "Установи напоминание…"
           }
         },
         "sk" : {
@@ -24580,7 +24460,8 @@
             "value" : "設好設置提醒…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.typeAMessageDots" : {
       "comment" : "Placeholder for entering a message or comment",
@@ -24780,7 +24661,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napísať správu…"
+            "value" : "Napíš správu…"
           }
         },
         "sv" : {
@@ -24831,7 +24712,8 @@
             "value" : "输入信息…"
           }
         }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"

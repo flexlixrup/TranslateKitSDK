@@ -1,265 +1,13 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "ISBN" : {
-      "comment" : "Use when displaying the ISBN number of a book",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "رقم ISBN"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ISBN"
-          }
-        }
-      }
-    },
     "TK.Action.addBookmark" : {
       "comment" : "Use when marking a specific page or position in a book",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة إلى العلامات المرجعية"
+            "value" : "إضافة علامة مرجعية"
           }
         },
         "bg" : {
@@ -502,7 +250,8 @@
             "value" : "添加书签"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addNote" : {
       "comment" : "Use when creating a new annotation or comment",
@@ -516,7 +265,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете бележка"
+            "value" : "Добави бележка"
           }
         },
         "ca" : {
@@ -753,7 +502,8 @@
             "value" : "添加注释"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when importing books into the user's collection",
@@ -821,7 +571,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir a la fototeca"
+            "value" : "Añadir a la biblioteca"
           }
         },
         "es-419" : {
@@ -977,7 +727,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до фототеки"
+            "value" : "Додати до бібліотеки"
           }
         },
         "vi" : {
@@ -1004,7 +754,8 @@
             "value" : "加至圖庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when saving books for later reading",
@@ -1255,7 +1006,8 @@
             "value" : "加至閲讀列表"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.annotate" : {
       "comment" : "Use when adding notes or comments to text",
@@ -1269,7 +1021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете анотация"
+            "value" : "Добави анотация"
           }
         },
         "ca" : {
@@ -1443,7 +1195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adnotare"
+            "value" : "Adnotează"
           }
         },
         "ru" : {
@@ -1473,7 +1225,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not Ekle"
+            "value" : "Açıklama Ekle"
           }
         },
         "uk" : {
@@ -1506,7 +1258,8 @@
             "value" : "注释"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.archive" : {
       "comment" : "Use when moving books to long-term storage",
@@ -1604,7 +1357,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ארכיון"
+            "value" : "ארכב"
           }
         },
         "hi" : {
@@ -1700,7 +1453,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архив"
+            "value" : "Заархивировать"
           }
         },
         "sk" : {
@@ -1730,7 +1483,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В архів"
+            "value" : "Заархівувати"
           }
         },
         "vi" : {
@@ -1757,7 +1510,8 @@
             "value" : "封存"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when marking a page for quick access",
@@ -1939,7 +1693,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador"
+            "value" : "Adicionar marcador"
           }
         },
         "ro" : {
@@ -1957,7 +1711,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záložkovat"
+            "value" : "Záložkovať"
           }
         },
         "sv" : {
@@ -2008,7 +1762,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.browseLibrary" : {
       "comment" : "Use when exploring the book collection",
@@ -2160,7 +1915,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "浏览图书馆"
+            "value" : "Jelajah Perpustakaan"
           }
         },
         "nb" : {
@@ -2259,7 +2014,8 @@
             "value" : "浏览图书馆"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.changeFont" : {
       "comment" : "Use when modifying text appearance settings",
@@ -2393,7 +2149,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フォントを変更する"
+            "value" : "フォントを変更"
           }
         },
         "kk" : {
@@ -2510,7 +2266,8 @@
             "value" : "更改字体"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.copyQuote" : {
       "comment" : "Use when selecting and copying text passages",
@@ -2554,7 +2311,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αντιγραφή Απόσπασματος"
+            "value" : "Αντιγραφή Αποσπάσματος"
           }
         },
         "en" : {
@@ -2674,7 +2431,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citaat Kopiëren"
+            "value" : "Citaat kopiëren"
           }
         },
         "pl" : {
@@ -2686,7 +2443,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar Citação"
+            "value" : "Copiar citação"
           }
         },
         "pt-PT" : {
@@ -2698,7 +2455,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază citatul"
+            "value" : "Copiere"
           }
         },
         "ru" : {
@@ -2722,7 +2479,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คัดลอกข้อความ"
+            "value" : "คัดลอกคำพูด"
           }
         },
         "tr" : {
@@ -2761,7 +2518,8 @@
             "value" : "複製引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use when saving books for offline access",
@@ -2799,7 +2557,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Für Offline Herunterladen"
+            "value" : "Für Offline herunterladen"
           }
         },
         "el" : {
@@ -2859,7 +2617,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הורד למצב לא מקוון"
+            "value" : "הורד למצב\n לא מקוון"
           }
         },
         "hi" : {
@@ -3012,7 +2770,8 @@
             "value" : "下載離線內容"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.editBookmark" : {
       "comment" : "Use when modifying existing bookmark details",
@@ -3263,7 +3022,8 @@
             "value" : "編輯書簽"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.editNote" : {
       "comment" : "Use when modifying existing annotations",
@@ -3514,7 +3274,8 @@
             "value" : "編輯便條"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportHighlights" : {
       "comment" : "Use when saving highlighted passages",
@@ -3528,7 +3289,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортируй акценти"
+            "value" : "Експортирай акценти"
           }
         },
         "ca" : {
@@ -3765,7 +3526,8 @@
             "value" : "導出重點"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.exportNotes" : {
       "comment" : "Use when saving annotations and comments",
@@ -3779,7 +3541,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортируй бележки"
+            "value" : "Експортирай бележки"
           }
         },
         "ca" : {
@@ -4016,7 +3778,8 @@
             "value" : "導出便條"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.goToChapter" : {
       "comment" : "Use when navigating to specific book sections",
@@ -4264,10 +4027,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前往章节"
+            "value" : "前往章節"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.goToPage" : {
       "comment" : "Use when jumping to specific page numbers",
@@ -4515,10 +4279,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前往页面"
+            "value" : "前往頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.highlight" : {
       "comment" : "Use when marking important text passages",
@@ -4769,7 +4534,8 @@
             "value" : "螢光標示"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.importBook" : {
       "comment" : "Use when adding new books to the library",
@@ -5017,10 +4783,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入书籍"
+            "value" : "導入書籍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when completing a book",
@@ -5094,7 +4861,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Leído"
+            "value" : "Marcar como leído"
           }
         },
         "fi" : {
@@ -5202,7 +4969,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Lido"
+            "value" : "Assinalar como Lido"
           }
         },
         "ro" : {
@@ -5271,7 +5038,8 @@
             "value" : "標示為已讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.markAsUnread" : {
       "comment" : "Use when resetting book progress",
@@ -5279,7 +5047,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "علامة كغير مقروء"
+            "value" : "ضع علامة كغير مقروء"
           }
         },
         "bg" : {
@@ -5303,7 +5071,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Markér som ulest"
+            "value" : "Marker som ulæst"
           }
         },
         "de" : {
@@ -5375,7 +5143,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आधिकारिक वाणिज्यिक आंशिक रूप में चिह्नित करें"
+            "value" : "अपठित के रूप में चिह्नित करें"
           }
         },
         "hr" : {
@@ -5411,7 +5179,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кітаптағы прогресті қайта орнату"
+            "value" : "Қайта оқылмаған деп белгілеу"
           }
         },
         "ko" : {
@@ -5453,13 +5221,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Não Lido"
+            "value" : "Assinalar como Não Lido"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca Nekunoscute"
+            "value" : "Marchează ca Necitit"
           }
         },
         "ru" : {
@@ -5522,7 +5290,8 @@
             "value" : "标记为未读"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.pinBook" : {
       "comment" : "Use when keeping books easily accessible",
@@ -5680,7 +5449,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fester bok"
+            "value" : "Feste bok"
           }
         },
         "nl" : {
@@ -5773,7 +5542,8 @@
             "value" : "釘選書籍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.rateBook" : {
       "comment" : "Use when providing book reviews or ratings",
@@ -6024,7 +5794,8 @@
             "value" : "評分書籍"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readNow" : {
       "comment" : "Use when starting to read immediately",
@@ -6038,7 +5809,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочети сега"
+            "value" : "Чети"
           }
         },
         "ca" : {
@@ -6275,7 +6046,8 @@
             "value" : "立即閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.readOffline" : {
       "comment" : "Use when accessing downloaded books",
@@ -6289,7 +6061,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чети офлайн"
+            "value" : "Чети"
           }
         },
         "ca" : {
@@ -6526,7 +6298,8 @@
             "value" : "離線閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeBookmark" : {
       "comment" : "Use when deleting saved page markers",
@@ -6777,7 +6550,8 @@
             "value" : "移除書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.removeFromLibrary" : {
       "comment" : "Use when deleting books from collection",
@@ -7028,7 +6802,8 @@
             "value" : "從庫存中移除"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.resumeReading" : {
       "comment" : "Use when continuing from last position",
@@ -7279,7 +7054,8 @@
             "value" : "恢復閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveBookmark" : {
       "comment" : "Use when storing page positions",
@@ -7491,7 +7267,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกลิงก์"
+            "value" : "บันทึกบุ๊คมาร์ก"
           }
         },
         "tr" : {
@@ -7530,7 +7306,8 @@
             "value" : "保存書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.saveQuote" : {
       "comment" : "Use when storing selected text passages",
@@ -7604,7 +7381,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Guardar cita"
+            "value" : "Establecer nota de venta"
           }
         },
         "fi" : {
@@ -7781,7 +7558,8 @@
             "value" : "保存引用"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when creating reading targets",
@@ -7813,7 +7591,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sæt Mål"
+            "value" : "Sæt mål"
           }
         },
         "de" : {
@@ -8032,7 +7810,8 @@
             "value" : "設定目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.shareProgress" : {
       "comment" : "Use when posting reading achievements",
@@ -8283,7 +8062,8 @@
             "value" : "分享進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.startReading" : {
       "comment" : "Use when beginning a new book",
@@ -8399,7 +8179,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Olvasás Kezdése"
+            "value" : "Olvasás kezdése"
           }
         },
         "id" : {
@@ -8423,7 +8203,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқыту бастау"
+            "value" : "Оқуды бастау"
           }
         },
         "ko" : {
@@ -8513,7 +8293,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt Đầu Đọc"
+            "value" : "Bắt đầu đọc"
           }
         },
         "zh-Hans" : {
@@ -8534,7 +8314,8 @@
             "value" : "開始閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.syncLibrary" : {
       "comment" : "Use when updating book collection across devices",
@@ -8674,7 +8455,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кітапхана синхрондау"
+            "value" : "Кітапхананы синхрондау"
           }
         },
         "ko" : {
@@ -8698,7 +8479,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bibliotheek Synchroniseren"
+            "value" : "Sync bibliotheek"
           }
         },
         "pl" : {
@@ -8785,7 +8566,8 @@
             "value" : "同步資料庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.takeNotes" : {
       "comment" : "Use when creating annotations while reading",
@@ -9036,7 +8818,8 @@
             "value" : "做筆記"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.toggleDarkMode" : {
       "comment" : "Use when switching between light and dark reading themes",
@@ -9182,7 +8965,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "다크 모드 전환"
+            "value" : "이라이트 모드 전환"
           }
         },
         "ms" : {
@@ -9287,7 +9070,8 @@
             "value" : "切換暗黑模式"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Action.viewBookmarks" : {
       "comment" : "Use when accessing saved page positions",
@@ -9538,7 +9322,8 @@
             "value" : "查看書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.annotations" : {
       "comment" : "Use when referring to the user's notes or highlights in a book",
@@ -9789,7 +9574,8 @@
             "value" : "註解"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a book",
@@ -10040,7 +9826,8 @@
             "value" : "作者"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.averageRating" : {
       "comment" : "Use when showing the average user rating for a book",
@@ -10291,7 +10078,8 @@
             "value" : "平均评分"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use when referring to top-selling books",
@@ -10542,7 +10330,8 @@
             "value" : "暢銷商品"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to saved pages or sections in a book",
@@ -10664,7 +10453,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda (jamak)"
+            "value" : "Penanda Buku"
           }
         },
         "it" : {
@@ -10793,7 +10582,8 @@
             "value" : "書籤"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.bookTitle" : {
       "comment" : "Use when displaying the title of a book",
@@ -11044,7 +10834,8 @@
             "value" : "书名"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.categories" : {
       "comment" : "Use when showing the various categories a book can belong to",
@@ -11295,7 +11086,8 @@
             "value" : "類別"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section in a book",
@@ -11546,7 +11338,8 @@
             "value" : "章节"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.collection" : {
       "comment" : "Use when referring to a user's library or book collection",
@@ -11797,7 +11590,8 @@
             "value" : "收藏"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentChapter" : {
       "comment" : "Use when referring to the current chapter the user is reading",
@@ -12048,7 +11842,8 @@
             "value" : "當前章節"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.currentPage" : {
       "comment" : "Use when referring to the current page the user is on",
@@ -12299,7 +12094,8 @@
             "value" : "當前頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dailyProgress" : {
       "comment" : "Use when showing the user's reading progress for the day",
@@ -12550,7 +12346,8 @@
             "value" : "每日進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.darkTheme" : {
       "comment" : "Use when referring to a dark mode theme for reading",
@@ -12801,7 +12598,8 @@
             "value" : "黑暗主題"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.dictionary" : {
       "comment" : "Use when providing a dictionary feature for looking up words",
@@ -13052,7 +12850,8 @@
             "value" : "辭典"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.edition" : {
       "comment" : "Use when referring to a specific version or publication of a book",
@@ -13303,7 +13102,8 @@
             "value" : "版本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.favorites" : {
       "comment" : "Use when displaying the user's favorite books",
@@ -13413,7 +13213,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omiljeno"
+            "value" : "Omiljene"
           }
         },
         "hu" : {
@@ -13554,7 +13354,8 @@
             "value" : "喜好項目"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.fontSize" : {
       "comment" : "Use when providing font size options for reading",
@@ -13805,7 +13606,8 @@
             "value" : "字型大小"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.genre" : {
       "comment" : "Use when referring to the category or genre of a book",
@@ -13975,7 +13777,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gatunek"
+            "value" : "Gatunek Literacki"
           }
         },
         "pt-BR" : {
@@ -14056,28 +13858,17 @@
             "value" : "類型"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.isbn" : {
       "comment" : "Use when displaying the ISBN number of a book",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "ISBN"
-          }
-        }
-      }
-    },
-    "TK.Label.ISBN" : {
-      "comment" : "Use when displaying the ISBN number of a book",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "رقم ISBN"
+            "value" : "ISBN"
           }
         },
         "bg" : {
@@ -14161,7 +13952,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Numéro de ISBN"
+            "value" : "ISBN"
           }
         },
         "he" : {
@@ -14305,7 +14096,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN"
+            "value" : "国际标准书号（ISBN）"
           }
         },
         "zh-Hant" : {
@@ -14317,10 +14108,11 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN"
+            "value" : "國際標準書號 (ISBN)"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lastRead" : {
       "comment" : "Use when showing the last time a book was read",
@@ -14544,7 +14336,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Останнє прочитане"
+            "value" : "Останнє прочитання"
           }
         },
         "vi" : {
@@ -14571,7 +14363,8 @@
             "value" : "最後閱讀"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.library" : {
       "comment" : "Use when referring to a user's book collection or library",
@@ -14681,7 +14474,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medijateka"
+            "value" : "Biblioteka"
           }
         },
         "hu" : {
@@ -14822,7 +14615,8 @@
             "value" : "資料庫"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.lineSpacing" : {
       "comment" : "Use when adjusting the space between lines of text",
@@ -15073,7 +14867,8 @@
             "value" : "行距"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.newReleases" : {
       "comment" : "Use when referring to newly released books",
@@ -15324,7 +15119,8 @@
             "value" : "新版本"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.nonFiction" : {
       "comment" : "Use when referring to non-fiction books",
@@ -15440,7 +15236,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nem-fikció"
+            "value" : "Nem fiktív"
           }
         },
         "id" : {
@@ -15575,7 +15371,8 @@
             "value" : "非虛構"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to user-created notes or annotations in a book",
@@ -15826,7 +15623,8 @@
             "value" : "備忘錄"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a specific page in a book",
@@ -16077,7 +15875,8 @@
             "value" : "頁面"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.pageCount" : {
       "comment" : "Use when displaying the total number of pages in a book",
@@ -16328,7 +16127,8 @@
             "value" : "頁數"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.readingGoal" : {
       "comment" : "Use when referring to the user's reading target or goal",
@@ -16579,7 +16379,8 @@
             "value" : "閱讀目標"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.readingList" : {
       "comment" : "Use when referring to a list of books the user intends to read",
@@ -16599,7 +16400,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Llibreta de lectura"
+            "value" : "Llista de lectura"
           }
         },
         "cs" : {
@@ -16743,7 +16544,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lezenlijst"
+            "value" : "Leeslijst"
           }
         },
         "pl" : {
@@ -16830,7 +16631,8 @@
             "value" : "閱讀清單"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.readingProgress" : {
       "comment" : "Use when displaying the user's progress through a book",
@@ -16994,7 +16796,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leesvoortgang"
+            "value" : "Leeslijst"
           }
         },
         "pl" : {
@@ -17081,7 +16883,8 @@
             "value" : "閱讀進度"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Label.reviews" : {
       "comment" : "Use when displaying user reviews or feedback on books",
@@ -17332,11 +17135,12 @@
             "value" : "評價"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.annotationSavedSuccessfully" : {
+    "TK.Message.annotationSavedSuccessfullyDot" : {
       "comment" : "Confirmation when a user saves an annotation",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17347,13 +17151,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Анотацията е запазена успешно."
+            "value" : "Анотацията беше успешно запазена."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anotació guardada correctament."
+            "value" : "Annotació desada correctament."
           }
         },
         "cs" : {
@@ -17365,7 +17169,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annotation gemt med succes."
+            "value" : "Annotering gemt med succes."
           }
         },
         "de" : {
@@ -17401,7 +17205,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anotación guardada con éxito."
+            "value" : "Anotación guardada correctamente."
           }
         },
         "es-419" : {
@@ -17413,13 +17217,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Merkintä tallennettu onnistuneesti."
+            "value" : "Mu annotation on tallennettu onnistuneesti."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annotation enregistrée avec succès."
+            "value" : "Annotation sauvegardée avec succès."
           }
         },
         "fr-CA" : {
@@ -17431,13 +17235,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הערה נשמרה בהצלחה."
+            "value" : "ההערה נשמרה בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एनोटेशन सफलतापूर्वक सहेजा गया है।"
+            "value" : "एनोटेशन को सफलतापूर्वक सहेजा गया।"
           }
         },
         "hr" : {
@@ -17449,13 +17253,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjegyzés sikeresen mentve."
+            "value" : "Az annotáció sikeresen mentve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anotasi berhasil disimpan."
+            "value" : "Annotasi berhasil disimpan."
           }
         },
         "it" : {
@@ -17467,13 +17271,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注釈が正常に保存されました。"
+            "value" : "注釈は正常に保存されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертілген жазба сәтті сақталды."
+            "value" : "Ескертпе сәтті сақталды."
           }
         },
         "ko" : {
@@ -17485,13 +17289,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annotasi disimpan dengan jayanya."
+            "value" : "Catatan telah disimpan dengan jayanya."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annoteringen ble lagret."
+            "value" : "Annotasjon lagret."
           }
         },
         "nl" : {
@@ -17503,7 +17307,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adnotacja została pomyślnie zapisana."
+            "value" : "Adnotacja zapisana pomyślnie."
           }
         },
         "pt-BR" : {
@@ -17521,7 +17325,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notă salvată cu succes."
+            "value" : "Notița a fost salvată cu succes."
           }
         },
         "ru" : {
@@ -17539,13 +17343,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annotering sparad framgångsrikt."
+            "value" : "Anteckning sparad framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกการอธิบายเรียบร้อยแล้ว."
+            "value" : "บันทึกคำอธิบายสำเร็จแล้ว"
           }
         },
         "tr" : {
@@ -17575,37 +17379,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "註釋已成功保存。"
+            "value" : "註解已成功儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "註解已成功保存。"
+            "value" : "標註已成功儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.annotationSavedSuccessfullyDot" : {
-      "comment" : "Confirmation when a user saves an annotation",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Annotation saved successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.bookAddedToLibrary" : {
+    "TK.Message.bookAddedToLibraryDot" : {
       "comment" : "Confirmation when a book is added to the user's library",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت إضافة الكتاب إلى المكتبة."
+            "value" : "تم إضافة الكتاب إلى المكتبة."
           }
         },
         "bg" : {
@@ -17629,7 +17422,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bog tilføjet til biblioteket."
+            "value" : "Bogen er blevet tilføjet til biblioteket."
           }
         },
         "de" : {
@@ -17665,13 +17458,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Libro agregado a la biblioteca."
+            "value" : "Libro añadido a la biblioteca."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Libro agregado a la biblioteca."
+            "value" : "Libro añadido a la biblioteca."
           }
         },
         "fi" : {
@@ -17701,7 +17494,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "किताब पुस्तकालय में जोड़ी गई।"
+            "value" : "पुस्तक पुस्तकालय में जोड़ी गई।"
           }
         },
         "hr" : {
@@ -17713,13 +17506,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Könyv hozzáadva a könyvtárhoz."
+            "value" : "A könyv hozzáadva a könyvtárhoz."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buku telah ditambahkan ke perpustakaan."
+            "value" : "Buku berhasil ditambahkan ke perpustakaan."
           }
         },
         "it" : {
@@ -17749,19 +17542,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buku telah ditambahkan ke dalam perpustakaan."
+            "value" : "Buku telah ditambah ke dalam perpustakaan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boken er lagt til i biblioteket."
+            "value" : "Bok lagt til i biblioteket."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boek toegevoegd aan bibliotheek."
+            "value" : "Boek toegevoegd aan de bibliotheek."
           }
         },
         "pl" : {
@@ -17803,13 +17596,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bok tillagd i biblioteket."
+            "value" : "Bok tillagd till biblioteket."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "หนังสือถูกเพิ่มในห้องสมุดแล้ว."
+            "value" : "เพิ่มหนังสือในห้องสมุดแล้ว"
           }
         },
         "tr" : {
@@ -17821,7 +17614,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Книгу додано до бібліотеки."
+            "value" : "Книга додана до бібліотеки."
           }
         },
         "vi" : {
@@ -17833,13 +17626,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "书籍已添加到图书馆。"
+            "value" : "书籍已添加至库中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "書籍已添加至圖書館。"
+            "value" : "書籍已加入圖書館。"
           }
         },
         "zh-HK" : {
@@ -17848,35 +17641,265 @@
             "value" : "書籍已添加到圖書館。"
           }
         }
-      }
-    },
-    "TK.Message.bookAddedToLibraryDot" : {
-      "comment" : "Confirmation when a book is added to the user's library",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Book added to library."
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Message.bookAvailableOfflineDot" : {
       "comment" : "Notification when a book is available offline",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الكتاب متاح الآن في وضع عدم الاتصال."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Книгата сега е налична офлайн."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llibre disponible ara fora de línia."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kniha je nyní dostupná offline."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bogen er nu tilgængelig offline."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buch ist jetzt offline verfügbar."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το βιβλίο είναι τώρα διαθέσιμο εκτός σύνδεσης."
+          }
+        },
         "en" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Book is now available offline."
           }
+        },
+        "en-AU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Book is now available offline."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Book is now available offline."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El libro está ahora disponible sin conexión."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El libro ahora está disponible sin conexión."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kirja on nyt saatavilla offline-tilassa."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le livre est maintenant disponible hors connexion."
+          }
+        },
+        "fr-CA" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le livre est maintenant disponible hors ligne."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הספר זמין עכשיו לאופליין."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुस्तक अब ऑफ़लाइन उपलब्ध है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knjiga je sada dostupna offline."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A könyv most offline elérhető."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buku kini tersedia secara offline."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il libro è ora disponibile offline."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本がオフラインで利用可能になりました。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кітап енді офлайн режимінде қолжетімді."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "책이 이제 오프라인에서 이용 가능합니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buku kini tersedia untuk digunakan tanpa internet."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bok er nå tilgjengelig offline."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boek is nu offline beschikbaar."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Książka jest teraz dostępna offline."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livro agora disponível offline."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livro agora disponível offline."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartea este acum disponibilă offline."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Книга теперь доступна в оффлайн-режиме."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kniha je teraz dostupná offline."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boken är nu tillgänglig offline."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หนังสือพร้อมใช้งานแบบออฟไลน์แล้ว"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kitap artık çevrimdışı kullanılabilir."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Книга тепер доступна в офлайн-режимі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sách đã có thể sử dụng ngoại tuyến."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "书籍现已离线可用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書籍現在可離線使用。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書籍現在可以離線使用。"
+          }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.bookDeletedFromLibrary" : {
+    "TK.Message.bookDeletedFromLibraryDot" : {
       "comment" : "Confirmation when a book is removed from the user's library",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -17905,7 +17928,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bog slettet fra biblioteket."
+            "value" : "Bogen er blevet slettet fra biblioteket."
           }
         },
         "de" : {
@@ -17971,13 +17994,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הספר נמחק מספרייה."
+            "value" : "הספר הוסר מהספרייה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "किताब पुस्तकालय से हटा दी गई।"
+            "value" : "पुस्तक पुस्तकालय से हटा दी गई।"
           }
         },
         "hr" : {
@@ -17989,13 +18012,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Könyv törölve a könyvtárból."
+            "value" : "A könyv eltávolítva a könyvtárból."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buku dihapus dari perpustakaan."
+            "value" : "Buku berhasil dihapus dari perpustakaan."
           }
         },
         "it" : {
@@ -18025,19 +18048,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buku telah dipadam dari perpustakaan."
+            "value" : "Buku telah dibuang dari perpustakaan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boken er slettet fra biblioteket."
+            "value" : "Bok slettet fra biblioteket."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boek verwijderd uit bibliotheek."
+            "value" : "Boek verwijderd uit de bibliotheek."
           }
         },
         "pl" : {
@@ -18049,19 +18072,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Livro removido da biblioteca."
+            "value" : "Livro excluído da biblioteca."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Livro removido da biblioteca."
+            "value" : "Livro eliminado da biblioteca."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartea a fost ștearsă din bibliotecă."
+            "value" : "Cartea a fost eliminată din bibliotecă."
           }
         },
         "ru" : {
@@ -18073,19 +18096,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kniha bola z knižnice odstránená."
+            "value" : "Kniha bola odstránená z knižnice."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bok raderad från biblioteket."
+            "value" : "Bok borttagen från biblioteket."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "หนังสือถูกลบออกจากห้องสมุด."
+            "value" : "ลบหนังสือจากห้องสมุดเรียบร้อยแล้ว"
           }
         },
         "tr" : {
@@ -18097,19 +18120,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Книгу видалено з бібліотеки."
+            "value" : "Книга видалена з бібліотеки."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sách đã được xóa khỏi thư viện."
+            "value" : "Sách đã bị xóa khỏi thư viện."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "书籍已从图书馆删除。"
+            "value" : "书籍已从库中删除。"
           }
         },
         "zh-Hant" : {
@@ -18121,31 +18144,20 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "書籍已從圖書館中刪除。"
+            "value" : "書籍已從圖書館刪除。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.bookDeletedFromLibraryDot" : {
-      "comment" : "Confirmation when a book is removed from the user's library",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Book deleted from library."
-          }
-        }
-      }
-    },
-    "TK.Message.bookDownloadedSuccessfully" : {
+    "TK.Message.bookDownloadedSuccessfullyDot" : {
       "comment" : "Confirmation when a book has been downloaded",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تحميل الكتاب بنجاح."
+            "value" : "تم تنزيل الكتاب بنجاح."
           }
         },
         "bg" : {
@@ -18157,7 +18169,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Llibre descarregat correctament."
+            "value" : "Llibre descarregat amb èxit."
           }
         },
         "cs" : {
@@ -18169,7 +18181,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bog downloadet med succes."
+            "value" : "Bogen er blevet downloaded med succes."
           }
         },
         "de" : {
@@ -18181,7 +18193,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το βιβλίο κατέβηκε επιτυχώς."
+            "value" : "Το βιβλίο κατέβηκε με επιτυχία."
           }
         },
         "en" : {
@@ -18205,7 +18217,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Libro descargado exitosamente."
+            "value" : "Libro descargado con éxito."
           }
         },
         "es-419" : {
@@ -18241,7 +18253,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "किताब सफलतापूर्वक डाउनलोड हुई।"
+            "value" : "पुस्तक सफलतापूर्वक डाउनलोड हो गई।"
           }
         },
         "hr" : {
@@ -18253,7 +18265,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Könyv sikeresen letöltve."
+            "value" : "A könyv sikeresen letöltve."
           }
         },
         "id" : {
@@ -18295,7 +18307,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boken ble lastet ned med suksess."
+            "value" : "Bok lastet ned med suksess."
           }
         },
         "nl" : {
@@ -18343,13 +18355,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bok nedladdad."
+            "value" : "Bok nedladdad framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ดาวน์โหลดหนังสือเรียบร้อยแล้ว."
+            "value" : "ดาวน์โหลดหนังสือเสร็จสมบูรณ์แล้ว"
           }
         },
         "tr" : {
@@ -18361,7 +18373,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Книгу успішно завантажено."
+            "value" : "Книга успішно завантажена."
           }
         },
         "vi" : {
@@ -18373,7 +18385,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "书籍下载成功。"
+            "value" : "书籍已成功下载。"
           }
         },
         "zh-Hant" : {
@@ -18388,316 +18400,53 @@
             "value" : "書籍已成功下載。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.bookDownloadedSuccessfullyDot" : {
-      "comment" : "Confirmation when a book has been downloaded",
+    "TK.Message.bookmarkAddedSuccessfullyDot" : {
+      "comment" : "Confirmation when a bookmark is saved",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Book downloaded successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.bookIsNowAvailableOffline" : {
-      "comment" : "Notification when a book is available offline",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الكتاب متاح الآن في وضع عدم الاتصال."
+            "value" : "تمت إضافة علامة مرجعية بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Книгата вече е налична офлайн."
+            "value" : "Забележката е добавена успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Llibre disponible ara per a lectura offline."
+            "value" : "Marcador afegit amb èxit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kniha je nyní dostupná offline."
+            "value" : "Záložka byla úspěšně uložena."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bog er nu tilgængelig offline."
+            "value" : "Bogmærket er blevet gemt med succes."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buch ist jetzt offline verfügbar."
+            "value" : "Lesezeichen erfolgreich gespeichert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το βιβλίο είναι τώρα διαθέσιμο offline."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Book is now available offline."
-          }
-        },
-        "en-AU" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Book is now available offline."
-          }
-        },
-        "en-GB" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Book is now available offline."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "El libro ahora está disponible offline."
-          }
-        },
-        "es-419" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "El libro está ahora disponible sin conexión."
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kirja on nyt saatavilla offline."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Livre maintenant disponible hors ligne."
-          }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Livre désormais disponible hors ligne."
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "הספר זמין כעת לקריאה לא מקוונת."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "किताब अब ऑफ़लाइन उपलब्ध है।"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Knjiga je sada dostupna offline."
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A könyv most offline elérhető."
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buku sekarang tersedia secara offline."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Libro ora disponibile offline."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "本がオフラインで利用可能になりました。"
-          }
-        },
-        "kk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Кітап енді оффлайн режимде бар."
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "책이 이제 오프라인에서 이용 가능합니다."
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buku kini tersedia untuk bacaan luar talian."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boken er nå tilgjengelig offline."
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boek is nu offline beschikbaar."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Książka jest teraz dostępna offline."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Livro agora está disponível offline."
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Livro agora disponível offline."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cartea este acum disponibilă offline."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Книга теперь доступна в режиме оффлайн."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kniha je teraz dostupná offline."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boken är nu tillgänglig offline."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "หนังสือพร้อมใช้งานออฟไลน์แล้ว."
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kitap şimdi çevrimdışı olarak mevcut."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Книга тепер доступна офлайн."
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sách hiện có sẵn offline."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "书籍现在可以离线访问。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "書籍現在可離線使用。"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "書籍現在可離線使用。"
-          }
-        }
-      }
-    },
-    "TK.Message.bookmarkAddedSuccessfully" : {
-      "comment" : "Confirmation when a bookmark is saved",
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تمت إضافة الإشارة المرجعية بنجاح."
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отметката е добавена успешно."
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Marcador afegit correctament."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Záložka byla úspěšně přidána."
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bogmærke tilføjet med succes."
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lesezeichen erfolgreich hinzugefügt."
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ο σελιδοδείκτης προστέθηκε επιτυχώς."
+            "value" : "Ο σελιδοδείκτης προστέθηκε με επιτυχία."
           }
         },
         "en" : {
@@ -18721,25 +18470,25 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador agregado exitosamente."
+            "value" : "Marcador añadido con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcador agregado con éxito."
+            "value" : "Marcador añadido con éxito."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kirjanmerkki lisätty onnistuneesti."
+            "value" : "Kirjanmerkki tallennettu onnistuneesti."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marque-page ajouté avec succès."
+            "value" : "Favori ajouté avec succès."
           }
         },
         "fr-CA" : {
@@ -18757,61 +18506,61 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बुकमार्क सफलतापूर्वक जोड़ा गया।"
+            "value" : "बुकमार्क सफलतापूर्वक सहेजा गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znak je uspješno dodan."
+            "value" : "Zabilješka je uspješno spremljena."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Könyvjelző sikeresen hozzáadva."
+            "value" : "A könyvjelző sikeresen mentve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bookmark berhasil ditambahkan."
+            "value" : "Tanda buku berhasil ditambahkan."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Segnalibro aggiunto con successo."
+            "value" : "Segnalibro salvato con successo."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ブックマークが正常に追加されました。"
+            "value" : "ブックマークが正常に保存されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгі сәтті қосылды."
+            "value" : "Бұрылмалы белгі сәтті сақталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "북마크가 성공적으로 추가되었습니다."
+            "value" : "북마크가 성공적으로 저장되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penanda halaman telah berjaya ditambah."
+            "value" : "Tanda halaman telah berjaya disimpan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bokmerke ble lagret."
+            "value" : "Bokmerke lagt til med suksess."
           }
         },
         "nl" : {
@@ -18829,121 +18578,110 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorito adicionado com sucesso."
+            "value" : "Marco adicionado com sucesso."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorito adicionado com sucesso."
+            "value" : "Marcador adicionado com sucesso."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcajul a fost adăugat cu succes."
+            "value" : "Marcaj adăugat cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Закладка успешно добавлена."
+            "value" : "Закладка успешно сохранена."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Záložka bola úspešne pridaná."
+            "value" : "Záložka bola úspešne uložená."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bokmärke tillagt med framgång."
+            "value" : "Bokmärke tillagt framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บุ๊กมาร์กถูกเพิ่มเรียบร้อยแล้ว."
+            "value" : "เพิ่มบุ๊กมาร์กเรียบร้อยแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer işareti başarıyla eklendi."
+            "value" : "Yer imi başarıyla kaydedildi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Закладку успішно додано."
+            "value" : "Закладка успішно збережена."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã thêm dấu trang thành công."
+            "value" : "Đánh dấu đã được lưu thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "书签成功添加。"
+            "value" : "书签已成功保存。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "書籤已成功添加。"
+            "value" : "書籤已成功儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已成功添加書籤。"
+            "value" : "書籤已成功保存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.bookmarkAddedSuccessfullyDot" : {
-      "comment" : "Confirmation when a bookmark is saved",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bookmark added successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.librarySyncComplete" : {
+    "TK.Message.librarySyncCompleteDot" : {
       "comment" : "Confirmation when the user's library has been synchronized",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اكتمل مزامنة المكتبة."
+            "value" : "تم الانتهاء من مزامنة المكتبة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронизирането на библиотеката е завършено."
+            "value" : "Синхронизацията на библиотеката е завършена."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronització de la biblioteca completada."
+            "value" : "Sincronització de la biblioteca completa."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synchronizace knihovny dokončena."
+            "value" : "Synchronizace knihovny byla dokončena."
           }
         },
         "da" : {
@@ -18955,13 +18693,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bibliothekssynchronisierung abgeschlossen."
+            "value" : "Bibliothekssynchronisation abgeschlossen."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο συγχρονισμός βιβλιοθήκης ολοκληρώθηκε."
+            "value" : "Ο συγχρονισμός της βιβλιοθήκης ολοκληρώθηκε."
           }
         },
         "en" : {
@@ -18985,7 +18723,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronización de biblioteca completa."
+            "value" : "Sincronización de la biblioteca completa."
           }
         },
         "es-419" : {
@@ -19009,7 +18747,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synchronisation de la bibliothèque terminée."
+            "value" : "La synchronisation de la bibliothèque est terminée."
           }
         },
         "he" : {
@@ -19021,13 +18759,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पुस्तकालय समन्वयन पूरा।"
+            "value" : "लाइब्रेरी समन्वय पूरा हुआ।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sinhronizacija biblioteke je završena."
+            "value" : "Sinkronizacija knjižnice je završena."
           }
         },
         "hu" : {
@@ -19057,7 +18795,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мендестік синхронизациясы аяқталды."
+            "value" : "Кітапхана синхронизациясы аяқталды."
           }
         },
         "ko" : {
@@ -19069,13 +18807,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penyegerakan pustaka selesai."
+            "value" : "Penyelarasan perpustakaan telah selesai."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biblioteksynkronisering fullført."
+            "value" : "Bibliotekssync fullført."
           }
         },
         "nl" : {
@@ -19117,19 +18855,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synchronizácia knižnice je dokončená."
+            "value" : "Synchronizácia knižnice bola dokončená."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bibliotekssynkronisering avslutad."
+            "value" : "Biblioteks synkronisering slutförd."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การซิงค์ห้องสมุดเสร็จสมบูรณ์."
+            "value" : "การซิงค์ห้องสมุดเสร็จสมบูรณ์"
           }
         },
         "tr" : {
@@ -19141,7 +18879,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронізацію бібліотеки завершено."
+            "value" : "Синхронізація бібліотеки завершена."
           }
         },
         "vi" : {
@@ -19159,37 +18897,26 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "資料庫同步已完成。"
+            "value" : "圖書館同步完成。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "資料庫同步完成。"
+            "value" : "圖書館同步完成。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.librarySyncCompleteDot" : {
-      "comment" : "Confirmation when the user's library has been synchronized",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Library sync complete."
-          }
-        }
-      }
-    },
-    "TK.Message.noBookmarksFound" : {
+    "TK.Message.noBookmarksFoundDot" : {
       "comment" : "Message when no bookmarks are present",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لم يكن هناك أي إشارات مرجعية."
+            "value" : "لا توجد إشارات مرجعية."
           }
         },
         "bg" : {
@@ -19207,7 +18934,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nebyla nalezena žádná záložka."
+            "value" : "Nenalezeny žádné záložky."
           }
         },
         "da" : {
@@ -19249,7 +18976,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se encontraron favoritos."
+            "value" : "No se encontraron marcadores."
           }
         },
         "es-419" : {
@@ -19261,7 +18988,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei löydy kirjanmerkkejä."
+            "value" : "Kirjanmerkkejä ei löytynyt."
           }
         },
         "fr" : {
@@ -19285,25 +19012,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "कोई बुकमार्क नहीं मिला।"
+            "value" : "कोई बुकमार्क नहीं मिले।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih oznaka."
+            "value" : "Nema označenih stranica."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs könyv a könyvjelzők között."
+            "value" : "Nincsenek könyvjelzők."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tidak ada penanda ditemukan."
+            "value" : "Tidak ada bookmark yang ditemukan."
           }
         },
         "it" : {
@@ -19321,25 +19048,25 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Таңдалған бетбелгілер жоқ."
+            "value" : "Букмаркалар табылған жоқ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "즐겨찾기가 없습니다."
+            "value" : "북마크가 없습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada penanda buku yang ditemui."
+            "value" : "Tiada penanda halaman ditemukan."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen bokmerker funnet."
+            "value" : "Ingen lagrede bokmerker funnet."
           }
         },
         "nl" : {
@@ -19357,7 +19084,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum marcador encontrado."
+            "value" : "Nenhum favorito encontrado."
           }
         },
         "pt-PT" : {
@@ -19369,13 +19096,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu au fost găsite semne de carte."
+            "value" : "Nu au fost găsite marcaje."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не найдено ни одной закладки."
+            "value" : "Закладок не найдено."
           }
         },
         "sk" : {
@@ -19393,13 +19120,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบบุ๊กมาร์ก."
+            "value" : "ไม่พบบุ๊กมาร์ก"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mevcut kayıt bulunamadı."
+            "value" : "Yer imleri bulunamadı."
           }
         },
         "uk" : {
@@ -19423,7 +19150,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到任何書籤。"
+            "value" : "未找到書籤。"
           }
         },
         "zh-HK" : {
@@ -19432,23 +19159,12 @@
             "value" : "未找到書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noBookmarksFoundDot" : {
-      "comment" : "Message when no bookmarks are present",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No bookmarks found."
-          }
-        }
-      }
-    },
-    "TK.Message.noBooksInLibrary" : {
+    "TK.Message.noBooksInLibraryDot" : {
       "comment" : "Message when the library has no books",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19459,7 +19175,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Няма книги в библиотеката."
+            "value" : "В библиотеката няма книги."
           }
         },
         "ca" : {
@@ -19525,7 +19241,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei kirjoja kirjastossa."
+            "value" : "Kirjasto ei sisällä kirjoja."
           }
         },
         "fr" : {
@@ -19549,13 +19265,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पुस्तकालय में कोई पुस्तक नहीं है।"
+            "value" : "पुस्तकालय में कोई किताबें नहीं हैं।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema knjiga u knjižnici."
+            "value" : "Nema knjiga u biblioteci."
           }
         },
         "hu" : {
@@ -19573,7 +19289,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessun libro nella biblioteca."
+            "value" : "Nessun libro in biblioteca."
           }
         },
         "ja" : {
@@ -19585,7 +19301,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кітапханада кітаптар жоқ."
+            "value" : "Кітапханадағы кітаптар жоқ."
           }
         },
         "ko" : {
@@ -19597,7 +19313,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada buku dalam perpustakaan."
+            "value" : "Tiada buku di perpustakaan."
           }
         },
         "nb" : {
@@ -19627,7 +19343,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhum livro na biblioteca."
+            "value" : "Sem livros na biblioteca."
           }
         },
         "ro" : {
@@ -19657,13 +19373,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ห้องสมุดไม่มีหนังสือ."
+            "value" : "ไม่มีหนังสือในห้องสมุด"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kütüphanede hiç kitap yok."
+            "value" : "Kütüphanede kitap yok."
           }
         },
         "uk" : {
@@ -19675,44 +19391,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thư viện không có cuốn sách nào."
+            "value" : "Thư viện không có sách nào."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "图书馆没有图书。"
+            "value" : "图书馆中没有书籍。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖書館中沒有書籍。"
+            "value" : "圖書館內沒有書籍。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖書館內沒有書籍。"
+            "value" : "資料庫中沒有書籍。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noBooksInLibraryDot" : {
-      "comment" : "Message when the library has no books",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No books in library."
-          }
-        }
-      }
-    },
-    "TK.Message.noNotesFound" : {
+    "TK.Message.noNotesFoundDot" : {
       "comment" : "Message when no notes are present",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19729,13 +19434,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No s'han trobat notes."
+            "value" : "No s'han trobat anotacions."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žádné poznámky nalezeny."
+            "value" : "Žádné poznámky nebyly nalezeny."
           }
         },
         "da" : {
@@ -19747,7 +19452,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Notizen gefunden."
+            "value" : "Es wurden keine Notizen gefunden."
           }
         },
         "el" : {
@@ -19807,7 +19512,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא נמצאו הערות."
+            "value" : "אין הערות שנמצאו."
           }
         },
         "hi" : {
@@ -19819,7 +19524,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih bilješki."
+            "value" : "Nema bilješki."
           }
         },
         "hu" : {
@@ -19837,7 +19542,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessun appunto trovato."
+            "value" : "Nessuna nota trovata."
           }
         },
         "ja" : {
@@ -19849,7 +19554,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпелер табылмады."
+            "value" : "Ескерту жазбалары жоқ."
           }
         },
         "ko" : {
@@ -19891,19 +19596,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma nota encontrada."
+            "value" : "Não foram encontradas notas."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niciun notiță găsită."
+            "value" : "Nu au fost găsite note."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заметки не найдены."
+            "value" : "Нет найденных заметок."
           }
         },
         "sk" : {
@@ -19921,19 +19626,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบบันทึก."
+            "value" : "ไม่พบโน้ต."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not yok."
+            "value" : "Not bulunamadı."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не знайдено нотаток."
+            "value" : "Нотаток не знайдено."
           }
         },
         "vi" : {
@@ -19951,32 +19656,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找不到筆記。"
+            "value" : "沒有找到筆記。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到筆記。"
+            "value" : "沒有找到筆記。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noNotesFoundDot" : {
-      "comment" : "Message when no notes are present",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No notes found."
-          }
-        }
-      }
-    },
-    "TK.Message.noteSavedSuccessfully" : {
+    "TK.Message.noteSavedSuccessfullyDot" : {
       "comment" : "Confirmation when a note is saved",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -19993,7 +19687,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nota desada correctament."
+            "value" : "Anotació guardada correctament."
           }
         },
         "cs" : {
@@ -20017,7 +19711,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η σημείωση αποθηκεύτηκε με επιτυχία."
+            "value" : "Η σημείωση αποθηκεύτηκε επιτυχώς."
           }
         },
         "en" : {
@@ -20041,7 +19735,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nota guardada correctamente."
+            "value" : "Nota guardada con éxito."
           }
         },
         "es-419" : {
@@ -20053,7 +19747,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muistiinpano tallennettu onnistuneesti."
+            "value" : "Muistiinpano tallennettiin onnistuneesti."
           }
         },
         "fr" : {
@@ -20131,7 +19825,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notat lagret vellykket."
+            "value" : "Notatet ble lagret vellykket."
           }
         },
         "nl" : {
@@ -20161,7 +19855,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notiță salvată cu succes."
+            "value" : "Notă salvată cu succes."
           }
         },
         "ru" : {
@@ -20179,13 +19873,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anteckning sparad."
+            "value" : "Anteckning har sparats."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกเรียบร้อยแล้ว."
+            "value" : "บันทึกโน้ตเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -20215,73 +19909,62 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆記已成功保存。"
+            "value" : "註解已成功儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆記已成功保存。"
+            "value" : "筆記已成功儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.noteSavedSuccessfullyDot" : {
-      "comment" : "Confirmation when a note is saved",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Note saved successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.pageBookmarkedSuccessfully" : {
+    "TK.Message.pageBookmarkedSuccessfullyDot" : {
       "comment" : "Confirmation when a page is bookmarked",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم حفظ الصفحة بنجاح."
+            "value" : "تم حفظ الصفحة كعلامة بنجاح."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Страницата е запазена успешно."
+            "value" : "Страницата е успешно отметната."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pàgina marcada com a favorit correctament."
+            "value" : "Pàgina marcada amb èxit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stránka byla úspěšně přidána do záložek."
+            "value" : "Stránka byla úspěšně uložená do záložek."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siden er bogmærket med succes."
+            "value" : "Side bogmærket succesfuldt."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seite erfolgreich als Lesezeichen gespeichert."
+            "value" : "Seite erfolgreich markiert."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η σελίδα αποθηκεύτηκε επιτυχώς."
+            "value" : "Η σελίδα αποθηκεύτηκε στα σελιδοδείκτες επιτυχώς."
           }
         },
         "en" : {
@@ -20305,37 +19988,37 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Página guardada con éxito."
+            "value" : "Página guardada como favorito con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Página guardada en marcadores."
+            "value" : "Página marcada como favorita con éxito."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sivu on merkitty kirjanmerkiksi onnistuneesti."
+            "value" : "Sivu tallennettu kirjanmerkiksi onnistuneesti."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Page enregistrée avec succès."
+            "value" : "Page ajoutée aux favoris avec succès."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Page mise en favori avec succès."
+            "value" : "Page ajoutée aux marque-pages avec succès."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "העמוד נשמר בהצלחה."
+            "value" : "העמוד נוסף למועדפים בהצלחה."
           }
         },
         "hi" : {
@@ -20353,7 +20036,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A lap könyvjelzőként elmentve."
+            "value" : "Az oldal sikeresen könyvjelzőzve."
           }
         },
         "id" : {
@@ -20365,19 +20048,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pagina salvata nei segnalibri con successo."
+            "value" : "Pagina segnalibro salvata con successo."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ページがブックマークされました。"
+            "value" : "ページが正常にブックマークされました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бет сәтті сақталды."
+            "value" : "Бет сәтті белгіленді."
           }
         },
         "ko" : {
@@ -20389,31 +20072,31 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Halaman berjaya ditandai."
+            "value" : "Halaman berjaya disimpan sebagai penanda buku."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Side bokmerket."
+            "value" : "Siden ble bokmerket vellykket."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pagina succesvol als bladwijzer opgeslagen."
+            "value" : "Pagina succesvol opgeslagen als bladwijzer."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Strona została pomyślnie zaznaczona."
+            "value" : "Strona dodana do zakładek pomyślnie."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Página salva com sucesso."
+            "value" : "Página marcada com sucesso."
           }
         },
         "pt-PT" : {
@@ -20425,7 +20108,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pagina a fost adăugată cu succes la semnele de carte."
+            "value" : "Pagina a fost adăugată cu succes la marcaje."
           }
         },
         "ru" : {
@@ -20437,19 +20120,19 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stránka bola úspešne uložená do záložiek."
+            "value" : "Stránka bola úspešne pridaná do záložiek."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sidan har bokmärkts."
+            "value" : "Sidan bokmärktes framgångsrikt."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกหน้าเพจเรียบร้อยแล้ว."
+            "value" : "บุ๊กมาร์คหน้าสำเร็จแล้ว."
           }
         },
         "tr" : {
@@ -20461,19 +20144,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сторінку успішно закладено у закладки."
+            "value" : "Сторінка успішно закладена."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã lưu trang thành công."
+            "value" : "Trang đã được đánh dấu thành công."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "页面已成功加入书签。"
+            "value" : "页面已成功收藏。"
           }
         },
         "zh-Hant" : {
@@ -20485,31 +20168,20 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "頁面已成功加入書籤。"
+            "value" : "頁面已成功加書籤。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.pageBookmarkedSuccessfullyDot" : {
-      "comment" : "Confirmation when a page is bookmarked",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Page bookmarked successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.quoteCopiedToClipboard" : {
+    "TK.Message.quoteCopiedToClipboardDot" : {
       "comment" : "Confirmation when a quote is copied to the clipboard",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تمت نسخ الاقتباس إلى الحافظة."
+            "value" : "تم نسخ الاقتباس إلى الحافظة."
           }
         },
         "bg" : {
@@ -20521,19 +20193,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cita copiada al portapapers."
+            "value" : "Cita copiada al porta-retalls."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citát byl zkopírován do schránky."
+            "value" : "Citace zkopírována do schránky."
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citering kopieret til udklipsholder."
+            "value" : "Citat kopieret til udklipsholder."
           }
         },
         "de" : {
@@ -20569,7 +20241,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cita copiada al portapapeles."
+            "value" : "Se ha copiado la cita al portapapeles."
           }
         },
         "es-419" : {
@@ -20581,7 +20253,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lainaus on kopioitu leikepöydälle."
+            "value" : "Lainaus kopioitu leikepöydälle."
           }
         },
         "fr" : {
@@ -20599,7 +20271,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ציטוט הועתק ללוח קליפ."
+            "value" : "ציטוט הועתק ללוח."
           }
         },
         "hi" : {
@@ -20611,19 +20283,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citat je kopiran u međuspremnik."
+            "value" : "Citacija je kopirana u međuspremnik."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Idézet a vágólapra másolva."
+            "value" : "Idézet másolva a vágólapra."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kutipan disalin ke clipboard."
+            "value" : "Kutipan telah disalin ke clipboard."
           }
         },
         "it" : {
@@ -20641,13 +20313,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дәйексөз тіркеу буферіне көшірілді."
+            "value" : "Цитата буферге көшірілді."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "인용문이 클립보드에 복사되었습니다."
+            "value" : "인용이 클립보드에 복사되었습니다."
           }
         },
         "ms" : {
@@ -20659,19 +20331,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sitat kopiert til utklippstavlen."
+            "value" : "Sitatet er kopiert til utklippstavlen."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quote naar klembord gekopieerd."
+            "value" : "Citaat naar het klembord gekopieerd."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cytat skopiowano do schowka."
+            "value" : "Cytat skopiowany do schowka."
           }
         },
         "pt-BR" : {
@@ -20689,7 +20361,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citatul a fost copiat în clipboard."
+            "value" : "Citat copiat în clipboard."
           }
         },
         "ru" : {
@@ -20707,13 +20379,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citat har kopierats till urklipp."
+            "value" : "Citat kopierat till urklipp."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คัดลอกคำพูดไปยังคลิปบอร์ดเรียบร้อยแล้ว."
+            "value" : "คัดลอกคำคมไปยังคลิปบอร์ดแล้ว"
           }
         },
         "tr" : {
@@ -20731,7 +20403,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trích dẫn đã được sao chép vào clipboard."
+            "value" : "Đã sao chép câu trích dẫn vào bộ nhớ tạm."
           }
         },
         "zh-Hans" : {
@@ -20743,32 +20415,21 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "報價已複製到剪貼簿。"
+            "value" : "引用已複製到剪貼簿。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "報價已複製到剪貼板。"
+            "value" : "引用已複製到剪貼簿。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.quoteCopiedToClipboardDot" : {
-      "comment" : "Confirmation when a quote is copied to the clipboard",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Quote copied to clipboard."
-          }
-        }
-      }
-    },
-    "TK.Message.readingGoalUpdatedSuccessfully" : {
+    "TK.Message.readingGoalUpdatedSuccessfullyDot" : {
       "comment" : "Confirmation when the reading goal is updated",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -20779,13 +20440,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Целта за четене е актуализирана успешно."
+            "value" : "Целта за четене беше актуализирана успешно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El teu objectiu de lectura s'ha actualitzat correctament."
+            "value" : "Objectiu de lectura actualitzat amb èxit."
           }
         },
         "cs" : {
@@ -20809,7 +20470,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο στόχος ανάγνωσης ενημερώθηκε με επιτυχία."
+            "value" : "Ο στόχος ανάγνωσης ενημερώθηκε επιτυχώς."
           }
         },
         "en" : {
@@ -20839,13 +20500,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objetivo de lectura actualizado con éxito."
+            "value" : "Objetivo de lectura actualizado correctamente."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Luku-ura päivitetty onnistuneesti."
+            "value" : "Lukutavoite päivitetty onnistuneesti."
           }
         },
         "fr" : {
@@ -20863,25 +20524,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מטרת הקריאה עודכנה בהצלחה."
+            "value" : "היעד לקריאה עודכן בהצלחה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पढ़ाई का लक्ष्‍य सफलतापूर्वक अपडेट किया गया।"
+            "value" : "पठन लक्ष्य सफलतापूर्वक अपडेट किया गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cilj čitanja ažuriran je uspješno."
+            "value" : "Cilj čitanja je uspješno ažuriran."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az olvasási cél sikeresen frissítve."
+            "value" : "Olvasási cél sikeresen frissítve."
           }
         },
         "id" : {
@@ -20905,7 +20566,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқу мақсаты сәтті жаңартылды."
+            "value" : "Оқу мақсаты сәтті түрде жаңартылды."
           }
         },
         "ko" : {
@@ -20917,13 +20578,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matlamat bacaan telah dikemas kini dengan jayanya."
+            "value" : "Matlamat bacaan berjaya dikemas kini."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lesemål oppdatert."
+            "value" : "Lese målet ble oppdatert."
           }
         },
         "nl" : {
@@ -20935,7 +20596,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cel czytania został zaktualizowany pomyślnie."
+            "value" : "Cel czytania zaktualizowany pomyślnie."
           }
         },
         "pt-BR" : {
@@ -20953,13 +20614,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obiectivul de lectură a fost actualizat cu succes."
+            "value" : "Obiectivul de citire a fost actualizat cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цель чтения успешно обновлена."
+            "value" : "Цель чтения обновлена успешно."
           }
         },
         "sk" : {
@@ -20971,7 +20632,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Målsättningen för läsning har uppdaterats framgångsrikt."
+            "value" : "Läsmål uppdaterat framgångsrikt."
           }
         },
         "th" : {
@@ -20983,13 +20644,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okuma hedefi başarıyla güncellendi."
+            "value" : "Okuḿi hedefi başarıyla güncellendi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ціль читання успішно оновлено."
+            "value" : "Мету читання успішно оновлено."
           }
         },
         "vi" : {
@@ -21013,26 +20674,15 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已成功更新閱讀目標。"
+            "value" : "閱讀目標已成功更新。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.readingGoalUpdatedSuccessfullyDot" : {
-      "comment" : "Confirmation when the reading goal is updated",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reading goal updated successfully."
-          }
-        }
-      }
-    },
-    "TK.Message.readingProgressSaved" : {
+    "TK.Message.readingProgressSavedDot" : {
       "comment" : "Confirmation when the reading progress is saved",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21049,7 +20699,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El progrés de lectura s'ha desat."
+            "value" : "Progrés de lectura desat."
           }
         },
         "cs" : {
@@ -21109,13 +20759,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lukusuoritus tallennettu."
+            "value" : "Luku edistyminen tallennettu onnistuneesti."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Progrès de lecture enregistré."
+            "value" : "Progression de lecture enregistrée."
           }
         },
         "fr-CA" : {
@@ -21127,31 +20777,31 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התקדמות הקריאה נשמרה."
+            "value" : "ההתקדמות בקריאה נשמרה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पढ़ाई की प्रगति सुरक्षित की गई।"
+            "value" : "पठन प्रगति सफलतापूर्वक सेव की गई।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napredak u čitanju pohranjen."
+            "value" : "Napredak čitanja je spašen."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az olvasási előrehaladás mentve."
+            "value" : "Olvasási előrehaladás mentve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kemajuan membaca berhasil disimpan."
+            "value" : "Kemajuan membaca telah disimpan."
           }
         },
         "it" : {
@@ -21163,13 +20813,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "読書進捗が保存されました。"
+            "value" : "読書の進捗が保存されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқу үдерісі сақталды."
+            "value" : "Оқу прогрессі сақталды."
           }
         },
         "ko" : {
@@ -21187,7 +20837,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leseprogresjon lagret."
+            "value" : "Leseprogresjonen er lagret."
           }
         },
         "nl" : {
@@ -21235,19 +20885,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Läsningsframsteg sparat."
+            "value" : "Läsframsteg sparat."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บันทึกความก้าวหน้าในการอ่านเรียบร้อยแล้ว"
+            "value" : "บันทึกความก้าวหน้าการอ่านแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okuma ilerlemesi kaydedildi."
+            "value" : "Hasar aç dırıldi."
           }
         },
         "uk" : {
@@ -21259,44 +20909,33 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiến trình đọc đã được lưu."
+            "value" : "Tiến độ đọc đã được lưu."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阅读进度已保存。"
+            "value" : "阅读进度已存档。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "閱讀進度已保存。"
+            "value" : "閱讀進度已儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已保存閱讀進度。"
+            "value" : "閱讀進度已儲存。"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Message.readingProgressSavedDot" : {
-      "comment" : "Confirmation when the reading progress is saved",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reading progress saved."
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addABookmarkDots" : {
+    "TK.Placeholder.addBookmarkDots" : {
       "comment" : "Placeholder for adding a bookmark",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21307,19 +20946,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави отметка…"
+            "value" : "Добавете отметка…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir un marcador…"
+            "value" : "Afegeix un marcador…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidej záložku…"
+            "value" : "Přidat záložku…"
           }
         },
         "da" : {
@@ -21337,7 +20976,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε ένα σελιδοδείκτη…"
+            "value" : "Προσθέστε ένα σελιδοδείκτη…"
           }
         },
         "en" : {
@@ -21361,13 +21000,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir un marcador…"
+            "value" : "Añadir un marcador..."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar un marcador…"
+            "value" : "Añadir un marcador…"
           }
         },
         "fi" : {
@@ -21397,7 +21036,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बुकमार्क जोड़ें…"
+            "value" : "बुकमार्क जोड़ें..."
           }
         },
         "hr" : {
@@ -21433,7 +21072,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Белгі қосу…"
+            "value" : "Бетбелгіні қосу…"
           }
         },
         "ko" : {
@@ -21469,7 +21108,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar um marcador…"
+            "value" : "Adicionar um favorito…"
           }
         },
         "pt-PT" : {
@@ -21481,19 +21120,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă un bookmark…"
+            "value" : "Adaugă un marcaj…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте закладку…"
+            "value" : "Добавить закладку…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj záložku…"
+            "value" : "Pridať záložku…"
           }
         },
         "sv" : {
@@ -21505,50 +21144,51 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มบุ๊กมาร์ก…"
+            "value" : "เพิ่มบุ๊คมาร์ค…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir yer işareti ekleyin…"
+            "value" : "Yer imi ekleyin…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додайте закладку…"
+            "value" : "Додати закладку…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm một dấu trang…"
+            "value" : "Thêm một bookmark…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加书签…"
+            "value" : "添加书签……"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加書籤…"
+            "value" : "新增書籤…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加书签…"
+            "value" : "添加書籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Placeholder.addANoteHereDots" : {
+    "TK.Placeholder.addNoteHereDots" : {
       "comment" : "Placeholder for adding a note",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -21559,19 +21199,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави бележка тук…"
+            "value" : "Добавете бележка тук…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir una nota aquí…"
+            "value" : "Afegeix una nota aquí…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidej poznámku sem…"
+            "value" : "Přidat poznámku sem…"
           }
         },
         "da" : {
@@ -21583,13 +21223,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notiz hier hinzufügen…"
+            "value" : "Füge hier eine Notiz hinzu…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε μια σημείωση εδώ…"
+            "value" : "Προσθέστε μια σημείωση εδώ…"
           }
         },
         "en" : {
@@ -21619,13 +21259,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar una nota aquí…"
+            "value" : "Añadir una nota aquí…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää muistiinpano tänne…"
+            "value" : "Lisää muistiinpano tähän…"
           }
         },
         "fr" : {
@@ -21649,13 +21289,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "यहाँ एक नोट जोड़ें…"
+            "value" : "यहाँ एक नोट जोड़ें..."
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj bilješku ovdje…"
+            "value" : "Dodajte bilješku ovdje…"
           }
         },
         "hu" : {
@@ -21679,13 +21319,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ここにメモを追加…"
+            "value" : "ここにノートを追加…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мұнда ескерту қосу…"
+            "value" : "Мұнда ескертпе қосу…"
           }
         },
         "ko" : {
@@ -21739,25 +21379,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте заметку здесь…"
+            "value" : "Добавить заметку здесь…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj poznámku sem…"
+            "value" : "Pridaj tu poznámku…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg till en anteckning här…"
+            "value" : "Lägg till en notering här…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มบันทึกที่นี่…"
+            "value" : "เพิ่มโน้ตที่นี่…"
           }
         },
         "tr" : {
@@ -21769,7 +21409,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додайте нотатку тут…"
+            "value" : "Додати нотатку тут…"
           }
         },
         "vi" : {
@@ -21781,46 +21421,23 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在这里添加备注…"
+            "value" : "在此添加备注……"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在這裡添加備註…"
+            "value" : "此處新增備註…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在这里添加备注…"
+            "value" : "在這裡添加便條…"
           }
         }
-      }
-    },
-    "TK.Placeholder.addBookmarkDots" : {
-      "comment" : "Placeholder for adding a bookmark",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a bookmark…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.addNoteHereDots" : {
-      "comment" : "Placeholder for adding a note",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Add a note here…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addQuoteDots" : {
       "comment" : "Placeholder for adding a quote",
@@ -21864,7 +21481,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη quote…"
+            "value" : "Προσθήκη αποσπάσματος…"
           }
         },
         "en" : {
@@ -22002,7 +21619,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar citaçao…"
+            "value" : "Adicionar citação…"
           }
         },
         "ro" : {
@@ -22062,7 +21679,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加引用…"
+            "value" : "新增引用…"
           }
         },
         "zh-HK" : {
@@ -22071,7 +21688,8 @@
             "value" : "添加引文…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addReviewDots" : {
       "comment" : "Placeholder for adding a review",
@@ -22289,7 +21907,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gözden geçirme ekleyin..."
+            "value" : "Gözden geçirme ekle…"
           }
         },
         "uk" : {
@@ -22322,7 +21940,8 @@
             "value" : "添加評論…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.addTagsDots" : {
       "comment" : "Placeholder for adding tags",
@@ -22573,7 +22192,8 @@
             "value" : "新增標籤…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterAuthorNameDots" : {
       "comment" : "Placeholder for entering the author's name",
@@ -22701,7 +22321,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci il nome dell'autore…"
+            "value" : "Inserisci l'autore…"
           }
         },
         "ja" : {
@@ -22719,7 +22339,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저자 이름 입력…"
+            "value" : "저자 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22737,13 +22357,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de naam van de auteur in …"
+            "value" : "Voer de naam van de auteur in…"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź imię autora…"
+            "value" : "Wprowadź nazwisko autora…"
           }
         },
         "pt-BR" : {
@@ -22791,7 +22411,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yazar adını gir…"
+            "value" : "Yazarın adını gir…"
           }
         },
         "uk" : {
@@ -22824,7 +22444,8 @@
             "value" : "輸入作者名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterBookTitleDots" : {
       "comment" : "Placeholder for entering the book title",
@@ -22904,7 +22525,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä kirjannimi…"
+            "value" : "Syötä kirjan nimi…"
           }
         },
         "fr" : {
@@ -22916,7 +22537,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre du livre…"
+            "value" : "Entre le titre du livre…"
           }
         },
         "he" : {
@@ -22970,7 +22591,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "책 제목 입력…"
+            "value" : "책 제목을 입력하세요…"
           }
         },
         "ms" : {
@@ -23042,7 +22663,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kitap başlığını gir…"
+            "value" : "Kitap adını gir…"
           }
         },
         "uk" : {
@@ -23075,7 +22696,8 @@
             "value" : "輸入書名…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterChapterNameDots" : {
       "comment" : "Placeholder for entering the chapter name",
@@ -23167,7 +22789,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du chapitre…"
+            "value" : "Entre le nom du chapitre…"
           }
         },
         "he" : {
@@ -23221,7 +22843,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "챕터 이름 입력…"
+            "value" : "챕터 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23293,7 +22915,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bölüm adını girin…"
+            "value" : "Bölüm adını gir…"
           }
         },
         "uk" : {
@@ -23326,7 +22948,8 @@
             "value" : "輸入章節名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterCollectionNameDots" : {
       "comment" : "Placeholder for entering the collection name",
@@ -23418,7 +23041,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la collection…"
+            "value" : "Entre le nom de la collection…"
           }
         },
         "he" : {
@@ -23472,7 +23095,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "컬렉션 이름 입력…"
+            "value" : "컬렉션 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -23577,7 +23200,8 @@
             "value" : "輸入收藏名稱…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterGenreDots" : {
       "comment" : "Placeholder for entering the genre",
@@ -23669,7 +23293,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le genre…"
+            "value" : "Entre le genre…"
           }
         },
         "he" : {
@@ -23687,7 +23311,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite žanr…"
+            "value" : "Unesi žanr…"
           }
         },
         "hu" : {
@@ -23723,7 +23347,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "장르 입력…"
+            "value" : "장르를 입력하세요…"
           }
         },
         "ms" : {
@@ -23741,7 +23365,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer genre in …"
+            "value" : "Voer genre in…"
           }
         },
         "pl" : {
@@ -23795,7 +23419,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Türü girin…"
+            "value" : "Türü gir…"
           }
         },
         "uk" : {
@@ -23828,40 +23452,29 @@
             "value" : "輸入類型…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterIsbnDots" : {
       "comment" : "Placeholder for entering the ISBN",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter ISBN…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.enterISBNDots" : {
-      "comment" : "Placeholder for entering the ISBN",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل رقم ISBN…"
+            "value" : "أدخل رقم ISBN..."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи ISBN…"
+            "value" : "Въведете ISBN…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix el ISBN…"
+            "value" : "Introdueix l'ISBN…"
           }
         },
         "cs" : {
@@ -23885,7 +23498,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε ISBN…"
+            "value" : "Βάλε ISBN…"
           }
         },
         "en" : {
@@ -23909,7 +23522,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa ISBN…"
+            "value" : "Ingresa el ISBN…"
           }
         },
         "es-419" : {
@@ -23933,7 +23546,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ISBN…"
+            "value" : "Entrez le ISBN…"
           }
         },
         "he" : {
@@ -23951,7 +23564,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite ISBN…"
+            "value" : "Unesi ISBN…"
           }
         },
         "hu" : {
@@ -23987,7 +23600,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN 입력…"
+            "value" : "ISBN을 입력하세요…"
           }
         },
         "ms" : {
@@ -24011,7 +23624,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź ISBN…"
+            "value" : "Wpisz ISBN…"
           }
         },
         "pt-BR" : {
@@ -24029,7 +23642,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți ISBN…"
+            "value" : "Introdu ISBN..."
           }
         },
         "ru" : {
@@ -24041,7 +23654,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj ISBN…"
+            "value" : "Zadajte ISBN…"
           }
         },
         "sv" : {
@@ -24053,7 +23666,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ ISBN…"
+            "value" : "กรอก ISBN…"
           }
         },
         "tr" : {
@@ -24083,16 +23696,17 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入ISBN…"
+            "value" : "輸入 ISBN…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入ISBN…"
+            "value" : "輸入 ISBN…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPageNumberDots" : {
       "comment" : "Placeholder for entering the page number",
@@ -24124,7 +23738,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indtast sidetantal…"
+            "value" : "Indtast sidenummer…"
           }
         },
         "de" : {
@@ -24136,7 +23750,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε αριθμό σελίδας…"
+            "value" : "Βάλε αριθμό σελίδας…"
           }
         },
         "en" : {
@@ -24202,7 +23816,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite broj stranice…"
+            "value" : "Unesi broj stranice…"
           }
         },
         "hu" : {
@@ -24238,7 +23852,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "페이지 번호 입력…"
+            "value" : "페이지 번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -24343,7 +23957,8 @@
             "value" : "輸入頁碼…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterPublisherDots" : {
       "comment" : "Placeholder for entering the publisher's name",
@@ -24387,7 +24002,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τον εκδότη…"
+            "value" : "Βάλε τον εκδότη…"
           }
         },
         "en" : {
@@ -24411,7 +24026,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir nombre del editor…"
+            "value" : "Introduce editor…"
           }
         },
         "es-419" : {
@@ -24447,7 +24062,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रकाशक का नाम दर्ज करें…"
+            "value" : "प्रकाशक दर्ज करें…"
           }
         },
         "hr" : {
@@ -24501,7 +24116,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn utgiver/navn"
+            "value" : "Skriv inn utgiver…"
           }
         },
         "nl" : {
@@ -24537,7 +24152,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите имя издателя…"
+            "value" : "Введите издателя…"
           }
         },
         "sk" : {
@@ -24555,7 +24170,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่ชื่อผู้จัดพิมพ์…"
+            "value" : "กรอกชื่อผู้จัดพิมพ์…"
           }
         },
         "tr" : {
@@ -24594,7 +24209,8 @@
             "value" : "輸入發布者…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterQuoteDots" : {
       "comment" : "Placeholder for entering a quote",
@@ -24638,7 +24254,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε το απόσπασμα…"
+            "value" : "Βάλε απόσπασμα…"
           }
         },
         "en" : {
@@ -24662,7 +24278,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir cita…"
+            "value" : "Introduce cita…"
           }
         },
         "es-419" : {
@@ -24806,7 +24422,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่คำพูด…"
+            "value" : "กรอกคำพูด…"
           }
         },
         "tr" : {
@@ -24845,7 +24461,8 @@
             "value" : "輸入引用…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.enterReadingGoalDots" : {
       "comment" : "Placeholder for entering a reading goal",
@@ -24889,7 +24506,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τον στόχο ανάγνωσης…"
+            "value" : "Βάλε τον στόχο ανάγνωσης…"
           }
         },
         "en" : {
@@ -24913,7 +24530,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducir objetivo de lectura…"
+            "value" : "Introduce objetivo de lectura…"
           }
         },
         "es-419" : {
@@ -25033,7 +24650,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti obiectivul de lectură…"
+            "value" : "Introduceți obiectivul de lectură…"
           }
         },
         "ru" : {
@@ -25057,7 +24674,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่เป้าหมายการอ่าน…"
+            "value" : "กรอกเป้าหมายการอ่าน…"
           }
         },
         "tr" : {
@@ -25096,7 +24713,8 @@
             "value" : "輸入閱讀目標…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchAuthorDots" : {
       "comment" : "Placeholder for searching authors",
@@ -25116,7 +24734,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerca autor…"
+            "value" : "Cercant autor…"
           }
         },
         "cs" : {
@@ -25272,7 +24890,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando autores…"
+            "value" : "Buscando autor:as…"
           }
         },
         "pt-PT" : {
@@ -25347,7 +24965,8 @@
             "value" : "搜尋作者…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByGenreDots" : {
       "comment" : "Placeholder for searching by genre",
@@ -25367,7 +24986,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant per gènere…"
+            "value" : "Cerca per gènere…"
           }
         },
         "cs" : {
@@ -25457,7 +25076,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem prema žanru…"
+            "value" : "Pretraži prema žanru…"
           }
         },
         "hu" : {
@@ -25598,28 +25217,17 @@
             "value" : "按類別搜尋…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchByIsbnDots" : {
       "comment" : "Placeholder for searching by ISBN",
       "extractionState" : "extracted_with_value",
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Search by ISBN…"
-          }
-        }
-      }
-    },
-    "TK.Placeholder.searchByISBNDots" : {
-      "comment" : "Placeholder for searching by ISBN",
-      "extractionState" : "stale",
-      "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ابحث حسب ISBN…"
+            "value" : "ابحث عن طريق ISBN…"
           }
         },
         "bg" : {
@@ -25631,7 +25239,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant per ISBN…"
+            "value" : "Cerca per ISBN…"
           }
         },
         "cs" : {
@@ -25643,7 +25251,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger efter ISBN…"
+            "value" : "Søg efter ISBN…"
           }
         },
         "de" : {
@@ -25691,7 +25299,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi ISBN-numerolla…"
+            "value" : "Etsi ISBN:llä…"
           }
         },
         "fr" : {
@@ -25703,13 +25311,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche par ISBN…"
+            "value" : "Rechercher par ISBN…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש לפי ISBN…"
+            "value" : "חפש לפי ISBN…"
           }
         },
         "hi" : {
@@ -25721,19 +25329,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretražujem prema ISBN-u…"
+            "value" : "Pretraži po ISBN-u…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN szerint keresés…"
+            "value" : "Keresés ISBN alapján..."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari berdasarkan ISBN…"
+            "value" : "Cari berdasarkan ISBN…"
           }
         },
         "it" : {
@@ -25745,25 +25353,25 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN別に検索中…"
+            "value" : "ISBNで検索..."
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN бойынша іздеу…"
+            "value" : "ISBN бойынша іздеу..."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN별 검색 중…"
+            "value" : "ISBN으로 검색…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari mengikut ISBN…"
+            "value" : "Cari mengikut ISBN…"
           }
         },
         "nb" : {
@@ -25793,25 +25401,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar por ISBN..."
+            "value" : "Pesquisar por ISBN…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut după ISBN…"
+            "value" : "Caută după ISBN…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем по ISBN…"
+            "value" : "Поиск по ISBN…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadám podľa ISBN…"
+            "value" : "Hľadať podľa ISBN…"
           }
         },
         "sv" : {
@@ -25823,13 +25431,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ค้นหาตาม ISBN…"
+            "value" : "ค้นหาจาก ISBN…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN'ye göre ara…"
+            "value" : "ISBN ile ara…"
           }
         },
         "uk" : {
@@ -25841,28 +25449,29 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tìm theo ISBN…"
+            "value" : "Tìm kiếm theo ISBN…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按ISBN搜索…"
+            "value" : "按 ISBN 搜索…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按ISBN搜尋中…"
+            "value" : "透過ISBN搜尋…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按ISBN搜尋…"
+            "value" : "按 ISBN 搜尋..."
           }
         }
-      }
+      },
+      "proofread" : true
     },
     "TK.Placeholder.searchLibraryDots" : {
       "comment" : "Placeholder for searching the library",
@@ -25882,19 +25491,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cercant biblioteca…"
+            "value" : "Cerca a la biblioteca…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledat knihovnu…"
+            "value" : "Hledat v knihovně…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger bibliotek…"
+            "value" : "Søg i bibliotek…"
           }
         },
         "de" : {
@@ -25984,7 +25593,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari perpustakaan…"
+            "value" : "Cari perpustakaan…"
           }
         },
         "it" : {
@@ -25996,7 +25605,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ライブラリを検索中…"
+            "value" : "ライブラリを検索…"
           }
         },
         "kk" : {
@@ -26014,7 +25623,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari perpustakaan…"
+            "value" : "Cari perpustakaan…"
           }
         },
         "nb" : {
@@ -26026,7 +25635,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoeken in bibliotheek…"
+            "value" : "Zoek in bibliotheek…"
           }
         },
         "pl" : {
@@ -26113,11 +25722,12 @@
             "value" : "搜尋圖書館…"
           }
         }
-      }
+      },
+      "proofread" : true
     },
-    "TK.Placeholder.writeAReviewDots" : {
+    "TK.Placeholder.writeReviewDots" : {
       "comment" : "Placeholder for writing a review",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -26128,7 +25738,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши рецензия…"
+            "value" : "Напиши отзив…"
           }
         },
         "ca" : {
@@ -26140,7 +25750,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napsat recenzi…"
+            "value" : "Napsat hodnocení…"
           }
         },
         "da" : {
@@ -26152,13 +25762,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine Bewertung schreiben…"
+            "value" : "Schreibe eine Bewertung…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε μία αξιολόγηση…"
+            "value" : "Γράψτε μια κριτική…"
           }
         },
         "en" : {
@@ -26182,7 +25792,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir una reseña…"
+            "value" : "Escribe una reseña…"
           }
         },
         "es-419" : {
@@ -26194,7 +25804,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kirjoita arvostelu…"
+            "value" : "Kirjoita arvio..."
           }
         },
         "fr" : {
@@ -26230,7 +25840,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vélemény írása…"
+            "value" : "Írj véleményt..."
           }
         },
         "id" : {
@@ -26248,19 +25858,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レビューを書く…"
+            "value" : "レビューを書く..."
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пікір жазыңыз…"
+            "value" : "Пікір жазу..."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "리뷰 작성…"
+            "value" : "리뷰를 작성하세요…"
           }
         },
         "ms" : {
@@ -26272,7 +25882,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv en anmeldelse…"
+            "value" : "Skriv en vurdering…"
           }
         },
         "nl" : {
@@ -26290,13 +25900,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escrever uma avaliação…"
+            "value" : "Escreva uma avaliação…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve uma avaliação…"
+            "value" : "Escreva uma crítica…"
           }
         },
         "ro" : {
@@ -26308,19 +25918,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напишите отзыв…"
+            "value" : "Напиши отзыв…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napísať recenziu…"
+            "value" : "Napíš recenziu…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv en recension…"
+            "value" : "Skriv recension…"
           }
         },
         "th" : {
@@ -26332,52 +25942,41 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir inceleme yaz…"
+            "value" : "Yorum yaz…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Написати відгук…"
+            "value" : "Напишіть відгук…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viết một đánh giá…"
+            "value" : "Viết đánh giá…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "写评价…"
+            "value" : "写评论…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫評論…"
+            "value" : "寫評論…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰写评论…"
+            "value" : "寫評論..."
           }
         }
-      }
-    },
-    "TK.Placeholder.writeReviewDots" : {
-      "comment" : "Placeholder for writing a review",
-      "extractionState" : "extracted_with_value",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Write a review…"
-          }
-        }
-      }
+      },
+      "proofread" : true
     }
   },
   "version" : "1.0"
