@@ -9,17 +9,32 @@ extension TK.Action {
 
    /// "Copy to Keyboard" - Use when copying the sticker to the keyboard
    public static var copyToKeyboard: String {
-      String(localized: "TK.Action.copyToKeyboard", defaultValue: "Copy to Keyboard", bundle: .module, comment: "Use when copying the sticker to the keyboard")
+      String(
+         localized: "TK.Action.copyToKeyboard",
+         defaultValue: "Copy to Keyboard",
+         bundle: .module,
+         comment: "Use when copying the sticker to the keyboard"
+      )
    }
 
    /// "Add to Favorites" - Use when adding the sticker to favorites
    public static var addToFavorites: String {
-      String(localized: "TK.Action.addToFavorites", defaultValue: "Add to Favorites", bundle: .module, comment: "Use when adding the sticker to favorites")
+      String(
+         localized: "TK.Action.addToFavorites",
+         defaultValue: "Add to Favorites",
+         bundle: .module,
+         comment: "Use when adding the sticker to favorites"
+      )
    }
 
    /// "Add to Collection" - Use when adding the sticker to a collection
    public static var addToCollection: String {
-      String(localized: "TK.Action.addToCollection", defaultValue: "Add to Collection", bundle: .module, comment: "Use when adding the sticker to a collection")
+      String(
+         localized: "TK.Action.addToCollection",
+         defaultValue: "Add to Collection",
+         bundle: .module,
+         comment: "Use when adding the sticker to a collection"
+      )
    }
 
    /// "Create Pack" - Use when creating a sticker pack
@@ -64,7 +79,12 @@ extension TK.Action {
 
    /// "Remove Background" - Use when removing the background from a sticker
    public static var removeBackground: String {
-      String(localized: "TK.Action.removeBackground", defaultValue: "Remove Background", bundle: .module, comment: "Use when removing the background from a sticker")
+      String(
+         localized: "TK.Action.removeBackground",
+         defaultValue: "Remove Background",
+         bundle: .module,
+         comment: "Use when removing the background from a sticker"
+      )
    }
 
    /// "Add Border" - Use when adding a border around a sticker
@@ -74,7 +94,12 @@ extension TK.Action {
 
    /// "Adjust Opacity" - Use when adjusting the opacity of a sticker
    public static var adjustOpacity: String {
-      String(localized: "TK.Action.adjustOpacity", defaultValue: "Adjust Opacity", bundle: .module, comment: "Use when adjusting the opacity of a sticker")
+      String(
+         localized: "TK.Action.adjustOpacity",
+         defaultValue: "Adjust Opacity",
+         bundle: .module,
+         comment: "Use when adjusting the opacity of a sticker"
+      )
    }
 
    /// "Save to Photos" - Use when saving the sticker to photos
@@ -119,6 +144,11 @@ extension TK.Action {
 
    /// "Add to Shortcuts" - Use when adding a sticker to shortcuts
    public static var addToShortcuts: String {
-      String(localized: "TK.Action.addToShortcuts", defaultValue: "Add to Shortcuts", bundle: .module, comment: "Use when adding a sticker to shortcuts")
+      String(
+         localized: "TK.Action.addToShortcuts",
+         defaultValue: "Add to Shortcuts",
+         bundle: .module,
+         comment: "Use when adding a sticker to shortcuts"
+      )
    }
 }

@@ -34,7 +34,12 @@ extension TK.Label {
 
    /// "Background Sounds" - Use for referring to background sound settings
    public static var backgroundSounds: String {
-      String(localized: "TK.Label.backgroundSounds", defaultValue: "Background Sounds", bundle: .module, comment: "Use for referring to background sound settings")
+      String(
+         localized: "TK.Label.backgroundSounds",
+         defaultValue: "Background Sounds",
+         bundle: .module,
+         comment: "Use for referring to background sound settings"
+      )
    }
 
    /// "Bookmark" - Use for saving a specific spot or item
@@ -44,7 +49,12 @@ extension TK.Label {
 
    /// "Cast & Crew" - Use for referring to the cast and crew of content
    public static var castAndCrew: String {
-      String(localized: "TK.Label.castAndCrew", defaultValue: "Cast & Crew", bundle: .module, comment: "Use for referring to the cast and crew of content")
+      String(
+         localized: "TK.Label.castAndCrew",
+         defaultValue: "Cast & Crew",
+         bundle: .module,
+         comment: "Use for referring to the cast and crew of content"
+      )
    }
 
    /// "Channel" - Use for referring to a specific media channel
@@ -64,7 +74,12 @@ extension TK.Label {
 
    /// "Continue Watching" - Use when resuming previously watched content
    public static var continueWatching: String {
-      String(localized: "TK.Label.continueWatching", defaultValue: "Continue Watching", bundle: .module, comment: "Use when resuming previously watched content")
+      String(
+         localized: "TK.Label.continueWatching",
+         defaultValue: "Continue Watching",
+         bundle: .module,
+         comment: "Use when resuming previously watched content"
+      )
    }
 
    /// "Creator" - Use for referring to the creator of content
@@ -94,7 +109,12 @@ extension TK.Label {
 
    /// "Featured" - Use for prominently displayed or recommended content
    public static var featured: String {
-      String(localized: "TK.Label.featured", defaultValue: "Featured", bundle: .module, comment: "Use for prominently displayed or recommended content")
+      String(
+         localized: "TK.Label.featured",
+         defaultValue: "Featured",
+         bundle: .module,
+         comment: "Use for prominently displayed or recommended content"
+      )
    }
 
    /// "Genre" - Use for referring to a specific genre of content
@@ -129,12 +149,22 @@ extension TK.Label {
 
    /// "Popular" - Use for referring to content that is popular among users
    public static var popular: String {
-      String(localized: "TK.Label.popular", defaultValue: "Popular", bundle: .module, comment: "Use for referring to content that is popular among users")
+      String(
+         localized: "TK.Label.popular",
+         defaultValue: "Popular",
+         bundle: .module,
+         comment: "Use for referring to content that is popular among users"
+      )
    }
 
    /// "Queue" - Use for referring to a list of upcoming content to be played
    public static var queue: String {
-      String(localized: "TK.Label.queue", defaultValue: "Queue", bundle: .module, comment: "Use for referring to a list of upcoming content to be played")
+      String(
+         localized: "TK.Label.queue",
+         defaultValue: "Queue",
+         bundle: .module,
+         comment: "Use for referring to a list of upcoming content to be played"
+      )
    }
 
    /// "Rating" - Use for referring to the rating of content
@@ -144,7 +174,12 @@ extension TK.Label {
 
    /// "Release Date" - Use for referring to the release date of content
    public static var releaseDate: String {
-      String(localized: "TK.Label.releaseDate", defaultValue: "Release Date", bundle: .module, comment: "Use for referring to the release date of content")
+      String(
+         localized: "TK.Label.releaseDate",
+         defaultValue: "Release Date",
+         bundle: .module,
+         comment: "Use for referring to the release date of content"
+      )
    }
 
    /// "Runtime" - Use for referring to the total duration of content
@@ -154,6 +189,11 @@ extension TK.Label {
 
    /// "Streaming" - Use for referring to the process of streaming content
    public static var streaming: String {
-      String(localized: "TK.Label.streaming", defaultValue: "Streaming", bundle: .module, comment: "Use for referring to the process of streaming content")
+      String(
+         localized: "TK.Label.streaming",
+         defaultValue: "Streaming",
+         bundle: .module,
+         comment: "Use for referring to the process of streaming content"
+      )
    }
 }

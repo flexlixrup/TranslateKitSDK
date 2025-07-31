@@ -19,7 +19,12 @@ extension TK.Label {
 
    /// "Arrival Time" - Use for displaying the estimated time of arrival
    public static var arrivalTime: String {
-      String(localized: "TK.Label.arrivalTime", defaultValue: "Arrival Time", bundle: .module, comment: "Use for displaying the estimated time of arrival")
+      String(
+         localized: "TK.Label.arrivalTime",
+         defaultValue: "Arrival Time",
+         bundle: .module,
+         comment: "Use for displaying the estimated time of arrival"
+      )
    }
 
    /// "Departure Time" - Use for showing the time of departure
@@ -29,12 +34,22 @@ extension TK.Label {
 
    /// "Traffic Conditions" - Use for displaying the traffic status on a route
    public static var trafficConditions: String {
-      String(localized: "TK.Label.trafficConditions", defaultValue: "Traffic Conditions", bundle: .module, comment: "Use for displaying the traffic status on a route")
+      String(
+         localized: "TK.Label.trafficConditions",
+         defaultValue: "Traffic Conditions",
+         bundle: .module,
+         comment: "Use for displaying the traffic status on a route"
+      )
    }
 
    /// "Speed Limit" - Use for indicating the speed limit on the current road
    public static var speedLimit: String {
-      String(localized: "TK.Label.speedLimit", defaultValue: "Speed Limit", bundle: .module, comment: "Use for indicating the speed limit on the current road")
+      String(
+         localized: "TK.Label.speedLimit",
+         defaultValue: "Speed Limit",
+         bundle: .module,
+         comment: "Use for indicating the speed limit on the current road"
+      )
    }
 
    /// "Direction" - Use for indicating the direction to follow
@@ -54,22 +69,42 @@ extension TK.Label {
 
    /// "Alternative Routes" - Use for displaying alternative navigation paths
    public static var alternativeRoutes: String {
-      String(localized: "TK.Label.alternativeRoutes", defaultValue: "Alternative Routes", bundle: .module, comment: "Use for displaying alternative navigation paths")
+      String(
+         localized: "TK.Label.alternativeRoutes",
+         defaultValue: "Alternative Routes",
+         bundle: .module,
+         comment: "Use for displaying alternative navigation paths"
+      )
    }
 
    /// "Map Type" - Use for switching between different map types (e.g., satellite, terrain)
    public static var mapType: String {
-      String(localized: "TK.Label.mapType", defaultValue: "Map Type", bundle: .module, comment: "Use for switching between different map types (e.g., satellite, terrain)")
+      String(
+         localized: "TK.Label.mapType",
+         defaultValue: "Map Type",
+         bundle: .module,
+         comment: "Use for switching between different map types (e.g., satellite, terrain)"
+      )
    }
 
    /// "Navigation Mode" - Use for setting the navigation mode (e.g., driving, walking)
    public static var navigationMode: String {
-      String(localized: "TK.Label.navigationMode", defaultValue: "Navigation Mode", bundle: .module, comment: "Use for setting the navigation mode (e.g., driving, walking)")
+      String(
+         localized: "TK.Label.navigationMode",
+         defaultValue: "Navigation Mode",
+         bundle: .module,
+         comment: "Use for setting the navigation mode (e.g., driving, walking)"
+      )
    }
 
    /// "Current Speed" - Use for displaying the current speed of the vehicle
    public static var currentSpeed: String {
-      String(localized: "TK.Label.currentSpeed", defaultValue: "Current Speed", bundle: .module, comment: "Use for displaying the current speed of the vehicle")
+      String(
+         localized: "TK.Label.currentSpeed",
+         defaultValue: "Current Speed",
+         bundle: .module,
+         comment: "Use for displaying the current speed of the vehicle"
+      )
    }
 
    /// "ETA" - Use for showing the estimated time of arrival
@@ -89,7 +124,12 @@ extension TK.Label {
 
    /// "Elevation" - Use for displaying the elevation of the current location
    public static var elevation: String {
-      String(localized: "TK.Label.elevation", defaultValue: "Elevation", bundle: .module, comment: "Use for displaying the elevation of the current location")
+      String(
+         localized: "TK.Label.elevation",
+         defaultValue: "Elevation",
+         bundle: .module,
+         comment: "Use for displaying the elevation of the current location"
+      )
    }
 
    /// "Stops" - Use for indicating the stops along the route
@@ -99,42 +139,82 @@ extension TK.Label {
 
    /// "Navigation Instructions" - Use for showing detailed navigation instructions
    public static var navigationInstructions: String {
-      String(localized: "TK.Label.navigationInstructions", defaultValue: "Navigation Instructions", bundle: .module, comment: "Use for showing detailed navigation instructions")
+      String(
+         localized: "TK.Label.navigationInstructions",
+         defaultValue: "Navigation Instructions",
+         bundle: .module,
+         comment: "Use for showing detailed navigation instructions"
+      )
    }
 
    /// "Location Services" - Use for enabling or displaying location services
    public static var locationServices: String {
-      String(localized: "TK.Label.locationServices", defaultValue: "Location Services", bundle: .module, comment: "Use for enabling or displaying location services")
+      String(
+         localized: "TK.Label.locationServices",
+         defaultValue: "Location Services",
+         bundle: .module,
+         comment: "Use for enabling or displaying location services"
+      )
    }
 
    /// "Points of Interest" - Use for showing nearby points of interest
    public static var pointsOfInterest: String {
-      String(localized: "TK.Label.pointsOfInterest", defaultValue: "Points of Interest", bundle: .module, comment: "Use for showing nearby points of interest")
+      String(
+         localized: "TK.Label.pointsOfInterest",
+         defaultValue: "Points of Interest",
+         bundle: .module,
+         comment: "Use for showing nearby points of interest"
+      )
    }
 
    /// "Public Transport" - Use for displaying public transport options
    public static var publicTransport: String {
-      String(localized: "TK.Label.publicTransport", defaultValue: "Public Transport", bundle: .module, comment: "Use for displaying public transport options")
+      String(
+         localized: "TK.Label.publicTransport",
+         defaultValue: "Public Transport",
+         bundle: .module,
+         comment: "Use for displaying public transport options"
+      )
    }
 
    /// "Traffic Congestion" - Use for displaying traffic congestion on the route
    public static var trafficCongestion: String {
-      String(localized: "TK.Label.trafficCongestion", defaultValue: "Traffic Congestion", bundle: .module, comment: "Use for displaying traffic congestion on the route")
+      String(
+         localized: "TK.Label.trafficCongestion",
+         defaultValue: "Traffic Congestion",
+         bundle: .module,
+         comment: "Use for displaying traffic congestion on the route"
+      )
    }
 
    /// "Estimated Arrival Time" - Use for showing the estimated arrival time
    public static var estimatedArrivalTime: String {
-      String(localized: "TK.Label.estimatedArrivalTime", defaultValue: "Estimated Arrival Time", bundle: .module, comment: "Use for showing the estimated arrival time")
+      String(
+         localized: "TK.Label.estimatedArrivalTime",
+         defaultValue: "Estimated Arrival Time",
+         bundle: .module,
+         comment: "Use for showing the estimated arrival time"
+      )
    }
 
    /// "Connection Status" - Use for displaying the connection status (e.g., GPS, internet)
    public static var connectionStatus: String {
-      String(localized: "TK.Label.connectionStatus", defaultValue: "Connection Status", bundle: .module, comment: "Use for displaying the connection status (e.g., GPS, internet)")
+      String(
+         localized: "TK.Label.connectionStatus",
+         defaultValue: "Connection Status",
+         bundle: .module,
+         comment: "Use for displaying the connection status (e.g., GPS, internet)"
+      )
    }
 
    /// "Route Guidance" - Use for providing route guidance instructions
    public static var routeGuidance: String {
-      String(localized: "TK.Label.routeGuidance", defaultValue: "Route Guidance", bundle: .module, comment: "Use for providing route guidance instructions")
+      String(
+         localized: "TK.Label.routeGuidance",
+         defaultValue: "Route Guidance",
+         bundle: .module,
+         comment: "Use for providing route guidance instructions"
+      )
    }
 
    /// "Driver" - Use for referring to the driver of the vehicle
@@ -144,6 +224,11 @@ extension TK.Label {
 
    /// "Signal Strength" - Use for displaying the signal strength of GPS or internet
    public static var signalStrength: String {
-      String(localized: "TK.Label.signalStrength", defaultValue: "Signal Strength", bundle: .module, comment: "Use for displaying the signal strength of GPS or internet")
+      String(
+         localized: "TK.Label.signalStrength",
+         defaultValue: "Signal Strength",
+         bundle: .module,
+         comment: "Use for displaying the signal strength of GPS or internet"
+      )
    }
 }

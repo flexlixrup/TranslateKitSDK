@@ -15,7 +15,12 @@ extension TK {
 
       /// "Buffering…" - Shown while pre-loading video content for uninterrupted playback
       public static var bufferingDots: String {
-         String(localized: "TK.Placeholder.bufferingDots", defaultValue: "Buffering…", bundle: .module, comment: "Shown while pre-loading video content for uninterrupted playback")
+         String(
+            localized: "TK.Placeholder.bufferingDots",
+            defaultValue: "Buffering…",
+            bundle: .module,
+            comment: "Shown while pre-loading video content for uninterrupted playback"
+         )
       }
 
       /// "Calculating…" - Shown during calculations
@@ -35,7 +40,12 @@ extension TK {
 
       /// "Choose a language…" - Language selection hint
       public static var chooseLanguageDots: String {
-         String(localized: "TK.Placeholder.chooseLanguageDots", defaultValue: "Choose a language…", bundle: .module, comment: "Language selection hint")
+         String(
+            localized: "TK.Placeholder.chooseLanguageDots",
+            defaultValue: "Choose a language…",
+            bundle: .module,
+            comment: "Language selection hint"
+         )
       }
 
       /// "Choose an option…" - Generic selection hint
@@ -45,7 +55,12 @@ extension TK {
 
       /// "Confirm password…" - Password confirmation hint
       public static var confirmPasswordDots: String {
-         String(localized: "TK.Placeholder.confirmPasswordDots", defaultValue: "Confirm password…", bundle: .module, comment: "Password confirmation hint")
+         String(
+            localized: "TK.Placeholder.confirmPasswordDots",
+            defaultValue: "Confirm password…",
+            bundle: .module,
+            comment: "Password confirmation hint"
+         )
       }
 
       /// "Connecting…" - Shown during connection attempts
@@ -70,17 +85,32 @@ extension TK {
 
       /// "e.g. jane@example.com" - Email input example, using 'Jane Doe' for English, adjusts per language
       public static var emailExample: String {
-         String(localized: "TK.Placeholder.emailExample", defaultValue: "e.g. jane@example.com", bundle: .module, comment: "Email input example, using 'Jane Doe' for English, adjusts per language")
+         String(
+            localized: "TK.Placeholder.emailExample",
+            defaultValue: "e.g. jane@example.com",
+            bundle: .module,
+            comment: "Email input example, using 'Jane Doe' for English, adjusts per language"
+         )
       }
 
       /// "Enter amount…" - Input hint for entering money values
       public static var enterAmountDots: String {
-         String(localized: "TK.Placeholder.enterAmountDots", defaultValue: "Enter amount…", bundle: .module, comment: "Input hint for entering money values")
+         String(
+            localized: "TK.Placeholder.enterAmountDots",
+            defaultValue: "Enter amount…",
+            bundle: .module,
+            comment: "Input hint for entering money values"
+         )
       }
 
       /// "Enter your email…" - Input hint for email address fields
       public static var enterEmailDots: String {
-         String(localized: "TK.Placeholder.enterEmailDots", defaultValue: "Enter your email…", bundle: .module, comment: "Input hint for email address fields")
+         String(
+            localized: "TK.Placeholder.enterEmailDots",
+            defaultValue: "Enter your email…",
+            bundle: .module,
+            comment: "Input hint for email address fields"
+         )
       }
 
       /// "Enter first name…" - First name input hint
@@ -95,27 +125,52 @@ extension TK {
 
       /// "Enter new password…" - Password input hint
       public static var enterNewPasswordDots: String {
-         String(localized: "TK.Placeholder.enterNewPasswordDots", defaultValue: "Enter new password…", bundle: .module, comment: "Password input hint")
+         String(
+            localized: "TK.Placeholder.enterNewPasswordDots",
+            defaultValue: "Enter new password…",
+            bundle: .module,
+            comment: "Password input hint"
+         )
       }
 
       /// "Enter password…" - Input hint for password fields
       public static var enterPasswordDots: String {
-         String(localized: "TK.Placeholder.enterPasswordDots", defaultValue: "Enter password…", bundle: .module, comment: "Input hint for password fields")
+         String(
+            localized: "TK.Placeholder.enterPasswordDots",
+            defaultValue: "Enter password…",
+            bundle: .module,
+            comment: "Input hint for password fields"
+         )
       }
 
       /// "Enter phone number…" - Input hint for phone number entry
       public static var enterPhoneNumberDots: String {
-         String(localized: "TK.Placeholder.enterPhoneNumberDots", defaultValue: "Enter phone number…", bundle: .module, comment: "Input hint for phone number entry")
+         String(
+            localized: "TK.Placeholder.enterPhoneNumberDots",
+            defaultValue: "Enter phone number…",
+            bundle: .module,
+            comment: "Input hint for phone number entry"
+         )
       }
 
       /// "Enter text…" - Generic placeholder for text input fields
       public static var enterTextDots: String {
-         String(localized: "TK.Placeholder.enterTextDots", defaultValue: "Enter text…", bundle: .module, comment: "Generic placeholder for text input fields")
+         String(
+            localized: "TK.Placeholder.enterTextDots",
+            defaultValue: "Enter text…",
+            bundle: .module,
+            comment: "Generic placeholder for text input fields"
+         )
       }
 
       /// "Enter username…" - Placeholder for user profile creation
       public static var enterUsernameDots: String {
-         String(localized: "TK.Placeholder.enterUsernameDots", defaultValue: "Enter username…", bundle: .module, comment: "Placeholder for user profile creation")
+         String(
+            localized: "TK.Placeholder.enterUsernameDots",
+            defaultValue: "Enter username…",
+            bundle: .module,
+            comment: "Placeholder for user profile creation"
+         )
       }
 
       /// "Exporting…" - Shown during exports
@@ -125,7 +180,12 @@ extension TK {
 
       /// "e.g. Jane" - First name input example, using 'Jane Doe' for English, adjusts per language
       public static var firstNameExample: String {
-         String(localized: "TK.Placeholder.firstNameExample", defaultValue: "e.g. Jane", bundle: .module, comment: "First name input example, using 'Jane Doe' for English, adjusts per language")
+         String(
+            localized: "TK.Placeholder.firstNameExample",
+            defaultValue: "e.g. Jane",
+            bundle: .module,
+            comment: "First name input example, using 'Jane Doe' for English, adjusts per language"
+         )
       }
 
       /// "Generating…" - Shown when generating content
@@ -145,27 +205,52 @@ extension TK {
 
       /// "e.g. Doe" - Last name input example, using 'Jane Doe' for English, adjusts per language
       public static var lastNameExample: String {
-         String(localized: "TK.Placeholder.lastNameExample", defaultValue: "e.g. Doe", bundle: .module, comment: "Last name input example, using 'Jane Doe' for English, adjusts per language")
+         String(
+            localized: "TK.Placeholder.lastNameExample",
+            defaultValue: "e.g. Doe",
+            bundle: .module,
+            comment: "Last name input example, using 'Jane Doe' for English, adjusts per language"
+         )
       }
 
       /// "Loading…" - Placeholder when content is being fetched
       public static var loadingDots: String {
-         String(localized: "TK.Placeholder.loadingDots", defaultValue: "Loading…", bundle: .module, comment: "Placeholder when content is being fetched")
+         String(
+            localized: "TK.Placeholder.loadingDots",
+            defaultValue: "Loading…",
+            bundle: .module,
+            comment: "Placeholder when content is being fetched"
+         )
       }
 
       /// "No results found…" - Placeholder when searches return no matches
       public static var noResultsFoundDots: String {
-         String(localized: "TK.Placeholder.noResultsFoundDots", defaultValue: "No results found…", bundle: .module, comment: "Placeholder when searches return no matches")
+         String(
+            localized: "TK.Placeholder.noResultsFoundDots",
+            defaultValue: "No results found…",
+            bundle: .module,
+            comment: "Placeholder when searches return no matches"
+         )
       }
 
       /// "Nothing here yet…" - Generic empty state hint
       public static var nothingHereYetDots: String {
-         String(localized: "TK.Placeholder.nothingHereYetDots", defaultValue: "Nothing here yet…", bundle: .module, comment: "Generic empty state hint")
+         String(
+            localized: "TK.Placeholder.nothingHereYetDots",
+            defaultValue: "Nothing here yet…",
+            bundle: .module,
+            comment: "Generic empty state hint"
+         )
       }
 
       /// "e.g. +1 (555) 123-4567" - Phone number input example, using +1 for English locale, adjusts pere region
       public static var phoneExample: String {
-         String(localized: "TK.Placeholder.phoneExample", defaultValue: "e.g. +1 (555) 123-4567", bundle: .module, comment: "Phone number input example, using +1 for English, adjusts per region")
+         String(
+            localized: "TK.Placeholder.phoneExample",
+            defaultValue: "e.g. +1 (555) 123-4567",
+            bundle: .module,
+            comment: "Phone number input example, using +1 for English, adjusts per region"
+         )
       }
 
       /// "Preparing…" - Shown when preparing content
@@ -180,12 +265,22 @@ extension TK {
 
       /// "Processing…" - Shown during background operations
       public static var processingDots: String {
-         String(localized: "TK.Placeholder.processingDots", defaultValue: "Processing…", bundle: .module, comment: "Shown during background operations")
+         String(
+            localized: "TK.Placeholder.processingDots",
+            defaultValue: "Processing…",
+            bundle: .module,
+            comment: "Shown during background operations"
+         )
       }
 
       /// "Processing request…" - Request processing state
       public static var processingRequestDots: String {
-         String(localized: "TK.Placeholder.processingRequestDots", defaultValue: "Processing request…", bundle: .module, comment: "Request processing state")
+         String(
+            localized: "TK.Placeholder.processingRequestDots",
+            defaultValue: "Processing request…",
+            bundle: .module,
+            comment: "Request processing state"
+         )
       }
 
       /// "Refreshing…" - Shown when updating content
@@ -240,7 +335,12 @@ extension TK {
 
       /// "e.g. @janedoe" - Username input example, using 'Jane Doe' for English, adjusts per language
       public static var usernameExample: String {
-         String(localized: "TK.Placeholder.usernameExample", defaultValue: "e.g. JaneDoe", bundle: .module, comment: "Username input example, using 'Jane Doe' for English, adjusts per language")
+         String(
+            localized: "TK.Placeholder.usernameExample",
+            defaultValue: "e.g. JaneDoe",
+            bundle: .module,
+            comment: "Username input example, using 'Jane Doe' for English, adjusts per language"
+         )
       }
 
       /// "Verifying…" - Shown during verification

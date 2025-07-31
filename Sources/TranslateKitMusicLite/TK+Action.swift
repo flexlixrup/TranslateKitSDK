@@ -104,7 +104,12 @@ extension TK.Action {
 
    /// "Resume Playing" - Use when resuming playback from a pause
    public static var resumePlaying: String {
-      String(localized: "TK.Action.resumePlaying", defaultValue: "Resume Playing", bundle: .module, comment: "Use when resuming playback from a pause")
+      String(
+         localized: "TK.Action.resumePlaying",
+         defaultValue: "Resume Playing",
+         bundle: .module,
+         comment: "Use when resuming playback from a pause"
+      )
    }
 
    /// "Shuffle Play" - Use for playing music in random order
@@ -114,12 +119,22 @@ extension TK.Action {
 
    /// "Subscribe" - Use for subscribing to music content or channels
    public static var subscribe: String {
-      String(localized: "TK.Action.subscribe", defaultValue: "Subscribe", bundle: .module, comment: "Use for subscribing to music content or channels")
+      String(
+         localized: "TK.Action.subscribe",
+         defaultValue: "Subscribe",
+         bundle: .module,
+         comment: "Use for subscribing to music content or channels"
+      )
    }
 
    /// "Track Progress" - Use for monitoring progress in music practice or lessons
    public static var trackProgress: String {
-      String(localized: "TK.Action.trackProgress", defaultValue: "Track Progress", bundle: .module, comment: "Use for monitoring progress in music practice or lessons")
+      String(
+         localized: "TK.Action.trackProgress",
+         defaultValue: "Track Progress",
+         bundle: .module,
+         comment: "Use for monitoring progress in music practice or lessons"
+      )
    }
 
    /// "Upload File" - Use for uploading a music file
@@ -159,12 +174,22 @@ extension TK.Action {
 
    /// "Share Progress" - Use for sharing your progress in music practice
    public static var shareProgress: String {
-      String(localized: "TK.Action.shareProgress", defaultValue: "Share Progress", bundle: .module, comment: "Use for sharing your progress in music practice")
+      String(
+         localized: "TK.Action.shareProgress",
+         defaultValue: "Share Progress",
+         bundle: .module,
+         comment: "Use for sharing your progress in music practice"
+      )
    }
 
    /// "Show Hint" - Use for showing a hint during music practice or lessons
    public static var showHint: String {
-      String(localized: "TK.Action.showHint", defaultValue: "Show Hint", bundle: .module, comment: "Use for showing a hint during music practice or lessons")
+      String(
+         localized: "TK.Action.showHint",
+         defaultValue: "Show Hint",
+         bundle: .module,
+         comment: "Use for showing a hint during music practice or lessons"
+      )
    }
 
    /// "Start Exercise" - Use when starting a music exercise

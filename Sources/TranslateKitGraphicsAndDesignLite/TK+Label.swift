@@ -4,7 +4,12 @@ import Foundation
 extension TK.Label {
    /// "Alignment" - Use when referring to the positioning of elements
    public static var alignment: String {
-      String(localized: "TK.Label.alignment", defaultValue: "Alignment", bundle: .module, comment: "Use when referring to the positioning of elements")
+      String(
+         localized: "TK.Label.alignment",
+         defaultValue: "Alignment",
+         bundle: .module,
+         comment: "Use when referring to the positioning of elements"
+      )
    }
 
    /// "Artboard" - Use for the main workspace area in design tools
@@ -14,12 +19,22 @@ extension TK.Label {
 
    /// "Blend Mode" - Use for defining how layers interact with each other
    public static var blendMode: String {
-      String(localized: "TK.Label.blendMode", defaultValue: "Blend Mode", bundle: .module, comment: "Use for defining how layers interact with each other")
+      String(
+         localized: "TK.Label.blendMode",
+         defaultValue: "Blend Mode",
+         bundle: .module,
+         comment: "Use for defining how layers interact with each other"
+      )
    }
 
    /// "Border" - Use when referring to the outer edge or frame of an element
    public static var border: String {
-      String(localized: "TK.Label.border", defaultValue: "Border", bundle: .module, comment: "Use when referring to the outer edge or frame of an element")
+      String(
+         localized: "TK.Label.border",
+         defaultValue: "Border",
+         bundle: .module,
+         comment: "Use when referring to the outer edge or frame of an element"
+      )
    }
 
    /// "Brush" - Use for the drawing tool used to apply color or texture
@@ -44,7 +59,12 @@ extension TK.Label {
 
    /// "Design" - Use when referring to the overall visual creation or layout
    public static var design: String {
-      String(localized: "TK.Label.design", defaultValue: "Design", bundle: .module, comment: "Use when referring to the overall visual creation or layout")
+      String(
+         localized: "TK.Label.design",
+         defaultValue: "Design",
+         bundle: .module,
+         comment: "Use when referring to the overall visual creation or layout"
+      )
    }
 
    /// "Effects" - Use for visual enhancements applied to elements
@@ -69,12 +89,22 @@ extension TK.Label {
 
    /// "Format" - Use for specifying the layout or type of a design element
    public static var format: String {
-      String(localized: "TK.Label.format", defaultValue: "Format", bundle: .module, comment: "Use for specifying the layout or type of a design element")
+      String(
+         localized: "TK.Label.format",
+         defaultValue: "Format",
+         bundle: .module,
+         comment: "Use for specifying the layout or type of a design element"
+      )
    }
 
    /// "Frame" - Use for defining the boundaries or structure of an element
    public static var frame: String {
-      String(localized: "TK.Label.frame", defaultValue: "Frame", bundle: .module, comment: "Use for defining the boundaries or structure of an element")
+      String(
+         localized: "TK.Label.frame",
+         defaultValue: "Frame",
+         bundle: .module,
+         comment: "Use for defining the boundaries or structure of an element"
+      )
    }
 
    /// "Gradient" - Use for applying a gradual transition of colors
@@ -84,12 +114,22 @@ extension TK.Label {
 
    /// "Grid" - Use for a layout tool for alignment or positioning elements
    public static var grid: String {
-      String(localized: "TK.Label.grid", defaultValue: "Grid", bundle: .module, comment: "Use for a layout tool for alignment or positioning elements")
+      String(
+         localized: "TK.Label.grid",
+         defaultValue: "Grid",
+         bundle: .module,
+         comment: "Use for a layout tool for alignment or positioning elements"
+      )
    }
 
    /// "Image Quality" - Use for adjusting the resolution or sharpness of an image
    public static var imageQuality: String {
-      String(localized: "TK.Label.imageQuality", defaultValue: "Image Quality", bundle: .module, comment: "Use for adjusting the resolution or sharpness of an image")
+      String(
+         localized: "TK.Label.imageQuality",
+         defaultValue: "Image Quality",
+         bundle: .module,
+         comment: "Use for adjusting the resolution or sharpness of an image"
+      )
    }
 
    /// "Layer" - Use for a single level of an image or design composition
@@ -119,7 +159,12 @@ extension TK.Label {
 
    /// "Pixels" - Use when referring to the smallest units of a digital image
    public static var pixels: String {
-      String(localized: "TK.Label.pixels", defaultValue: "Pixels", bundle: .module, comment: "Use when referring to the smallest units of a digital image")
+      String(
+         localized: "TK.Label.pixels",
+         defaultValue: "Pixels",
+         bundle: .module,
+         comment: "Use when referring to the smallest units of a digital image"
+      )
    }
 
    /// "Position" - Use for determining the location of an element
@@ -139,7 +184,12 @@ extension TK.Label {
 
    /// "Scale" - Use for resizing an element without changing its proportions
    public static var scale: String {
-      String(localized: "TK.Label.scale", defaultValue: "Scale", bundle: .module, comment: "Use for resizing an element without changing its proportions")
+      String(
+         localized: "TK.Label.scale",
+         defaultValue: "Scale",
+         bundle: .module,
+         comment: "Use for resizing an element without changing its proportions"
+      )
    }
 
    /// "Shape" - Use for defining the form or outline of an element
@@ -169,11 +219,21 @@ extension TK.Label {
 
    /// "Transform" - Use for changing the position or shape of an element
    public static var transform: String {
-      String(localized: "TK.Label.transform", defaultValue: "Transform", bundle: .module, comment: "Use for changing the position or shape of an element")
+      String(
+         localized: "TK.Label.transform",
+         defaultValue: "Transform",
+         bundle: .module,
+         comment: "Use for changing the position or shape of an element"
+      )
    }
 
    /// "Vector" - Use for graphics defined by paths or mathematical expressions
    public static var vector: String {
-      String(localized: "TK.Label.vector", defaultValue: "Vector", bundle: .module, comment: "Use for graphics defined by paths or mathematical expressions")
+      String(
+         localized: "TK.Label.vector",
+         defaultValue: "Vector",
+         bundle: .module,
+         comment: "Use for graphics defined by paths or mathematical expressions"
+      )
    }
 }

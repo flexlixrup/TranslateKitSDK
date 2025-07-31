@@ -24,7 +24,12 @@ extension TK.Label {
 
    /// "Blood Pressure" - Use for tracking blood pressure readings
    public static var bloodPressure: String {
-      String(localized: "TK.Label.bloodPressure", defaultValue: "Blood Pressure", bundle: .module, comment: "Use for tracking blood pressure readings")
+      String(
+         localized: "TK.Label.bloodPressure",
+         defaultValue: "Blood Pressure",
+         bundle: .module,
+         comment: "Use for tracking blood pressure readings"
+      )
    }
 
    /// "Blood Sugar" - Use for tracking blood sugar levels
@@ -34,7 +39,12 @@ extension TK.Label {
 
    /// "Body Temperature" - Use for recording body temperature readings
    public static var bodyTemperature: String {
-      String(localized: "TK.Label.bodyTemperature", defaultValue: "Body Temperature", bundle: .module, comment: "Use for recording body temperature readings")
+      String(
+         localized: "TK.Label.bodyTemperature",
+         defaultValue: "Body Temperature",
+         bundle: .module,
+         comment: "Use for recording body temperature readings"
+      )
    }
 
    /// "Diagnosis" - Use for labeling a diagnosis
@@ -49,7 +59,12 @@ extension TK.Label {
 
    /// "Documentation" - Use for referring to medical documentation
    public static var documentation: String {
-      String(localized: "TK.Label.documentation", defaultValue: "Documentation", bundle: .module, comment: "Use for referring to medical documentation")
+      String(
+         localized: "TK.Label.documentation",
+         defaultValue: "Documentation",
+         bundle: .module,
+         comment: "Use for referring to medical documentation"
+      )
    }
 
    /// "Dosage" - Use for referring to prescribed medication dosage
@@ -59,12 +74,22 @@ extension TK.Label {
 
    /// "Emergency Contact" - Use for labeling emergency contact information
    public static var emergencyContact: String {
-      String(localized: "TK.Label.emergencyContact", defaultValue: "Emergency Contact", bundle: .module, comment: "Use for labeling emergency contact information")
+      String(
+         localized: "TK.Label.emergencyContact",
+         defaultValue: "Emergency Contact",
+         bundle: .module,
+         comment: "Use for labeling emergency contact information"
+      )
    }
 
    /// "Expiration Date" - Use for labeling medication expiration dates
    public static var expirationDate: String {
-      String(localized: "TK.Label.expirationDate", defaultValue: "Expiration Date", bundle: .module, comment: "Use for labeling medication expiration dates")
+      String(
+         localized: "TK.Label.expirationDate",
+         defaultValue: "Expiration Date",
+         bundle: .module,
+         comment: "Use for labeling medication expiration dates"
+      )
    }
 
    /// "Gender" - Use for labeling gender information
@@ -79,7 +104,12 @@ extension TK.Label {
 
    /// "Hospital" - Use for labeling hospital or medical facility information
    public static var hospital: String {
-      String(localized: "TK.Label.hospital", defaultValue: "Hospital", bundle: .module, comment: "Use for labeling hospital or medical facility information")
+      String(
+         localized: "TK.Label.hospital",
+         defaultValue: "Hospital",
+         bundle: .module,
+         comment: "Use for labeling hospital or medical facility information"
+      )
    }
 
    /// "ID" - Use for labeling identification information
@@ -104,7 +134,12 @@ extension TK.Label {
 
    /// "Medical History" - Use for referring to a patient's medical history
    public static var medicalHistory: String {
-      String(localized: "TK.Label.medicalHistory", defaultValue: "Medical History", bundle: .module, comment: "Use for referring to a patient's medical history")
+      String(
+         localized: "TK.Label.medicalHistory",
+         defaultValue: "Medical History",
+         bundle: .module,
+         comment: "Use for referring to a patient's medical history"
+      )
    }
 
    /// "Medication" - Use for referring to prescribed medications
@@ -124,12 +159,22 @@ extension TK.Label {
 
    /// "Pharmacy" - Use for labeling pharmacy or prescription information
    public static var pharmacy: String {
-      String(localized: "TK.Label.pharmacy", defaultValue: "Pharmacy", bundle: .module, comment: "Use for labeling pharmacy or prescription information")
+      String(
+         localized: "TK.Label.pharmacy",
+         defaultValue: "Pharmacy",
+         bundle: .module,
+         comment: "Use for labeling pharmacy or prescription information"
+      )
    }
 
    /// "Prescription" - Use for referring to a medical prescription
    public static var prescription: String {
-      String(localized: "TK.Label.prescription", defaultValue: "Prescription", bundle: .module, comment: "Use for referring to a medical prescription")
+      String(
+         localized: "TK.Label.prescription",
+         defaultValue: "Prescription",
+         bundle: .module,
+         comment: "Use for referring to a medical prescription"
+      )
    }
 
    /// "Provider" - Use for referring to a healthcare provider
@@ -149,7 +194,12 @@ extension TK.Label {
 
    /// "Symptoms" - Use for referring to symptoms reported by the patient
    public static var symptoms: String {
-      String(localized: "TK.Label.symptoms", defaultValue: "Symptoms", bundle: .module, comment: "Use for referring to symptoms reported by the patient")
+      String(
+         localized: "TK.Label.symptoms",
+         defaultValue: "Symptoms",
+         bundle: .module,
+         comment: "Use for referring to symptoms reported by the patient"
+      )
    }
 
    /// "Treatment" - Use for referring to medical treatment options

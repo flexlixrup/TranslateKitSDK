@@ -39,7 +39,12 @@ extension TK.Label {
 
    /// "Rankings" - Use for displaying the rankings of players or teams
    public static var rankings: String {
-      String(localized: "TK.Label.rankings", defaultValue: "Rankings", bundle: .module, comment: "Use for displaying the rankings of players or teams")
+      String(
+         localized: "TK.Label.rankings",
+         defaultValue: "Rankings",
+         bundle: .module,
+         comment: "Use for displaying the rankings of players or teams"
+      )
    }
 
    /// "Coach" - Use for referring to a sports coach
@@ -89,32 +94,62 @@ extension TK.Label {
 
    /// "Standings" - Use for displaying current standings in a tournament or league
    public static var standings: String {
-      String(localized: "TK.Label.standings", defaultValue: "Standings", bundle: .module, comment: "Use for displaying current standings in a tournament or league")
+      String(
+         localized: "TK.Label.standings",
+         defaultValue: "Standings",
+         bundle: .module,
+         comment: "Use for displaying current standings in a tournament or league"
+      )
    }
 
    /// "Achievements" - Use for referring to accomplishments or awards in sports
    public static var achievements: String {
-      String(localized: "TK.Label.achievements", defaultValue: "Achievements", bundle: .module, comment: "Use for referring to accomplishments or awards in sports")
+      String(
+         localized: "TK.Label.achievements",
+         defaultValue: "Achievements",
+         bundle: .module,
+         comment: "Use for referring to accomplishments or awards in sports"
+      )
    }
 
    /// "Average Pace" - Use for tracking the average pace of a player or team
    public static var averagePace: String {
-      String(localized: "TK.Label.averagePace", defaultValue: "Average Pace", bundle: .module, comment: "Use for tracking the average pace of a player or team")
+      String(
+         localized: "TK.Label.averagePace",
+         defaultValue: "Average Pace",
+         bundle: .module,
+         comment: "Use for tracking the average pace of a player or team"
+      )
    }
 
    /// "Average Speed" - Use for tracking the average speed of a player or team
    public static var averageSpeed: String {
-      String(localized: "TK.Label.averageSpeed", defaultValue: "Average Speed", bundle: .module, comment: "Use for tracking the average speed of a player or team")
+      String(
+         localized: "TK.Label.averageSpeed",
+         defaultValue: "Average Speed",
+         bundle: .module,
+         comment: "Use for tracking the average speed of a player or team"
+      )
    }
 
    /// "Fitness Score" - Use for displaying a player's or team's fitness score
    public static var fitnessScore: String {
-      String(localized: "TK.Label.fitnessScore", defaultValue: "Fitness Score", bundle: .module, comment: "Use for displaying a player's or team's fitness score")
+      String(
+         localized: "TK.Label.fitnessScore",
+         defaultValue: "Fitness Score",
+         bundle: .module,
+         comment: "Use for displaying a player's or team's fitness score"
+      )
    }
 
    /// "Heart Rate" - Use for tracking the heart rate during sports activities
    public static var heartRate: String {
-      String(localized: "TK.Label.heartRate", defaultValue: "Heart Rate", bundle: .module, comment: "Use for tracking the heart rate during sports activities")
+      String(
+         localized: "TK.Label.heartRate",
+         defaultValue: "Heart Rate",
+         bundle: .module,
+         comment: "Use for tracking the heart rate during sports activities"
+      )
    }
 
    /// "High Score" - Use for displaying a player's highest score
@@ -124,12 +159,22 @@ extension TK.Label {
 
    /// "Leaderboard" - Use for displaying the leaderboard of a sports event
    public static var leaderboard: String {
-      String(localized: "TK.Label.leaderboard", defaultValue: "Leaderboard", bundle: .module, comment: "Use for displaying the leaderboard of a sports event")
+      String(
+         localized: "TK.Label.leaderboard",
+         defaultValue: "Leaderboard",
+         bundle: .module,
+         comment: "Use for displaying the leaderboard of a sports event"
+      )
    }
 
    /// "Level" - Use for referring to a player's level in a sports game or event
    public static var level: String {
-      String(localized: "TK.Label.level", defaultValue: "Level", bundle: .module, comment: "Use for referring to a player's level in a sports game or event")
+      String(
+         localized: "TK.Label.level",
+         defaultValue: "Level",
+         bundle: .module,
+         comment: "Use for referring to a player's level in a sports game or event"
+      )
    }
 
    /// "Points" - Use for displaying points earned in a game or event
@@ -139,16 +184,31 @@ extension TK.Label {
 
    /// "Session Duration" - Use for tracking the duration of a sports session
    public static var sessionDuration: String {
-      String(localized: "TK.Label.sessionDuration", defaultValue: "Session Duration", bundle: .module, comment: "Use for tracking the duration of a sports session")
+      String(
+         localized: "TK.Label.sessionDuration",
+         defaultValue: "Session Duration",
+         bundle: .module,
+         comment: "Use for tracking the duration of a sports session"
+      )
    }
 
    /// "Team Members" - Use for displaying the members of a sports team
    public static var teamMembers: String {
-      String(localized: "TK.Label.teamMembers", defaultValue: "Team Members", bundle: .module, comment: "Use for displaying the members of a sports team")
+      String(
+         localized: "TK.Label.teamMembers",
+         defaultValue: "Team Members",
+         bundle: .module,
+         comment: "Use for displaying the members of a sports team"
+      )
    }
 
    /// "Weekly Goals" - Use for displaying the weekly goals of a player or team
    public static var weeklyGoals: String {
-      String(localized: "TK.Label.weeklyGoals", defaultValue: "Weekly Goals", bundle: .module, comment: "Use for displaying the weekly goals of a player or team")
+      String(
+         localized: "TK.Label.weeklyGoals",
+         defaultValue: "Weekly Goals",
+         bundle: .module,
+         comment: "Use for displaying the weekly goals of a player or team"
+      )
    }
 }

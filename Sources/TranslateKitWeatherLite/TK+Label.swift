@@ -4,7 +4,12 @@ import Foundation
 extension TK.Label {
    /// "Air Pressure" - Use for displaying the air pressure measurement
    public static var airPressure: String {
-      String(localized: "TK.Label.airPressure", defaultValue: "Air Pressure", bundle: .module, comment: "Use for displaying the air pressure measurement")
+      String(
+         localized: "TK.Label.airPressure",
+         defaultValue: "Air Pressure",
+         bundle: .module,
+         comment: "Use for displaying the air pressure measurement"
+      )
    }
 
    /// "Air Quality" - Use for displaying the air quality status
@@ -14,7 +19,12 @@ extension TK.Label {
 
    /// "Air Quality Index" - Use for displaying the air quality index
    public static var airQualityIndex: String {
-      String(localized: "TK.Label.airQualityIndex", defaultValue: "Air Quality Index", bundle: .module, comment: "Use for displaying the air quality index")
+      String(
+         localized: "TK.Label.airQualityIndex",
+         defaultValue: "Air Quality Index",
+         bundle: .module,
+         comment: "Use for displaying the air quality index"
+      )
    }
 
    /// "Alerts" - Use for displaying weather alerts or warnings
@@ -29,7 +39,12 @@ extension TK.Label {
 
    /// "Breaking News" - Use for displaying urgent weather-related news
    public static var breakingNews: String {
-      String(localized: "TK.Label.breakingNews", defaultValue: "Breaking News", bundle: .module, comment: "Use for displaying urgent weather-related news")
+      String(
+         localized: "TK.Label.breakingNews",
+         defaultValue: "Breaking News",
+         bundle: .module,
+         comment: "Use for displaying urgent weather-related news"
+      )
    }
 
    /// "Clear Skies" - Use for displaying clear weather conditions
@@ -49,12 +64,22 @@ extension TK.Label {
 
    /// "Current Location" - Use for displaying the current location's weather data
    public static var currentLocation: String {
-      String(localized: "TK.Label.currentLocation", defaultValue: "Current Location", bundle: .module, comment: "Use for displaying the current location's weather data")
+      String(
+         localized: "TK.Label.currentLocation",
+         defaultValue: "Current Location",
+         bundle: .module,
+         comment: "Use for displaying the current location's weather data"
+      )
    }
 
    /// "Current Temperature" - Use for displaying the current temperature
    public static var currentTemperature: String {
-      String(localized: "TK.Label.currentTemperature", defaultValue: "Current Temperature", bundle: .module, comment: "Use for displaying the current temperature")
+      String(
+         localized: "TK.Label.currentTemperature",
+         defaultValue: "Current Temperature",
+         bundle: .module,
+         comment: "Use for displaying the current temperature"
+      )
    }
 
    /// "Dew Point" - Use for displaying the dew point temperature
@@ -64,7 +89,12 @@ extension TK.Label {
 
    /// "Feels Like" - Use for displaying the apparent temperature or 'feels like' temperature
    public static var feelsLike: String {
-      String(localized: "TK.Label.feelsLike", defaultValue: "Feels Like", bundle: .module, comment: "Use for displaying the apparent temperature or 'feels like' temperature")
+      String(
+         localized: "TK.Label.feelsLike",
+         defaultValue: "Feels Like",
+         bundle: .module,
+         comment: "Use for displaying the apparent temperature or 'feels like' temperature"
+      )
    }
 
    /// "Forecast" - Use for displaying the weather forecast
@@ -99,7 +129,12 @@ extension TK.Label {
 
    /// "Location Services" - Use for enabling or displaying location services
    public static var locationServices: String {
-      String(localized: "TK.Label.locationServices", defaultValue: "Location Services", bundle: .module, comment: "Use for enabling or displaying location services")
+      String(
+         localized: "TK.Label.locationServices",
+         defaultValue: "Location Services",
+         bundle: .module,
+         comment: "Use for enabling or displaying location services"
+      )
    }
 
    /// "Longitude" - Use for displaying the longitude of a location
@@ -114,7 +149,12 @@ extension TK.Label {
 
    /// "Moon Phase" - Use for displaying the current phase of the moon
    public static var moonPhase: String {
-      String(localized: "TK.Label.moonPhase", defaultValue: "Moon Phase", bundle: .module, comment: "Use for displaying the current phase of the moon")
+      String(
+         localized: "TK.Label.moonPhase",
+         defaultValue: "Moon Phase",
+         bundle: .module,
+         comment: "Use for displaying the current phase of the moon"
+      )
    }
 
    /// "Precipitation" - Use for displaying precipitation levels
@@ -154,7 +194,12 @@ extension TK.Label {
 
    /// "Sunrise & Sunset" - Use for displaying sunrise and sunset times
    public static var sunriseAndSunset: String {
-      String(localized: "TK.Label.sunriseAndSunset", defaultValue: "Sunrise & Sunset", bundle: .module, comment: "Use for displaying sunrise and sunset times")
+      String(
+         localized: "TK.Label.sunriseAndSunset",
+         defaultValue: "Sunrise & Sunset",
+         bundle: .module,
+         comment: "Use for displaying sunrise and sunset times"
+      )
    }
 
    /// "Temperature" - Use for displaying the current temperature
@@ -179,7 +224,12 @@ extension TK.Label {
 
    /// "Weather Alerts" - Use for displaying weather alerts or warnings
    public static var weatherAlerts: String {
-      String(localized: "TK.Label.weatherAlerts", defaultValue: "Weather Alerts", bundle: .module, comment: "Use for displaying weather alerts or warnings")
+      String(
+         localized: "TK.Label.weatherAlerts",
+         defaultValue: "Weather Alerts",
+         bundle: .module,
+         comment: "Use for displaying weather alerts or warnings"
+      )
    }
 
    /// "Wind Direction" - Use for displaying the wind direction

@@ -44,7 +44,12 @@ extension TK.Action {
 
    /// "Extract" - Use for extracting data or files from a compressed format
    public static var extract: String {
-      String(localized: "TK.Action.extract", defaultValue: "Extract", bundle: .module, comment: "Use for extracting data or files from a compressed format")
+      String(
+         localized: "TK.Action.extract",
+         defaultValue: "Extract",
+         bundle: .module,
+         comment: "Use for extracting data or files from a compressed format"
+      )
    }
 
    /// "Format" - Use for formatting data, files, or settings
@@ -74,7 +79,12 @@ extension TK.Action {
 
    /// "Optimize" - Use for optimizing system or application performance
    public static var optimize: String {
-      String(localized: "TK.Action.optimize", defaultValue: "Optimize", bundle: .module, comment: "Use for optimizing system or application performance")
+      String(
+         localized: "TK.Action.optimize",
+         defaultValue: "Optimize",
+         bundle: .module,
+         comment: "Use for optimizing system or application performance"
+      )
    }
 
    /// "Print" - Use for printing documents or data
@@ -94,12 +104,22 @@ extension TK.Action {
 
    /// "Reset Settings" - Use for resetting system or app settings
    public static var resetSettings: String {
-      String(localized: "TK.Action.resetSettings", defaultValue: "Reset Settings", bundle: .module, comment: "Use for resetting system or app settings")
+      String(
+         localized: "TK.Action.resetSettings",
+         defaultValue: "Reset Settings",
+         bundle: .module,
+         comment: "Use for resetting system or app settings"
+      )
    }
 
    /// "Restore Backup" - Use for restoring a backup of data or settings
    public static var restoreBackup: String {
-      String(localized: "TK.Action.restoreBackup", defaultValue: "Restore Backup", bundle: .module, comment: "Use for restoring a backup of data or settings")
+      String(
+         localized: "TK.Action.restoreBackup",
+         defaultValue: "Restore Backup",
+         bundle: .module,
+         comment: "Use for restoring a backup of data or settings"
+      )
    }
 
    /// "Scan" - Use for scanning documents, files, or devices
@@ -129,7 +149,12 @@ extension TK.Action {
 
    /// "Test Connection" - Use for testing network or device connection
    public static var testConnection: String {
-      String(localized: "TK.Action.testConnection", defaultValue: "Test Connection", bundle: .module, comment: "Use for testing network or device connection")
+      String(
+         localized: "TK.Action.testConnection",
+         defaultValue: "Test Connection",
+         bundle: .module,
+         comment: "Use for testing network or device connection"
+      )
    }
 
    /// "Trim" - Use for trimming audio, video, or data
@@ -149,6 +174,11 @@ extension TK.Action {
 
    /// "Verify Connection" - Use for verifying the status of a network or device connection
    public static var verifyConnection: String {
-      String(localized: "TK.Action.verifyConnection", defaultValue: "Verify Connection", bundle: .module, comment: "Use for verifying the status of a network or device connection")
+      String(
+         localized: "TK.Action.verifyConnection",
+         defaultValue: "Verify Connection",
+         bundle: .module,
+         comment: "Use for verifying the status of a network or device connection"
+      )
    }
 }

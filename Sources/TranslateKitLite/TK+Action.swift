@@ -10,7 +10,12 @@ extension TK {
 
       /// "Add" - Use for adding new items or initiating creation processes
       public static var add: String {
-         String(localized: "TK.Action.add", defaultValue: "Add", bundle: .module, comment: "Use for adding new items or initiating creation processes")
+         String(
+            localized: "TK.Action.add",
+            defaultValue: "Add",
+            bundle: .module,
+            comment: "Use for adding new items or initiating creation processes"
+         )
       }
 
       /// "Agree" - Use when accepting terms, policies, or conditions
@@ -70,7 +75,12 @@ extension TK {
 
       /// "Continue" - Use when progressing to the next step in a process
       public static var `continue`: String {
-         String(localized: "TK.Action.continue", defaultValue: "Continue", bundle: .module, comment: "Use when progressing to the next step in a process")
+         String(
+            localized: "TK.Action.continue",
+            defaultValue: "Continue",
+            bundle: .module,
+            comment: "Use when progressing to the next step in a process"
+         )
       }
 
       /// "Copy" - Use when duplicating content to clipboard
@@ -90,7 +100,12 @@ extension TK {
 
       /// "Decline" - Use when rejecting terms, conditions, or permissions
       public static var decline: String {
-         String(localized: "TK.Action.decline", defaultValue: "Decline", bundle: .module, comment: "Use when rejecting terms, conditions, invites, or permissions")
+         String(
+            localized: "TK.Action.decline",
+            defaultValue: "Decline",
+            bundle: .module,
+            comment: "Use when rejecting terms, conditions, invites, or permissions"
+         )
       }
 
       /// "Delete" - Use when permanently removing content
@@ -200,7 +215,12 @@ extension TK {
 
       /// "Learn More…" - Use for accessing additional information (with ellipsis)
       public static var learnMoreDots: String {
-         String(localized: "TK.Action.learnMoreDots", defaultValue: "Learn More…", bundle: .module, comment: "Use for accessing additional information")
+         String(
+            localized: "TK.Action.learnMoreDots",
+            defaultValue: "Learn More…",
+            bundle: .module,
+            comment: "Use for accessing additional information"
+         )
       }
 
       /// "Load More" - Use when fetching additional content
@@ -245,7 +265,12 @@ extension TK {
 
       /// "Not Now" - Use for declining a request or postponing an action
       public static var notNow: String {
-         String(localized: "TK.Action.notNow", defaultValue: "Not Now", bundle: .module, comment: "Use for declining a request or postponing an action")
+         String(
+            localized: "TK.Action.notNow",
+            defaultValue: "Not Now",
+            bundle: .module,
+            comment: "Use for declining a request or postponing an action"
+         )
       }
 
       /// "OK" - Use for confirming or acknowledging a message
@@ -290,7 +315,12 @@ extension TK {
 
       /// "Remove All" - Use for clearing entire lists or collections
       public static var removeAll: String {
-         String(localized: "TK.Action.removeAll", defaultValue: "Remove All", bundle: .module, comment: "Use for clearing entire lists or collections")
+         String(
+            localized: "TK.Action.removeAll",
+            defaultValue: "Remove All",
+            bundle: .module,
+            comment: "Use for clearing entire lists or collections"
+         )
       }
 
       /// "Rename" - Use for modifying item names

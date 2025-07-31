@@ -9,52 +9,102 @@ extension TK.Label {
 
    /// "Aperture" - Use for displaying the aperture setting for a camera
    public static var aperture: String {
-      String(localized: "TK.Label.aperture", defaultValue: "Aperture", bundle: .module, comment: "Use for displaying the aperture setting for a camera")
+      String(
+         localized: "TK.Label.aperture",
+         defaultValue: "Aperture",
+         bundle: .module,
+         comment: "Use for displaying the aperture setting for a camera"
+      )
    }
 
    /// "Aspect Ratio" - Use for displaying the aspect ratio of an image or video
    public static var aspectRatio: String {
-      String(localized: "TK.Label.aspectRatio", defaultValue: "Aspect Ratio", bundle: .module, comment: "Use for displaying the aspect ratio of an image or video")
+      String(
+         localized: "TK.Label.aspectRatio",
+         defaultValue: "Aspect Ratio",
+         bundle: .module,
+         comment: "Use for displaying the aspect ratio of an image or video"
+      )
    }
 
    /// "Background Blur" - Use for displaying the background blur setting of an image or video
    public static var backgroundBlur: String {
-      String(localized: "TK.Label.backgroundBlur", defaultValue: "Background Blur", bundle: .module, comment: "Use for displaying the background blur setting of an image or video")
+      String(
+         localized: "TK.Label.backgroundBlur",
+         defaultValue: "Background Blur",
+         bundle: .module,
+         comment: "Use for displaying the background blur setting of an image or video"
+      )
    }
 
    /// "Brightness" - Use for adjusting the brightness of an image or video
    public static var brightness: String {
-      String(localized: "TK.Label.brightness", defaultValue: "Brightness", bundle: .module, comment: "Use for adjusting the brightness of an image or video")
+      String(
+         localized: "TK.Label.brightness",
+         defaultValue: "Brightness",
+         bundle: .module,
+         comment: "Use for adjusting the brightness of an image or video"
+      )
    }
 
    /// "Camera" - Use for displaying the camera or camera-related settings
    public static var camera: String {
-      String(localized: "TK.Label.camera", defaultValue: "Camera", bundle: .module, comment: "Use for displaying the camera or camera-related settings")
+      String(
+         localized: "TK.Label.camera",
+         defaultValue: "Camera",
+         bundle: .module,
+         comment: "Use for displaying the camera or camera-related settings"
+      )
    }
 
    /// "Camera Roll" - Use for accessing the camera roll or photo library
    public static var cameraRoll: String {
-      String(localized: "TK.Label.cameraRoll", defaultValue: "Camera Roll", bundle: .module, comment: "Use for accessing the camera roll or photo library")
+      String(
+         localized: "TK.Label.cameraRoll",
+         defaultValue: "Camera Roll",
+         bundle: .module,
+         comment: "Use for accessing the camera roll or photo library"
+      )
    }
 
    /// "Color" - Use for adjusting the color properties of an image or video
    public static var color: String {
-      String(localized: "TK.Label.color", defaultValue: "Color", bundle: .module, comment: "Use for adjusting the color properties of an image or video")
+      String(
+         localized: "TK.Label.color",
+         defaultValue: "Color",
+         bundle: .module,
+         comment: "Use for adjusting the color properties of an image or video"
+      )
    }
 
    /// "Contrast" - Use for adjusting the contrast of an image or video
    public static var contrast: String {
-      String(localized: "TK.Label.contrast", defaultValue: "Contrast", bundle: .module, comment: "Use for adjusting the contrast of an image or video")
+      String(
+         localized: "TK.Label.contrast",
+         defaultValue: "Contrast",
+         bundle: .module,
+         comment: "Use for adjusting the contrast of an image or video"
+      )
    }
 
    /// "Created Date" - Use for displaying the date when the photo or video was created
    public static var createdDate: String {
-      String(localized: "TK.Label.createdDate", defaultValue: "Created Date", bundle: .module, comment: "Use for displaying the date when the photo or video was created")
+      String(
+         localized: "TK.Label.createdDate",
+         defaultValue: "Created Date",
+         bundle: .module,
+         comment: "Use for displaying the date when the photo or video was created"
+      )
    }
 
    /// "Duration" - Use for displaying the duration of a video or media clip
    public static var duration: String {
-      String(localized: "TK.Label.duration", defaultValue: "Duration", bundle: .module, comment: "Use for displaying the duration of a video or media clip")
+      String(
+         localized: "TK.Label.duration",
+         defaultValue: "Duration",
+         bundle: .module,
+         comment: "Use for displaying the duration of a video or media clip"
+      )
    }
 
    /// "Effects" - Use for applying effects to an image or video
@@ -64,12 +114,22 @@ extension TK.Label {
 
    /// "Exposure" - Use for adjusting the exposure of an image or video
    public static var exposure: String {
-      String(localized: "TK.Label.exposure", defaultValue: "Exposure", bundle: .module, comment: "Use for adjusting the exposure of an image or video")
+      String(
+         localized: "TK.Label.exposure",
+         defaultValue: "Exposure",
+         bundle: .module,
+         comment: "Use for adjusting the exposure of an image or video"
+      )
    }
 
    /// "File Format" - Use for displaying the file format of a media file
    public static var fileFormat: String {
-      String(localized: "TK.Label.fileFormat", defaultValue: "File Format", bundle: .module, comment: "Use for displaying the file format of a media file")
+      String(
+         localized: "TK.Label.fileFormat",
+         defaultValue: "File Format",
+         bundle: .module,
+         comment: "Use for displaying the file format of a media file"
+      )
    }
 
    /// "File Name" - Use for displaying the file name of a media file
@@ -129,7 +189,12 @@ extension TK.Label {
 
    /// "Playback Speed" - Use for adjusting the speed of media playback
    public static var playbackSpeed: String {
-      String(localized: "TK.Label.playbackSpeed", defaultValue: "Playback Speed", bundle: .module, comment: "Use for adjusting the speed of media playback")
+      String(
+         localized: "TK.Label.playbackSpeed",
+         defaultValue: "Playback Speed",
+         bundle: .module,
+         comment: "Use for adjusting the speed of media playback"
+      )
    }
 
    /// "Preview" - Use for previewing a photo, video, or effect
@@ -139,17 +204,32 @@ extension TK.Label {
 
    /// "Resolution" - Use for displaying or adjusting media resolution
    public static var resolution: String {
-      String(localized: "TK.Label.resolution", defaultValue: "Resolution", bundle: .module, comment: "Use for displaying or adjusting media resolution")
+      String(
+         localized: "TK.Label.resolution",
+         defaultValue: "Resolution",
+         bundle: .module,
+         comment: "Use for displaying or adjusting media resolution"
+      )
    }
 
    /// "Saturation" - Use for adjusting the saturation of an image or video
    public static var saturation: String {
-      String(localized: "TK.Label.saturation", defaultValue: "Saturation", bundle: .module, comment: "Use for adjusting the saturation of an image or video")
+      String(
+         localized: "TK.Label.saturation",
+         defaultValue: "Saturation",
+         bundle: .module,
+         comment: "Use for adjusting the saturation of an image or video"
+      )
    }
 
    /// "Screenshot" - Use for capturing a screenshot of the screen or media
    public static var screenshot: String {
-      String(localized: "TK.Label.screenshot", defaultValue: "Screenshot", bundle: .module, comment: "Use for capturing a screenshot of the screen or media")
+      String(
+         localized: "TK.Label.screenshot",
+         defaultValue: "Screenshot",
+         bundle: .module,
+         comment: "Use for capturing a screenshot of the screen or media"
+      )
    }
 
    /// "Size" - Use for displaying the size of an image or video
@@ -159,7 +239,12 @@ extension TK.Label {
 
    /// "Timeline" - Use for displaying or interacting with the timeline of a video
    public static var timeline: String {
-      String(localized: "TK.Label.timeline", defaultValue: "Timeline", bundle: .module, comment: "Use for displaying or interacting with the timeline of a video")
+      String(
+         localized: "TK.Label.timeline",
+         defaultValue: "Timeline",
+         bundle: .module,
+         comment: "Use for displaying or interacting with the timeline of a video"
+      )
    }
 
    /// "Width" - Use for displaying the width of an image or video

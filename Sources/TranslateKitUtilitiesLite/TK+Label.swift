@@ -4,12 +4,22 @@ import Foundation
 extension TK.Label {
    /// "API Key" - Use for labeling an API key for authentication or access
    public static var apiKey: String {
-      String(localized: "TK.Label.apiKey", defaultValue: "API Key", bundle: .module, comment: "Use for labeling an API key for authentication or access")
+      String(
+         localized: "TK.Label.apiKey",
+         defaultValue: "API Key",
+         bundle: .module,
+         comment: "Use for labeling an API key for authentication or access"
+      )
    }
 
    /// "Bandwidth" - Use for displaying the bandwidth of a network connection
    public static var bandwidth: String {
-      String(localized: "TK.Label.bandwidth", defaultValue: "Bandwidth", bundle: .module, comment: "Use for displaying the bandwidth of a network connection")
+      String(
+         localized: "TK.Label.bandwidth",
+         defaultValue: "Bandwidth",
+         bundle: .module,
+         comment: "Use for displaying the bandwidth of a network connection"
+      )
    }
 
    /// "Battery" - Use for displaying the battery status of a device
@@ -19,7 +29,12 @@ extension TK.Label {
 
    /// "Battery Level" - Use for showing the current level of the device's battery
    public static var batteryLevel: String {
-      String(localized: "TK.Label.batteryLevel", defaultValue: "Battery Level", bundle: .module, comment: "Use for showing the current level of the device's battery")
+      String(
+         localized: "TK.Label.batteryLevel",
+         defaultValue: "Battery Level",
+         bundle: .module,
+         comment: "Use for showing the current level of the device's battery"
+      )
    }
 
    /// "Cache" - Use for labeling cached data or temporary storage
@@ -39,17 +54,32 @@ extension TK.Label {
 
    /// "Compression" - Use for displaying information about compression settings or processes
    public static var compression: String {
-      String(localized: "TK.Label.compression", defaultValue: "Compression", bundle: .module, comment: "Use for displaying information about compression settings or processes")
+      String(
+         localized: "TK.Label.compression",
+         defaultValue: "Compression",
+         bundle: .module,
+         comment: "Use for displaying information about compression settings or processes"
+      )
    }
 
    /// "Connection" - Use for labeling the current network or device connection
    public static var connection: String {
-      String(localized: "TK.Label.connection", defaultValue: "Connection", bundle: .module, comment: "Use for labeling the current network or device connection")
+      String(
+         localized: "TK.Label.connection",
+         defaultValue: "Connection",
+         bundle: .module,
+         comment: "Use for labeling the current network or device connection"
+      )
    }
 
    /// "Connection Status" - Use for showing the current status of the connection
    public static var connectionStatus: String {
-      String(localized: "TK.Label.connectionStatus", defaultValue: "Connection Status", bundle: .module, comment: "Use for showing the current status of the connection")
+      String(
+         localized: "TK.Label.connectionStatus",
+         defaultValue: "Connection Status",
+         bundle: .module,
+         comment: "Use for showing the current status of the connection"
+      )
    }
 
    /// "CPU Usage" - Use for displaying the current usage of the CPU
@@ -64,12 +94,22 @@ extension TK.Label {
 
    /// "Debug Mode" - Use for indicating if the application is in debug mode
    public static var debugMode: String {
-      String(localized: "TK.Label.debugMode", defaultValue: "Debug Mode", bundle: .module, comment: "Use for indicating if the application is in debug mode")
+      String(
+         localized: "TK.Label.debugMode",
+         defaultValue: "Debug Mode",
+         bundle: .module,
+         comment: "Use for indicating if the application is in debug mode"
+      )
    }
 
    /// "Device Info" - Use for displaying information about the device
    public static var deviceInfo: String {
-      String(localized: "TK.Label.deviceInfo", defaultValue: "Device Info", bundle: .module, comment: "Use for displaying information about the device")
+      String(
+         localized: "TK.Label.deviceInfo",
+         defaultValue: "Device Info",
+         bundle: .module,
+         comment: "Use for displaying information about the device"
+      )
    }
 
    /// "Device Name" - Use for displaying the name of the device
@@ -79,7 +119,12 @@ extension TK.Label {
 
    /// "Device Status" - Use for displaying the current status of the device
    public static var deviceStatus: String {
-      String(localized: "TK.Label.deviceStatus", defaultValue: "Device Status", bundle: .module, comment: "Use for displaying the current status of the device")
+      String(
+         localized: "TK.Label.deviceStatus",
+         defaultValue: "Device Status",
+         bundle: .module,
+         comment: "Use for displaying the current status of the device"
+      )
    }
 
    /// "Disk Space" - Use for displaying available or used disk space
@@ -89,7 +134,12 @@ extension TK.Label {
 
    /// "Download Speed" - Use for displaying the speed of the download process
    public static var downloadSpeed: String {
-      String(localized: "TK.Label.downloadSpeed", defaultValue: "Download Speed", bundle: .module, comment: "Use for displaying the speed of the download process")
+      String(
+         localized: "TK.Label.downloadSpeed",
+         defaultValue: "Download Speed",
+         bundle: .module,
+         comment: "Use for displaying the speed of the download process"
+      )
    }
 
    /// "Encryption" - Use for labeling encryption settings or status
@@ -114,7 +164,12 @@ extension TK.Label {
 
    /// "Free Space" - Use for displaying the available free space on a device or storage
    public static var freeSpace: String {
-      String(localized: "TK.Label.freeSpace", defaultValue: "Free Space", bundle: .module, comment: "Use for displaying the available free space on a device or storage")
+      String(
+         localized: "TK.Label.freeSpace",
+         defaultValue: "Free Space",
+         bundle: .module,
+         comment: "Use for displaying the available free space on a device or storage"
+      )
    }
 
    /// "IP Address" - Use for displaying the device's IP address
@@ -129,32 +184,62 @@ extension TK.Label {
 
    /// "Network Name" - Use for labeling the name of the connected network
    public static var networkName: String {
-      String(localized: "TK.Label.networkName", defaultValue: "Network Name", bundle: .module, comment: "Use for labeling the name of the connected network")
+      String(
+         localized: "TK.Label.networkName",
+         defaultValue: "Network Name",
+         bundle: .module,
+         comment: "Use for labeling the name of the connected network"
+      )
    }
 
    /// "Network Type" - Use for displaying the type of network (e.g., Wi-Fi, Cellular)
    public static var networkType: String {
-      String(localized: "TK.Label.networkType", defaultValue: "Network Type", bundle: .module, comment: "Use for displaying the type of network (e.g., Wi-Fi, Cellular)")
+      String(
+         localized: "TK.Label.networkType",
+         defaultValue: "Network Type",
+         bundle: .module,
+         comment: "Use for displaying the type of network (e.g., Wi-Fi, Cellular)"
+      )
    }
 
    /// "Password Protection" - Use for indicating if password protection is enabled
    public static var passwordProtection: String {
-      String(localized: "TK.Label.passwordProtection", defaultValue: "Password Protection", bundle: .module, comment: "Use for indicating if password protection is enabled")
+      String(
+         localized: "TK.Label.passwordProtection",
+         defaultValue: "Password Protection",
+         bundle: .module,
+         comment: "Use for indicating if password protection is enabled"
+      )
    }
 
    /// "Processing Speed" - Use for displaying the speed at which data is being processed
    public static var processingSpeed: String {
-      String(localized: "TK.Label.processingSpeed", defaultValue: "Processing Speed", bundle: .module, comment: "Use for displaying the speed at which data is being processed")
+      String(
+         localized: "TK.Label.processingSpeed",
+         defaultValue: "Processing Speed",
+         bundle: .module,
+         comment: "Use for displaying the speed at which data is being processed"
+      )
    }
 
    /// "Resolution" - Use for displaying the resolution of an image or display
    public static var resolution: String {
-      String(localized: "TK.Label.resolution", defaultValue: "Resolution", bundle: .module, comment: "Use for displaying the resolution of an image or display")
+      String(
+         localized: "TK.Label.resolution",
+         defaultValue: "Resolution",
+         bundle: .module,
+         comment: "Use for displaying the resolution of an image or display"
+      )
    }
 
    /// "Server" - Use for labeling the server where data is hosted or processed
    public static var server: String {
-      String(localized: "TK.Label.server", defaultValue: "Server", bundle: .module, comment: "Use for labeling the server where data is hosted or processed")
+      String(
+         localized: "TK.Label.server",
+         defaultValue: "Server",
+         bundle: .module,
+         comment: "Use for labeling the server where data is hosted or processed"
+      )
    }
 
    /// "Storage" - Use for displaying available or used storage space
@@ -164,11 +249,21 @@ extension TK.Label {
 
    /// "Upload Speed" - Use for displaying the speed of the upload process
    public static var uploadSpeed: String {
-      String(localized: "TK.Label.uploadSpeed", defaultValue: "Upload Speed", bundle: .module, comment: "Use for displaying the speed of the upload process")
+      String(
+         localized: "TK.Label.uploadSpeed",
+         defaultValue: "Upload Speed",
+         bundle: .module,
+         comment: "Use for displaying the speed of the upload process"
+      )
    }
 
    /// "Version Number" - Use for displaying the version number of the software or app
    public static var versionNumber: String {
-      String(localized: "TK.Label.versionNumber", defaultValue: "Version Number", bundle: .module, comment: "Use for displaying the version number of the software or app")
+      String(
+         localized: "TK.Label.versionNumber",
+         defaultValue: "Version Number",
+         bundle: .module,
+         comment: "Use for displaying the version number of the software or app"
+      )
    }
 }

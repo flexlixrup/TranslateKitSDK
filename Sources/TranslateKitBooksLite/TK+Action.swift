@@ -4,7 +4,12 @@ import Foundation
 extension TK.Action {
    /// "Add Bookmark" - Use when marking a specific page or position in a book
    public static var addBookmark: String {
-      String(localized: "TK.Action.addBookmark", defaultValue: "Add Bookmark", bundle: .module, comment: "Use when marking a specific page or position in a book")
+      String(
+         localized: "TK.Action.addBookmark",
+         defaultValue: "Add Bookmark",
+         bundle: .module,
+         comment: "Use when marking a specific page or position in a book"
+      )
    }
 
    /// "Add Note" - Use when creating a new annotation or comment
@@ -14,12 +19,22 @@ extension TK.Action {
 
    /// "Add to Library" - Use when importing books into the user's collection
    public static var addToLibrary: String {
-      String(localized: "TK.Action.addToLibrary", defaultValue: "Add to Library", bundle: .module, comment: "Use when importing books into the user's collection")
+      String(
+         localized: "TK.Action.addToLibrary",
+         defaultValue: "Add to Library",
+         bundle: .module,
+         comment: "Use when importing books into the user's collection"
+      )
    }
 
    /// "Add to Reading List" - Use when saving books for later reading
    public static var addToReadingList: String {
-      String(localized: "TK.Action.addToReadingList", defaultValue: "Add to Reading List", bundle: .module, comment: "Use when saving books for later reading")
+      String(
+         localized: "TK.Action.addToReadingList",
+         defaultValue: "Add to Reading List",
+         bundle: .module,
+         comment: "Use when saving books for later reading"
+      )
    }
 
    /// "Annotate" - Use when adding notes or comments to text
@@ -54,12 +69,22 @@ extension TK.Action {
 
    /// "Download for Offline" - Use when saving books for offline access
    public static var downloadForOffline: String {
-      String(localized: "TK.Action.downloadForOffline", defaultValue: "Download for Offline", bundle: .module, comment: "Use when saving books for offline access")
+      String(
+         localized: "TK.Action.downloadForOffline",
+         defaultValue: "Download for Offline",
+         bundle: .module,
+         comment: "Use when saving books for offline access"
+      )
    }
 
    /// "Edit Bookmark" - Use when modifying existing bookmark details
    public static var editBookmark: String {
-      String(localized: "TK.Action.editBookmark", defaultValue: "Edit Bookmark", bundle: .module, comment: "Use when modifying existing bookmark details")
+      String(
+         localized: "TK.Action.editBookmark",
+         defaultValue: "Edit Bookmark",
+         bundle: .module,
+         comment: "Use when modifying existing bookmark details"
+      )
    }
 
    /// "Edit Note" - Use when modifying existing annotations
@@ -69,7 +94,12 @@ extension TK.Action {
 
    /// "Export Highlights" - Use when saving highlighted passages
    public static var exportHighlights: String {
-      String(localized: "TK.Action.exportHighlights", defaultValue: "Export Highlights", bundle: .module, comment: "Use when saving highlighted passages")
+      String(
+         localized: "TK.Action.exportHighlights",
+         defaultValue: "Export Highlights",
+         bundle: .module,
+         comment: "Use when saving highlighted passages"
+      )
    }
 
    /// "Export Notes" - Use when saving annotations and comments
@@ -79,7 +109,12 @@ extension TK.Action {
 
    /// "Go to Chapter" - Use when navigating to specific book sections
    public static var goToChapter: String {
-      String(localized: "TK.Action.goToChapter", defaultValue: "Go to Chapter", bundle: .module, comment: "Use when navigating to specific book sections")
+      String(
+         localized: "TK.Action.goToChapter",
+         defaultValue: "Go to Chapter",
+         bundle: .module,
+         comment: "Use when navigating to specific book sections"
+      )
    }
 
    /// "Go to Page" - Use when jumping to specific page numbers
@@ -134,7 +169,12 @@ extension TK.Action {
 
    /// "Remove from Library" - Use when deleting books from collection
    public static var removeFromLibrary: String {
-      String(localized: "TK.Action.removeFromLibrary", defaultValue: "Remove from Library", bundle: .module, comment: "Use when deleting books from collection")
+      String(
+         localized: "TK.Action.removeFromLibrary",
+         defaultValue: "Remove from Library",
+         bundle: .module,
+         comment: "Use when deleting books from collection"
+      )
    }
 
    /// "Resume Reading" - Use when continuing from last position
@@ -169,7 +209,12 @@ extension TK.Action {
 
    /// "Sync Library" - Use when updating book collection across devices
    public static var syncLibrary: String {
-      String(localized: "TK.Action.syncLibrary", defaultValue: "Sync Library", bundle: .module, comment: "Use when updating book collection across devices")
+      String(
+         localized: "TK.Action.syncLibrary",
+         defaultValue: "Sync Library",
+         bundle: .module,
+         comment: "Use when updating book collection across devices"
+      )
    }
 
    /// "Take Notes" - Use when creating annotations while reading
@@ -179,11 +224,21 @@ extension TK.Action {
 
    /// "Toggle Dark Mode" - Use when switching between light and dark reading themes
    public static var toggleDarkMode: String {
-      String(localized: "TK.Action.toggleDarkMode", defaultValue: "Toggle Dark Mode", bundle: .module, comment: "Use when switching between light and dark reading themes")
+      String(
+         localized: "TK.Action.toggleDarkMode",
+         defaultValue: "Toggle Dark Mode",
+         bundle: .module,
+         comment: "Use when switching between light and dark reading themes"
+      )
    }
 
    /// "View Bookmarks" - Use when accessing saved page positions
    public static var viewBookmarks: String {
-      String(localized: "TK.Action.viewBookmarks", defaultValue: "View Bookmarks", bundle: .module, comment: "Use when accessing saved page positions")
+      String(
+         localized: "TK.Action.viewBookmarks",
+         defaultValue: "View Bookmarks",
+         bundle: .module,
+         comment: "Use when accessing saved page positions"
+      )
    }
 }

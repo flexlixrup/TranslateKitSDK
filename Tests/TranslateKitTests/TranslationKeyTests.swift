@@ -1,7 +1,8 @@
-import Testing
 import MacroTesting
 import SwiftSyntaxMacrosTestSupport
+import Testing
 import TranslateKitMacros
+
 @testable import TranslateKit
 
 // TODO: report inconsistency between unit test results & actual behavior in CommonTranslations / in apps
@@ -11,7 +12,7 @@ func simpleViewButtonExpansion() {
    assertMacro(["tk": TranslationKey.self]) {
       """
       import SwiftUI
-      
+
       extension MyNamespace {
          struct MyView: View {
             var body: some View {

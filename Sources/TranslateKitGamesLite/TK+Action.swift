@@ -59,7 +59,12 @@ extension TK.Action {
 
    /// "Challenge" - Use for initiating a challenge to another player
    public static var challenge: String {
-      String(localized: "TK.Action.challenge", defaultValue: "Challenge", bundle: .module, comment: "Use for initiating a challenge to another player")
+      String(
+         localized: "TK.Action.challenge",
+         defaultValue: "Challenge",
+         bundle: .module,
+         comment: "Use for initiating a challenge to another player"
+      )
    }
 
    /// "Forfeit" - Use when quitting or surrendering a game
@@ -114,7 +119,12 @@ extension TK.Action {
 
    /// "Report Player" - Use for reporting a player for inappropriate behavior
    public static var reportPlayer: String {
-      String(localized: "TK.Action.reportPlayer", defaultValue: "Report Player", bundle: .module, comment: "Use for reporting a player for inappropriate behavior")
+      String(
+         localized: "TK.Action.reportPlayer",
+         defaultValue: "Report Player",
+         bundle: .module,
+         comment: "Use for reporting a player for inappropriate behavior"
+      )
    }
 
    /// "Rematch" - Use for starting a rematch with an opponent
@@ -144,7 +154,12 @@ extension TK.Action {
 
    /// "Find Opponent" - Use for searching for an opponent to play against
    public static var findOpponent: String {
-      String(localized: "TK.Action.findOpponent", defaultValue: "Find Opponent", bundle: .module, comment: "Use for searching for an opponent to play against")
+      String(
+         localized: "TK.Action.findOpponent",
+         defaultValue: "Find Opponent",
+         bundle: .module,
+         comment: "Use for searching for an opponent to play against"
+      )
    }
 
    /// "Join Match" - Use for joining an active match
@@ -159,7 +174,12 @@ extension TK.Action {
 
    /// "Multi-Select" - Use for selecting multiple items or options
    public static var multiSelect: String {
-      String(localized: "TK.Action.multiSelect", defaultValue: "Multi-Select", bundle: .module, comment: "Use for selecting multiple items or options")
+      String(
+         localized: "TK.Action.multiSelect",
+         defaultValue: "Multi-Select",
+         bundle: .module,
+         comment: "Use for selecting multiple items or options"
+      )
    }
 
    /// "Join Challenge" - Use for participating in a challenge
@@ -169,6 +189,11 @@ extension TK.Action {
 
    /// "Track Progress" - Use for tracking game or challenge progress
    public static var trackProgress: String {
-      String(localized: "TK.Action.trackProgress", defaultValue: "Track Progress", bundle: .module, comment: "Use for tracking game or challenge progress")
+      String(
+         localized: "TK.Action.trackProgress",
+         defaultValue: "Track Progress",
+         bundle: .module,
+         comment: "Use for tracking game or challenge progress"
+      )
    }
 }

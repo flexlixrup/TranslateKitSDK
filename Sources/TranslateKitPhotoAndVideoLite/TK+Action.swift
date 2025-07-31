@@ -9,7 +9,12 @@ extension TK.Action {
 
    /// "Apply Filter" - Use for applying a filter to a photo or video
    public static var applyFilter: String {
-      String(localized: "TK.Action.applyFilter", defaultValue: "Apply Filter", bundle: .module, comment: "Use for applying a filter to a photo or video")
+      String(
+         localized: "TK.Action.applyFilter",
+         defaultValue: "Apply Filter",
+         bundle: .module,
+         comment: "Use for applying a filter to a photo or video"
+      )
    }
 
    /// "Choose Photo" - Use for selecting a photo from the library
@@ -34,7 +39,12 @@ extension TK.Action {
 
    /// "Delete Permanently" - Use for permanently deleting a photo or video
    public static var deletePermanently: String {
-      String(localized: "TK.Action.deletePermanently", defaultValue: "Delete Permanently", bundle: .module, comment: "Use for permanently deleting a photo or video")
+      String(
+         localized: "TK.Action.deletePermanently",
+         defaultValue: "Delete Permanently",
+         bundle: .module,
+         comment: "Use for permanently deleting a photo or video"
+      )
    }
 
    /// "Edit Photo" - Use for editing a photo
@@ -44,7 +54,12 @@ extension TK.Action {
 
    /// "Enable Camera" - Use for enabling the camera to take photos or videos
    public static var enableCamera: String {
-      String(localized: "TK.Action.enableCamera", defaultValue: "Enable Camera", bundle: .module, comment: "Use for enabling the camera to take photos or videos")
+      String(
+         localized: "TK.Action.enableCamera",
+         defaultValue: "Enable Camera",
+         bundle: .module,
+         comment: "Use for enabling the camera to take photos or videos"
+      )
    }
 
    /// "Export PDF" - Use for exporting content as a PDF
@@ -64,7 +79,12 @@ extension TK.Action {
 
    /// "Mark as Favorite" - Use for marking a photo or video as a favorite
    public static var markAsFavorite: String {
-      String(localized: "TK.Action.markAsFavorite", defaultValue: "Mark as Favorite", bundle: .module, comment: "Use for marking a photo or video as a favorite")
+      String(
+         localized: "TK.Action.markAsFavorite",
+         defaultValue: "Mark as Favorite",
+         bundle: .module,
+         comment: "Use for marking a photo or video as a favorite"
+      )
    }
 
    /// "Merge Clips" - Use for merging video clips
@@ -74,7 +94,12 @@ extension TK.Action {
 
    /// "Open in Browser" - Use for opening content in an external browser
    public static var openInBrowser: String {
-      String(localized: "TK.Action.openInBrowser", defaultValue: "Open in Browser", bundle: .module, comment: "Use for opening content in an external browser")
+      String(
+         localized: "TK.Action.openInBrowser",
+         defaultValue: "Open in Browser",
+         bundle: .module,
+         comment: "Use for opening content in an external browser"
+      )
    }
 
    /// "Play Now" - Use for starting video playback immediately
@@ -89,7 +114,12 @@ extension TK.Action {
 
    /// "Remove Background" - Use for removing the background from an image
    public static var removeBackground: String {
-      String(localized: "TK.Action.removeBackground", defaultValue: "Remove Background", bundle: .module, comment: "Use for removing the background from an image")
+      String(
+         localized: "TK.Action.removeBackground",
+         defaultValue: "Remove Background",
+         bundle: .module,
+         comment: "Use for removing the background from an image"
+      )
    }
 
    /// "Replace" - Use for replacing a photo or video
@@ -114,7 +144,12 @@ extension TK.Action {
 
    /// "Save to Photos" - Use for saving a photo or video to the photo library
    public static var saveToPhotos: String {
-      String(localized: "TK.Action.saveToPhotos", defaultValue: "Save to Photos", bundle: .module, comment: "Use for saving a photo or video to the photo library")
+      String(
+         localized: "TK.Action.saveToPhotos",
+         defaultValue: "Save to Photos",
+         bundle: .module,
+         comment: "Use for saving a photo or video to the photo library"
+      )
    }
 
    /// "Save Video" - Use for saving a video to the library
@@ -129,7 +164,12 @@ extension TK.Action {
 
    /// "Set as Default" - Use for setting a photo or video as the default
    public static var setAsDefault: String {
-      String(localized: "TK.Action.setAsDefault", defaultValue: "Set as Default", bundle: .module, comment: "Use for setting a photo or video as the default")
+      String(
+         localized: "TK.Action.setAsDefault",
+         defaultValue: "Set as Default",
+         bundle: .module,
+         comment: "Use for setting a photo or video as the default"
+      )
    }
 
    /// "Share Document" - Use for sharing a document
@@ -174,7 +214,12 @@ extension TK.Action {
 
    /// "Undo Changes" - Use for undoing changes made to a photo or video
    public static var undoChanges: String {
-      String(localized: "TK.Action.undoChanges", defaultValue: "Undo Changes", bundle: .module, comment: "Use for undoing changes made to a photo or video")
+      String(
+         localized: "TK.Action.undoChanges",
+         defaultValue: "Undo Changes",
+         bundle: .module,
+         comment: "Use for undoing changes made to a photo or video"
+      )
    }
 
    /// "Upload Photo" - Use for uploading a photo to the platform
@@ -184,7 +229,12 @@ extension TK.Action {
 
    /// "Use Camera" - Use for activating the camera to capture a photo or video
    public static var useCamera: String {
-      String(localized: "TK.Action.useCamera", defaultValue: "Use Camera", bundle: .module, comment: "Use for activating the camera to capture a photo or video")
+      String(
+         localized: "TK.Action.useCamera",
+         defaultValue: "Use Camera",
+         bundle: .module,
+         comment: "Use for activating the camera to capture a photo or video"
+      )
    }
 
    /// "Zoom In" - Use for zooming into a photo or video

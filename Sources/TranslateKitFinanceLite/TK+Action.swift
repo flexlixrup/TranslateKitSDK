@@ -44,7 +44,12 @@ extension TK.Action {
 
    /// "Convert Currency" - Use for converting one currency to another
    public static var convertCurrency: String {
-      String(localized: "TK.Action.convertCurrency", defaultValue: "Convert Currency", bundle: .module, comment: "Use for converting one currency to another")
+      String(
+         localized: "TK.Action.convertCurrency",
+         defaultValue: "Convert Currency",
+         bundle: .module,
+         comment: "Use for converting one currency to another"
+      )
    }
 
    /// "Deposit" - Use for adding funds to an account
@@ -99,12 +104,22 @@ extension TK.Action {
 
    /// "Print Statement" - Use for printing a financial statement
    public static var printStatement: String {
-      String(localized: "TK.Action.printStatement", defaultValue: "Print Statement", bundle: .module, comment: "Use for printing a financial statement")
+      String(
+         localized: "TK.Action.printStatement",
+         defaultValue: "Print Statement",
+         bundle: .module,
+         comment: "Use for printing a financial statement"
+      )
    }
 
    /// "Proceed to Checkout" - Use for advancing to the payment step
    public static var proceedToCheckout: String {
-      String(localized: "TK.Action.proceedToCheckout", defaultValue: "Proceed to Checkout", bundle: .module, comment: "Use for advancing to the payment step")
+      String(
+         localized: "TK.Action.proceedToCheckout",
+         defaultValue: "Proceed to Checkout",
+         bundle: .module,
+         comment: "Use for advancing to the payment step"
+      )
    }
 
    /// "Request Money" - Use for requesting money from someone
@@ -114,12 +129,22 @@ extension TK.Action {
 
    /// "Save to Favorites" - Use for saving an item to favorites
    public static var saveToFavorites: String {
-      String(localized: "TK.Action.saveToFavorites", defaultValue: "Save to Favorites", bundle: .module, comment: "Use for saving an item to favorites")
+      String(
+         localized: "TK.Action.saveToFavorites",
+         defaultValue: "Save to Favorites",
+         bundle: .module,
+         comment: "Use for saving an item to favorites"
+      )
    }
 
    /// "Schedule Payment" - Use for scheduling a future payment
    public static var schedulePayment: String {
-      String(localized: "TK.Action.schedulePayment", defaultValue: "Schedule Payment", bundle: .module, comment: "Use for scheduling a future payment")
+      String(
+         localized: "TK.Action.schedulePayment",
+         defaultValue: "Schedule Payment",
+         bundle: .module,
+         comment: "Use for scheduling a future payment"
+      )
    }
 
    /// "Send Money" - Use for transferring money to someone
@@ -129,7 +154,12 @@ extension TK.Action {
 
    /// "Set Up Direct Deposit" - Use for setting up direct deposit
    public static var setUpDirectDeposit: String {
-      String(localized: "TK.Action.setUpDirectDeposit", defaultValue: "Set Up Direct Deposit", bundle: .module, comment: "Use for setting up direct deposit")
+      String(
+         localized: "TK.Action.setUpDirectDeposit",
+         defaultValue: "Set Up Direct Deposit",
+         bundle: .module,
+         comment: "Use for setting up direct deposit"
+      )
    }
 
    /// "Split Bill" - Use for splitting a bill with others

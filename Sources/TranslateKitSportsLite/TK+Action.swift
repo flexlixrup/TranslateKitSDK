@@ -54,7 +54,12 @@ extension TK.Action {
 
    /// "Generate Report" - Use for generating sports performance or game reports
    public static var generateReport: String {
-      String(localized: "TK.Action.generateReport", defaultValue: "Generate Report", bundle: .module, comment: "Use for generating sports performance or game reports")
+      String(
+         localized: "TK.Action.generateReport",
+         defaultValue: "Generate Report",
+         bundle: .module,
+         comment: "Use for generating sports performance or game reports"
+      )
    }
 
    /// "Add Score" - Use for adding a score to a game or match
@@ -64,7 +69,12 @@ extension TK.Action {
 
    /// "Watch Replay" - Use for watching a replay of a game or match
    public static var watchReplay: String {
-      String(localized: "TK.Action.watchReplay", defaultValue: "Watch Replay", bundle: .module, comment: "Use for watching a replay of a game or match")
+      String(
+         localized: "TK.Action.watchReplay",
+         defaultValue: "Watch Replay",
+         bundle: .module,
+         comment: "Use for watching a replay of a game or match"
+      )
    }
 
    /// "Check In" - Use for checking into a game or event
@@ -79,7 +89,12 @@ extension TK.Action {
 
    /// "Compare Stats" - Use for comparing statistics between players or teams
    public static var compareStats: String {
-      String(localized: "TK.Action.compareStats", defaultValue: "Compare Stats", bundle: .module, comment: "Use for comparing statistics between players or teams")
+      String(
+         localized: "TK.Action.compareStats",
+         defaultValue: "Compare Stats",
+         bundle: .module,
+         comment: "Use for comparing statistics between players or teams"
+      )
    }
 
    /// "Export Stats" - Use for exporting sports statistics
@@ -89,7 +104,12 @@ extension TK.Action {
 
    /// "Track Performance" - Use for tracking the performance of a player or team
    public static var trackPerformance: String {
-      String(localized: "TK.Action.trackPerformance", defaultValue: "Track Performance", bundle: .module, comment: "Use for tracking the performance of a player or team")
+      String(
+         localized: "TK.Action.trackPerformance",
+         defaultValue: "Track Performance",
+         bundle: .module,
+         comment: "Use for tracking the performance of a player or team"
+      )
    }
 
    /// "Share Highlight" - Use for sharing a sports highlight
@@ -99,12 +119,22 @@ extension TK.Action {
 
    /// "Create Tournament" - Use for creating a sports tournament
    public static var createTournament: String {
-      String(localized: "TK.Action.createTournament", defaultValue: "Create Tournament", bundle: .module, comment: "Use for creating a sports tournament")
+      String(
+         localized: "TK.Action.createTournament",
+         defaultValue: "Create Tournament",
+         bundle: .module,
+         comment: "Use for creating a sports tournament"
+      )
    }
 
    /// "Post Update" - Use for posting updates related to a sports event or team
    public static var postUpdate: String {
-      String(localized: "TK.Action.postUpdate", defaultValue: "Post Update", bundle: .module, comment: "Use for posting updates related to a sports event or team")
+      String(
+         localized: "TK.Action.postUpdate",
+         defaultValue: "Post Update",
+         bundle: .module,
+         comment: "Use for posting updates related to a sports event or team"
+      )
    }
 
    /// "Schedule Match" - Use for scheduling a sports match
@@ -119,17 +149,32 @@ extension TK.Action {
 
    /// "Add Team Member" - Use for adding a member to a sports team
    public static var addTeamMember: String {
-      String(localized: "TK.Action.addTeamMember", defaultValue: "Add Team Member", bundle: .module, comment: "Use for adding a member to a sports team")
+      String(
+         localized: "TK.Action.addTeamMember",
+         defaultValue: "Add Team Member",
+         bundle: .module,
+         comment: "Use for adding a member to a sports team"
+      )
    }
 
    /// "View Leaderboard" - Use for viewing the leaderboard in a sports event or league
    public static var viewLeaderboard: String {
-      String(localized: "TK.Action.viewLeaderboard", defaultValue: "View Leaderboard", bundle: .module, comment: "Use for viewing the leaderboard in a sports event or league")
+      String(
+         localized: "TK.Action.viewLeaderboard",
+         defaultValue: "View Leaderboard",
+         bundle: .module,
+         comment: "Use for viewing the leaderboard in a sports event or league"
+      )
    }
 
    /// "Submit Score" - Use for submitting a score after a game or match
    public static var submitScore: String {
-      String(localized: "TK.Action.submitScore", defaultValue: "Submit Score", bundle: .module, comment: "Use for submitting a score after a game or match")
+      String(
+         localized: "TK.Action.submitScore",
+         defaultValue: "Submit Score",
+         bundle: .module,
+         comment: "Use for submitting a score after a game or match"
+      )
    }
 
    /// "Join Event" - Use for joining a sports event
@@ -139,12 +184,22 @@ extension TK.Action {
 
    /// "Manage Team" - Use for managing the details of a sports team
    public static var manageTeam: String {
-      String(localized: "TK.Action.manageTeam", defaultValue: "Manage Team", bundle: .module, comment: "Use for managing the details of a sports team")
+      String(
+         localized: "TK.Action.manageTeam",
+         defaultValue: "Manage Team",
+         bundle: .module,
+         comment: "Use for managing the details of a sports team"
+      )
    }
 
    /// "Invite Players" - Use for inviting players to join a team or event
    public static var invitePlayers: String {
-      String(localized: "TK.Action.invitePlayers", defaultValue: "Invite Players", bundle: .module, comment: "Use for inviting players to join a team or event")
+      String(
+         localized: "TK.Action.invitePlayers",
+         defaultValue: "Invite Players",
+         bundle: .module,
+         comment: "Use for inviting players to join a team or event"
+      )
    }
 
    /// "Save Game" - Use for saving a game in progress
@@ -154,7 +209,12 @@ extension TK.Action {
 
    /// "Set Goal" - Use for setting a performance goal in a game or match
    public static var setGoal: String {
-      String(localized: "TK.Action.setGoal", defaultValue: "Set Goal", bundle: .module, comment: "Use for setting a performance goal in a game or match")
+      String(
+         localized: "TK.Action.setGoal",
+         defaultValue: "Set Goal",
+         bundle: .module,
+         comment: "Use for setting a performance goal in a game or match"
+      )
    }
 
    /// "Sync Data" - Use for syncing sports data across devices
@@ -164,7 +224,12 @@ extension TK.Action {
 
    /// "View Schedule" - Use for viewing the schedule of upcoming matches or events
    public static var viewSchedule: String {
-      String(localized: "TK.Action.viewSchedule", defaultValue: "View Schedule", bundle: .module, comment: "Use for viewing the schedule of upcoming matches or events")
+      String(
+         localized: "TK.Action.viewSchedule",
+         defaultValue: "View Schedule",
+         bundle: .module,
+         comment: "Use for viewing the schedule of upcoming matches or events"
+      )
    }
 
    /// "View Stats" - Use for viewing statistics of a player or team
@@ -174,6 +239,11 @@ extension TK.Action {
 
    /// "Update Profile" - Use for updating the player's or team's profile
    public static var updateProfile: String {
-      String(localized: "TK.Action.updateProfile", defaultValue: "Update Profile", bundle: .module, comment: "Use for updating the player's or team's profile")
+      String(
+         localized: "TK.Action.updateProfile",
+         defaultValue: "Update Profile",
+         bundle: .module,
+         comment: "Use for updating the player's or team's profile"
+      )
    }
 }

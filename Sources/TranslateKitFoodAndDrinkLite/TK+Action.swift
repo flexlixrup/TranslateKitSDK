@@ -9,17 +9,32 @@ extension TK.Action {
 
    /// "Add to Favorites" - Use when adding an item to the favorite list
    public static var addToFavorites: String {
-      String(localized: "TK.Action.addToFavorites", defaultValue: "Add to Favorites", bundle: .module, comment: "Use when adding an item to the favorite list")
+      String(
+         localized: "TK.Action.addToFavorites",
+         defaultValue: "Add to Favorites",
+         bundle: .module,
+         comment: "Use when adding an item to the favorite list"
+      )
    }
 
    /// "Apply Coupon" - Use when applying a discount coupon to the order
    public static var applyCoupon: String {
-      String(localized: "TK.Action.applyCoupon", defaultValue: "Apply Coupon", bundle: .module, comment: "Use when applying a discount coupon to the order")
+      String(
+         localized: "TK.Action.applyCoupon",
+         defaultValue: "Apply Coupon",
+         bundle: .module,
+         comment: "Use when applying a discount coupon to the order"
+      )
    }
 
    /// "Apply Filter" - Use when applying filters to search or menu results
    public static var applyFilter: String {
-      String(localized: "TK.Action.applyFilter", defaultValue: "Apply Filter", bundle: .module, comment: "Use when applying filters to search or menu results")
+      String(
+         localized: "TK.Action.applyFilter",
+         defaultValue: "Apply Filter",
+         bundle: .module,
+         comment: "Use when applying filters to search or menu results"
+      )
    }
 
    /// "Book Table" - Use when making a reservation at a restaurant
@@ -34,7 +49,12 @@ extension TK.Action {
 
    /// "Check Availability" - Use when checking the availability of a dish or table
    public static var checkAvailability: String {
-      String(localized: "TK.Action.checkAvailability", defaultValue: "Check Availability", bundle: .module, comment: "Use when checking the availability of a dish or table")
+      String(
+         localized: "TK.Action.checkAvailability",
+         defaultValue: "Check Availability",
+         bundle: .module,
+         comment: "Use when checking the availability of a dish or table"
+      )
    }
 
    /// "Create Order" - Use when creating a new order
@@ -44,7 +64,12 @@ extension TK.Action {
 
    /// "Filter Diet" - Use when filtering menu items based on dietary preferences
    public static var filterDiet: String {
-      String(localized: "TK.Action.filterDiet", defaultValue: "Filter Diet", bundle: .module, comment: "Use when filtering menu items based on dietary preferences")
+      String(
+         localized: "TK.Action.filterDiet",
+         defaultValue: "Filter Diet",
+         bundle: .module,
+         comment: "Use when filtering menu items based on dietary preferences"
+      )
    }
 
    /// "Like Recipe" - Use when marking a recipe as liked
@@ -54,7 +79,12 @@ extension TK.Action {
 
    /// "Log Meal" - Use when logging a meal or dish for tracking purposes
    public static var logMeal: String {
-      String(localized: "TK.Action.logMeal", defaultValue: "Log Meal", bundle: .module, comment: "Use when logging a meal or dish for tracking purposes")
+      String(
+         localized: "TK.Action.logMeal",
+         defaultValue: "Log Meal",
+         bundle: .module,
+         comment: "Use when logging a meal or dish for tracking purposes"
+      )
    }
 
    /// "Order Now" - Use for placing an immediate order
@@ -69,7 +99,12 @@ extension TK.Action {
 
    /// "Print Recipe" - Use when printing a recipe for later reference
    public static var printRecipe: String {
-      String(localized: "TK.Action.printRecipe", defaultValue: "Print Recipe", bundle: .module, comment: "Use when printing a recipe for later reference")
+      String(
+         localized: "TK.Action.printRecipe",
+         defaultValue: "Print Recipe",
+         bundle: .module,
+         comment: "Use when printing a recipe for later reference"
+      )
    }
 
    /// "Rate Content" - Use when rating a piece of content
@@ -84,7 +119,12 @@ extension TK.Action {
 
    /// "Remove from Cart" - Use when removing an item from the shopping cart
    public static var removeFromCart: String {
-      String(localized: "TK.Action.removeFromCart", defaultValue: "Remove from Cart", bundle: .module, comment: "Use when removing an item from the shopping cart")
+      String(
+         localized: "TK.Action.removeFromCart",
+         defaultValue: "Remove from Cart",
+         bundle: .module,
+         comment: "Use when removing an item from the shopping cart"
+      )
    }
 
    /// "Reserve" - Use when reserving a table or a service
@@ -94,7 +134,12 @@ extension TK.Action {
 
    /// "Review Order" - Use when reviewing the details of an order before confirming
    public static var reviewOrder: String {
-      String(localized: "TK.Action.reviewOrder", defaultValue: "Review Order", bundle: .module, comment: "Use when reviewing the details of an order before confirming")
+      String(
+         localized: "TK.Action.reviewOrder",
+         defaultValue: "Review Order",
+         bundle: .module,
+         comment: "Use when reviewing the details of an order before confirming"
+      )
    }
 
    /// "Save Recipe" - Use when saving a recipe for future use
@@ -104,12 +149,22 @@ extension TK.Action {
 
    /// "Scan Barcode" - Use when scanning a barcode for product identification
    public static var scanBarcode: String {
-      String(localized: "TK.Action.scanBarcode", defaultValue: "Scan Barcode", bundle: .module, comment: "Use when scanning a barcode for product identification")
+      String(
+         localized: "TK.Action.scanBarcode",
+         defaultValue: "Scan Barcode",
+         bundle: .module,
+         comment: "Use when scanning a barcode for product identification"
+      )
    }
 
    /// "Schedule Delivery" - Use when scheduling a delivery for an order
    public static var scheduleDelivery: String {
-      String(localized: "TK.Action.scheduleDelivery", defaultValue: "Schedule Delivery", bundle: .module, comment: "Use when scheduling a delivery for an order")
+      String(
+         localized: "TK.Action.scheduleDelivery",
+         defaultValue: "Schedule Delivery",
+         bundle: .module,
+         comment: "Use when scheduling a delivery for an order"
+      )
    }
 
    /// "Share Recipe" - Use when sharing a recipe with others
@@ -129,6 +184,11 @@ extension TK.Action {
 
    /// "Write Review" - Use when writing a review for a dish or service
    public static var writeReview: String {
-      String(localized: "TK.Action.writeReview", defaultValue: "Write Review", bundle: .module, comment: "Use when writing a review for a dish or service")
+      String(
+         localized: "TK.Action.writeReview",
+         defaultValue: "Write Review",
+         bundle: .module,
+         comment: "Use when writing a review for a dish or service"
+      )
    }
 }

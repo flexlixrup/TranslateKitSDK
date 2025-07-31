@@ -4,7 +4,12 @@ import Foundation
 extension TK.Label {
    /// "Accommodation" - Use for referring to places where one can stay (e.g., hotels, hostels)
    public static var accommodation: String {
-      String(localized: "TK.Label.accommodation", defaultValue: "Accommodation", bundle: .module, comment: "Use for referring to places where one can stay (e.g., hotels, hostels)")
+      String(
+         localized: "TK.Label.accommodation",
+         defaultValue: "Accommodation",
+         bundle: .module,
+         comment: "Use for referring to places where one can stay (e.g., hotels, hostels)"
+      )
    }
 
    /// "Air Quality" - Use for displaying air quality information
@@ -14,7 +19,12 @@ extension TK.Label {
 
    /// "Air Quality Index" - Use for displaying the air quality index
    public static var airQualityIndex: String {
-      String(localized: "TK.Label.airQualityIndex", defaultValue: "Air Quality Index", bundle: .module, comment: "Use for displaying the air quality index")
+      String(
+         localized: "TK.Label.airQualityIndex",
+         defaultValue: "Air Quality Index",
+         bundle: .module,
+         comment: "Use for displaying the air quality index"
+      )
    }
 
    /// "Airline" - Use for referring to an airline company
@@ -39,42 +49,82 @@ extension TK.Label {
 
    /// "Boarding Pass" - Use for referring to a boarding pass for a flight
    public static var boardingPass: String {
-      String(localized: "TK.Label.boardingPass", defaultValue: "Boarding Pass", bundle: .module, comment: "Use for referring to a boarding pass for a flight")
+      String(
+         localized: "TK.Label.boardingPass",
+         defaultValue: "Boarding Pass",
+         bundle: .module,
+         comment: "Use for referring to a boarding pass for a flight"
+      )
    }
 
    /// "Booking" - Use for referring to a reservation made for a service
    public static var booking: String {
-      String(localized: "TK.Label.booking", defaultValue: "Booking", bundle: .module, comment: "Use for referring to a reservation made for a service")
+      String(
+         localized: "TK.Label.booking",
+         defaultValue: "Booking",
+         bundle: .module,
+         comment: "Use for referring to a reservation made for a service"
+      )
    }
 
    /// "Check-in" - Use for checking into a service, such as a flight or hotel
    public static var checkIn: String {
-      String(localized: "TK.Label.checkIn", defaultValue: "Check-in", bundle: .module, comment: "Use for checking into a service, such as a flight or hotel")
+      String(
+         localized: "TK.Label.checkIn",
+         defaultValue: "Check-in",
+         bundle: .module,
+         comment: "Use for checking into a service, such as a flight or hotel"
+      )
    }
 
    /// "Check-out" - Use for checking out from a service, such as a hotel
    public static var checkOut: String {
-      String(localized: "TK.Label.checkOut", defaultValue: "Check-out", bundle: .module, comment: "Use for checking out from a service, such as a hotel")
+      String(
+         localized: "TK.Label.checkOut",
+         defaultValue: "Check-out",
+         bundle: .module,
+         comment: "Use for checking out from a service, such as a hotel"
+      )
    }
 
    /// "Connection Status" - Use for displaying the connection status (e.g., internet, GPS)
    public static var connectionStatus: String {
-      String(localized: "TK.Label.connectionStatus", defaultValue: "Connection Status", bundle: .module, comment: "Use for displaying the connection status (e.g., internet, GPS)")
+      String(
+         localized: "TK.Label.connectionStatus",
+         defaultValue: "Connection Status",
+         bundle: .module,
+         comment: "Use for displaying the connection status (e.g., internet, GPS)"
+      )
    }
 
    /// "Currency" - Use for referring to the type of currency being used or exchanged
    public static var currency: String {
-      String(localized: "TK.Label.currency", defaultValue: "Currency", bundle: .module, comment: "Use for referring to the type of currency being used or exchanged")
+      String(
+         localized: "TK.Label.currency",
+         defaultValue: "Currency",
+         bundle: .module,
+         comment: "Use for referring to the type of currency being used or exchanged"
+      )
    }
 
    /// "Current Location" - Use for displaying the user's current location
    public static var currentLocation: String {
-      String(localized: "TK.Label.currentLocation", defaultValue: "Current Location", bundle: .module, comment: "Use for displaying the user's current location")
+      String(
+         localized: "TK.Label.currentLocation",
+         defaultValue: "Current Location",
+         bundle: .module,
+         comment: "Use for displaying the user's current location"
+      )
    }
 
    /// "Current Temperature" - Use for displaying the current temperature
    public static var currentTemperature: String {
-      String(localized: "TK.Label.currentTemperature", defaultValue: "Current Temperature", bundle: .module, comment: "Use for displaying the current temperature")
+      String(
+         localized: "TK.Label.currentTemperature",
+         defaultValue: "Current Temperature",
+         bundle: .module,
+         comment: "Use for displaying the current temperature"
+      )
    }
 
    /// "Departure" - Use for indicating the departure time or event
@@ -84,12 +134,22 @@ extension TK.Label {
 
    /// "Destination" - Use for indicating the final location or goal of a trip
    public static var destination: String {
-      String(localized: "TK.Label.destination", defaultValue: "Destination", bundle: .module, comment: "Use for indicating the final location or goal of a trip")
+      String(
+         localized: "TK.Label.destination",
+         defaultValue: "Destination",
+         bundle: .module,
+         comment: "Use for indicating the final location or goal of a trip"
+      )
    }
 
    /// "Distance" - Use for referring to the distance between two points
    public static var distance: String {
-      String(localized: "TK.Label.distance", defaultValue: "Distance", bundle: .module, comment: "Use for referring to the distance between two points")
+      String(
+         localized: "TK.Label.distance",
+         defaultValue: "Distance",
+         bundle: .module,
+         comment: "Use for referring to the distance between two points"
+      )
    }
 
    /// "Driver" - Use for referring to the person operating a vehicle
@@ -99,22 +159,42 @@ extension TK.Label {
 
    /// "Duration" - Use for indicating the time duration of an event or trip
    public static var duration: String {
-      String(localized: "TK.Label.duration", defaultValue: "Duration", bundle: .module, comment: "Use for indicating the time duration of an event or trip")
+      String(
+         localized: "TK.Label.duration",
+         defaultValue: "Duration",
+         bundle: .module,
+         comment: "Use for indicating the time duration of an event or trip"
+      )
    }
 
    /// "Estimated Arrival Time" - Use for displaying the estimated arrival time
    public static var estimatedArrivalTime: String {
-      String(localized: "TK.Label.estimatedArrivalTime", defaultValue: "Estimated Arrival Time", bundle: .module, comment: "Use for displaying the estimated arrival time")
+      String(
+         localized: "TK.Label.estimatedArrivalTime",
+         defaultValue: "Estimated Arrival Time",
+         bundle: .module,
+         comment: "Use for displaying the estimated arrival time"
+      )
    }
 
    /// "Estimated Delivery" - Use for showing the estimated delivery time of a product
    public static var estimatedDelivery: String {
-      String(localized: "TK.Label.estimatedDelivery", defaultValue: "Estimated Delivery", bundle: .module, comment: "Use for showing the estimated delivery time of a product")
+      String(
+         localized: "TK.Label.estimatedDelivery",
+         defaultValue: "Estimated Delivery",
+         bundle: .module,
+         comment: "Use for showing the estimated delivery time of a product"
+      )
    }
 
    /// "Flight" - Use for referring to a flight, either booked or planned
    public static var flight: String {
-      String(localized: "TK.Label.flight", defaultValue: "Flight", bundle: .module, comment: "Use for referring to a flight, either booked or planned")
+      String(
+         localized: "TK.Label.flight",
+         defaultValue: "Flight",
+         bundle: .module,
+         comment: "Use for referring to a flight, either booked or planned"
+      )
    }
 
    /// "Gate" - Use for referring to the gate of departure at an airport
@@ -134,17 +214,32 @@ extension TK.Label {
 
    /// "Latitude" - Use for displaying the latitude coordinate of a location
    public static var latitude: String {
-      String(localized: "TK.Label.latitude", defaultValue: "Latitude", bundle: .module, comment: "Use for displaying the latitude coordinate of a location")
+      String(
+         localized: "TK.Label.latitude",
+         defaultValue: "Latitude",
+         bundle: .module,
+         comment: "Use for displaying the latitude coordinate of a location"
+      )
    }
 
    /// "Longitude" - Use for displaying the longitude coordinate of a location
    public static var longitude: String {
-      String(localized: "TK.Label.longitude", defaultValue: "Longitude", bundle: .module, comment: "Use for displaying the longitude coordinate of a location")
+      String(
+         localized: "TK.Label.longitude",
+         defaultValue: "Longitude",
+         bundle: .module,
+         comment: "Use for displaying the longitude coordinate of a location"
+      )
    }
 
    /// "Reservation" - Use for referring to a confirmed booking or arrangement
    public static var reservation: String {
-      String(localized: "TK.Label.reservation", defaultValue: "Reservation", bundle: .module, comment: "Use for referring to a confirmed booking or arrangement")
+      String(
+         localized: "TK.Label.reservation",
+         defaultValue: "Reservation",
+         bundle: .module,
+         comment: "Use for referring to a confirmed booking or arrangement"
+      )
    }
 
    /// "Route" - Use for referring to the planned path or directions
@@ -154,7 +249,12 @@ extension TK.Label {
 
    /// "Transportation" - Use for referring to the means of travel (e.g., bus, car, flight)
    public static var transportation: String {
-      String(localized: "TK.Label.transportation", defaultValue: "Transportation", bundle: .module, comment: "Use for referring to the means of travel (e.g., bus, car, flight)")
+      String(
+         localized: "TK.Label.transportation",
+         defaultValue: "Transportation",
+         bundle: .module,
+         comment: "Use for referring to the means of travel (e.g., bus, car, flight)"
+      )
    }
 
    /// "Traveler" - Use for referring to the person traveling

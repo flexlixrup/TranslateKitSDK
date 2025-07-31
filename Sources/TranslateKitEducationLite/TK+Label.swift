@@ -9,7 +9,12 @@ extension TK.Label {
 
    /// "Course" - Use to label an educational program or series of lessons
    public static var course: String {
-      String(localized: "TK.Label.course", defaultValue: "Course", bundle: .module, comment: "Use to label an educational program or series of lessons")
+      String(
+         localized: "TK.Label.course",
+         defaultValue: "Course",
+         bundle: .module,
+         comment: "Use to label an educational program or series of lessons"
+      )
    }
 
    /// "Exam" - Use for labeling assessments or tests
@@ -24,7 +29,12 @@ extension TK.Label {
 
    /// "Assignment" - Use for labeling a task or homework to be completed
    public static var assignment: String {
-      String(localized: "TK.Label.assignment", defaultValue: "Assignment", bundle: .module, comment: "Use for labeling a task or homework to be completed")
+      String(
+         localized: "TK.Label.assignment",
+         defaultValue: "Assignment",
+         bundle: .module,
+         comment: "Use for labeling a task or homework to be completed"
+      )
    }
 
    /// "Lesson" - Use for individual instructional sessions
@@ -44,12 +54,22 @@ extension TK.Label {
 
    /// "Difficulty Level" - Use for indicating the complexity of content or tasks
    public static var difficultyLevel: String {
-      String(localized: "TK.Label.difficultyLevel", defaultValue: "Difficulty Level", bundle: .module, comment: "Use for indicating the complexity of content or tasks")
+      String(
+         localized: "TK.Label.difficultyLevel",
+         defaultValue: "Difficulty Level",
+         bundle: .module,
+         comment: "Use for indicating the complexity of content or tasks"
+      )
    }
 
    /// "Study Time" - Use for tracking the amount of time spent studying
    public static var studyTime: String {
-      String(localized: "TK.Label.studyTime", defaultValue: "Study Time", bundle: .module, comment: "Use for tracking the amount of time spent studying")
+      String(
+         localized: "TK.Label.studyTime",
+         defaultValue: "Study Time",
+         bundle: .module,
+         comment: "Use for tracking the amount of time spent studying"
+      )
    }
 
    /// "Notes" - Use for personal annotations or study material
@@ -59,7 +79,12 @@ extension TK.Label {
 
    /// "Flashcards" - Use for interactive learning tools in a question-answer format
    public static var flashcards: String {
-      String(localized: "TK.Label.flashcards", defaultValue: "Flashcards", bundle: .module, comment: "Use for interactive learning tools in a question-answer format")
+      String(
+         localized: "TK.Label.flashcards",
+         defaultValue: "Flashcards",
+         bundle: .module,
+         comment: "Use for interactive learning tools in a question-answer format"
+      )
    }
 
    /// "Student" - Use to refer to a person engaged in learning
@@ -74,7 +99,12 @@ extension TK.Label {
 
    /// "Tutor" - Use for a person providing one-on-one educational assistance
    public static var tutor: String {
-      String(localized: "TK.Label.tutor", defaultValue: "Tutor", bundle: .module, comment: "Use for a person providing one-on-one educational assistance")
+      String(
+         localized: "TK.Label.tutor",
+         defaultValue: "Tutor",
+         bundle: .module,
+         comment: "Use for a person providing one-on-one educational assistance"
+      )
    }
 
    /// "Subject" - Use to categorize topics or disciplines of study
@@ -89,17 +119,32 @@ extension TK.Label {
 
    /// "Grade Level" - Use for categorizing content based on educational stages
    public static var gradeLevel: String {
-      String(localized: "TK.Label.gradeLevel", defaultValue: "Grade Level", bundle: .module, comment: "Use for categorizing content based on educational stages")
+      String(
+         localized: "TK.Label.gradeLevel",
+         defaultValue: "Grade Level",
+         bundle: .module,
+         comment: "Use for categorizing content based on educational stages"
+      )
    }
 
    /// "Learning Path" - Use for a structured sequence of lessons or activities
    public static var learningPath: String {
-      String(localized: "TK.Label.learningPath", defaultValue: "Learning Path", bundle: .module, comment: "Use for a structured sequence of lessons or activities")
+      String(
+         localized: "TK.Label.learningPath",
+         defaultValue: "Learning Path",
+         bundle: .module,
+         comment: "Use for a structured sequence of lessons or activities"
+      )
    }
 
    /// "Curriculum" - Use for the complete set of educational content
    public static var curriculum: String {
-      String(localized: "TK.Label.curriculum", defaultValue: "Curriculum", bundle: .module, comment: "Use for the complete set of educational content")
+      String(
+         localized: "TK.Label.curriculum",
+         defaultValue: "Curriculum",
+         bundle: .module,
+         comment: "Use for the complete set of educational content"
+      )
    }
 
    /// "Test Score" - Use for showing the results of a test
@@ -114,7 +159,12 @@ extension TK.Label {
 
    /// "Practice Exercises" - Use for exercises designed to reinforce learning
    public static var practiceExercises: String {
-      String(localized: "TK.Label.practiceExercises", defaultValue: "Practice Exercises", bundle: .module, comment: "Use for exercises designed to reinforce learning")
+      String(
+         localized: "TK.Label.practiceExercises",
+         defaultValue: "Practice Exercises",
+         bundle: .module,
+         comment: "Use for exercises designed to reinforce learning"
+      )
    }
 
    /// "Study Materials" - Use for resources used in studying
@@ -124,32 +174,62 @@ extension TK.Label {
 
    /// "Course Progress" - Use for tracking progress through a course
    public static var courseProgress: String {
-      String(localized: "TK.Label.courseProgress", defaultValue: "Course Progress", bundle: .module, comment: "Use for tracking progress through a course")
+      String(
+         localized: "TK.Label.courseProgress",
+         defaultValue: "Course Progress",
+         bundle: .module,
+         comment: "Use for tracking progress through a course"
+      )
    }
 
    /// "Learning Streak" - Use for tracking consecutive days or sessions of learning
    public static var learningStreak: String {
-      String(localized: "TK.Label.learningStreak", defaultValue: "Learning Streak", bundle: .module, comment: "Use for tracking consecutive days or sessions of learning")
+      String(
+         localized: "TK.Label.learningStreak",
+         defaultValue: "Learning Streak",
+         bundle: .module,
+         comment: "Use for tracking consecutive days or sessions of learning"
+      )
    }
 
    /// "Study Sessions" - Use for tracking individual study sessions
    public static var studySessions: String {
-      String(localized: "TK.Label.studySessions", defaultValue: "Study Sessions", bundle: .module, comment: "Use for tracking individual study sessions")
+      String(
+         localized: "TK.Label.studySessions",
+         defaultValue: "Study Sessions",
+         bundle: .module,
+         comment: "Use for tracking individual study sessions"
+      )
    }
 
    /// "Completion Certificate" - Use for awarding a certificate upon course completion
    public static var completionCertificate: String {
-      String(localized: "TK.Label.completionCertificate", defaultValue: "Completion Certificate", bundle: .module, comment: "Use for awarding a certificate upon course completion")
+      String(
+         localized: "TK.Label.completionCertificate",
+         defaultValue: "Completion Certificate",
+         bundle: .module,
+         comment: "Use for awarding a certificate upon course completion"
+      )
    }
 
    /// "Correct Answers" - Use for counting or showing correct responses in quizzes
    public static var correctAnswers: String {
-      String(localized: "TK.Label.correctAnswers", defaultValue: "Correct Answers", bundle: .module, comment: "Use for counting or showing correct responses in quizzes")
+      String(
+         localized: "TK.Label.correctAnswers",
+         defaultValue: "Correct Answers",
+         bundle: .module,
+         comment: "Use for counting or showing correct responses in quizzes"
+      )
    }
 
    /// "Knowledge Points" - Use for awarding points based on learning achievements
    public static var knowledgePoints: String {
-      String(localized: "TK.Label.knowledgePoints", defaultValue: "Knowledge Points", bundle: .module, comment: "Use for awarding points based on learning achievements")
+      String(
+         localized: "TK.Label.knowledgePoints",
+         defaultValue: "Knowledge Points",
+         bundle: .module,
+         comment: "Use for awarding points based on learning achievements"
+      )
    }
 
    /// "XP" - Use for experience points earned through activities or tasks

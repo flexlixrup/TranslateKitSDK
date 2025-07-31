@@ -4,17 +4,32 @@ import Foundation
 extension TK.Label {
    /// "Article" - Use for labeling a single piece of content or article
    public static var article: String {
-      String(localized: "TK.Label.article", defaultValue: "Article", bundle: .module, comment: "Use for labeling a single piece of content or article")
+      String(
+         localized: "TK.Label.article",
+         defaultValue: "Article",
+         bundle: .module,
+         comment: "Use for labeling a single piece of content or article"
+      )
    }
 
    /// "Author" - Use for referring to the creator or writer of the article
    public static var author: String {
-      String(localized: "TK.Label.author", defaultValue: "Author", bundle: .module, comment: "Use for referring to the creator or writer of the article")
+      String(
+         localized: "TK.Label.author",
+         defaultValue: "Author",
+         bundle: .module,
+         comment: "Use for referring to the creator or writer of the article"
+      )
    }
 
    /// "Breaking News" - Use for highlighting the latest breaking news
    public static var breakingNews: String {
-      String(localized: "TK.Label.breakingNews", defaultValue: "Breaking News", bundle: .module, comment: "Use for highlighting the latest breaking news")
+      String(
+         localized: "TK.Label.breakingNews",
+         defaultValue: "Breaking News",
+         bundle: .module,
+         comment: "Use for highlighting the latest breaking news"
+      )
    }
 
    /// "Category" - Use for grouping content into specific categories
@@ -44,7 +59,12 @@ extension TK.Label {
 
    /// "Editorial" - Use for articles or sections related to editorial opinions
    public static var editorial: String {
-      String(localized: "TK.Label.editorial", defaultValue: "Editorial", bundle: .module, comment: "Use for articles or sections related to editorial opinions")
+      String(
+         localized: "TK.Label.editorial",
+         defaultValue: "Editorial",
+         bundle: .module,
+         comment: "Use for articles or sections related to editorial opinions"
+      )
    }
 
    /// "Editor's Picks" - Use for articles selected by the editor
@@ -59,7 +79,12 @@ extension TK.Label {
 
    /// "Featured Stories" - Use for displaying important or highlighted stories
    public static var featuredStories: String {
-      String(localized: "TK.Label.featuredStories", defaultValue: "Featured Stories", bundle: .module, comment: "Use for displaying important or highlighted stories")
+      String(
+         localized: "TK.Label.featuredStories",
+         defaultValue: "Featured Stories",
+         bundle: .module,
+         comment: "Use for displaying important or highlighted stories"
+      )
    }
 
    /// "Headlines" - Use for the main or most important news titles
@@ -69,7 +94,12 @@ extension TK.Label {
 
    /// "International" - Use for news or content with an international scope
    public static var international: String {
-      String(localized: "TK.Label.international", defaultValue: "International", bundle: .module, comment: "Use for news or content with an international scope")
+      String(
+         localized: "TK.Label.international",
+         defaultValue: "International",
+         bundle: .module,
+         comment: "Use for news or content with an international scope"
+      )
    }
 
    /// "Latest" - Use for the most recent content or news
@@ -79,7 +109,12 @@ extension TK.Label {
 
    /// "Latest Headlines" - Use for the most recent and important headlines
    public static var latestHeadlines: String {
-      String(localized: "TK.Label.latestHeadlines", defaultValue: "Latest Headlines", bundle: .module, comment: "Use for the most recent and important headlines")
+      String(
+         localized: "TK.Label.latestHeadlines",
+         defaultValue: "Latest Headlines",
+         bundle: .module,
+         comment: "Use for the most recent and important headlines"
+      )
    }
 
    /// "Local News" - Use for news related to local events or areas
@@ -104,7 +139,12 @@ extension TK.Label {
 
    /// "Publisher" - Use for the entity responsible for publishing the content
    public static var publisher: String {
-      String(localized: "TK.Label.publisher", defaultValue: "Publisher", bundle: .module, comment: "Use for the entity responsible for publishing the content")
+      String(
+         localized: "TK.Label.publisher",
+         defaultValue: "Publisher",
+         bundle: .module,
+         comment: "Use for the entity responsible for publishing the content"
+      )
    }
 
    /// "Regional" - Use for news related to a specific region
@@ -114,12 +154,22 @@ extension TK.Label {
 
    /// "Reviews" - Use for user or critic reviews of content or products
    public static var reviews: String {
-      String(localized: "TK.Label.reviews", defaultValue: "Reviews", bundle: .module, comment: "Use for user or critic reviews of content or products")
+      String(
+         localized: "TK.Label.reviews",
+         defaultValue: "Reviews",
+         bundle: .module,
+         comment: "Use for user or critic reviews of content or products"
+      )
    }
 
    /// "Science & Technology" - Use for content related to science and technology
    public static var scienceAndTechnology: String {
-      String(localized: "TK.Label.scienceAndTechnology", defaultValue: "Science & Technology", bundle: .module, comment: "Use for content related to science and technology")
+      String(
+         localized: "TK.Label.scienceAndTechnology",
+         defaultValue: "Science & Technology",
+         bundle: .module,
+         comment: "Use for content related to science and technology"
+      )
    }
 
    /// "Source" - Use for the origin or provider of information
@@ -149,7 +199,12 @@ extension TK.Label {
 
    /// "Trending Stories" - Use for displaying the most popular stories at the moment
    public static var trendingStories: String {
-      String(localized: "TK.Label.trendingStories", defaultValue: "Trending Stories", bundle: .module, comment: "Use for displaying the most popular stories at the moment")
+      String(
+         localized: "TK.Label.trendingStories",
+         defaultValue: "Trending Stories",
+         bundle: .module,
+         comment: "Use for displaying the most popular stories at the moment"
+      )
    }
 
    /// "Topics" - Use for categorizing content by subject or theme
@@ -159,6 +214,11 @@ extension TK.Label {
 
    /// "World News" - Use for global news or content with a worldwide scope
    public static var worldNews: String {
-      String(localized: "TK.Label.worldNews", defaultValue: "World News", bundle: .module, comment: "Use for global news or content with a worldwide scope")
+      String(
+         localized: "TK.Label.worldNews",
+         defaultValue: "World News",
+         bundle: .module,
+         comment: "Use for global news or content with a worldwide scope"
+      )
    }
 }

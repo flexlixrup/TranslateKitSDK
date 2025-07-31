@@ -1,7 +1,7 @@
-import SwiftSyntaxMacros
-import SwiftSyntax
-import SwiftDiagnostics
 import Foundation
+import SwiftDiagnostics
+import SwiftSyntax
+import SwiftSyntaxMacros
 
 public struct TranslationKey: ExpressionMacro {
    /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes", bundle: .module, comment: "Save button in settings view")`
@@ -128,7 +128,7 @@ public struct TranslationKey: ExpressionMacro {
             }
 
             // Append these to the result
-            result.append(contentsOf: typeNames.reversed()) // Ensure correct order
+            result.append(contentsOf: typeNames.reversed())  // Ensure correct order
          }
 
          // Handle function declarations
@@ -136,7 +136,7 @@ public struct TranslationKey: ExpressionMacro {
             result.append(funcDecl.name.text.toUpperCamelCase())
          }
          // Handle initializer declarations
-         else if let _ = syntaxNode.as(InitializerDeclSyntax.self) {
+         else if syntaxNode.as(InitializerDeclSyntax.self) != nil {
             result.append("init")
          }
          // Handle property declarations (stored or computed)
@@ -156,13 +156,14 @@ public struct TranslationKey: ExpressionMacro {
          }
       }
 
-      let key = if defaultValue.hasSuffix("…") {
-         String(defaultValue.dropLast()).toLowerCamelCase() + "Dots"
-      } else if defaultValue.count > 3 && defaultValue.uppercased() == defaultValue {
-         defaultValue  // Keep it uppercase as is
-      } else {
-         defaultValue.toLowerCamelCase()
-      }
+      let key =
+         if defaultValue.hasSuffix("…") {
+            String(defaultValue.dropLast()).toLowerCamelCase() + "Dots"
+         } else if defaultValue.count > 3 && defaultValue.uppercased() == defaultValue {
+            defaultValue  // Keep it uppercase as is
+         } else {
+            defaultValue.toLowerCamelCase()
+         }
       result.append(key)
 
       return result.joined(separator: ".")

@@ -9,7 +9,12 @@ extension TK.Action {
 
    /// "Book Now" - Use when making a reservation or booking an activity
    public static var bookNow: String {
-      String(localized: "TK.Action.bookNow", defaultValue: "Book Now", bundle: .module, comment: "Use when making a reservation or booking an activity")
+      String(
+         localized: "TK.Action.bookNow",
+         defaultValue: "Book Now",
+         bundle: .module,
+         comment: "Use when making a reservation or booking an activity"
+      )
    }
 
    /// "Complete" - Use when finishing a task or process
@@ -19,7 +24,12 @@ extension TK.Action {
 
    /// "Connect" - Use when establishing a connection or linking accounts
    public static var connect: String {
-      String(localized: "TK.Action.connect", defaultValue: "Connect", bundle: .module, comment: "Use when establishing a connection or linking accounts")
+      String(
+         localized: "TK.Action.connect",
+         defaultValue: "Connect",
+         bundle: .module,
+         comment: "Use when establishing a connection or linking accounts"
+      )
    }
 
    /// "Create Task" - Use when creating a new task or to-do item
@@ -39,7 +49,12 @@ extension TK.Action {
 
    /// "Get Started" - Use when initiating a process or beginning an activity
    public static var getStarted: String {
-      String(localized: "TK.Action.getStarted", defaultValue: "Get Started", bundle: .module, comment: "Use when initiating a process or beginning an activity")
+      String(
+         localized: "TK.Action.getStarted",
+         defaultValue: "Get Started",
+         bundle: .module,
+         comment: "Use when initiating a process or beginning an activity"
+      )
    }
 
    /// "Like" - Use when liking or approving content or a post
@@ -54,12 +69,22 @@ extension TK.Action {
 
    /// "Mark as Complete" - Use when marking a task as finished or done
    public static var markAsComplete: String {
-      String(localized: "TK.Action.markAsComplete", defaultValue: "Mark as Complete", bundle: .module, comment: "Use when marking a task as finished or done")
+      String(
+         localized: "TK.Action.markAsComplete",
+         defaultValue: "Mark as Complete",
+         bundle: .module,
+         comment: "Use when marking a task as finished or done"
+      )
    }
 
    /// "Mark as Done" - Use when marking a task or action as completed
    public static var markAsDone: String {
-      String(localized: "TK.Action.markAsDone", defaultValue: "Mark as Done", bundle: .module, comment: "Use when marking a task or action as completed")
+      String(
+         localized: "TK.Action.markAsDone",
+         defaultValue: "Mark as Done",
+         bundle: .module,
+         comment: "Use when marking a task or action as completed"
+      )
    }
 
    /// "Meditate" - Use when starting a meditation session
@@ -74,7 +99,12 @@ extension TK.Action {
 
    /// "Practice" - Use when engaging in practice or rehearsing a skill
    public static var practice: String {
-      String(localized: "TK.Action.practice", defaultValue: "Practice", bundle: .module, comment: "Use when engaging in practice or rehearsing a skill")
+      String(
+         localized: "TK.Action.practice",
+         defaultValue: "Practice",
+         bundle: .module,
+         comment: "Use when engaging in practice or rehearsing a skill"
+      )
    }
 
    /// "Rate" - Use when providing a rating or feedback for something
@@ -84,7 +114,12 @@ extension TK.Action {
 
    /// "Record" - Use when recording an event, session, or piece of data
    public static var record: String {
-      String(localized: "TK.Action.record", defaultValue: "Record", bundle: .module, comment: "Use when recording an event, session, or piece of data")
+      String(
+         localized: "TK.Action.record",
+         defaultValue: "Record",
+         bundle: .module,
+         comment: "Use when recording an event, session, or piece of data"
+      )
    }
 
    /// "Remind" - Use when setting up a reminder for an event or task
@@ -94,7 +129,12 @@ extension TK.Action {
 
    /// "Remind Me" - Use when requesting a reminder for a specific task or event
    public static var remindMe: String {
-      String(localized: "TK.Action.remindMe", defaultValue: "Remind Me", bundle: .module, comment: "Use when requesting a reminder for a specific task or event")
+      String(
+         localized: "TK.Action.remindMe",
+         defaultValue: "Remind Me",
+         bundle: .module,
+         comment: "Use when requesting a reminder for a specific task or event"
+      )
    }
 
    /// "Schedule" - Use when scheduling an event, task, or meeting
@@ -109,17 +149,32 @@ extension TK.Action {
 
    /// "Set Reminder" - Use when setting up a reminder for a future task or event
    public static var setReminder: String {
-      String(localized: "TK.Action.setReminder", defaultValue: "Set Reminder", bundle: .module, comment: "Use when setting up a reminder for a future task or event")
+      String(
+         localized: "TK.Action.setReminder",
+         defaultValue: "Set Reminder",
+         bundle: .module,
+         comment: "Use when setting up a reminder for a future task or event"
+      )
    }
 
    /// "Skip Today" - Use when skipping a task or activity for the day
    public static var skipToday: String {
-      String(localized: "TK.Action.skipToday", defaultValue: "Skip Today", bundle: .module, comment: "Use when skipping a task or activity for the day")
+      String(
+         localized: "TK.Action.skipToday",
+         defaultValue: "Skip Today",
+         bundle: .module,
+         comment: "Use when skipping a task or activity for the day"
+      )
    }
 
    /// "Start Exercise" - Use when beginning an exercise session or workout
    public static var startExercise: String {
-      String(localized: "TK.Action.startExercise", defaultValue: "Start Exercise", bundle: .module, comment: "Use when beginning an exercise session or workout")
+      String(
+         localized: "TK.Action.startExercise",
+         defaultValue: "Start Exercise",
+         bundle: .module,
+         comment: "Use when beginning an exercise session or workout"
+      )
    }
 
    /// "Start Session" - Use when starting a session or activity
@@ -129,12 +184,22 @@ extension TK.Action {
 
    /// "Start Timer" - Use when initiating a timer for a task or session
    public static var startTimer: String {
-      String(localized: "TK.Action.startTimer", defaultValue: "Start Timer", bundle: .module, comment: "Use when initiating a timer for a task or session")
+      String(
+         localized: "TK.Action.startTimer",
+         defaultValue: "Start Timer",
+         bundle: .module,
+         comment: "Use when initiating a timer for a task or session"
+      )
    }
 
    /// "Start Workout" - Use when starting a workout or fitness session
    public static var startWorkout: String {
-      String(localized: "TK.Action.startWorkout", defaultValue: "Start Workout", bundle: .module, comment: "Use when starting a workout or fitness session")
+      String(
+         localized: "TK.Action.startWorkout",
+         defaultValue: "Start Workout",
+         bundle: .module,
+         comment: "Use when starting a workout or fitness session"
+      )
    }
 
    /// "Stop" - Use when stopping a task, activity, or process

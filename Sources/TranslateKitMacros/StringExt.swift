@@ -119,4 +119,3 @@ extension String {
       return words.joined() + (isTruncated ? "…" : "")
    }
 }
-

@@ -1,7 +1,8 @@
-import Testing
 import MacroTesting
 import SwiftSyntaxMacrosTestSupport
+import Testing
 import TranslateKitMacros
+
 @testable import TranslateKit
 
 @Test
@@ -9,7 +10,7 @@ func tkmSimpleViewButtonExpansion() {
    assertMacro(["tkm": TranslationKeyModule.self]) {
       """
       import SwiftUI
-      
+
       extension MyNamespace {
          struct MyView: View {
             var body: some View {
@@ -23,7 +24,7 @@ func tkmSimpleViewButtonExpansion() {
    } expansion: {
       """
       import SwiftUI
-      
+
       extension MyNamespace {
          struct MyView: View {
             var body: some View {
@@ -44,7 +45,7 @@ func tkmSimpleEnumPropertyExpansion() {
       enum MyModel: String, CaseIterable, Codable {
          case movie
          case series
-      
+
          var displayName: String {
             switch self {
             case .movie: #tkm("Movie")
@@ -58,7 +59,7 @@ func tkmSimpleEnumPropertyExpansion() {
       enum MyModel: String, CaseIterable, Codable {
          case movie
          case series
-      
+
          var displayName: String {
             switch self {
             case .movie: String(localized: "MyModel.DisplayName.movie", defaultValue: "Movie", bundle: Bundle.module)

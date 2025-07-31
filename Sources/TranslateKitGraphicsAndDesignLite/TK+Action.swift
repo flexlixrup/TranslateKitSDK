@@ -84,7 +84,12 @@ extension TK.Action {
 
    /// "Scale" - Use for adjusting the size of an element while maintaining proportions
    public static var scale: String {
-      String(localized: "TK.Action.scale", defaultValue: "Scale", bundle: .module, comment: "Use for adjusting the size of an element while maintaining proportions")
+      String(
+         localized: "TK.Action.scale",
+         defaultValue: "Scale",
+         bundle: .module,
+         comment: "Use for adjusting the size of an element while maintaining proportions"
+      )
    }
 
    /// "Set Color" - Use for setting the color of an element
@@ -104,7 +109,12 @@ extension TK.Action {
 
    /// "Transform" - Use for transforming an element's position or shape
    public static var transform: String {
-      String(localized: "TK.Action.transform", defaultValue: "Transform", bundle: .module, comment: "Use for transforming an element's position or shape")
+      String(
+         localized: "TK.Action.transform",
+         defaultValue: "Transform",
+         bundle: .module,
+         comment: "Use for transforming an element's position or shape"
+      )
    }
 
    /// "Trim" - Use for trimming or cropping elements

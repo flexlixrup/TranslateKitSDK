@@ -24,17 +24,32 @@ extension TK.Action {
 
    /// "Dismiss Article" - Use for dismissing or closing an article
    public static var dismissArticle: String {
-      String(localized: "TK.Action.dismissArticle", defaultValue: "Dismiss Article", bundle: .module, comment: "Use for dismissing or closing an article")
+      String(
+         localized: "TK.Action.dismissArticle",
+         defaultValue: "Dismiss Article",
+         bundle: .module,
+         comment: "Use for dismissing or closing an article"
+      )
    }
 
    /// "Download for Offline" - Use for downloading the article for offline reading
    public static var downloadForOffline: String {
-      String(localized: "TK.Action.downloadForOffline", defaultValue: "Download for Offline", bundle: .module, comment: "Use for downloading the article for offline reading")
+      String(
+         localized: "TK.Action.downloadForOffline",
+         defaultValue: "Download for Offline",
+         bundle: .module,
+         comment: "Use for downloading the article for offline reading"
+      )
    }
 
    /// "Fact Check" - Use for fact-checking the content of an article
    public static var factCheck: String {
-      String(localized: "TK.Action.factCheck", defaultValue: "Fact Check", bundle: .module, comment: "Use for fact-checking the content of an article")
+      String(
+         localized: "TK.Action.factCheck",
+         defaultValue: "Fact Check",
+         bundle: .module,
+         comment: "Use for fact-checking the content of an article"
+      )
    }
 
    /// "Flag" - Use for flagging inappropriate or incorrect content
@@ -54,7 +69,12 @@ extension TK.Action {
 
    /// "Listen to Article" - Use for listening to an audio version of the article
    public static var listenToArticle: String {
-      String(localized: "TK.Action.listenToArticle", defaultValue: "Listen to Article", bundle: .module, comment: "Use for listening to an audio version of the article")
+      String(
+         localized: "TK.Action.listenToArticle",
+         defaultValue: "Listen to Article",
+         bundle: .module,
+         comment: "Use for listening to an audio version of the article"
+      )
    }
 
    /// "Post" - Use for posting a comment or content
@@ -74,7 +94,12 @@ extension TK.Action {
 
    /// "Read More" - Use for expanding an article or content to read more
    public static var readMore: String {
-      String(localized: "TK.Action.readMore", defaultValue: "Read More", bundle: .module, comment: "Use for expanding an article or content to read more")
+      String(
+         localized: "TK.Action.readMore",
+         defaultValue: "Read More",
+         bundle: .module,
+         comment: "Use for expanding an article or content to read more"
+      )
    }
 
    /// "Report" - Use for reporting an issue or inappropriate content
@@ -84,7 +109,12 @@ extension TK.Action {
 
    /// "Share Story" - Use for sharing the article or story with others
    public static var shareStory: String {
-      String(localized: "TK.Action.shareStory", defaultValue: "Share Story", bundle: .module, comment: "Use for sharing the article or story with others")
+      String(
+         localized: "TK.Action.shareStory",
+         defaultValue: "Share Story",
+         bundle: .module,
+         comment: "Use for sharing the article or story with others"
+      )
    }
 
    /// "Subscribe" - Use for subscribing to a newsletter or updates
@@ -99,7 +129,12 @@ extension TK.Action {
 
    /// "Unblock" - Use for unblocking a previously blocked user or source
    public static var unblock: String {
-      String(localized: "TK.Action.unblock", defaultValue: "Unblock", bundle: .module, comment: "Use for unblocking a previously blocked user or source")
+      String(
+         localized: "TK.Action.unblock",
+         defaultValue: "Unblock",
+         bundle: .module,
+         comment: "Use for unblocking a previously blocked user or source"
+      )
    }
 
    /// "Unfollow" - Use for unfollowing a source or author
@@ -109,11 +144,21 @@ extension TK.Action {
 
    /// "Unsubscribe" - Use for unsubscribing from a newsletter or updates
    public static var unsubscribe: String {
-      String(localized: "TK.Action.unsubscribe", defaultValue: "Unsubscribe", bundle: .module, comment: "Use for unsubscribing from a newsletter or updates")
+      String(
+         localized: "TK.Action.unsubscribe",
+         defaultValue: "Unsubscribe",
+         bundle: .module,
+         comment: "Use for unsubscribing from a newsletter or updates"
+      )
    }
 
    /// "View Breaking News" - Use for viewing the latest breaking news
    public static var viewBreakingNews: String {
-      String(localized: "TK.Action.viewBreakingNews", defaultValue: "View Breaking News", bundle: .module, comment: "Use for viewing the latest breaking news")
+      String(
+         localized: "TK.Action.viewBreakingNews",
+         defaultValue: "View Breaking News",
+         bundle: .module,
+         comment: "Use for viewing the latest breaking news"
+      )
    }
 }

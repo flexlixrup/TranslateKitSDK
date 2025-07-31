@@ -9,17 +9,32 @@ extension TK.Action {
 
    /// "Recalculate" - Use for recalculating the route based on new inputs
    public static var recalculate: String {
-      String(localized: "TK.Action.recalculate", defaultValue: "Recalculate", bundle: .module, comment: "Use for recalculating the route based on new inputs")
+      String(
+         localized: "TK.Action.recalculate",
+         defaultValue: "Recalculate",
+         bundle: .module,
+         comment: "Use for recalculating the route based on new inputs"
+      )
    }
 
    /// "Start Navigation" - Use for beginning the navigation process
    public static var startNavigation: String {
-      String(localized: "TK.Action.startNavigation", defaultValue: "Start Navigation", bundle: .module, comment: "Use for beginning the navigation process")
+      String(
+         localized: "TK.Action.startNavigation",
+         defaultValue: "Start Navigation",
+         bundle: .module,
+         comment: "Use for beginning the navigation process"
+      )
    }
 
    /// "Add Waypoint" - Use for adding a waypoint to the navigation route
    public static var addWaypoint: String {
-      String(localized: "TK.Action.addWaypoint", defaultValue: "Add Waypoint", bundle: .module, comment: "Use for adding a waypoint to the navigation route")
+      String(
+         localized: "TK.Action.addWaypoint",
+         defaultValue: "Add Waypoint",
+         bundle: .module,
+         comment: "Use for adding a waypoint to the navigation route"
+      )
    }
 
    /// "End Navigation" - Use for ending the navigation session
@@ -29,7 +44,12 @@ extension TK.Action {
 
    /// "Add Stop" - Use for adding a stop to the current navigation route
    public static var addStop: String {
-      String(localized: "TK.Action.addStop", defaultValue: "Add Stop", bundle: .module, comment: "Use for adding a stop to the current navigation route")
+      String(
+         localized: "TK.Action.addStop",
+         defaultValue: "Add Stop",
+         bundle: .module,
+         comment: "Use for adding a stop to the current navigation route"
+      )
    }
 
    /// "Reroute" - Use for rerouting the navigation path
@@ -54,7 +74,12 @@ extension TK.Action {
 
    /// "Mark Location" - Use for marking a specific location on the map
    public static var markLocation: String {
-      String(localized: "TK.Action.markLocation", defaultValue: "Mark Location", bundle: .module, comment: "Use for marking a specific location on the map")
+      String(
+         localized: "TK.Action.markLocation",
+         defaultValue: "Mark Location",
+         bundle: .module,
+         comment: "Use for marking a specific location on the map"
+      )
    }
 
    /// "Record Route" - Use for recording the current route
@@ -84,7 +109,12 @@ extension TK.Action {
 
    /// "Center Map" - Use for centering the map on the current location
    public static var centerMap: String {
-      String(localized: "TK.Action.centerMap", defaultValue: "Center Map", bundle: .module, comment: "Use for centering the map on the current location")
+      String(
+         localized: "TK.Action.centerMap",
+         defaultValue: "Center Map",
+         bundle: .module,
+         comment: "Use for centering the map on the current location"
+      )
    }
 
    /// "Switch View" - Use for switching the map view type
@@ -99,7 +129,12 @@ extension TK.Action {
 
    /// "Get Directions" - Use for getting directions to a destination
    public static var getDirections: String {
-      String(localized: "TK.Action.getDirections", defaultValue: "Get Directions", bundle: .module, comment: "Use for getting directions to a destination")
+      String(
+         localized: "TK.Action.getDirections",
+         defaultValue: "Get Directions",
+         bundle: .module,
+         comment: "Use for getting directions to a destination"
+      )
    }
 
    /// "Find Nearby" - Use for finding nearby locations or services
@@ -109,37 +144,72 @@ extension TK.Action {
 
    /// "Set Destination" - Use for setting a destination on the map
    public static var setDestination: String {
-      String(localized: "TK.Action.setDestination", defaultValue: "Set Destination", bundle: .module, comment: "Use for setting a destination on the map")
+      String(
+         localized: "TK.Action.setDestination",
+         defaultValue: "Set Destination",
+         bundle: .module,
+         comment: "Use for setting a destination on the map"
+      )
    }
 
    /// "Track Progress" - Use for tracking progress along the route
    public static var trackProgress: String {
-      String(localized: "TK.Action.trackProgress", defaultValue: "Track Progress", bundle: .module, comment: "Use for tracking progress along the route")
+      String(
+         localized: "TK.Action.trackProgress",
+         defaultValue: "Track Progress",
+         bundle: .module,
+         comment: "Use for tracking progress along the route"
+      )
    }
 
    /// "Check Traffic Status" - Use for checking the current traffic status
    public static var checkTrafficStatus: String {
-      String(localized: "TK.Action.checkTrafficStatus", defaultValue: "Check Traffic Status", bundle: .module, comment: "Use for checking the current traffic status")
+      String(
+         localized: "TK.Action.checkTrafficStatus",
+         defaultValue: "Check Traffic Status",
+         bundle: .module,
+         comment: "Use for checking the current traffic status"
+      )
    }
 
    /// "Show Notifications" - Use for showing notifications related to navigation
    public static var showNotifications: String {
-      String(localized: "TK.Action.showNotifications", defaultValue: "Show Notifications", bundle: .module, comment: "Use for showing notifications related to navigation")
+      String(
+         localized: "TK.Action.showNotifications",
+         defaultValue: "Show Notifications",
+         bundle: .module,
+         comment: "Use for showing notifications related to navigation"
+      )
    }
 
    /// "Enable Weather Alerts" - Use for enabling weather alerts during navigation
    public static var enableWeatherAlerts: String {
-      String(localized: "TK.Action.enableWeatherAlerts", defaultValue: "Enable Weather Alerts", bundle: .module, comment: "Use for enabling weather alerts during navigation")
+      String(
+         localized: "TK.Action.enableWeatherAlerts",
+         defaultValue: "Enable Weather Alerts",
+         bundle: .module,
+         comment: "Use for enabling weather alerts during navigation"
+      )
    }
 
    /// "Report Issue" - Use for reporting an issue during navigation
    public static var reportIssue: String {
-      String(localized: "TK.Action.reportIssue", defaultValue: "Report Issue", bundle: .module, comment: "Use for reporting an issue during navigation")
+      String(
+         localized: "TK.Action.reportIssue",
+         defaultValue: "Report Issue",
+         bundle: .module,
+         comment: "Use for reporting an issue during navigation"
+      )
    }
 
    /// "Show Terrain" - Use for displaying terrain information on the map
    public static var showTerrain: String {
-      String(localized: "TK.Action.showTerrain", defaultValue: "Show Terrain", bundle: .module, comment: "Use for displaying terrain information on the map")
+      String(
+         localized: "TK.Action.showTerrain",
+         defaultValue: "Show Terrain",
+         bundle: .module,
+         comment: "Use for displaying terrain information on the map"
+      )
    }
 
    /// "Plan a Trip" - Use for planning a trip with multiple stops
@@ -149,12 +219,22 @@ extension TK.Action {
 
    /// "View Weekly Forecast" - Use for viewing the weather forecast for the week
    public static var viewWeeklyForecast: String {
-      String(localized: "TK.Action.viewWeeklyForecast", defaultValue: "View Weekly Forecast", bundle: .module, comment: "Use for viewing the weather forecast for the week")
+      String(
+         localized: "TK.Action.viewWeeklyForecast",
+         defaultValue: "View Weekly Forecast",
+         bundle: .module,
+         comment: "Use for viewing the weather forecast for the week"
+      )
    }
 
    /// "View Hourly Forecast" - Use for viewing the weather forecast by hour
    public static var viewHourlyForecast: String {
-      String(localized: "TK.Action.viewHourlyForecast", defaultValue: "View Hourly Forecast", bundle: .module, comment: "Use for viewing the weather forecast by hour")
+      String(
+         localized: "TK.Action.viewHourlyForecast",
+         defaultValue: "View Hourly Forecast",
+         bundle: .module,
+         comment: "Use for viewing the weather forecast by hour"
+      )
    }
 
    /// "Check Forecast" - Use for checking the weather forecast
@@ -164,11 +244,21 @@ extension TK.Action {
 
    /// "Report Weather Condition" - Use for reporting current weather conditions
    public static var reportWeatherCondition: String {
-      String(localized: "TK.Action.reportWeatherCondition", defaultValue: "Report Weather Condition", bundle: .module, comment: "Use for reporting current weather conditions")
+      String(
+         localized: "TK.Action.reportWeatherCondition",
+         defaultValue: "Report Weather Condition",
+         bundle: .module,
+         comment: "Use for reporting current weather conditions"
+      )
    }
 
    /// "Set Temperature Unit" - Use for setting the temperature unit (Celsius or Fahrenheit)
    public static var setTemperatureUnit: String {
-      String(localized: "TK.Action.setTemperatureUnit", defaultValue: "Set Temperature Unit", bundle: .module, comment: "Use for setting the temperature unit (Celsius or Fahrenheit)")
+      String(
+         localized: "TK.Action.setTemperatureUnit",
+         defaultValue: "Set Temperature Unit",
+         bundle: .module,
+         comment: "Use for setting the temperature unit (Celsius or Fahrenheit)"
+      )
    }
 }

@@ -9,7 +9,12 @@ extension TK.Action {
 
    /// "Add to Queue" - Use when adding content to the playback queue
    public static var addToQueue: String {
-      String(localized: "TK.Action.addToQueue", defaultValue: "Add to Queue", bundle: .module, comment: "Use when adding content to the playback queue")
+      String(
+         localized: "TK.Action.addToQueue",
+         defaultValue: "Add to Queue",
+         bundle: .module,
+         comment: "Use when adding content to the playback queue"
+      )
    }
 
    /// "Cast" - Use when casting content to a device
@@ -24,7 +29,12 @@ extension TK.Action {
 
    /// "Download for Offline" - Use when allowing download of content for offline viewing
    public static var downloadForOffline: String {
-      String(localized: "TK.Action.downloadForOffline", defaultValue: "Download for Offline", bundle: .module, comment: "Use when allowing download of content for offline viewing")
+      String(
+         localized: "TK.Action.downloadForOffline",
+         defaultValue: "Download for Offline",
+         bundle: .module,
+         comment: "Use when allowing download of content for offline viewing"
+      )
    }
 
    /// "Fast Forward" - Use for fast-forwarding through content
@@ -89,7 +99,12 @@ extension TK.Action {
 
    /// "Remove from Queue" - Use when removing content from the queue
    public static var removeFromQueue: String {
-      String(localized: "TK.Action.removeFromQueue", defaultValue: "Remove from Queue", bundle: .module, comment: "Use when removing content from the queue")
+      String(
+         localized: "TK.Action.removeFromQueue",
+         defaultValue: "Remove from Queue",
+         bundle: .module,
+         comment: "Use when removing content from the queue"
+      )
    }
 
    /// "Rewind" - Use for rewinding content playback
@@ -99,7 +114,12 @@ extension TK.Action {
 
    /// "Schedule" - Use for scheduling content for later viewing or action
    public static var schedule: String {
-      String(localized: "TK.Action.schedule", defaultValue: "Schedule", bundle: .module, comment: "Use for scheduling content for later viewing or action")
+      String(
+         localized: "TK.Action.schedule",
+         defaultValue: "Schedule",
+         bundle: .module,
+         comment: "Use for scheduling content for later viewing or action"
+      )
    }
 
    /// "Share Story" - Use when sharing a story with others
@@ -114,12 +134,22 @@ extension TK.Action {
 
    /// "Skip Intro" - Use for skipping introductory content or scenes
    public static var skipIntro: String {
-      String(localized: "TK.Action.skipIntro", defaultValue: "Skip Intro", bundle: .module, comment: "Use for skipping introductory content or scenes")
+      String(
+         localized: "TK.Action.skipIntro",
+         defaultValue: "Skip Intro",
+         bundle: .module,
+         comment: "Use for skipping introductory content or scenes"
+      )
    }
 
    /// "Subscribe" - Use when subscribing to a content feed or creator
    public static var subscribe: String {
-      String(localized: "TK.Action.subscribe", defaultValue: "Subscribe", bundle: .module, comment: "Use when subscribing to a content feed or creator")
+      String(
+         localized: "TK.Action.subscribe",
+         defaultValue: "Subscribe",
+         bundle: .module,
+         comment: "Use when subscribing to a content feed or creator"
+      )
    }
 
    /// "Trim Video" - Use for trimming video content

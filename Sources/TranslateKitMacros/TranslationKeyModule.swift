@@ -1,7 +1,7 @@
-import SwiftSyntaxMacros
-import SwiftSyntax
-import SwiftDiagnostics
 import Foundation
+import SwiftDiagnostics
+import SwiftSyntax
+import SwiftSyntaxMacros
 
 public struct TranslationKeyModule: ExpressionMacro {
    /// Constructing code like: `String(localized: "MyView.Body.Button.saveChanges", defaultValue: "Save Changes", bundle: .module, comment: "Save button in settings view")`

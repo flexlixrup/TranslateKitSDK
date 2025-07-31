@@ -64,7 +64,12 @@ extension TK.Label {
 
    /// "Characters" - Use for displaying the available characters in the game
    public static var characters: String {
-      String(localized: "TK.Label.characters", defaultValue: "Characters", bundle: .module, comment: "Use for displaying the available characters in the game")
+      String(
+         localized: "TK.Label.characters",
+         defaultValue: "Characters",
+         bundle: .module,
+         comment: "Use for displaying the available characters in the game"
+      )
    }
 
    /// "Missions" - Use for displaying available or ongoing missions
@@ -79,7 +84,12 @@ extension TK.Label {
 
    /// "Achievements" - Use for displaying the player's achievements
    public static var achievements: String {
-      String(localized: "TK.Label.achievements", defaultValue: "Achievements", bundle: .module, comment: "Use for displaying the player's achievements")
+      String(
+         localized: "TK.Label.achievements",
+         defaultValue: "Achievements",
+         bundle: .module,
+         comment: "Use for displaying the player's achievements"
+      )
    }
 
    /// "Leaderboard" - Use for displaying the leaderboard rankings
@@ -94,7 +104,12 @@ extension TK.Label {
 
    /// "Players Online" - Use for displaying the number of players online
    public static var playersOnline: String {
-      String(localized: "TK.Label.playersOnline", defaultValue: "Players Online", bundle: .module, comment: "Use for displaying the number of players online")
+      String(
+         localized: "TK.Label.playersOnline",
+         defaultValue: "Players Online",
+         bundle: .module,
+         comment: "Use for displaying the number of players online"
+      )
    }
 
    /// "Difficulty" - Use for displaying the game's difficulty level
@@ -114,12 +129,22 @@ extension TK.Label {
 
    /// "Season Pass" - Use for displaying season pass options or benefits
    public static var seasonPass: String {
-      String(localized: "TK.Label.seasonPass", defaultValue: "Season Pass", bundle: .module, comment: "Use for displaying season pass options or benefits")
+      String(
+         localized: "TK.Label.seasonPass",
+         defaultValue: "Season Pass",
+         bundle: .module,
+         comment: "Use for displaying season pass options or benefits"
+      )
    }
 
    /// "Battle Pass" - Use for displaying battle pass options or benefits
    public static var battlePass: String {
-      String(localized: "TK.Label.battlePass", defaultValue: "Battle Pass", bundle: .module, comment: "Use for displaying battle pass options or benefits")
+      String(
+         localized: "TK.Label.battlePass",
+         defaultValue: "Battle Pass",
+         bundle: .module,
+         comment: "Use for displaying battle pass options or benefits"
+      )
    }
 
    /// "XP" - Use for displaying experience points
@@ -129,12 +154,22 @@ extension TK.Label {
 
    /// "Character Stats" - Use for displaying character statistics
    public static var characterStats: String {
-      String(localized: "TK.Label.characterStats", defaultValue: "Character Stats", bundle: .module, comment: "Use for displaying character statistics")
+      String(
+         localized: "TK.Label.characterStats",
+         defaultValue: "Character Stats",
+         bundle: .module,
+         comment: "Use for displaying character statistics"
+      )
    }
 
    /// "Battle Stats" - Use for displaying battle performance statistics
    public static var battleStats: String {
-      String(localized: "TK.Label.battleStats", defaultValue: "Battle Stats", bundle: .module, comment: "Use for displaying battle performance statistics")
+      String(
+         localized: "TK.Label.battleStats",
+         defaultValue: "Battle Stats",
+         bundle: .module,
+         comment: "Use for displaying battle performance statistics"
+      )
    }
 
    /// "Win Rate" - Use for displaying the player's win rate

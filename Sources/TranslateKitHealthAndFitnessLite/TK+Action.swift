@@ -4,12 +4,22 @@ import Foundation
 extension TK.Action {
    /// "Add Measurement" - Use when adding a new measurement (e.g., weight, blood pressure)
    public static var addMeasurement: String {
-      String(localized: "TK.Action.addMeasurement", defaultValue: "Add Measurement", bundle: .module, comment: "Use when adding a new measurement (e.g., weight, blood pressure)")
+      String(
+         localized: "TK.Action.addMeasurement",
+         defaultValue: "Add Measurement",
+         bundle: .module,
+         comment: "Use when adding a new measurement (e.g., weight, blood pressure)"
+      )
    }
 
    /// "Add Photo" - Use when adding a photo (e.g., fitness progress picture)
    public static var addPhoto: String {
-      String(localized: "TK.Action.addPhoto", defaultValue: "Add Photo", bundle: .module, comment: "Use when adding a photo (e.g., fitness progress picture)")
+      String(
+         localized: "TK.Action.addPhoto",
+         defaultValue: "Add Photo",
+         bundle: .module,
+         comment: "Use when adding a photo (e.g., fitness progress picture)"
+      )
    }
 
    /// "Add Workout" - Use when adding a new workout session
@@ -34,7 +44,12 @@ extension TK.Action {
 
    /// "Create Task" - Use when creating a new health or fitness task
    public static var createTask: String {
-      String(localized: "TK.Action.createTask", defaultValue: "Create Task", bundle: .module, comment: "Use when creating a new health or fitness task")
+      String(
+         localized: "TK.Action.createTask",
+         defaultValue: "Create Task",
+         bundle: .module,
+         comment: "Use when creating a new health or fitness task"
+      )
    }
 
    /// "End Exercise" - Use when ending a specific exercise
@@ -54,7 +69,12 @@ extension TK.Action {
 
    /// "Generate Report" - Use when generating a fitness or health progress report
    public static var generateReport: String {
-      String(localized: "TK.Action.generateReport", defaultValue: "Generate Report", bundle: .module, comment: "Use when generating a fitness or health progress report")
+      String(
+         localized: "TK.Action.generateReport",
+         defaultValue: "Generate Report",
+         bundle: .module,
+         comment: "Use when generating a fitness or health progress report"
+      )
    }
 
    /// "Join Challenge" - Use when joining a fitness challenge
@@ -74,12 +94,22 @@ extension TK.Action {
 
    /// "Mark Complete" - Use when marking a workout or task as completed
    public static var markComplete: String {
-      String(localized: "TK.Action.markComplete", defaultValue: "Mark Complete", bundle: .module, comment: "Use when marking a workout or task as completed")
+      String(
+         localized: "TK.Action.markComplete",
+         defaultValue: "Mark Complete",
+         bundle: .module,
+         comment: "Use when marking a workout or task as completed"
+      )
    }
 
    /// "Measure" - Use when measuring health data (e.g., heart rate, steps)
    public static var measure: String {
-      String(localized: "TK.Action.measure", defaultValue: "Measure", bundle: .module, comment: "Use when measuring health data (e.g., heart rate, steps)")
+      String(
+         localized: "TK.Action.measure",
+         defaultValue: "Measure",
+         bundle: .module,
+         comment: "Use when measuring health data (e.g., heart rate, steps)"
+      )
    }
 
    /// "Meditate" - Use when starting a meditation session
@@ -104,22 +134,42 @@ extension TK.Action {
 
    /// "Repeat Exercise" - Use when repeating an exercise in a workout
    public static var repeatExercise: String {
-      String(localized: "TK.Action.repeatExercise", defaultValue: "Repeat Exercise", bundle: .module, comment: "Use when repeating an exercise in a workout")
+      String(
+         localized: "TK.Action.repeatExercise",
+         defaultValue: "Repeat Exercise",
+         bundle: .module,
+         comment: "Use when repeating an exercise in a workout"
+      )
    }
 
    /// "Report Issue" - Use when reporting an issue with health or fitness tracking
    public static var reportIssue: String {
-      String(localized: "TK.Action.reportIssue", defaultValue: "Report Issue", bundle: .module, comment: "Use when reporting an issue with health or fitness tracking")
+      String(
+         localized: "TK.Action.reportIssue",
+         defaultValue: "Report Issue",
+         bundle: .module,
+         comment: "Use when reporting an issue with health or fitness tracking"
+      )
    }
 
    /// "Request Access" - Use when requesting access to health data or features
    public static var requestAccess: String {
-      String(localized: "TK.Action.requestAccess", defaultValue: "Request Access", bundle: .module, comment: "Use when requesting access to health data or features")
+      String(
+         localized: "TK.Action.requestAccess",
+         defaultValue: "Request Access",
+         bundle: .module,
+         comment: "Use when requesting access to health data or features"
+      )
    }
 
    /// "Reset Progress" - Use when resetting health or fitness progress
    public static var resetProgress: String {
-      String(localized: "TK.Action.resetProgress", defaultValue: "Reset Progress", bundle: .module, comment: "Use when resetting health or fitness progress")
+      String(
+         localized: "TK.Action.resetProgress",
+         defaultValue: "Reset Progress",
+         bundle: .module,
+         comment: "Use when resetting health or fitness progress"
+      )
    }
 
    /// "Resume Workout" - Use when resuming a paused workout
@@ -129,7 +179,12 @@ extension TK.Action {
 
    /// "Review Progress" - Use when reviewing fitness or health progress
    public static var reviewProgress: String {
-      String(localized: "TK.Action.reviewProgress", defaultValue: "Review Progress", bundle: .module, comment: "Use when reviewing fitness or health progress")
+      String(
+         localized: "TK.Action.reviewProgress",
+         defaultValue: "Review Progress",
+         bundle: .module,
+         comment: "Use when reviewing fitness or health progress"
+      )
    }
 
    /// "Save Video" - Use when saving a workout or fitness video
@@ -144,12 +199,22 @@ extension TK.Action {
 
    /// "Set Reminder" - Use when setting a health or fitness reminder
    public static var setReminder: String {
-      String(localized: "TK.Action.setReminder", defaultValue: "Set Reminder", bundle: .module, comment: "Use when setting a health or fitness reminder")
+      String(
+         localized: "TK.Action.setReminder",
+         defaultValue: "Set Reminder",
+         bundle: .module,
+         comment: "Use when setting a health or fitness reminder"
+      )
    }
 
    /// "Skip Exercise" - Use when skipping an exercise in a workout
    public static var skipExercise: String {
-      String(localized: "TK.Action.skipExercise", defaultValue: "Skip Exercise", bundle: .module, comment: "Use when skipping an exercise in a workout")
+      String(
+         localized: "TK.Action.skipExercise",
+         defaultValue: "Skip Exercise",
+         bundle: .module,
+         comment: "Use when skipping an exercise in a workout"
+      )
    }
 
    /// "Start Exercise" - Use when starting a specific exercise
@@ -169,7 +234,12 @@ extension TK.Action {
 
    /// "Track Calories" - Use when tracking calories burned or consumed
    public static var trackCalories: String {
-      String(localized: "TK.Action.trackCalories", defaultValue: "Track Calories", bundle: .module, comment: "Use when tracking calories burned or consumed")
+      String(
+         localized: "TK.Action.trackCalories",
+         defaultValue: "Track Calories",
+         bundle: .module,
+         comment: "Use when tracking calories burned or consumed"
+      )
    }
 
    /// "Track Sleep" - Use when tracking sleep patterns or duration

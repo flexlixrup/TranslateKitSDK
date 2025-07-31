@@ -4,22 +4,42 @@ import Foundation
 extension TK.Action {
    /// "Follow" - Use when subscribing to updates from a user or content
    public static var follow: String {
-      String(localized: "TK.Action.follow", defaultValue: "Follow", bundle: .module, comment: "Use when subscribing to updates from a user or content")
+      String(
+         localized: "TK.Action.follow",
+         defaultValue: "Follow",
+         bundle: .module,
+         comment: "Use when subscribing to updates from a user or content"
+      )
    }
 
    /// "Unfollow" - Use when unsubscribing from updates from a user or content
    public static var unfollow: String {
-      String(localized: "TK.Action.unfollow", defaultValue: "Unfollow", bundle: .module, comment: "Use when unsubscribing from updates from a user or content")
+      String(
+         localized: "TK.Action.unfollow",
+         defaultValue: "Unfollow",
+         bundle: .module,
+         comment: "Use when unsubscribing from updates from a user or content"
+      )
    }
 
    /// "Block" - Use when restricting someone from interacting with you or your content
    public static var block: String {
-      String(localized: "TK.Action.block", defaultValue: "Block", bundle: .module, comment: "Use when restricting someone from interacting with you or your content")
+      String(
+         localized: "TK.Action.block",
+         defaultValue: "Block",
+         bundle: .module,
+         comment: "Use when restricting someone from interacting with you or your content"
+      )
    }
 
    /// "Unblock" - Use when removing a block and allowing interaction again
    public static var unblock: String {
-      String(localized: "TK.Action.unblock", defaultValue: "Unblock", bundle: .module, comment: "Use when removing a block and allowing interaction again")
+      String(
+         localized: "TK.Action.unblock",
+         defaultValue: "Unblock",
+         bundle: .module,
+         comment: "Use when removing a block and allowing interaction again"
+      )
    }
 
    /// "Like" - Use when expressing approval or appreciation for content
@@ -49,12 +69,22 @@ extension TK.Action {
 
    /// "Tag" - Use when labeling content with specific keywords or identifiers
    public static var tag: String {
-      String(localized: "TK.Action.tag", defaultValue: "Tag", bundle: .module, comment: "Use when labeling content with specific keywords or identifiers")
+      String(
+         localized: "TK.Action.tag",
+         defaultValue: "Tag",
+         bundle: .module,
+         comment: "Use when labeling content with specific keywords or identifiers"
+      )
    }
 
    /// "Mention" - Use when referring to someone in content or a conversation
    public static var mention: String {
-      String(localized: "TK.Action.mention", defaultValue: "Mention", bundle: .module, comment: "Use when referring to someone in content or a conversation")
+      String(
+         localized: "TK.Action.mention",
+         defaultValue: "Mention",
+         bundle: .module,
+         comment: "Use when referring to someone in content or a conversation"
+      )
    }
 
    /// "Pin" - Use when marking content to remain at the top or important
@@ -74,7 +104,12 @@ extension TK.Action {
 
    /// "Repost" - Use when sharing content again on your own profile or feed
    public static var repost: String {
-      String(localized: "TK.Action.repost", defaultValue: "Repost", bundle: .module, comment: "Use when sharing content again on your own profile or feed")
+      String(
+         localized: "TK.Action.repost",
+         defaultValue: "Repost",
+         bundle: .module,
+         comment: "Use when sharing content again on your own profile or feed"
+      )
    }
 
    /// "Approve" - Use when accepting or allowing something or someone
@@ -84,7 +119,12 @@ extension TK.Action {
 
    /// "Connect" - Use when establishing a link or interaction with someone or something
    public static var connect: String {
-      String(localized: "TK.Action.connect", defaultValue: "Connect", bundle: .module, comment: "Use when establishing a link or interaction with someone or something")
+      String(
+         localized: "TK.Action.connect",
+         defaultValue: "Connect",
+         bundle: .module,
+         comment: "Use when establishing a link or interaction with someone or something"
+      )
    }
 
    /// "Disconnect" - Use when severing a connection or interaction
@@ -104,12 +144,22 @@ extension TK.Action {
 
    /// "Flag" - Use when marking content as inappropriate or needing attention
    public static var flag: String {
-      String(localized: "TK.Action.flag", defaultValue: "Flag", bundle: .module, comment: "Use when marking content as inappropriate or needing attention")
+      String(
+         localized: "TK.Action.flag",
+         defaultValue: "Flag",
+         bundle: .module,
+         comment: "Use when marking content as inappropriate or needing attention"
+      )
    }
 
    /// "Report Content" - Use when reporting content for violations or issues
    public static var reportContent: String {
-      String(localized: "TK.Action.reportContent", defaultValue: "Report Content", bundle: .module, comment: "Use when reporting content for violations or issues")
+      String(
+         localized: "TK.Action.reportContent",
+         defaultValue: "Report Content",
+         bundle: .module,
+         comment: "Use when reporting content for violations or issues"
+      )
    }
 
    /// "Archive" - Use when storing content for later access or review
@@ -124,27 +174,52 @@ extension TK.Action {
 
    /// "Mute User" - Use when silencing notifications from a specific user
    public static var muteUser: String {
-      String(localized: "TK.Action.muteUser", defaultValue: "Mute User", bundle: .module, comment: "Use when silencing notifications from a specific user")
+      String(
+         localized: "TK.Action.muteUser",
+         defaultValue: "Mute User",
+         bundle: .module,
+         comment: "Use when silencing notifications from a specific user"
+      )
    }
 
    /// "Accept Invite" - Use when accepting an invitation to join a group or event
    public static var acceptInvite: String {
-      String(localized: "TK.Action.acceptInvite", defaultValue: "Accept Invite", bundle: .module, comment: "Use when accepting an invitation to join a group or event")
+      String(
+         localized: "TK.Action.acceptInvite",
+         defaultValue: "Accept Invite",
+         bundle: .module,
+         comment: "Use when accepting an invitation to join a group or event"
+      )
    }
 
    /// "Decline Invite" - Use when declining an invitation to join a group or event
    public static var declineInvite: String {
-      String(localized: "TK.Action.declineInvite", defaultValue: "Decline Invite", bundle: .module, comment: "Use when declining an invitation to join a group or event")
+      String(
+         localized: "TK.Action.declineInvite",
+         defaultValue: "Decline Invite",
+         bundle: .module,
+         comment: "Use when declining an invitation to join a group or event"
+      )
    }
 
    /// "Request Access" - Use when asking for permission to access a resource or group
    public static var requestAccess: String {
-      String(localized: "TK.Action.requestAccess", defaultValue: "Request Access", bundle: .module, comment: "Use when asking for permission to access a resource or group")
+      String(
+         localized: "TK.Action.requestAccess",
+         defaultValue: "Request Access",
+         bundle: .module,
+         comment: "Use when asking for permission to access a resource or group"
+      )
    }
 
    /// "Send Message" - Use when sending a message to a user or group
    public static var sendMessage: String {
-      String(localized: "TK.Action.sendMessage", defaultValue: "Send Message", bundle: .module, comment: "Use when sending a message to a user or group")
+      String(
+         localized: "TK.Action.sendMessage",
+         defaultValue: "Send Message",
+         bundle: .module,
+         comment: "Use when sending a message to a user or group"
+      )
    }
 
    /// "Add Friend" - Use when sending a friend request to someone

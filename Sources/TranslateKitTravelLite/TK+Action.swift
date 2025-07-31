@@ -14,7 +14,12 @@ extension TK.Action {
 
    /// "Browse" - Use for browsing available services, items, or content
    public static var browse: String {
-      String(localized: "TK.Action.browse", defaultValue: "Browse", bundle: .module, comment: "Use for browsing available services, items, or content")
+      String(
+         localized: "TK.Action.browse",
+         defaultValue: "Browse",
+         bundle: .module,
+         comment: "Use for browsing available services, items, or content"
+      )
    }
 
    /// "Call" - Use for making a phone call
@@ -34,7 +39,12 @@ extension TK.Action {
 
    /// "Check Flight Status" - Use for checking the status of a flight
    public static var checkFlightStatus: String {
-      String(localized: "TK.Action.checkFlightStatus", defaultValue: "Check Flight Status", bundle: .module, comment: "Use for checking the status of a flight")
+      String(
+         localized: "TK.Action.checkFlightStatus",
+         defaultValue: "Check Flight Status",
+         bundle: .module,
+         comment: "Use for checking the status of a flight"
+      )
    }
 
    /// "Compare" - Use for comparing options or prices
@@ -44,7 +54,12 @@ extension TK.Action {
 
    /// "Download Offline Map" - Use for downloading a map for offline use
    public static var downloadOfflineMap: String {
-      String(localized: "TK.Action.downloadOfflineMap", defaultValue: "Download Offline Map", bundle: .module, comment: "Use for downloading a map for offline use")
+      String(
+         localized: "TK.Action.downloadOfflineMap",
+         defaultValue: "Download Offline Map",
+         bundle: .module,
+         comment: "Use for downloading a map for offline use"
+      )
    }
 
    /// "Explore" - Use for exploring new locations or services
@@ -59,7 +74,12 @@ extension TK.Action {
 
    /// "Filter Results" - Use for filtering search results based on criteria
    public static var filterResults: String {
-      String(localized: "TK.Action.filterResults", defaultValue: "Filter Results", bundle: .module, comment: "Use for filtering search results based on criteria")
+      String(
+         localized: "TK.Action.filterResults",
+         defaultValue: "Filter Results",
+         bundle: .module,
+         comment: "Use for filtering search results based on criteria"
+      )
    }
 
    /// "Find Nearby" - Use for finding nearby locations or services
@@ -69,7 +89,12 @@ extension TK.Action {
 
    /// "Get Directions" - Use for getting directions to a destination
    public static var getDirections: String {
-      String(localized: "TK.Action.getDirections", defaultValue: "Get Directions", bundle: .module, comment: "Use for getting directions to a destination")
+      String(
+         localized: "TK.Action.getDirections",
+         defaultValue: "Get Directions",
+         bundle: .module,
+         comment: "Use for getting directions to a destination"
+      )
    }
 
    /// "Navigate" - Use for navigating to a destination
@@ -84,7 +109,12 @@ extension TK.Action {
 
    /// "Print Ticket" - Use for printing a ticket for a service or event
    public static var printTicket: String {
-      String(localized: "TK.Action.printTicket", defaultValue: "Print Ticket", bundle: .module, comment: "Use for printing a ticket for a service or event")
+      String(
+         localized: "TK.Action.printTicket",
+         defaultValue: "Print Ticket",
+         bundle: .module,
+         comment: "Use for printing a ticket for a service or event"
+      )
    }
 
    /// "Rate" - Use for rating a service, item, or experience
@@ -104,7 +134,12 @@ extension TK.Action {
 
    /// "Reserve a Table" - Use for reserving a table at a restaurant
    public static var reserveATable: String {
-      String(localized: "TK.Action.reserveATable", defaultValue: "Reserve a Table", bundle: .module, comment: "Use for reserving a table at a restaurant")
+      String(
+         localized: "TK.Action.reserveATable",
+         defaultValue: "Reserve a Table",
+         bundle: .module,
+         comment: "Use for reserving a table at a restaurant"
+      )
    }
 
    /// "Review" - Use for leaving a review for a service or item
@@ -124,12 +159,22 @@ extension TK.Action {
 
    /// "Share Location" - Use for sharing your location with others
    public static var shareLocation: String {
-      String(localized: "TK.Action.shareLocation", defaultValue: "Share Location", bundle: .module, comment: "Use for sharing your location with others")
+      String(
+         localized: "TK.Action.shareLocation",
+         defaultValue: "Share Location",
+         bundle: .module,
+         comment: "Use for sharing your location with others"
+      )
    }
 
    /// "Start Navigation" - Use for starting navigation to a destination
    public static var startNavigation: String {
-      String(localized: "TK.Action.startNavigation", defaultValue: "Start Navigation", bundle: .module, comment: "Use for starting navigation to a destination")
+      String(
+         localized: "TK.Action.startNavigation",
+         defaultValue: "Start Navigation",
+         bundle: .module,
+         comment: "Use for starting navigation to a destination"
+      )
    }
 
    /// "Track Flight" - Use for tracking the status of a flight
@@ -144,31 +189,61 @@ extension TK.Action {
 
    /// "Track Progress" - Use for tracking progress of a service or delivery
    public static var trackProgress: String {
-      String(localized: "TK.Action.trackProgress", defaultValue: "Track Progress", bundle: .module, comment: "Use for tracking progress of a service or delivery")
+      String(
+         localized: "TK.Action.trackProgress",
+         defaultValue: "Track Progress",
+         bundle: .module,
+         comment: "Use for tracking progress of a service or delivery"
+      )
    }
 
    /// "Translate" - Use for translating text or speech to another language
    public static var translate: String {
-      String(localized: "TK.Action.translate", defaultValue: "Translate", bundle: .module, comment: "Use for translating text or speech to another language")
+      String(
+         localized: "TK.Action.translate",
+         defaultValue: "Translate",
+         bundle: .module,
+         comment: "Use for translating text or speech to another language"
+      )
    }
 
    /// "Unfavorite" - Use for removing an item or location from favorites
    public static var unfavorite: String {
-      String(localized: "TK.Action.unfavorite", defaultValue: "Unfavorite", bundle: .module, comment: "Use for removing an item or location from favorites")
+      String(
+         localized: "TK.Action.unfavorite",
+         defaultValue: "Unfavorite",
+         bundle: .module,
+         comment: "Use for removing an item or location from favorites"
+      )
    }
 
    /// "View Hourly Forecast" - Use for viewing the hourly weather forecast
    public static var viewHourlyForecast: String {
-      String(localized: "TK.Action.viewHourlyForecast", defaultValue: "View Hourly Forecast", bundle: .module, comment: "Use for viewing the hourly weather forecast")
+      String(
+         localized: "TK.Action.viewHourlyForecast",
+         defaultValue: "View Hourly Forecast",
+         bundle: .module,
+         comment: "Use for viewing the hourly weather forecast"
+      )
    }
 
    /// "View Listings" - Use for viewing available listings (e.g., hotels, flights)
    public static var viewListings: String {
-      String(localized: "TK.Action.viewListings", defaultValue: "View Listings", bundle: .module, comment: "Use for viewing available listings (e.g., hotels, flights)")
+      String(
+         localized: "TK.Action.viewListings",
+         defaultValue: "View Listings",
+         bundle: .module,
+         comment: "Use for viewing available listings (e.g., hotels, flights)"
+      )
    }
 
    /// "View Weekly Forecast" - Use for viewing the weekly weather forecast
    public static var viewWeeklyForecast: String {
-      String(localized: "TK.Action.viewWeeklyForecast", defaultValue: "View Weekly Forecast", bundle: .module, comment: "Use for viewing the weekly weather forecast")
+      String(
+         localized: "TK.Action.viewWeeklyForecast",
+         defaultValue: "View Weekly Forecast",
+         bundle: .module,
+         comment: "Use for viewing the weekly weather forecast"
+      )
    }
 }

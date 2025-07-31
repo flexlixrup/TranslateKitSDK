@@ -15,7 +15,12 @@ extension TK {
 
       /// "Account Settings" - Use for sections that manage account preferences
       public static var accountSettings: String {
-         String(localized: "TK.Label.accountSettings", defaultValue: "Account Settings", bundle: .module, comment: "Use for sections that manage account preferences")
+         String(
+            localized: "TK.Label.accountSettings",
+            defaultValue: "Account Settings",
+            bundle: .module,
+            comment: "Use for sections that manage account preferences"
+         )
       }
 
       /// "Active" - Use for status indicators showing an active state
@@ -25,7 +30,12 @@ extension TK {
 
       /// "Activities" - Use for sections related to recent or ongoing actions
       public static var activities: String {
-         String(localized: "TK.Label.activities", defaultValue: "Activities", bundle: .module, comment: "Use for sections related to recent or ongoing actions")
+         String(
+            localized: "TK.Label.activities",
+            defaultValue: "Activities",
+            bundle: .module,
+            comment: "Use for sections related to recent or ongoing actions"
+         )
       }
 
       /// "Activity" - Use to describe a single event or logged action
@@ -45,7 +55,12 @@ extension TK {
 
       /// "Amount" - Use when displaying numerical values, such as prices or balances
       public static var amount: String {
-         String(localized: "TK.Label.amount", defaultValue: "Amount", bundle: .module, comment: "Use when displaying numerical values, such as prices or balances")
+         String(
+            localized: "TK.Label.amount",
+            defaultValue: "Amount",
+            bundle: .module,
+            comment: "Use when displaying numerical values, such as prices or balances"
+         )
       }
 
       /// "App" - Use when referring to an application generically
@@ -55,17 +70,32 @@ extension TK {
 
       /// "Automatic" - Use to label features that function without manual input
       public static var automatic: String {
-         String(localized: "TK.Label.automatic", defaultValue: "Automatic", bundle: .module, comment: "Use to label features that function without manual input")
+         String(
+            localized: "TK.Label.automatic",
+            defaultValue: "Automatic",
+            bundle: .module,
+            comment: "Use to label features that function without manual input"
+         )
       }
 
       /// "Available" - Use when indicating availability of items or users
       public static var available: String {
-         String(localized: "TK.Label.available", defaultValue: "Available", bundle: .module, comment: "Use when indicating availability of items or users")
+         String(
+            localized: "TK.Label.available",
+            defaultValue: "Available",
+            bundle: .module,
+            comment: "Use when indicating availability of items or users"
+         )
       }
 
       /// "Background" - Use for display or app activity settings related to background processes
       public static var background: String {
-         String(localized: "TK.Label.background", defaultValue: "Background", bundle: .module, comment: "Use for display or app activity settings related to background processes")
+         String(
+            localized: "TK.Label.background",
+            defaultValue: "Background",
+            bundle: .module,
+            comment: "Use for display or app activity settings related to background processes"
+         )
       }
 
       /// "Category" - Use for a single classification of content
@@ -80,12 +110,22 @@ extension TK {
 
       /// "Configuration" - Use for system or app settings options
       public static var configuration: String {
-         String(localized: "TK.Label.configuration", defaultValue: "Configuration", bundle: .module, comment: "Use for system or app settings options")
+         String(
+            localized: "TK.Label.configuration",
+            defaultValue: "Configuration",
+            bundle: .module,
+            comment: "Use for system or app settings options"
+         )
       }
 
       /// "Content" - Use when referring to general media or textual elements
       public static var content: String {
-         String(localized: "TK.Label.content", defaultValue: "Content", bundle: .module, comment: "Use when referring to general media or textual elements")
+         String(
+            localized: "TK.Label.content",
+            defaultValue: "Content",
+            bundle: .module,
+            comment: "Use when referring to general media or textual elements"
+         )
       }
 
       /// "Current" - Use for indicating present state or selection
@@ -110,7 +150,12 @@ extension TK {
 
       /// "Description" - Use for brief explanations or details about an item
       public static var description: String {
-         String(localized: "TK.Label.description", defaultValue: "Description", bundle: .module, comment: "Use for brief explanations or details about an item")
+         String(
+            localized: "TK.Label.description",
+            defaultValue: "Description",
+            bundle: .module,
+            comment: "Use for brief explanations or details about an item"
+         )
       }
 
       /// "Details" - Item information section title
@@ -145,7 +190,12 @@ extension TK {
 
       /// "Feedback" - Use for sections where users can provide comments or reviews
       public static var feedback: String {
-         String(localized: "TK.Label.feedback", defaultValue: "Feedback", bundle: .module, comment: "Use for sections where users can provide comments or reviews")
+         String(
+            localized: "TK.Label.feedback",
+            defaultValue: "Feedback",
+            bundle: .module,
+            comment: "Use for sections where users can provide comments or reviews"
+         )
       }
 
       /// "File" - Use for document or media file references
@@ -165,12 +215,22 @@ extension TK {
 
       /// "History" - Use when referring to past actions, transactions, or records
       public static var history: String {
-         String(localized: "TK.Label.history", defaultValue: "History", bundle: .module, comment: "Use when referring to past actions, transactions, or records")
+         String(
+            localized: "TK.Label.history",
+            defaultValue: "History",
+            bundle: .module,
+            comment: "Use when referring to past actions, transactions, or records"
+         )
       }
 
       /// "Home" - Use for navigation to the main dashboard or landing screen
       public static var home: String {
-         String(localized: "TK.Label.home", defaultValue: "Home", bundle: .module, comment: "Use for navigation to the main dashboard or landing screen")
+         String(
+            localized: "TK.Label.home",
+            defaultValue: "Home",
+            bundle: .module,
+            comment: "Use for navigation to the main dashboard or landing screen"
+         )
       }
 
       /// "ID" - Use for unique user or object identification labels
@@ -215,7 +275,12 @@ extension TK {
 
       /// "Name" - Use for input fields where users provide personal identification
       public static var name: String {
-         String(localized: "TK.Label.name", defaultValue: "Name", bundle: .module, comment: "Use for input fields where users provide personal identification")
+         String(
+            localized: "TK.Label.name",
+            defaultValue: "Name",
+            bundle: .module,
+            comment: "Use for input fields where users provide personal identification"
+         )
       }
 
       /// "New" - Use to label recently added items
@@ -230,7 +295,12 @@ extension TK {
 
       /// "Notifications" - Use when referring to system or app alerts
       public static var notifications: String {
-         String(localized: "TK.Label.notifications", defaultValue: "Notifications", bundle: .module, comment: "Use when referring to system or app alerts")
+         String(
+            localized: "TK.Label.notifications",
+            defaultValue: "Notifications",
+            bundle: .module,
+            comment: "Use when referring to system or app alerts"
+         )
       }
 
       /// "Options" - Use for configurable settings or preferences
@@ -245,7 +315,12 @@ extension TK {
 
       /// "Paused" - Use for indicating that an action or process is on hold
       public static var paused: String {
-         String(localized: "TK.Label.paused", defaultValue: "Paused", bundle: .module, comment: "Use for indicating that an action or process is on hold")
+         String(
+            localized: "TK.Label.paused",
+            defaultValue: "Paused",
+            bundle: .module,
+            comment: "Use for indicating that an action or process is on hold"
+         )
       }
 
       /// "Pending" - Use for items awaiting action or approval
@@ -255,7 +330,12 @@ extension TK {
 
       /// "Permissions" - Use when managing access rights for features or data
       public static var permissions: String {
-         String(localized: "TK.Label.permissions", defaultValue: "Permissions", bundle: .module, comment: "Use when managing access rights for features or data")
+         String(
+            localized: "TK.Label.permissions",
+            defaultValue: "Permissions",
+            bundle: .module,
+            comment: "Use when managing access rights for features or data"
+         )
       }
 
       /// "Preview" - Use for viewing content before finalizing
@@ -265,12 +345,22 @@ extension TK {
 
       /// "Privacy" - Use when referring to data protection or access controls
       public static var privacy: String {
-         String(localized: "TK.Label.privacy", defaultValue: "Privacy", bundle: .module, comment: "Use when referring to data protection or access controls")
+         String(
+            localized: "TK.Label.privacy",
+            defaultValue: "Privacy",
+            bundle: .module,
+            comment: "Use when referring to data protection or access controls"
+         )
       }
 
       /// "Privacy Policy" - Use when referring to the data privacy document
       public static var privacyPolicy: String {
-         String(localized: "TK.Label.privacyPolicy", defaultValue: "Privacy Policy", bundle: .module, comment: "Use when referring to the data privacy document")
+         String(
+            localized: "TK.Label.privacyPolicy",
+            defaultValue: "Privacy Policy",
+            bundle: .module,
+            comment: "Use when referring to the data privacy document"
+         )
       }
 
       /// "Profile" - Use when referring to a user's personal page
@@ -285,7 +375,12 @@ extension TK {
 
       /// "Recent" - Use for items or activities that were accessed recently
       public static var recent: String {
-         String(localized: "TK.Label.recent", defaultValue: "Recent", bundle: .module, comment: "Use for items or activities that were accessed recently")
+         String(
+            localized: "TK.Label.recent",
+            defaultValue: "Recent",
+            bundle: .module,
+            comment: "Use for items or activities that were accessed recently"
+         )
       }
 
       /// "Required" - Use for fields or inputs that must be completed
@@ -295,12 +390,22 @@ extension TK {
 
       /// "Search" - Noun – Use to label input fields related to finding content
       public static var search: String {
-         String(localized: "TK.Label.search", defaultValue: "Search", bundle: .module, comment: "Noun – Use for input fields related to finding content")
+         String(
+            localized: "TK.Label.search",
+            defaultValue: "Search",
+            bundle: .module,
+            comment: "Noun – Use for input fields related to finding content"
+         )
       }
 
       /// "Security" - Use when displaying security settings or warnings
       public static var security: String {
-         String(localized: "TK.Label.security", defaultValue: "Security", bundle: .module, comment: "Use when displaying security settings or warnings")
+         String(
+            localized: "TK.Label.security",
+            defaultValue: "Security",
+            bundle: .module,
+            comment: "Use when displaying security settings or warnings"
+         )
       }
 
       /// "Selected" - Use for indicating chosen items
@@ -310,7 +415,12 @@ extension TK {
 
       /// "Settings" - Use when referring to configuration or app preferences
       public static var settings: String {
-         String(localized: "TK.Label.settings", defaultValue: "Settings", bundle: .module, comment: "Use when referring to configuration or app preferences")
+         String(
+            localized: "TK.Label.settings",
+            defaultValue: "Settings",
+            bundle: .module,
+            comment: "Use when referring to configuration or app preferences"
+         )
       }
 
       /// "Size" - Use for dimensions or file size indicators
@@ -325,12 +435,22 @@ extension TK {
 
       /// "Start" - Noun – Use to label the beginning of processes or activities
       public static var start: String {
-         String(localized: "TK.Label.start", defaultValue: "Start", bundle: .module, comment: "Noun – Use to label the beginning of processes or activities")
+         String(
+            localized: "TK.Label.start",
+            defaultValue: "Start",
+            bundle: .module,
+            comment: "Noun – Use to label the beginning of processes or activities"
+         )
       }
 
       /// "Status" - Use when indicating the current state of an item or process
       public static var status: String {
-         String(localized: "TK.Label.status", defaultValue: "Status", bundle: .module, comment: "Use when indicating the current state of an item or process")
+         String(
+            localized: "TK.Label.status",
+            defaultValue: "Status",
+            bundle: .module,
+            comment: "Use when indicating the current state of an item or process"
+         )
       }
 
       /// "Success" - Use for indicating a successful action
@@ -340,12 +460,22 @@ extension TK {
 
       /// "Terms" - Use when referring to general conditions, agreements, or policies
       public static var terms: String {
-         String(localized: "TK.Label.terms", defaultValue: "Terms", bundle: .module, comment: "Use when referring to general conditions, agreements, or policies")
+         String(
+            localized: "TK.Label.terms",
+            defaultValue: "Terms",
+            bundle: .module,
+            comment: "Use when referring to general conditions, agreements, or policies"
+         )
       }
 
       /// "Terms and Conditions" - Use for legal agreements that users must accept
       public static var termsAndConditions: String {
-         String(localized: "TK.Label.termsAndConditions", defaultValue: "Terms and Conditions", bundle: .module, comment: "Use for legal agreements that users must accept")
+         String(
+            localized: "TK.Label.termsAndConditions",
+            defaultValue: "Terms and Conditions",
+            bundle: .module,
+            comment: "Use for legal agreements that users must accept"
+         )
       }
 
       /// "Time" - Use for time display and selection
@@ -370,7 +500,12 @@ extension TK {
 
       /// "Unknown" - Use when the state or identity is not clear or available
       public static var unknown: String {
-         String(localized: "TK.Label.unknown", defaultValue: "Unknown", bundle: .module, comment: "Use when the state or identity is not clear or available")
+         String(
+            localized: "TK.Label.unknown",
+            defaultValue: "Unknown",
+            bundle: .module,
+            comment: "Use when the state or identity is not clear or available"
+         )
       }
 
       /// "User" - Use for identifying individual accounts or profiles

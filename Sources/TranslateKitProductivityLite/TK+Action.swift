@@ -14,12 +14,22 @@ extension TK.Action {
 
    /// "Attach File" - Use for attaching a file to a task or message
    public static var attachFile: String {
-      String(localized: "TK.Action.attachFile", defaultValue: "Attach File", bundle: .module, comment: "Use for attaching a file to a task or message")
+      String(
+         localized: "TK.Action.attachFile",
+         defaultValue: "Attach File",
+         bundle: .module,
+         comment: "Use for attaching a file to a task or message"
+      )
    }
 
    /// "Continue Editing" - Use for resuming editing a document or item
    public static var continueEditing: String {
-      String(localized: "TK.Action.continueEditing", defaultValue: "Continue Editing", bundle: .module, comment: "Use for resuming editing a document or item")
+      String(
+         localized: "TK.Action.continueEditing",
+         defaultValue: "Continue Editing",
+         bundle: .module,
+         comment: "Use for resuming editing a document or item"
+      )
    }
 
    /// "Convert" - Use for converting file formats or data types
@@ -59,7 +69,12 @@ extension TK.Action {
 
    /// "Generate Report" - Use for generating a report from data
    public static var generateReport: String {
-      String(localized: "TK.Action.generateReport", defaultValue: "Generate Report", bundle: .module, comment: "Use for generating a report from data")
+      String(
+         localized: "TK.Action.generateReport",
+         defaultValue: "Generate Report",
+         bundle: .module,
+         comment: "Use for generating a report from data"
+      )
    }
 
    /// "Import Data" - Use for importing data from external sources
@@ -74,22 +89,42 @@ extension TK.Action {
 
    /// "Mark as Important" - Use for highlighting a task or item as important
    public static var markAsImportant: String {
-      String(localized: "TK.Action.markAsImportant", defaultValue: "Mark as Important", bundle: .module, comment: "Use for highlighting a task or item as important")
+      String(
+         localized: "TK.Action.markAsImportant",
+         defaultValue: "Mark as Important",
+         bundle: .module,
+         comment: "Use for highlighting a task or item as important"
+      )
    }
 
    /// "Mark as Read" - Use for marking a message or notification as read
    public static var markAsRead: String {
-      String(localized: "TK.Action.markAsRead", defaultValue: "Mark as Read", bundle: .module, comment: "Use for marking a message or notification as read")
+      String(
+         localized: "TK.Action.markAsRead",
+         defaultValue: "Mark as Read",
+         bundle: .module,
+         comment: "Use for marking a message or notification as read"
+      )
    }
 
    /// "Mark as Unread" - Use for marking a message or notification as unread
    public static var markAsUnread: String {
-      String(localized: "TK.Action.markAsUnread", defaultValue: "Mark as Unread", bundle: .module, comment: "Use for marking a message or notification as unread")
+      String(
+         localized: "TK.Action.markAsUnread",
+         defaultValue: "Mark as Unread",
+         bundle: .module,
+         comment: "Use for marking a message or notification as unread"
+      )
    }
 
    /// "Move to Folder" - Use for moving an item or task to a folder
    public static var moveToFolder: String {
-      String(localized: "TK.Action.moveToFolder", defaultValue: "Move to Folder", bundle: .module, comment: "Use for moving an item or task to a folder")
+      String(
+         localized: "TK.Action.moveToFolder",
+         defaultValue: "Move to Folder",
+         bundle: .module,
+         comment: "Use for moving an item or task to a folder"
+      )
    }
 
    /// "Pin" - Use for pinning an item or task to the top
@@ -99,7 +134,12 @@ extension TK.Action {
 
    /// "Prioritize" - Use for setting the priority of a task or project
    public static var prioritize: String {
-      String(localized: "TK.Action.prioritize", defaultValue: "Prioritize", bundle: .module, comment: "Use for setting the priority of a task or project")
+      String(
+         localized: "TK.Action.prioritize",
+         defaultValue: "Prioritize",
+         bundle: .module,
+         comment: "Use for setting the priority of a task or project"
+      )
    }
 
    /// "Record Time" - Use for recording the time spent on a task
@@ -114,37 +154,72 @@ extension TK.Action {
 
    /// "Set Deadline" - Use for setting a deadline for a task or project
    public static var setDeadline: String {
-      String(localized: "TK.Action.setDeadline", defaultValue: "Set Deadline", bundle: .module, comment: "Use for setting a deadline for a task or project")
+      String(
+         localized: "TK.Action.setDeadline",
+         defaultValue: "Set Deadline",
+         bundle: .module,
+         comment: "Use for setting a deadline for a task or project"
+      )
    }
 
    /// "Set Due Date" - Use for setting a due date for a task or project
    public static var setDueDate: String {
-      String(localized: "TK.Action.setDueDate", defaultValue: "Set Due Date", bundle: .module, comment: "Use for setting a due date for a task or project")
+      String(
+         localized: "TK.Action.setDueDate",
+         defaultValue: "Set Due Date",
+         bundle: .module,
+         comment: "Use for setting a due date for a task or project"
+      )
    }
 
    /// "Set Priority" - Use for setting the priority level of a task or project
    public static var setPriority: String {
-      String(localized: "TK.Action.setPriority", defaultValue: "Set Priority", bundle: .module, comment: "Use for setting the priority level of a task or project")
+      String(
+         localized: "TK.Action.setPriority",
+         defaultValue: "Set Priority",
+         bundle: .module,
+         comment: "Use for setting the priority level of a task or project"
+      )
    }
 
    /// "Set Reminder" - Use for setting a reminder for a task or event
    public static var setReminder: String {
-      String(localized: "TK.Action.setReminder", defaultValue: "Set Reminder", bundle: .module, comment: "Use for setting a reminder for a task or event")
+      String(
+         localized: "TK.Action.setReminder",
+         defaultValue: "Set Reminder",
+         bundle: .module,
+         comment: "Use for setting a reminder for a task or event"
+      )
    }
 
    /// "Sort by Deadline" - Use for sorting tasks or items by their deadline
    public static var sortByDeadline: String {
-      String(localized: "TK.Action.sortByDeadline", defaultValue: "Sort by Deadline", bundle: .module, comment: "Use for sorting tasks or items by their deadline")
+      String(
+         localized: "TK.Action.sortByDeadline",
+         defaultValue: "Sort by Deadline",
+         bundle: .module,
+         comment: "Use for sorting tasks or items by their deadline"
+      )
    }
 
    /// "Sort by Due Date" - Use for sorting tasks or items by their due date
    public static var sortByDueDate: String {
-      String(localized: "TK.Action.sortByDueDate", defaultValue: "Sort by Due Date", bundle: .module, comment: "Use for sorting tasks or items by their due date")
+      String(
+         localized: "TK.Action.sortByDueDate",
+         defaultValue: "Sort by Due Date",
+         bundle: .module,
+         comment: "Use for sorting tasks or items by their due date"
+      )
    }
 
    /// "Sort by Priority" - Use for sorting tasks or items by their priority
    public static var sortByPriority: String {
-      String(localized: "TK.Action.sortByPriority", defaultValue: "Sort by Priority", bundle: .module, comment: "Use for sorting tasks or items by their priority")
+      String(
+         localized: "TK.Action.sortByPriority",
+         defaultValue: "Sort by Priority",
+         bundle: .module,
+         comment: "Use for sorting tasks or items by their priority"
+      )
    }
 
    /// "Start Timer" - Use for starting a time tracking timer
@@ -159,7 +234,12 @@ extension TK.Action {
 
    /// "Track Time" - Use for tracking the amount of time spent on a task
    public static var trackTime: String {
-      String(localized: "TK.Action.trackTime", defaultValue: "Track Time", bundle: .module, comment: "Use for tracking the amount of time spent on a task")
+      String(
+         localized: "TK.Action.trackTime",
+         defaultValue: "Track Time",
+         bundle: .module,
+         comment: "Use for tracking the amount of time spent on a task"
+      )
    }
 
    /// "Unarchive" - Use for unarchiving previously archived content
